@@ -1,0 +1,67 @@
+{
+  "slug": "cabrillo-college",
+  "name": "Cabrillo College",
+  "url": "https://www.cabrillo.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.cabrillo.edu/class-schedules/",
+  "catalogUrl": "https://www.cabrillo.edu/college-catalog/",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedules",
+      "href": "https://www.cabrillo.edu/class-schedules/",
+      "score": 5
+    },
+    {
+      "text": "Check out the Summer 2026 Schedule of Classes",
+      "href": "https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search?searchResultsView=SectionListing&terms=2026SP",
+      "score": 5
+    },
+    {
+      "text": "Register for Classes",
+      "href": "https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search",
+      "score": 2
+    },
+    {
+      "text": "Ad Astra Schedule",
+      "href": "https://www.aaiscloud.com/CabrilloC/Default.aspx",
+      "score": 2
+    },
+    {
+      "text": "Summer 2026 Classes",
+      "href": "https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/search?terms=2026SU",
+      "score": 2
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://www.cabrillo.edu/college-catalog/",
+      "score": 6
+    },
+    {
+      "text": "Classes",
+      "href": "https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses",
+      "score": 1
+    },
+    {
+      "text": "Register for Classes",
+      "href": "https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search",
+      "score": 1
+    },
+    {
+      "text": "Noncredit Courses",
+      "href": "https://www.cabrillo.edu/noncredit-courses/",
+      "score": 1
+    },
+    {
+      "text": "Summer 2026 Classes",
+      "href": "https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/search?terms=2026SU",
+      "score": 1
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:43:14.343Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "las-positas-college",
+  "scrapedAt": "2026-06-05T22:55:24.381Z",
+  "count": 2,
+  "courses": [
+    {
+      "code": "AY 23",
+      "title": "24 Catalog Addendum - WEB | PDF",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.laspositascollege.edu/class-schedule/catalog.php"
+    },
+    {
+      "code": "AY 23",
+      "title": "24 Catalog Addendum",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.laspositascollege.edu/class-schedule/catalog.php"
+    }
+  ]
+}

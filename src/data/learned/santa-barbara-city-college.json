@@ -1,0 +1,37 @@
+{
+  "slug": "santa-barbara-city-college",
+  "name": "Santa Barbara City College",
+  "url": "https://www.sbcc.edu/",
+  "platform": "banner",
+  "scheduleUrl": "https://banner.sbcc.edu/ords/ssb/pw_pub_sched.p_search?term=202530&level=NC",
+  "catalogUrl": "https://catalog.sbcc.edu/programs/",
+  "extractUrl": "https://catalog.sbcc.edu/course-descriptions/",
+  "method": "auto",
+  "sampleCount": 52,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://banner.sbcc.edu/ords/ssb/pw_pub_sched.p_search?term=202530&level=NC",
+      "score": 5
+    },
+    {
+      "text": "All Degrees and Certificates",
+      "href": "https://catalog.sbcc.edu/programs/",
+      "score": 3
+    },
+    {
+      "text": "Our Faculty",
+      "href": "https://catalog.sbcc.edu/faculty-administrators/",
+      "score": 3
+    },
+    {
+      "text": "Catalog",
+      "href": "https://catalog.sbcc.edu/",
+      "score": 3
+    }
+  ],
+  "confidence": 0.53,
+  "notes": "Extracted 52 real courses from https://catalog.sbcc.edu/course-descriptions/. Source is a catalog: real courses but modality not exposed here (defaults to in_person until a live-schedule adapter is added).",
+  "learnedAt": "2026-06-05T22:46:57.062Z"
+}

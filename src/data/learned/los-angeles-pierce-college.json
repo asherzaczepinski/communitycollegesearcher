@@ -1,0 +1,47 @@
+{
+  "slug": "los-angeles-pierce-college",
+  "name": "Los Angeles Pierce College",
+  "url": "https://www.piercecollege.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.laccd.edu/students/class-search-lapc",
+  "catalogUrl": "https://www.lapc.edu/academic-resources/schedule-catalog",
+  "extractUrl": "https://www.lapc.edu/academics/calendar-schedules",
+  "method": "auto",
+  "sampleCount": 16,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Search",
+      "href": "https://www.laccd.edu/students/class-search-lapc",
+      "score": 5
+    },
+    {
+      "text": "Class Schedules",
+      "href": "https://www.lapc.edu/academics/calendar-schedules",
+      "score": 5
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://www.lapc.edu/academic-resources/schedule-catalog",
+      "score": 2
+    },
+    {
+      "text": "Previous Semester Schedules",
+      "href": "https://www.lapc.edu/academic-resources/schedule-previous-catalogs",
+      "score": 2
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://www.lapc.edu/academic-resources/schedule-catalog",
+      "score": 6
+    },
+    {
+      "text": "Previous Semester Schedules",
+      "href": "https://www.lapc.edu/academic-resources/schedule-previous-catalogs",
+      "score": 3
+    }
+  ],
+  "confidence": 0.44,
+  "notes": "Extracted 16 real courses from https://www.lapc.edu/academics/calendar-schedules. Source is a catalog: real courses but modality not exposed here (defaults to in_person until a live-schedule adapter is added).",
+  "learnedAt": "2026-06-05T22:45:19.550Z"
+}

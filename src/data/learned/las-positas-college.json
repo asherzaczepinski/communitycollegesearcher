@@ -1,0 +1,67 @@
+{
+  "slug": "las-positas-college",
+  "name": "Las Positas College",
+  "url": "https://www.laspositascollege.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.laspositascollege.edu/class-schedule/index.php",
+  "catalogUrl": "https://www.laspositascollege.edu/class-schedule/catalog.php",
+  "extractUrl": "https://www.laspositascollege.edu/class-schedule/catalog.php",
+  "method": "auto",
+  "sampleCount": 2,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.laspositascollege.edu/class-schedule/index.php",
+      "score": 5
+    },
+    {
+      "text": "View Class Schedules",
+      "href": "https://www.laspositascollege.edu/class-schedule/",
+      "score": 5
+    },
+    {
+      "text": "Facility Rentals",
+      "href": "https://www.laspositascollege.edu/facilities/feeschedule.php",
+      "score": 2
+    },
+    {
+      "text": "Schedule a Tour",
+      "href": "https://www.laspositascollege.edu/outreach/campustour.php",
+      "score": 2
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://www.laspositascollege.edu/class-schedule/catalog.php",
+      "score": 2
+    },
+    {
+      "text": "Final Exam Schedule",
+      "href": "https://www.laspositascollege.edu/class-schedule/finals.php",
+      "score": 2
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://www.laspositascollege.edu/class-schedule/catalog.php",
+      "score": 6
+    },
+    {
+      "text": "Bookstore",
+      "href": "http://www.bkstr.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?catalogId=10001&langId=-1&demoKey=d&storeId=10499",
+      "score": 3
+    },
+    {
+      "text": "Degrees & Certificates",
+      "href": "https://laspositas.curriqunet.com/catalog/iq/102/105",
+      "score": 3
+    },
+    {
+      "text": "Counseling Courses & Workshops",
+      "href": "https://www.laspositascollege.edu/counseling/courses.php",
+      "score": 1
+    }
+  ],
+  "confidence": 0.405,
+  "notes": "Extracted 2 real courses from https://www.laspositascollege.edu/class-schedule/catalog.php. Source is a catalog: real courses but modality not exposed here (defaults to in_person until a live-schedule adapter is added).",
+  "learnedAt": "2026-06-05T22:45:02.938Z"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "los-angeles-mission-college",
+  "name": "Los Angeles Mission College",
+  "url": "https://www.lamission.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.laccd.edu/students/class-search-lamc",
+  "catalogUrl": "https://www.lamission.edu/academics/calendar-schedules/schedules-catalog",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Search",
+      "href": "https://www.laccd.edu/students/class-search-lamc",
+      "score": 5
+    },
+    {
+      "text": "Schedules & Catalogs",
+      "href": "https://www.lamission.edu/academics/calendar-schedules/schedules-catalog",
+      "score": 2
+    },
+    {
+      "text": "Academic Calendar",
+      "href": "https://www.lamission.edu/academics/calendar-schedules/calendar",
+      "score": 2
+    },
+    {
+      "text": "Schedules & Catalogs",
+      "href": "https://www.lamission.edu/academics/calendar-schedules/schedules-catalog",
+      "score": 3
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:45:18.420Z"
+}

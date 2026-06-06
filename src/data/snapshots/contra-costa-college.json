@@ -1,0 +1,31 @@
+{
+  "slug": "contra-costa-college",
+  "scrapedAt": "2026-06-05T22:55:23.329Z",
+  "count": 2,
+  "courses": [
+    {
+      "code": "COMM217",
+      "title": "Select Courses Back Degree Plan Welcome to the Schedule Builder. This is the Select Courses region. To use this software, follow the steps described below. Firs",
+      "modality": "online",
+      "modalityKnown": true,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://vsb.4cd.edu/criteria.jsp"
+    },
+    {
+      "code": "COMM217",
+      "title": "Courses with this symbol must be taken together Financial Accounting Required or Recommended Walnut Creek Campus Try all classes Try specific classes... Lock th",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://vsb.4cd.edu/criteria.jsp"
+    }
+  ]
+}

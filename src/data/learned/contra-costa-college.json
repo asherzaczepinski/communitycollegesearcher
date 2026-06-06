@@ -1,0 +1,42 @@
+{
+  "slug": "contra-costa-college",
+  "name": "Contra Costa College",
+  "url": "https://www.contracosta.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://webapps.4cd.edu/apps/courseschedulesearch/search-course.aspx",
+  "catalogUrl": "https://ccc.elumenapp.com/catalog/current/home",
+  "extractUrl": "https://vsb.4cd.edu/criteria.jsp",
+  "method": "auto",
+  "sampleCount": 2,
+  "modalityCoverage": 0.5,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://webapps.4cd.edu/apps/courseschedulesearch/search-course.aspx",
+      "score": 5
+    },
+    {
+      "text": "Schedule Builder (for Current Students)",
+      "href": "https://vsb.4cd.edu/criteria.jsp",
+      "score": 2
+    },
+    {
+      "text": "Remote, Weekend + Evening Classes",
+      "href": "https://www.contracosta.edu/academics/flexible-schedule/",
+      "score": 2
+    },
+    {
+      "text": "Academic Catalog",
+      "href": "https://ccc.elumenapp.com/catalog/current/home",
+      "score": 3
+    },
+    {
+      "text": "Class Schedule",
+      "href": "https://webapps.4cd.edu/apps/courseschedulesearch/search-course.aspx",
+      "score": 1
+    }
+  ],
+  "confidence": 0.605,
+  "notes": "Extracted 2 real courses from https://vsb.4cd.edu/criteria.jsp. Modality available for ~50% (real schedule data).",
+  "learnedAt": "2026-06-05T22:44:01.838Z"
+}

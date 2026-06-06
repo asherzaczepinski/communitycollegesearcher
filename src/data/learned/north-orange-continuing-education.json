@@ -1,0 +1,42 @@
+{
+  "slug": "north-orange-continuing-education",
+  "name": "North Orange Continuing Education",
+  "url": "https://www.noce.edu/",
+  "platform": "acalog",
+  "scheduleUrl": "https://www.noce.edu/schedule/",
+  "catalogUrl": "https://catalog.nocccd.edu/noce/",
+  "extractUrl": "https://www.noce.edu/programs/careers/swift/",
+  "method": "auto",
+  "sampleCount": 4,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.noce.edu/schedule/",
+      "score": 5
+    },
+    {
+      "text": "Class Schedule",
+      "href": "https://noce.edu/schedule",
+      "score": 5
+    },
+    {
+      "text": "View Schedule",
+      "href": "http://noce.edu/schedule",
+      "score": 2
+    },
+    {
+      "text": "Catalog",
+      "href": "https://catalog.nocccd.edu/noce/",
+      "score": 3
+    },
+    {
+      "text": "iOS Swift Programming Courses",
+      "href": "https://www.noce.edu/programs/careers/swift/",
+      "score": 1
+    }
+  ],
+  "confidence": 0.41000000000000003,
+  "notes": "Extracted 4 real courses from https://www.noce.edu/programs/careers/swift/. Source is a catalog: real courses but modality not exposed here (defaults to in_person until a live-schedule adapter is added).",
+  "learnedAt": "2026-06-05T22:46:14.574Z"
+}

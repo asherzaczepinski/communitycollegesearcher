@@ -1,0 +1,16 @@
+{
+  "slug": "college-of-san-mateo",
+  "name": "College of San Mateo",
+  "url": "https://www.collegeofsanmateo.edu/",
+  "platform": "unknown",
+  "scheduleUrl": null,
+  "catalogUrl": null,
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [],
+  "confidence": 0,
+  "notes": "Could not fetch homepage: fetch failed",
+  "learnedAt": "2026-06-05T22:43:48.381Z"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "shasta-college",
+  "name": "Shasta College",
+  "url": "https://www.shastacollege.edu/",
+  "platform": "curricunet",
+  "scheduleUrl": "https://www.shastacollege.edu/academics/course-catalogs-and-class-schedules/",
+  "catalogUrl": "https://scmainweb.s3.us-west-1.amazonaws.com/files/resources/2025-26-college-catalog.pdf",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Course Catalogs & Class Schedules",
+      "href": "https://www.shastacollege.edu/academics/course-catalogs-and-class-schedules/",
+      "score": 5
+    },
+    {
+      "text": "Disbursement Schedule / BankMobile Disbursements",
+      "href": "https://www.shastacollege.edu/cost-financial-aid/disbursement-schedule/",
+      "score": 2
+    },
+    {
+      "text": "Schedule Counseling Appointments",
+      "href": "https://www.shastacollege.edu/counseling/counseling-appointments/",
+      "score": 2
+    },
+    {
+      "text": "College Catalog 2025-2026 (PDF)",
+      "href": "https://scmainweb.s3.us-west-1.amazonaws.com/files/resources/2025-26-college-catalog.pdf",
+      "score": 6
+    },
+    {
+      "text": "Course Catalogs & Class Schedules",
+      "href": "https://www.shastacollege.edu/academics/course-catalogs-and-class-schedules/",
+      "score": 6
+    },
+    {
+      "text": "CurricUNET for Course Outlines",
+      "href": "http://www.curricunet.com/shasta/search/course/",
+      "score": 5
+    },
+    {
+      "text": "Spring Catalog Addendum 2024-2025 (PDF)",
+      "href": "https://scmainweb.s3.us-west-1.amazonaws.com/files/resources/2024-25-spring-catalog-addendum.pdf",
+      "score": 3
+    },
+    {
+      "text": "Search Courses & Sections",
+      "href": "https://mysc.shastacollege.edu/Student/Courses",
+      "score": 1
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:47:06.051Z"
+}

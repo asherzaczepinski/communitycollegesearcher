@@ -1,0 +1,19 @@
+{
+  "slug": "los-angeles-valley-college",
+  "scrapedAt": "2026-06-05T22:55:27.490Z",
+  "count": 1,
+  "courses": [
+    {
+      "code": "KIN 317",
+      "title": "1 and 317-2",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.lavc.edu/academics/catalogs"
+    }
+  ]
+}

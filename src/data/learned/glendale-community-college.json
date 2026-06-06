@@ -1,0 +1,57 @@
+{
+  "slug": "glendale-community-college",
+  "name": "Glendale Community College",
+  "url": "https://www.glendale.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "javascript:void(0)",
+  "catalogUrl": "https://www.glendale.edu/academics/catalogs",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "CLASS SCHEDULE",
+      "href": "javascript:void(0)",
+      "score": 5
+    },
+    {
+      "text": "Winter 2026 Printed Class Schedule",
+      "href": "https://www.glendale.edu/class-schedule/printed-class-schedule",
+      "score": 5
+    },
+    {
+      "text": "Class Schedule",
+      "href": "https://www.glendale.edu/class-schedule/class-schedule",
+      "score": 5
+    },
+    {
+      "text": "Canvas",
+      "href": "https://www.glendale.edu/class-schedule/distance-education/canvas",
+      "score": 2
+    },
+    {
+      "text": "Catalogs",
+      "href": "https://www.glendale.edu/class-schedule/catalogs",
+      "score": 2
+    },
+    {
+      "text": "Common Course Numbering",
+      "href": "https://www.glendale.edu/class-schedule/ccn",
+      "score": 2
+    },
+    {
+      "text": "2025-2026 Catalog",
+      "href": "https://www.glendale.edu/academics/catalogs",
+      "score": 3
+    },
+    {
+      "text": "Catalogs",
+      "href": "https://www.glendale.edu/class-schedule/catalogs",
+      "score": 3
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:44:44.287Z"
+}

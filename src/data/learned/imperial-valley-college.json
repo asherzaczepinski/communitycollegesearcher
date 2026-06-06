@@ -1,0 +1,67 @@
+{
+  "slug": "imperial-valley-college",
+  "name": "Imperial Valley College",
+  "url": "https://www.imperial.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.imperial.edu/student-news/index.html",
+  "catalogUrl": "https://www.imperial.edu/academics/catalogs-and-schedules-2.html",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedules",
+      "href": "https://www.imperial.edu/student-news/index.html",
+      "score": 5
+    },
+    {
+      "text": "Check Out the Summer 2026 Class Schedule",
+      "href": "https://www.imperial.edu/student-news/summer-2026-schedule.html",
+      "score": 5
+    },
+    {
+      "text": "Learn How to Search For Classes",
+      "href": "https://www.imperial.edu/student-news/course-search-guide.html",
+      "score": 5
+    },
+    {
+      "text": "Catalog",
+      "href": "https://www.imperial.edu/academics/catalogs-and-schedules-2.html",
+      "score": 2
+    },
+    {
+      "text": "Catalog",
+      "href": "https://www.imperial.edu/academics/catalogs-and-schedules-2.html",
+      "score": 3
+    },
+    {
+      "text": "8-Week Courses",
+      "href": "https://www.imperial.edu/student-news/8-week-courses.html",
+      "score": 1
+    },
+    {
+      "text": "Virtual Bookstore",
+      "href": "https://www.imperial.edu/courses-and-programs/divisions/arts-and-letters/library-2/virtual-bookstore.html",
+      "score": 1
+    },
+    {
+      "text": "Academic Calendar",
+      "href": "https://www.imperial.edu/courses-and-programs/academic-calendars.html/",
+      "score": 1
+    },
+    {
+      "text": "Nursing",
+      "href": "https://www.imperial.edu/courses-and-programs/divisions/health-and-public-safety/allied-health-department/index.html",
+      "score": 1
+    },
+    {
+      "text": "Library",
+      "href": "https://www.imperial.edu/courses-and-programs/divisions/arts-and-letters/library-2/index.html/",
+      "score": 1
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:44:54.707Z"
+}

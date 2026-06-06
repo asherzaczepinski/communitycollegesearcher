@@ -1,0 +1,16 @@
+{
+  "slug": "folsom-lake-college",
+  "name": "Folsom Lake College",
+  "url": "https://www.flc.losrios.edu/",
+  "platform": "unknown",
+  "scheduleUrl": null,
+  "catalogUrl": null,
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [],
+  "confidence": 0,
+  "notes": "Homepage returned HTTP 404",
+  "learnedAt": "2026-06-05T22:44:30.379Z"
+}

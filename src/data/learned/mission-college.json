@@ -1,0 +1,32 @@
+{
+  "slug": "mission-college",
+  "name": "Mission College",
+  "url": "https://www.missioncollege.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://missioncollege.edu/class-schedule/index.html",
+  "catalogUrl": "https://mission.elumenapp.com/catalog/24-25/",
+  "extractUrl": "https://missioncollege.edu/class-schedule/index.html",
+  "method": "auto",
+  "sampleCount": 12,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://missioncollege.edu/class-schedule/index.html",
+      "score": 5
+    },
+    {
+      "text": "College Catalog Take a class, explore transfer degrees or find an apprenticeship − everything we have to offer in one place.",
+      "href": "https://mission.elumenapp.com/catalog/24-25/",
+      "score": 6
+    },
+    {
+      "text": "Catalog",
+      "href": "https://mission.elumenapp.com/catalog/",
+      "score": 3
+    }
+  ],
+  "confidence": 0.43000000000000005,
+  "notes": "Extracted 12 real courses from https://missioncollege.edu/class-schedule/index.html. Source is a catalog: real courses but modality not exposed here (defaults to in_person until a live-schedule adapter is added).",
+  "learnedAt": "2026-06-05T22:45:50.350Z"
+}

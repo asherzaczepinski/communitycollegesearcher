@@ -1,0 +1,32 @@
+{
+  "slug": "el-camino-college",
+  "name": "El Camino College",
+  "url": "https://www.elcamino.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.elcamino.edu/academics/schedules-calendars/class-schedules/",
+  "catalogUrl": "https://www.elcamino.edu/academics/catalog/index.php",
+  "extractUrl": "https://www.elcamino.edu/academics/schedules-calendars/class-schedules/",
+  "method": "auto",
+  "sampleCount": 2,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.elcamino.edu/academics/schedules-calendars/class-schedules/",
+      "score": 5
+    },
+    {
+      "text": "Academic Calendar",
+      "href": "https://www.elcamino.edu/academics/schedules-calendars/academic-calendars/",
+      "score": 2
+    },
+    {
+      "text": "Catalog",
+      "href": "https://www.elcamino.edu/academics/catalog/index.php",
+      "score": 3
+    }
+  ],
+  "confidence": 0.405,
+  "notes": "Extracted 2 real courses from https://www.elcamino.edu/academics/schedules-calendars/class-schedules/. Source is a catalog: real courses but modality not exposed here (defaults to in_person until a live-schedule adapter is added).",
+  "learnedAt": "2026-06-05T22:44:24.585Z"
+}

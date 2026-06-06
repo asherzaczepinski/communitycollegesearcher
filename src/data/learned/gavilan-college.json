@@ -1,0 +1,42 @@
+{
+  "slug": "gavilan-college",
+  "name": "Gavilan College",
+  "url": "https://www.gavilan.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.gavilan.edu/admit/schedule/index.php",
+  "catalogUrl": "https://www.gavilan.edu/catalog/index.php",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Schedule of Classes, Dates and Deadlines",
+      "href": "https://www.gavilan.edu/admit/schedule/index.php",
+      "score": 5
+    },
+    {
+      "text": "Read more about Summer/Fall Class Schedule",
+      "href": "https://www.gavilan.edu/admit/schedule/2026_summer_fall/index.php",
+      "score": 5
+    },
+    {
+      "text": "Calendar and Deadlines",
+      "href": "https://www.gavilan.edu/admit/schedule/calendar.php",
+      "score": 2
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://www.gavilan.edu/catalog/index.php",
+      "score": 6
+    },
+    {
+      "text": "Books",
+      "href": "https://caccl-gavilan.primo.exlibrisgroup.com/discovery/search?tab=LibraryCatalog&search_scope=MyInstitution&vid=01CACCL_GAVILAN:GAVILAN&lang=en",
+      "score": 3
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:44:44.085Z"
+}

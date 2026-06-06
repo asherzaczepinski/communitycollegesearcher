@@ -1,0 +1,22 @@
+{
+  "name": "communitycollegesearcher",
+  "version": "1.0.0",
+  "description": "Search courses (in-person / online / hybrid) across all California Community Colleges. Local SQLite database, a scraper backend that updates it, and a search frontend.",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "seed": "node src/cli.js seed",
+    "gen": "node src/genScrapers.js",
+    "scrape": "node src/cli.js scrape",
+    "detect": "node src/cli.js detect",
+    "stats": "node src/cli.js stats"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "selenium-webdriver": "^4.44.0"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "madera-community-college",
+  "name": "Madera Community College",
+  "url": "https://www.maderacollege.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.maderacollege.edu/admissions-aid/schedule-of-classes.html",
+  "catalogUrl": "https://www.maderacollege.edu/admissions-aid/college-catalogs.html",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedules",
+      "href": "https://www.maderacollege.edu/admissions-aid/schedule-of-classes.html",
+      "score": 5
+    },
+    {
+      "text": "Final Exam Schedule",
+      "href": "https://www.maderacollege.edu/academics/final-exam-schedule.html",
+      "score": 2
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://www.maderacollege.edu/admissions-aid/college-catalogs.html",
+      "score": 6
+    },
+    {
+      "text": "English as a Second Language",
+      "href": "https://www.maderacollege.edu/academics/courses/english-esl.html",
+      "score": 1
+    },
+    {
+      "text": "Build Your Success This Summer Take Transferable Courses to Accelerate Your Academic Goals Enroll Now",
+      "href": "https://www.maderacollege.edu/landing/summer-school.html",
+      "score": 1
+    },
+    {
+      "text": "Common Course Numbering (CCN) Key course information is changing effective Fall 2026. View Effected Courses",
+      "href": "https://www.maderacollege.edu/academics/common-course-numbering-updates.html",
+      "score": 1
+    },
+    {
+      "text": "Nursing Program - LVN The Licensed Vocational Nursing Program is accredited by the Board of Vocational Nursing and Psychiatric Technicians (BVNPT). It requires three semesters of full-time study once the admission requirements are completed.",
+      "href": "https://www.maderacollege.edu/academics/courses/nursing-lvn.html",
+      "score": 1
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:45:40.768Z"
+}

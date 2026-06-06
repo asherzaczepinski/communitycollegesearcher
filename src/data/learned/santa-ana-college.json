@@ -1,0 +1,27 @@
+{
+  "slug": "santa-ana-college",
+  "name": "Santa Ana College",
+  "url": "https://www.sac.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.sac.edu/admissions/class_schedule.php",
+  "catalogUrl": "https://www.sac.edu/admissions/catalog.php",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.sac.edu/admissions/class_schedule.php",
+      "score": 5
+    },
+    {
+      "text": "Course Catalog",
+      "href": "https://www.sac.edu/admissions/catalog.php",
+      "score": 6
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:46:54.762Z"
+}

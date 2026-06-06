@@ -1,0 +1,52 @@
+{
+  "slug": "mt-san-antonio-college",
+  "name": "Mt. San Antonio College",
+  "url": "https://www.mtsac.edu/",
+  "platform": "acalog",
+  "scheduleUrl": "https://www.mtsac.edu/#scheduleClasses",
+  "catalogUrl": "https://catalog.mtsac.edu/",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.mtsac.edu/#scheduleClasses",
+      "score": 5
+    },
+    {
+      "text": "Summer Schedule of Classes",
+      "href": "https://www.mtsac.edu/schedule/summer.html",
+      "score": 5
+    },
+    {
+      "text": "Fall Schedule of Classes",
+      "href": "https://www.mtsac.edu/schedule/fall.html",
+      "score": 5
+    },
+    {
+      "text": "Schedule of Classes",
+      "href": "https://www.mtsac.edu/schedule/",
+      "score": 5
+    },
+    {
+      "text": "Explore more than 400 programs in our Catalog",
+      "href": "https://catalog.mtsac.edu/",
+      "score": 3
+    },
+    {
+      "text": "Associate Degrees Earn associate degrees to prepare for a career or save money then transfer to a four-year university.",
+      "href": "https://catalog.mtsac.edu/programs/explore-your-future/",
+      "score": 3
+    },
+    {
+      "text": "Academic Catalog",
+      "href": "https://www.mtsac.edu/catalog/",
+      "score": 3
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:46:03.328Z"
+}

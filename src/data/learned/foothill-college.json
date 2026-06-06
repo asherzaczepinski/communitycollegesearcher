@@ -1,0 +1,47 @@
+{
+  "slug": "foothill-college",
+  "name": "Foothill College",
+  "url": "https://www.foothill.edu/",
+  "platform": "acalog",
+  "scheduleUrl": "https://foothill.edu/schedule/index.html",
+  "catalogUrl": "https://foothill.edu/catalog/index.html",
+  "extractUrl": "https://catalog.foothill.edu/course-outlines/",
+  "method": "auto",
+  "sampleCount": 1823,
+  "modalityCoverage": 0.005,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://foothill.edu/schedule/index.html",
+      "score": 5
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://foothill.edu/catalog/index.html",
+      "score": 6
+    },
+    {
+      "text": "Degrees & Certificates",
+      "href": "https://catalog.foothill.edu/degrees-certificates/",
+      "score": 3
+    },
+    {
+      "text": "Choose a Major",
+      "href": "https://catalog.foothill.edu/degrees-certificates/by-type/",
+      "score": 3
+    },
+    {
+      "text": "See Program Details",
+      "href": "https://catalog.foothill.edu/degrees-certificates/bs/",
+      "score": 3
+    },
+    {
+      "text": "Explore Certificate Options",
+      "href": "https://catalog.foothill.edu/degrees-certificates/credit-certificates/",
+      "score": 3
+    }
+  ],
+  "confidence": 0.902194185408667,
+  "notes": "Extracted 1823 real courses from https://catalog.foothill.edu/course-outlines/. Source is a catalog: real courses but modality not exposed here (defaults to in_person until a live-schedule adapter is added).",
+  "learnedAt": "2026-06-05T22:44:33.448Z"
+}

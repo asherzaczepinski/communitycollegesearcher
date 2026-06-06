@@ -1,0 +1,16 @@
+{
+  "slug": "city-college-of-san-francisco",
+  "name": "City College of San Francisco",
+  "url": "https://www.ccsf.edu/",
+  "platform": "unknown",
+  "scheduleUrl": null,
+  "catalogUrl": null,
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [],
+  "confidence": 0,
+  "notes": "Could not fetch homepage: fetch failed",
+  "learnedAt": "2026-06-05T22:43:38.517Z"
+}

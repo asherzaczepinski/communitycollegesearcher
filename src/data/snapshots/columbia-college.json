@@ -1,0 +1,55 @@
+{
+  "slug": "columbia-college",
+  "scrapedAt": "2026-06-05T22:55:20.948Z",
+  "count": 4,
+  "courses": [
+    {
+      "code": "April 27",
+      "title": "All Classes with On-Campus or Synchronous Meetings: MW or MWF or MTWTH or MTWTHF",
+      "modality": "online",
+      "modalityKnown": true,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://gocolumbia.edu/academics/calendar_finals_schedule/index.html"
+    },
+    {
+      "code": "April 28",
+      "title": "All Classes with On-Campus or Synchronous Meetings: TTH",
+      "modality": "online",
+      "modalityKnown": true,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://gocolumbia.edu/academics/calendar_finals_schedule/index.html"
+    },
+    {
+      "code": "May 1",
+      "title": "Regular Class Time",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://gocolumbia.edu/academics/calendar_finals_schedule/index.html"
+    },
+    {
+      "code": "FALL 26",
+      "title": "Regular Meeting Time",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://gocolumbia.edu/academics/calendar_finals_schedule/index.html"
+    }
+  ]
+}

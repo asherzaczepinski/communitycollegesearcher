@@ -1,0 +1,62 @@
+{
+  "slug": "napa-valley-college",
+  "name": "Napa Valley College",
+  "url": "https://www.napavalley.edu/",
+  "platform": "acalog",
+  "scheduleUrl": "https://colss-prod.ec.napavalley.edu/Student/Student/Courses",
+  "catalogUrl": "https://catalog.napavalley.edu/",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Schedule of Classes",
+      "href": "https://colss-prod.ec.napavalley.edu/Student/Student/Courses",
+      "score": 5
+    },
+    {
+      "text": "Schedule of Classes",
+      "href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcolss-prod.ec.napavalley.edu%2FStudent%2FCourses&data=05%7C02%7Cdenise.kaduri%40napavalley.edu%7C2fbd234bf61c4d9664da08dcf2d29974%7C09f3c00d68764d399c48e1bd5ff6c560%7C0%7C0%7C638652233524942645%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=xbjzsil219%2B0XWof9rXnSKz%2BnXxyL6%2FmzUvFAbiitfY%3D&reserved=0",
+      "score": 5
+    },
+    {
+      "text": "Browse Class Schedule",
+      "href": "https://www.napavalley.edu/programs-and-academics/academic-affairs/class-schedules.html",
+      "score": 5
+    },
+    {
+      "text": "Calendar & Exam Schedule",
+      "href": "https://www.napavalley.edu/programs-and-academics/academic-affairs/academic-calendar.html",
+      "score": 2
+    },
+    {
+      "text": "Catalog",
+      "href": "https://catalog.napavalley.edu/",
+      "score": 3
+    },
+    {
+      "text": "Catalog",
+      "href": "https://www.napavalley.edu/programs-and-academics/catalog.html",
+      "score": 3
+    },
+    {
+      "text": "Schedule of Classes",
+      "href": "https://colss-prod.ec.napavalley.edu/Student/Student/Courses",
+      "score": 1
+    },
+    {
+      "text": "Schedule of Classes",
+      "href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcolss-prod.ec.napavalley.edu%2FStudent%2FCourses&data=05%7C02%7Cdenise.kaduri%40napavalley.edu%7C2fbd234bf61c4d9664da08dcf2d29974%7C09f3c00d68764d399c48e1bd5ff6c560%7C0%7C0%7C638652233524942645%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=xbjzsil219%2B0XWof9rXnSKz%2BnXxyL6%2FmzUvFAbiitfY%3D&reserved=0",
+      "score": 1
+    },
+    {
+      "text": "Register for Classes",
+      "href": "https://colss-prod.ec.napavalley.edu/Student/Courses",
+      "score": 1
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:46:13.026Z"
+}

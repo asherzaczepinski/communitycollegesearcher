@@ -1,0 +1,16 @@
+{
+  "slug": "chaffey-college",
+  "name": "Chaffey College",
+  "url": "https://www.chaffey.edu/",
+  "platform": "unknown",
+  "scheduleUrl": null,
+  "catalogUrl": null,
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [],
+  "confidence": 0,
+  "notes": "Could not fetch homepage: fetch failed",
+  "learnedAt": "2026-06-05T22:43:34.444Z"
+}

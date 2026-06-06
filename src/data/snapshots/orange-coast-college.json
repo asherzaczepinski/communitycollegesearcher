@@ -1,0 +1,19 @@
+{
+  "slug": "orange-coast-college",
+  "scrapedAt": "2026-06-05T22:55:32.406Z",
+  "count": 1,
+  "courses": [
+    {
+      "code": "CCCD 8",
+      "title": "18.2",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://ssb-prod.ec.cccd.edu/PROD/pw_pub_sched.p_search?Term=202650&college=OC"
+    }
+  ]
+}

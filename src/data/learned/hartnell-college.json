@@ -1,0 +1,62 @@
+{
+  "slug": "hartnell-college",
+  "name": "Hartnell College",
+  "url": "https://www.hartnell.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.hartnell.edu/academics/schedule-classes.html",
+  "catalogUrl": "https://www.hartnell.edu/academics-affairs/catalogs.html",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Schedule of Classes See what classes are offered this semester.",
+      "href": "https://www.hartnell.edu/academics/schedule-classes.html",
+      "score": 5
+    },
+    {
+      "text": "Save money with Zero Textbook Cost (ZTC) Courses Search for classes that are Zero Textbook Cost, or ZTC for short, which are course sections that do not require the purchase of a textbook.Zero Textbook Cost",
+      "href": "https://www.hartnell.edu/academics/ztc/index.html",
+      "score": 5
+    },
+    {
+      "text": "Schedule an Event",
+      "href": "https://hartnell.events.prod.coursedog.com/",
+      "score": 2
+    },
+    {
+      "text": "Learn about year-long schedules",
+      "href": "https://www.hartnell.edu/news/enrollment-updates.html",
+      "score": 2
+    },
+    {
+      "text": "Take Hartnell classes during your regular high school schedule.CCAP Dual Enrollment",
+      "href": "https://www.hartnell.edu/academics/college-readiness/index.html",
+      "score": 2
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://www.hartnell.edu/academics-affairs/catalogs.html",
+      "score": 6
+    },
+    {
+      "text": "Our Distance education courses let you learn from anywhere in California.Find Online Classes",
+      "href": "https://stuserv.hartnell.edu/Student/Courses/",
+      "score": 1
+    },
+    {
+      "text": "Save money with Zero Textbook Cost (ZTC) Courses Search for classes that are Zero Textbook Cost, or ZTC for short, which are course sections that do not require the purchase of a textbook.Zero Textbook Cost",
+      "href": "https://www.hartnell.edu/academics/ztc/index.html",
+      "score": 1
+    },
+    {
+      "text": "A Path to Your Future Hartnell's five Meta-Majors allow you to discover your passions, take the courses you need, meet like-minded students and graduate ready to transfer or immediately begin your career.View Meta Majors",
+      "href": "https://www.hartnell.edu/academics/meta-majors/index.html",
+      "score": 1
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:44:50.674Z"
+}

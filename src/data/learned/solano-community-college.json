@@ -1,0 +1,37 @@
+{
+  "slug": "solano-community-college",
+  "name": "Solano Community College",
+  "url": "https://www.solano.edu/",
+  "platform": "banner",
+  "scheduleUrl": "https://ssb.solano.edu/StudentRegistrationSsb/ssb/registration/registration",
+  "catalogUrl": "https://www.solano.edu/administrative-offices/academic-affairs/course-catalog.php",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Search",
+      "href": "https://ssb.solano.edu/StudentRegistrationSsb/ssb/registration/registration",
+      "score": 5
+    },
+    {
+      "text": "Class Search",
+      "href": "https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fssb.solano.edu%2FStudentRegistrationSsb%2Fssb%2FclassSearch%2FclassSearch&data=05%7C02%7CZohaib.Javed%40solano.edu%7C8ea4c99630d748a9ffcb08dde7243625%7Cdc5d168e14e544b199aeb7984aa29306%7C0%7C0%7C638920864898715254%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=XxHsXR5lplq5uyD7kFN67F5en0nmHgfvVDvqFVErjcY%3D&reserved=0",
+      "score": 5
+    },
+    {
+      "text": "Catalog",
+      "href": "https://www.solano.edu/administrative-offices/academic-affairs/course-catalog.php",
+      "score": 3
+    },
+    {
+      "text": "Course/Program Outlines of Record (COR/POR)",
+      "href": "https://solano.elumenapp.com/public/",
+      "score": 2
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:47:20.373Z"
+}

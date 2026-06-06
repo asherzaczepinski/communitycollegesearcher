@@ -1,0 +1,32 @@
+{
+  "slug": "golden-west-college",
+  "name": "Golden West College",
+  "url": "https://www.goldenwestcollege.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.goldenwestcollege.edu/schedule/index.html",
+  "catalogUrl": "https://www.goldenwestcollege.edu/catalog/index.html",
+  "extractUrl": "https://www.goldenwestcollege.edu/schedule/index.html",
+  "method": "auto",
+  "sampleCount": 10,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.goldenwestcollege.edu/schedule/index.html",
+      "score": 5
+    },
+    {
+      "text": "Online Degrees and Certificates",
+      "href": "https://www.goldenwestcollege.edu/schedule/online-majors.html",
+      "score": 2
+    },
+    {
+      "text": "Catalog",
+      "href": "https://www.goldenwestcollege.edu/catalog/index.html",
+      "score": 3
+    }
+  ],
+  "confidence": 0.42500000000000004,
+  "notes": "Extracted 10 real courses from https://www.goldenwestcollege.edu/schedule/index.html. Source is a catalog: real courses but modality not exposed here (defaults to in_person until a live-schedule adapter is added).",
+  "learnedAt": "2026-06-05T22:44:47.294Z"
+}

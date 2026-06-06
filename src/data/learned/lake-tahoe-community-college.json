@@ -1,0 +1,37 @@
+{
+  "slug": "lake-tahoe-community-college",
+  "name": "Lake Tahoe Community College",
+  "url": "https://www.ltcc.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.ltcc.edu/academics/scheduleofclasses.php",
+  "catalogUrl": "https://www.ltcc.edu/academics/catalog.php",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Schedule of Classes",
+      "href": "https://www.ltcc.edu/academics/scheduleofclasses.php",
+      "score": 5
+    },
+    {
+      "text": "An Online Student High-quality education offered virtually to accommodate busy schedules",
+      "href": "https://www.ltcc.edu/i_am/onlinestudent.php",
+      "score": 2
+    },
+    {
+      "text": "Catalog",
+      "href": "https://www.ltcc.edu/academics/catalog.php",
+      "score": 3
+    },
+    {
+      "text": "Academics Courses & Programs",
+      "href": "https://www.ltcc.edu/academics/index.php",
+      "score": 1
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:44:59.834Z"
+}

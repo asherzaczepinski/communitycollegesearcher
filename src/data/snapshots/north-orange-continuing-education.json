@@ -1,0 +1,55 @@
+{
+  "slug": "north-orange-continuing-education",
+  "scrapedAt": "2026-06-05T22:55:29.433Z",
+  "count": 4,
+  "courses": [
+    {
+      "code": "CIST 150",
+      "title": "Develop in Swift Explorations – Values",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.noce.edu/programs/careers/swift/"
+    },
+    {
+      "code": "CIST 153",
+      "title": "Develop in Swift Explorations – Algorithms",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.noce.edu/programs/careers/swift/"
+    },
+    {
+      "code": "CIST 156",
+      "title": "Develop in Swift Explorations – Organizing Data",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.noce.edu/programs/careers/swift/"
+    },
+    {
+      "code": "CIST 159",
+      "title": "Develop in Swift Explorations – Building Apps",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.noce.edu/programs/careers/swift/"
+    }
+  ]
+}

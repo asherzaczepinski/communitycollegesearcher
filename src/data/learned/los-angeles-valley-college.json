@@ -1,0 +1,37 @@
+{
+  "slug": "los-angeles-valley-college",
+  "name": "Los Angeles Valley College",
+  "url": "https://www.lavc.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.laccd.edu/students/class-search-lavc",
+  "catalogUrl": "https://www.lavc.edu/academics/catalogs",
+  "extractUrl": "https://www.lavc.edu/academics/catalogs",
+  "method": "auto",
+  "sampleCount": 1,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Search",
+      "href": "https://www.laccd.edu/students/class-search-lavc",
+      "score": 5
+    },
+    {
+      "text": "Class Schedule",
+      "href": "https://www.lavc.edu/academics/class-schedule",
+      "score": 5
+    },
+    {
+      "text": "Two-Year Course Scheduling Planner",
+      "href": "https://www.lavc.edu/academics/class-schedule#twoyrplanner",
+      "score": 2
+    },
+    {
+      "text": "Course Catalogs",
+      "href": "https://www.lavc.edu/academics/catalogs",
+      "score": 6
+    }
+  ],
+  "confidence": 0.4025,
+  "notes": "Extracted 1 real courses from https://www.lavc.edu/academics/catalogs. Source is a catalog: real courses but modality not exposed here (defaults to in_person until a live-schedule adapter is added).",
+  "learnedAt": "2026-06-05T22:45:34.106Z"
+}

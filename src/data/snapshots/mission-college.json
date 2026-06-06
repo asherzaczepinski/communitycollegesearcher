@@ -1,0 +1,151 @@
+{
+  "slug": "mission-college",
+  "scrapedAt": "2026-06-05T22:55:27.725Z",
+  "count": 12,
+  "courses": [
+    {
+      "code": "COM 001",
+      "title": "Public Speaking",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://missioncollege.edu/class-schedule/index.html"
+    },
+    {
+      "code": "COM 001H",
+      "title": "Public Speaking - Honors",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://missioncollege.edu/class-schedule/index.html"
+    },
+    {
+      "code": "ENG 001A",
+      "title": "English Composition",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://missioncollege.edu/class-schedule/index.html"
+    },
+    {
+      "code": "ENG 001AX",
+      "title": "English Composition with Additional Support",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://missioncollege.edu/class-schedule/index.html"
+    },
+    {
+      "code": "ENG 001C",
+      "title": "Clear Thinking and Writing",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://missioncollege.edu/class-schedule/index.html"
+    },
+    {
+      "code": "MAT 010",
+      "title": "Elementary Statistics",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://missioncollege.edu/class-schedule/index.html"
+    },
+    {
+      "code": "MAT 010H",
+      "title": "Elementary Statistics - Honors",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://missioncollege.edu/class-schedule/index.html"
+    },
+    {
+      "code": "MAT 010X",
+      "title": "Elementary Statistics with Additional Support",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://missioncollege.edu/class-schedule/index.html"
+    },
+    {
+      "code": "POL 001",
+      "title": "American Government",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://missioncollege.edu/class-schedule/index.html"
+    },
+    {
+      "code": "POL 001H",
+      "title": "American Government - Honors",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://missioncollege.edu/class-schedule/index.html"
+    },
+    {
+      "code": "PSY 001",
+      "title": "General Psychology",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://missioncollege.edu/class-schedule/index.html"
+    },
+    {
+      "code": "PSY 001H",
+      "title": "General Psychology - Honors",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://missioncollege.edu/class-schedule/index.html"
+    }
+  ]
+}

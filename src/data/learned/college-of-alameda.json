@@ -1,0 +1,16 @@
+{
+  "slug": "college-of-alameda",
+  "name": "College of Alameda",
+  "url": "https://alameda.edu/",
+  "platform": "unknown",
+  "scheduleUrl": null,
+  "catalogUrl": null,
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [],
+  "confidence": 0,
+  "notes": "Could not fetch homepage: fetch failed",
+  "learnedAt": "2026-06-05T22:43:44.349Z"
+}

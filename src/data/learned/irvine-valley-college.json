@@ -1,0 +1,52 @@
+{
+  "slug": "irvine-valley-college",
+  "name": "Irvine Valley College",
+  "url": "https://www.ivc.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.ivc.edu/class-schedule",
+  "catalogUrl": "https://www.ivc.edu/catalog",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.ivc.edu/class-schedule",
+      "score": 5
+    },
+    {
+      "text": "Find Classes »",
+      "href": "https://classes.socccd.edu/smartscheduleweb/index/1/I/202670/MarketingCode",
+      "score": 5
+    },
+    {
+      "text": "Class Schedule",
+      "href": "https://www.ivc.edu/node/1886",
+      "score": 5
+    },
+    {
+      "text": "Financial Aid Disbursements Schedule",
+      "href": "https://www.ivc.edu/financial-aid/disbursement-information",
+      "score": 2
+    },
+    {
+      "text": "Summer Session: May 26 - Aug. 8",
+      "href": "https://classes.socccd.edu/smartscheduleweb/index/1/I/202650/MarketingCode",
+      "score": 2
+    },
+    {
+      "text": "The 2026-27 Irvine Valley men's basketball schedule is released",
+      "href": "https://ivclasers.com/sports/mbkb/2025-26/releases/20260601nbdyr1",
+      "score": 2
+    },
+    {
+      "text": "Catalog",
+      "href": "https://www.ivc.edu/catalog",
+      "score": 3
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:44:57.519Z"
+}

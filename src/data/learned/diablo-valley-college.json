@@ -1,0 +1,27 @@
+{
+  "slug": "diablo-valley-college",
+  "name": "Diablo Valley College",
+  "url": "https://www.dvc.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.dvc.edu/academics/class-schedule-catalog",
+  "catalogUrl": "https://www.dvc.edu/academics/class-schedule-catalog",
+  "extractUrl": "https://webapps.4cd.edu/apps/courseschedulesearch/search-course.aspx?trm=2026SP&loc=dvc&sdate=2-1-2026&o=y",
+  "method": "auto",
+  "sampleCount": 23,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedule & Catalog",
+      "href": "https://www.dvc.edu/academics/class-schedule-catalog",
+      "score": 5
+    },
+    {
+      "text": "View the schedule today!",
+      "href": "https://www.dvc.edu/academics/class-schedule-catalog",
+      "score": 3
+    }
+  ],
+  "confidence": 0.4575,
+  "notes": "Extracted 23 real courses from https://webapps.4cd.edu/apps/courseschedulesearch/search-course.aspx?trm=2026SP&loc=dvc&sdate=2-1-2026&o=y. Source is a catalog: real courses but modality not exposed here (defaults to in_person until a live-schedule adapter is added).",
+  "learnedAt": "2026-06-05T22:44:22.943Z"
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "antelope-valley-college",
+  "name": "Antelope Valley College",
+  "url": "https://www.avc.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.avc.edu/schedule",
+  "catalogUrl": "https://avc.elumenapp.com/catalog",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.avc.edu/schedule",
+      "score": 5
+    },
+    {
+      "text": "Class Schedule",
+      "href": "https://www.avc.edu/distance-education/schedule",
+      "score": 5
+    },
+    {
+      "text": "Two Year Schedule",
+      "href": "https://www.avc.edu/2yearschedule",
+      "score": 2
+    },
+    {
+      "text": "How to Schedule Your EOPS Counseling Appointment",
+      "href": "https://www.avc.edu/students/student-services/eopscarenextupguardian-scholars/how-schedule-your-eops-counseling",
+      "score": 2
+    },
+    {
+      "text": "Programs & Schedule",
+      "href": "https://www.avc.edu/childdev/programs",
+      "score": 2
+    },
+    {
+      "text": "Agendas, Minutes & Schedules",
+      "href": "https://www.avc.edu/campus-organizations-committees/academic-achievement-committee/agendas-minutes-schedules",
+      "score": 2
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://avc.elumenapp.com/catalog",
+      "score": 6
+    },
+    {
+      "text": "Noncredit Programs and Courses",
+      "href": "https://www.avc.edu/academics/el/noncredit-programs-and-courses",
+      "score": 1
+    },
+    {
+      "text": "Career Training Programs",
+      "href": "https://www.avc.edu/academics/el/career-and-professional-development-courses",
+      "score": 1
+    },
+    {
+      "text": "Noncredit Standalone Courses",
+      "href": "https://www.avc.edu/academics/el/noncredit-standalone-courses",
+      "score": 1
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:43:14.341Z"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "columbia-college",
+  "name": "Columbia College",
+  "url": "https://www.gocolumbia.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://myapps.yosemite.edu/ccClassSearch/",
+  "catalogUrl": "https://gocolumbia.edu/academics/catalog_schedules/index.html",
+  "extractUrl": "https://gocolumbia.edu/academics/calendar_finals_schedule/index.html",
+  "method": "auto",
+  "sampleCount": 4,
+  "modalityCoverage": 0.5,
+  "candidates": [
+    {
+      "text": "Class Search",
+      "href": "https://myapps.yosemite.edu/ccClassSearch/",
+      "score": 5
+    },
+    {
+      "text": "Academic Calendar",
+      "href": "https://gocolumbia.edu/academics/calendar_finals_schedule/index.html",
+      "score": 2
+    },
+    {
+      "text": "Catalog",
+      "href": "https://gocolumbia.edu/academics/catalog_schedules/index.html",
+      "score": 2
+    },
+    {
+      "text": "Catalog",
+      "href": "https://gocolumbia.edu/academics/catalog_schedules/index.html",
+      "score": 3
+    }
+  ],
+  "confidence": 0.6100000000000001,
+  "notes": "Extracted 4 real courses from https://gocolumbia.edu/academics/calendar_finals_schedule/index.html. Modality available for ~50% (real schedule data).",
+  "learnedAt": "2026-06-05T22:44:01.338Z"
+}

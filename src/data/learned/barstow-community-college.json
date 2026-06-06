@@ -1,0 +1,37 @@
+{
+  "slug": "barstow-community-college",
+  "name": "Barstow Community College",
+  "url": "https://www.barstow.edu/",
+  "platform": "banner",
+  "scheduleUrl": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/registration/",
+  "catalogUrl": "https://www.barstow.edu/academics/catalog",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "View the schedule of classes",
+      "href": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/registration/",
+      "score": 5
+    },
+    {
+      "text": "Schedule of Classes",
+      "href": "https://www.barstow.edu/academics/schedule-classes",
+      "score": 5
+    },
+    {
+      "text": "Catalog & Schedule",
+      "href": "https://www.barstow.edu/academics/catalog",
+      "score": 2
+    },
+    {
+      "text": "Course Catalog",
+      "href": "https://www.barstow.edu/academics/catalog",
+      "score": 6
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:43:14.342Z"
+}

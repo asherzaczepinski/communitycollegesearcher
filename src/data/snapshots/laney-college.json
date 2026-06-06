@@ -1,0 +1,115 @@
+{
+  "slug": "laney-college",
+  "scrapedAt": "2026-06-05T22:55:23.088Z",
+  "count": 9,
+  "courses": [
+    {
+      "code": "March 11",
+      "title": "Professional Day - No Instruction",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.peralta.edu/admissions/academic-calendar-finals-schedule-enrollment-calendar?__hstc=141551021.16aaf3de54ce950a0dc1ffa65ee2a391.1768605781923.1776186154020.1776280533391.54&__hssc=141551021.2.1776280533391&__hsfp=c12d20b7b81bf9a16dbe3029d387a69f"
+    },
+    {
+      "code": "March 13",
+      "title": "Last Day to File Petitions for AA or AS Degree/Certificate",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.peralta.edu/admissions/academic-calendar-finals-schedule-enrollment-calendar?__hstc=141551021.16aaf3de54ce950a0dc1ffa65ee2a391.1768605781923.1776186154020.1776280533391.54&__hssc=141551021.2.1776280533391&__hsfp=c12d20b7b81bf9a16dbe3029d387a69f"
+    },
+    {
+      "code": "April 6",
+      "title": "Second Census (60%) Due for Noncredit Online Classes",
+      "modality": "online",
+      "modalityKnown": true,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.peralta.edu/admissions/academic-calendar-finals-schedule-enrollment-calendar?__hstc=141551021.16aaf3de54ce950a0dc1ffa65ee2a391.1768605781923.1776186154020.1776280533391.54&__hssc=141551021.2.1776280533391&__hsfp=c12d20b7b81bf9a16dbe3029d387a69f"
+    },
+    {
+      "code": "April 23",
+      "title": "Last Day to Withdraw from Regular Session Classes and Receive a \"W\". All outstanding fees are due even if classes are dropped on this day. Attendance Verificati",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.peralta.edu/admissions/academic-calendar-finals-schedule-enrollment-calendar?__hstc=141551021.16aaf3de54ce950a0dc1ffa65ee2a391.1768605781923.1776186154020.1776280533391.54&__hssc=141551021.2.1776280533391&__hsfp=c12d20b7b81bf9a16dbe3029d387a69f"
+    },
+    {
+      "code": "May 15",
+      "title": "Malcom X's Birthday - Holiday Observance",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.peralta.edu/admissions/academic-calendar-finals-schedule-enrollment-calendar?__hstc=141551021.16aaf3de54ce950a0dc1ffa65ee2a391.1768605781923.1776186154020.1776280533391.54&__hssc=141551021.2.1776280533391&__hsfp=c12d20b7b81bf9a16dbe3029d387a69f"
+    },
+    {
+      "code": "May 16",
+      "title": "Last Day to File for PASS/NO PASS Grading Option for Regular Session Classes",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.peralta.edu/admissions/academic-calendar-finals-schedule-enrollment-calendar?__hstc=141551021.16aaf3de54ce950a0dc1ffa65ee2a391.1768605781923.1776186154020.1776280533391.54&__hssc=141551021.2.1776280533391&__hsfp=c12d20b7b81bf9a16dbe3029d387a69f"
+    },
+    {
+      "code": "May 23",
+      "title": "Saturday Instruction Ends",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.peralta.edu/admissions/academic-calendar-finals-schedule-enrollment-calendar?__hstc=141551021.16aaf3de54ce950a0dc1ffa65ee2a391.1768605781923.1776186154020.1776280533391.54&__hssc=141551021.2.1776280533391&__hsfp=c12d20b7b81bf9a16dbe3029d387a69f"
+    },
+    {
+      "code": "May 25",
+      "title": "Memorial Day - Holiday Observance",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.peralta.edu/admissions/academic-calendar-finals-schedule-enrollment-calendar?__hstc=141551021.16aaf3de54ce950a0dc1ffa65ee2a391.1768605781923.1776186154020.1776280533391.54&__hssc=141551021.2.1776280533391&__hsfp=c12d20b7b81bf9a16dbe3029d387a69f"
+    },
+    {
+      "code": "May 30",
+      "title": "Grade Rosters/Rollbooks are Due",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.peralta.edu/admissions/academic-calendar-finals-schedule-enrollment-calendar?__hstc=141551021.16aaf3de54ce950a0dc1ffa65ee2a391.1768605781923.1776186154020.1776280533391.54&__hssc=141551021.2.1776280533391&__hsfp=c12d20b7b81bf9a16dbe3029d387a69f"
+    }
+  ]
+}

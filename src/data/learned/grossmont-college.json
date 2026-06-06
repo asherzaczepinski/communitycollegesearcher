@@ -1,0 +1,32 @@
+{
+  "slug": "grossmont-college",
+  "name": "Grossmont College",
+  "url": "https://www.grossmont.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://selfservice.gcccd.edu/Student/Courses",
+  "catalogUrl": "https://selfservice.gcccd.edu/Student/Courses",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Search",
+      "href": "https://selfservice.gcccd.edu/Student/Courses",
+      "score": 5
+    },
+    {
+      "text": "Class Schedule",
+      "href": "https://www.grossmont.edu/academics/schedule/index.php",
+      "score": 5
+    },
+    {
+      "text": "Class Search",
+      "href": "https://selfservice.gcccd.edu/Student/Courses",
+      "score": 1
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:44:48.111Z"
+}

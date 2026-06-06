@@ -1,0 +1,32 @@
+{
+  "slug": "san-diego-college-of-continuing-education",
+  "name": "San Diego College of Continuing Education",
+  "url": "https://sdcce.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.sdccd.edu/students/class-search/cesearch.html",
+  "catalogUrl": "https://www.sdccd.edu/students/college-catalogs/index.aspx",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.sdccd.edu/students/class-search/cesearch.html",
+      "score": 5
+    },
+    {
+      "text": "College Catalogs",
+      "href": "https://www.sdccd.edu/students/college-catalogs/index.aspx",
+      "score": 6
+    },
+    {
+      "text": "Catalog 2025-2026",
+      "href": "https://sdcce.edu/sites/default/files/ce-catalog-2025-2026.pdf",
+      "score": 3
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:46:44.127Z"
+}

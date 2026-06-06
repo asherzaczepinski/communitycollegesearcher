@@ -1,0 +1,42 @@
+{
+  "slug": "laney-college",
+  "name": "Laney College",
+  "url": "https://www.laney.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://laney.edu/class-scheduling",
+  "catalogUrl": "https://laney.edu/instruction/catalog/",
+  "extractUrl": "https://www.peralta.edu/admissions/academic-calendar-finals-schedule-enrollment-calendar?__hstc=141551021.16aaf3de54ce950a0dc1ffa65ee2a391.1768605781923.1776186154020.1776280533391.54&__hssc=141551021.2.1776280533391&__hsfp=c12d20b7b81bf9a16dbe3029d387a69f",
+  "method": "auto",
+  "sampleCount": 9,
+  "modalityCoverage": 0.111,
+  "candidates": [
+    {
+      "text": "Search For Classes",
+      "href": "https://laney.edu/class-scheduling",
+      "score": 5
+    },
+    {
+      "text": "Class Schedule & Catalog",
+      "href": "https://laney.edu/instruction/catalog/",
+      "score": 5
+    },
+    {
+      "text": "Open Enrollment For Summer & Fall 2026 Has Begun. Search For Classes ➔",
+      "href": "https://laney.edu/class-scheduling?campus=Laney&strm_descr=2026%2520Fall",
+      "score": 5
+    },
+    {
+      "text": "Search Summer Classes",
+      "href": "https://laney.edu/class-scheduling?campus=Laney&strm_descr=2026%2520Summer",
+      "score": 2
+    },
+    {
+      "text": "Class Schedule & Catalog",
+      "href": "https://laney.edu/instruction/catalog/",
+      "score": 3
+    }
+  ],
+  "confidence": 0.4669444444444445,
+  "notes": "Extracted 9 real courses from https://www.peralta.edu/admissions/academic-calendar-finals-schedule-enrollment-calendar?__hstc=141551021.16aaf3de54ce950a0dc1ffa65ee2a391.1768605781923.1776186154020.1776280533391.54&__hssc=141551021.2.1776280533391&__hsfp=c12d20b7b81bf9a16dbe3029d387a69f. Modality available for ~11% (real schedule data).",
+  "learnedAt": "2026-06-05T22:44:59.951Z"
+}

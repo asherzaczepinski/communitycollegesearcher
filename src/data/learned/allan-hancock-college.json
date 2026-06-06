@@ -1,0 +1,47 @@
+{
+  "slug": "allan-hancock-college",
+  "name": "Allan Hancock College",
+  "url": "https://www.hancockcollege.edu/",
+  "platform": "banner",
+  "scheduleUrl": "https://ssb.hancockcollege.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search",
+  "catalogUrl": "https://hancockcollege.curriqunet.com/catalog",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Search",
+      "href": "https://ssb.hancockcollege.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search",
+      "score": 5
+    },
+    {
+      "text": "MESA/STEM Academic Success Center",
+      "href": "https://www.hancockcollege.edu/mesa/aew-tutoring-schedules.php",
+      "score": 2
+    },
+    {
+      "text": "Catalog",
+      "href": "https://hancockcollege.curriqunet.com/catalog",
+      "score": 3
+    },
+    {
+      "text": "Transfer Degrees",
+      "href": "https://hancockcollege.curriqunet.com/catalog/iq/140/5135",
+      "score": 3
+    },
+    {
+      "text": "Catalog",
+      "href": "https://hancockcollege.curriqunet.com/catalog/iq/301",
+      "score": 3
+    },
+    {
+      "text": "Catalog",
+      "href": "https://hancockcollege.curriqunet.com/catalog/",
+      "score": 3
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:43:14.332Z"
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "pasadena-city-college",
+  "name": "Pasadena City College",
+  "url": "https://www.pasadena.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://findclasses.pasadena.edu/",
+  "catalogUrl": "https://www.pasadena.edu/academics/catalog-schedule-calendar.php",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Schedule of Classes",
+      "href": "https://findclasses.pasadena.edu/",
+      "score": 5
+    },
+    {
+      "text": "Start Planning for Fall 2026! The Fall 2026 Schedule of Classes is now available. Log in to LancerPoint to see your registration appointment and start planning for the fall term!",
+      "href": "https://pasadena.edu/current-students/guide-to-fall.php",
+      "score": 5
+    },
+    {
+      "text": "Catalog",
+      "href": "https://www.pasadena.edu/academics/catalog-schedule-calendar.php",
+      "score": 2
+    },
+    {
+      "text": "Catalog",
+      "href": "https://pasadena.edu/academics/catalog-schedule-calendar.php",
+      "score": 2
+    },
+    {
+      "text": "Catalog",
+      "href": "https://www.pasadena.edu/academics/catalog-schedule-calendar.php",
+      "score": 3
+    },
+    {
+      "text": "Catalog",
+      "href": "https://pasadena.edu/academics/catalog-schedule-calendar.php",
+      "score": 3
+    },
+    {
+      "text": "Online Courses",
+      "href": "https://www.pasadena.edu/academics/pcc-online/index.php",
+      "score": 1
+    },
+    {
+      "text": "First Time College Student I will be taking college courses for the first time since high school.",
+      "href": "https://pasadena.edu/get-started/next-steps.php?type=first-time-student",
+      "score": 1
+    },
+    {
+      "text": "Middle or High School Student I'm currently in middle school or high school and interested in taking college courses after school, on the weekend, online, or during summer.",
+      "href": "https://pasadena.edu/get-started/next-steps.php?type=middle-high-school",
+      "score": 1
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:46:25.294Z"
+}

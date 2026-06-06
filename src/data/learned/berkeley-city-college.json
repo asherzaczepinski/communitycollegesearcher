@@ -1,0 +1,32 @@
+{
+  "slug": "berkeley-city-college",
+  "name": "Berkeley City College",
+  "url": "https://www.berkeleycitycollege.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.berkeleycitycollege.edu/academics/schedule-and-catalog",
+  "catalogUrl": "https://www.berkeleycitycollege.edu/academics/schedule-and-catalog",
+  "extractUrl": "https://www.peralta.edu/admissions/academic-calendar-finals-schedule-enrollment-calendar",
+  "method": "auto",
+  "sampleCount": 9,
+  "modalityCoverage": 0.111,
+  "candidates": [
+    {
+      "text": "Class Schedules and Course Catalogs",
+      "href": "https://www.berkeleycitycollege.edu/academics/schedule-and-catalog",
+      "score": 5
+    },
+    {
+      "text": "Click here for Important 2026 dates and deadlines! 🗓️",
+      "href": "https://www.peralta.edu/admissions/academic-calendar-finals-schedule-enrollment-calendar",
+      "score": 2
+    },
+    {
+      "text": "Class Schedules and Course Catalogs",
+      "href": "https://www.berkeleycitycollege.edu/academics/schedule-and-catalog",
+      "score": 6
+    }
+  ],
+  "confidence": 0.4669444444444445,
+  "notes": "Extracted 9 real courses from https://www.peralta.edu/admissions/academic-calendar-finals-schedule-enrollment-calendar. Modality available for ~11% (real schedule data).",
+  "learnedAt": "2026-06-05T22:43:14.342Z"
+}

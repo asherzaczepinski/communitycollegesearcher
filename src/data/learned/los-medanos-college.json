@@ -1,0 +1,22 @@
+{
+  "slug": "los-medanos-college",
+  "name": "Los Medanos College",
+  "url": "https://www.losmedanos.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.losmedanos.edu/schedule/index.aspx",
+  "catalogUrl": null,
+  "extractUrl": "https://www.losmedanos.edu/schedule/index.aspx",
+  "method": "auto",
+  "sampleCount": 214,
+  "modalityCoverage": 0.005,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.losmedanos.edu/schedule/index.aspx",
+      "score": 5
+    }
+  ],
+  "confidence": 0.9018691588785047,
+  "notes": "Extracted 214 real courses from https://www.losmedanos.edu/schedule/index.aspx. Source is a catalog: real courses but modality not exposed here (defaults to in_person until a live-schedule adapter is added).",
+  "learnedAt": "2026-06-05T22:45:39.900Z"
+}

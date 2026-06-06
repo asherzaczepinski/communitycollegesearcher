@@ -1,0 +1,47 @@
+{
+  "slug": "west-valley-college",
+  "name": "West Valley College",
+  "url": "https://www.westvalley.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.westvalley.edu/classes/schedule/",
+  "catalogUrl": "https://www.westvalley.edu/catalog/",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.westvalley.edu/classes/schedule/",
+      "score": 5
+    },
+    {
+      "text": "Fees and Tuition",
+      "href": "https://www.westvalley.edu/admissions/fee-schedule.html",
+      "score": 2
+    },
+    {
+      "text": "Course Catalog",
+      "href": "https://www.westvalley.edu/catalog/",
+      "score": 6
+    },
+    {
+      "text": "College Catalog →",
+      "href": "https://www.westvalley.edu/catalog/index.html",
+      "score": 6
+    },
+    {
+      "text": "Academic Programs",
+      "href": "https://www.westvalley.edu/catalog/programs/",
+      "score": 3
+    },
+    {
+      "text": "Courses and Programs",
+      "href": "https://westvalley.elumenapp.com/public/",
+      "score": 1
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:47:36.033Z"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "college-of-the-sequoias",
+  "name": "College of the Sequoias",
+  "url": "https://www.cos.edu/",
+  "platform": "acalog",
+  "scheduleUrl": "http://cosgiants.com/landing/index",
+  "catalogUrl": "https://catalog.cos.edu/academic-calendar/",
+  "extractUrl": "https://catalog.cos.edu/course-descriptions/",
+  "method": "auto",
+  "sampleCount": 107,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "​Athletics Schedule",
+      "href": "http://cosgiants.com/landing/index",
+      "score": 2
+    },
+    {
+      "text": "​Dates & Deadlines​",
+      "href": "https://catalog.cos.edu/academic-calendar/",
+      "score": 3
+    }
+  ],
+  "confidence": 0.6675,
+  "notes": "Extracted 107 real courses from https://catalog.cos.edu/course-descriptions/. Source is a catalog: real courses but modality not exposed here (defaults to in_person until a live-schedule adapter is added).",
+  "learnedAt": "2026-06-05T22:44:00.838Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "merritt-college",
+  "name": "Merritt College",
+  "url": "https://www.merritt.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://merritt.edu/class-schedule",
+  "catalogUrl": "https://merritt.edu/class-schedule",
+  "extractUrl": "https://merritt.edu/online-schedule?campus=Merritt&session_code=4W1%2C10W%2C8W1%2C8W2%2CDOE%2CIN1%2C14W%2CDYN",
+  "method": "auto",
+  "sampleCount": 7,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedules and Course Catalogs",
+      "href": "https://merritt.edu/class-schedule",
+      "score": 5
+    },
+    {
+      "text": "Take a look HERE",
+      "href": "https://merritt.edu/online-schedule?campus=Merritt&session_code=4W1%2C10W%2C8W1%2C8W2%2CDOE%2CIN1%2C14W%2CDYN",
+      "score": 2
+    },
+    {
+      "text": "Class Schedules and Course Catalogs",
+      "href": "https://merritt.edu/class-schedule",
+      "score": 6
+    }
+  ],
+  "confidence": 0.41750000000000004,
+  "notes": "Extracted 7 real courses from https://merritt.edu/online-schedule?campus=Merritt&session_code=4W1%2C10W%2C8W1%2C8W2%2CDOE%2CIN1%2C14W%2CDYN. Source is a catalog: real courses but modality not exposed here (defaults to in_person until a live-schedule adapter is added).",
+  "learnedAt": "2026-06-05T22:45:44.295Z"
+}

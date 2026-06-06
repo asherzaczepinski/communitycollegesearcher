@@ -1,0 +1,32 @@
+{
+  "slug": "cuesta-college",
+  "name": "Cuesta College",
+  "url": "https://www.cuesta.edu/",
+  "platform": "banner",
+  "scheduleUrl": "https://www.cuesta.edu/become-student/findclasses/schedule/index.html",
+  "catalogUrl": "https://www.cuesta.edu/become-student/findclasses/index.html",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.cuesta.edu/become-student/findclasses/schedule/index.html",
+      "score": 5
+    },
+    {
+      "text": "Class Finder",
+      "href": "https://ssb2.cuesta.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search",
+      "score": 2
+    },
+    {
+      "text": "Catalog",
+      "href": "https://www.cuesta.edu/become-student/findclasses/index.html",
+      "score": 3
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:44:07.788Z"
+}

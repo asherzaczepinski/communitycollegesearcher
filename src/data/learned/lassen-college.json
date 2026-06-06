@@ -1,0 +1,42 @@
+{
+  "slug": "lassen-college",
+  "name": "Lassen College",
+  "url": "https://www.lassencollege.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://webadvisor.lassencollege.edu:8171/student/courses",
+  "catalogUrl": "https://www.lassencollege.edu/academics/college-catalogs/",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Search for Classes",
+      "href": "https://webadvisor.lassencollege.edu:8171/student/courses",
+      "score": 5
+    },
+    {
+      "text": "Search for Classes",
+      "href": "https://www.lassencollege.edu/#",
+      "score": 5
+    },
+    {
+      "text": "College Catalogs",
+      "href": "https://www.lassencollege.edu/academics/college-catalogs/",
+      "score": 6
+    },
+    {
+      "text": "Course Outlines",
+      "href": "https://www.lassencollege.edu/academics/course-outlines/",
+      "score": 5
+    },
+    {
+      "text": "Search for Classes",
+      "href": "https://webadvisor.lassencollege.edu:8171/student/courses",
+      "score": 1
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:45:03.757Z"
+}

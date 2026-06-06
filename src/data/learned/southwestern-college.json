@@ -1,0 +1,42 @@
+{
+  "slug": "southwestern-college",
+  "name": "Southwestern College",
+  "url": "https://www.swccd.edu/",
+  "platform": "acalog",
+  "scheduleUrl": "https://www.swccd.edu/classes-and-registration/class-schedule/index.aspx",
+  "catalogUrl": "https://www.swccd.edu/classes-and-registration/catalog/index.aspx",
+  "extractUrl": "https://www.swccd.edu/classes-and-registration/class-schedule/index.aspx",
+  "method": "auto",
+  "sampleCount": 2,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.swccd.edu/classes-and-registration/class-schedule/index.aspx",
+      "score": 5
+    },
+    {
+      "text": "SWC Catalog",
+      "href": "https://www.swccd.edu/classes-and-registration/catalog/index.aspx",
+      "score": 3
+    },
+    {
+      "text": "SWC Catalog",
+      "href": "https://catalog.swccd.edu/",
+      "score": 3
+    },
+    {
+      "text": "Student Parent Resources",
+      "href": "https://swccd.instructure.com/courses/49117/pages/family-slash-student-parent",
+      "score": 1
+    },
+    {
+      "text": "College Activity Courses",
+      "href": "https://www.swccd.edu/locations/crown-cove-aquatic-center/college-activity-courses.aspx",
+      "score": 1
+    }
+  ],
+  "confidence": 0.405,
+  "notes": "Extracted 2 real courses from https://www.swccd.edu/classes-and-registration/class-schedule/index.aspx. Source is a catalog: real courses but modality not exposed here (defaults to in_person until a live-schedule adapter is added).",
+  "learnedAt": "2026-06-05T22:47:21.819Z"
+}

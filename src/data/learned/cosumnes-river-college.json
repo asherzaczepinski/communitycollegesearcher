@@ -1,0 +1,16 @@
+{
+  "slug": "cosumnes-river-college",
+  "name": "Cosumnes River College",
+  "url": "https://www.crc.losrios.edu/",
+  "platform": "unknown",
+  "scheduleUrl": null,
+  "catalogUrl": null,
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [],
+  "confidence": 0,
+  "notes": "Homepage returned HTTP 404",
+  "learnedAt": "2026-06-05T22:44:05.060Z"
+}

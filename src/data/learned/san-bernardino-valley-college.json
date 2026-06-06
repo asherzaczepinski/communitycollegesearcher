@@ -1,0 +1,42 @@
+{
+  "slug": "san-bernardino-valley-college",
+  "name": "San Bernardino Valley College",
+  "url": "https://www.valleycollege.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.valleycollege.edu/academics/class-schedule/index.php",
+  "catalogUrl": "https://www.valleycollege.edu/academics/college-catalog.php",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.valleycollege.edu/academics/class-schedule/index.php",
+      "score": 5
+    },
+    {
+      "text": "Financial Aid Disbursement Schedule",
+      "href": "https://www.valleycollege.edu/financial-aid/disbursements.php",
+      "score": 2
+    },
+    {
+      "text": "Find Your Classes for Summer & Fall 2026",
+      "href": "https://www.valleycollege.edu/eschedule/index.php?term=2026SP&IsOpen=true",
+      "score": 2
+    },
+    {
+      "text": "View Open Classes",
+      "href": "https://www.valleycollege.edu/eschedule/index.php?IsOpen=true",
+      "score": 2
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://www.valleycollege.edu/academics/college-catalog.php",
+      "score": 6
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:46:39.640Z"
+}

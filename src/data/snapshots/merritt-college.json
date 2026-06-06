@@ -1,0 +1,91 @@
+{
+  "slug": "merritt-college",
+  "scrapedAt": "2026-06-05T22:55:26.471Z",
+  "count": 7,
+  "courses": [
+    {
+      "code": "COMM 45",
+      "title": "Introduction to Public Speaking",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://merritt.edu/online-schedule?campus=Merritt&session_code=4W1%2C10W%2C8W1%2C8W2%2CDOE%2CIN1%2C14W%2CDYN"
+    },
+    {
+      "code": "ENGL 1A",
+      "title": "Academic Reading and Writing",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://merritt.edu/online-schedule?campus=Merritt&session_code=4W1%2C10W%2C8W1%2C8W2%2CDOE%2CIN1%2C14W%2CDYN"
+    },
+    {
+      "code": "ENGL 1AS",
+      "title": "Composition and Reading with Support",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://merritt.edu/online-schedule?campus=Merritt&session_code=4W1%2C10W%2C8W1%2C8W2%2CDOE%2CIN1%2C14W%2CDYN"
+    },
+    {
+      "code": "ENGL 5",
+      "title": "Critical Thinking in Reading and Writing",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://merritt.edu/online-schedule?campus=Merritt&session_code=4W1%2C10W%2C8W1%2C8W2%2CDOE%2CIN1%2C14W%2CDYN"
+    },
+    {
+      "code": "MATH 13",
+      "title": "Introduction to Statistics",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://merritt.edu/online-schedule?campus=Merritt&session_code=4W1%2C10W%2C8W1%2C8W2%2CDOE%2CIN1%2C14W%2CDYN"
+    },
+    {
+      "code": "POSCI 1",
+      "title": "Government and Politics in the United States",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://merritt.edu/online-schedule?campus=Merritt&session_code=4W1%2C10W%2C8W1%2C8W2%2CDOE%2CIN1%2C14W%2CDYN"
+    },
+    {
+      "code": "PSYCH 1A",
+      "title": "Introduction to General Psychology",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://merritt.edu/online-schedule?campus=Merritt&session_code=4W1%2C10W%2C8W1%2C8W2%2CDOE%2CIN1%2C14W%2CDYN"
+    }
+  ]
+}

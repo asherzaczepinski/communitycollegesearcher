@@ -1,0 +1,32 @@
+{
+  "slug": "rio-hondo-college",
+  "name": "Rio Hondo College",
+  "url": "https://www.riohondo.edu/",
+  "platform": "banner",
+  "scheduleUrl": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_search",
+  "catalogUrl": "https://www.riohondo.edu/academics/catalog/",
+  "extractUrl": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_search",
+  "method": "auto",
+  "sampleCount": 13,
+  "modalityCoverage": 0.077,
+  "candidates": [
+    {
+      "text": "View Class Schedules",
+      "href": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_search",
+      "score": 5
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://www.riohondo.edu/academics/catalog/",
+      "score": 6
+    },
+    {
+      "text": "View Open Classes",
+      "href": "https://gorio.page/summer-open-courses",
+      "score": 1
+    }
+  ],
+  "confidence": 0.46326923076923077,
+  "notes": "Extracted 13 real courses from https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_search. Modality available for ~8% (real schedule data).",
+  "learnedAt": "2026-06-05T22:46:34.352Z"
+}

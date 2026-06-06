@@ -1,0 +1,32 @@
+{
+  "slug": "reedley-college",
+  "name": "Reedley College",
+  "url": "https://www.reedleycollege.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.reedleycollege.edu/admissions-aid/admissions/Schedule%20of%20Classes.html",
+  "catalogUrl": "https://www.reedleycollege.edu/admissions-aid/admissions/College%20Catalogs.html",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedules",
+      "href": "https://www.reedleycollege.edu/admissions-aid/admissions/Schedule%20of%20Classes.html",
+      "score": 5
+    },
+    {
+      "text": "Finals Schedule",
+      "href": "https://www.reedleycollege.edu/academics/finals-schedule.html",
+      "score": 2
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://www.reedleycollege.edu/admissions-aid/admissions/College%20Catalogs.html",
+      "score": 6
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:46:31.208Z"
+}

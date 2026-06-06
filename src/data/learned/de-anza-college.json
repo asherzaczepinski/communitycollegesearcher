@@ -1,0 +1,16 @@
+{
+  "slug": "de-anza-college",
+  "name": "De Anza College",
+  "url": "https://www.deanza.edu/",
+  "platform": "unknown",
+  "scheduleUrl": null,
+  "catalogUrl": null,
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [],
+  "confidence": 0,
+  "notes": "Homepage returned HTTP 403",
+  "learnedAt": "2026-06-05T22:44:22.818Z"
+}

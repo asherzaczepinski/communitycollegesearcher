@@ -1,0 +1,22 @@
+{
+  "slug": "calbright-college",
+  "name": "Calbright College",
+  "url": "https://www.calbright.org/",
+  "platform": "unknown",
+  "scheduleUrl": null,
+  "catalogUrl": "https://www.calbright.edu/academic-catalogs/",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Academic Catalogs",
+      "href": "https://www.calbright.edu/academic-catalogs/",
+      "score": 3
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:43:15.968Z"
+}

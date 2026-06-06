@@ -1,0 +1,32 @@
+{
+  "slug": "miracosta-college",
+  "name": "MiraCosta College",
+  "url": "https://www.miracosta.edu/",
+  "platform": "peoplesoft",
+  "scheduleUrl": "https://www.miracosta.edu/academics/class-schedules-catalog/index.html",
+  "catalogUrl": "https://www.miracosta.edu/academics/class-schedules-catalog/index.html",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedules",
+      "href": "https://www.miracosta.edu/academics/class-schedules-catalog/index.html",
+      "score": 5
+    },
+    {
+      "text": "Summer and Fall Schedule",
+      "href": "https://surf.miracosta.edu/psc/ps/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL",
+      "score": 2
+    },
+    {
+      "text": "Class Schedules",
+      "href": "https://www.miracosta.edu/academics/class-schedules-catalog/index.html",
+      "score": 3
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:45:45.319Z"
+}

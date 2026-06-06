@@ -1,0 +1,32 @@
+{
+  "slug": "cypress-college",
+  "name": "Cypress College",
+  "url": "https://www.cypresscollege.edu/",
+  "platform": "acalog",
+  "scheduleUrl": "https://www.cypresscollege.edu/schedule-of-classes-and-college-catalog/",
+  "catalogUrl": "https://www.cypresscollege.edu/schedule-of-classes-and-college-catalog/",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedules",
+      "href": "https://www.cypresscollege.edu/schedule-of-classes-and-college-catalog/",
+      "score": 5
+    },
+    {
+      "text": "Schedule",
+      "href": "https://www.cypresscollege.edu/schedule-of-classes-and-college-catalog/",
+      "score": 3
+    },
+    {
+      "text": "Catalog",
+      "href": "https://catalog.nocccd.edu/cypress-college/",
+      "score": 3
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:44:21.177Z"
+}

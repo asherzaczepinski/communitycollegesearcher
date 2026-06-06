@@ -1,0 +1,32 @@
+{
+  "slug": "compton-college",
+  "name": "Compton College",
+  "url": "https://www.compton.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.compton.edu/admissions-aid/ClassSchedule.aspx",
+  "catalogUrl": "https://www.compton.edu/academics/catalog.aspx",
+  "extractUrl": null,
+  "method": null,
+  "sampleCount": 0,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.compton.edu/admissions-aid/ClassSchedule.aspx",
+      "score": 5
+    },
+    {
+      "text": "Catalog",
+      "href": "https://www.compton.edu/academics/catalog.aspx",
+      "score": 3
+    },
+    {
+      "text": "Non-Credit Courses",
+      "href": "https://programmap.compton.edu/academics",
+      "score": 1
+    }
+  ],
+  "confidence": 0.15,
+  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
+  "learnedAt": "2026-06-05T22:44:01.837Z"
+}

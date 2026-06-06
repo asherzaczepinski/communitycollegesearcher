@@ -1,0 +1,42 @@
+{
+  "slug": "norco-college",
+  "name": "Norco College",
+  "url": "https://www.norcocollege.edu/",
+  "platform": "unknown",
+  "scheduleUrl": "https://www.norcocollege.edu/schedules/index.html",
+  "catalogUrl": "https://www.norcocollege.edu/catalogs/index.html",
+  "extractUrl": "https://www.norcocollege.edu/catalogs/index.html",
+  "method": "auto",
+  "sampleCount": 26,
+  "modalityCoverage": 0,
+  "candidates": [
+    {
+      "text": "Academic Calendar & Class Schedule",
+      "href": "https://www.norcocollege.edu/schedules/index.html",
+      "score": 5
+    },
+    {
+      "text": "Find a Class",
+      "href": "https://www.norcocollege.edu/scheduleapp/index.html",
+      "score": 2
+    },
+    {
+      "text": "Learn More about short-term accelerated classes!",
+      "href": "https://www.norcocollege.edu/schedules/accelerated.html",
+      "score": 2
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://www.norcocollege.edu/catalogs/index.html",
+      "score": 6
+    },
+    {
+      "text": "Student Handbook",
+      "href": "https://rccd.instructure.com/courses/31763",
+      "score": 1
+    }
+  ],
+  "confidence": 0.465,
+  "notes": "Extracted 26 real courses from https://www.norcocollege.edu/catalogs/index.html. Source is a catalog: real courses but modality not exposed here (defaults to in_person until a live-schedule adapter is added).",
+  "learnedAt": "2026-06-05T22:46:13.882Z"
+}
