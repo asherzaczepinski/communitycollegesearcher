@@ -73,10 +73,16 @@ export function upsertCollege({ name, url }) {
   upsertCollegeStmt.run(slugify(name), name, url);
 }
 
+// A college is "live" when it has a real scrape source AND actually has rows.
+// 'sample'/'none' are placeholder/unconfigured and never count as live.
+const LIVE_SQL = `c.scrape_type NOT IN ('sample', 'none')
+                  AND (SELECT COUNT(*) FROM courses WHERE college_id = c.id) > 0`;
+
 export function getColleges() {
   return db.prepare(`
     SELECT c.*,
-           (SELECT COUNT(*) FROM courses WHERE college_id = c.id) AS course_count
+           (SELECT COUNT(*) FROM courses WHERE college_id = c.id) AS course_count,
+           (CASE WHEN ${LIVE_SQL} THEN 1 ELSE 0 END) AS live
     FROM colleges c
     ORDER BY c.name
   `).all();
@@ -143,7 +149,8 @@ export function replaceCourses(collegeId, courses) {
 // --- Search ---------------------------------------------------------------
 
 export function searchCourses({ q = '', modality = null, collegeSlug = null, limit = 500 }) {
-  const where = [];
+  // Only ever surface REAL scraped data. Sample/placeholder rows are never searchable.
+  const where = ["colleges.scrape_type NOT IN ('sample', 'none')"];
   const params = {};
 
   if (q && q.trim()) {
@@ -173,14 +180,20 @@ export function searchCourses({ q = '', modality = null, collegeSlug = null, lim
 }
 
 export function stats() {
+  // Course/modality numbers count REAL data only — sample rows don't exist for users.
   const totals = db.prepare(`
     SELECT
       (SELECT COUNT(*) FROM colleges) AS colleges,
-      (SELECT COUNT(*) FROM courses)  AS courses,
-      (SELECT COUNT(*) FROM colleges WHERE scrape_type != 'none') AS configured
+      (SELECT COUNT(*) FROM colleges c WHERE ${LIVE_SQL}) AS liveColleges,
+      (SELECT COUNT(*) FROM courses cr
+         JOIN colleges c ON c.id = cr.college_id
+         WHERE c.scrape_type NOT IN ('sample','none')) AS courses
   `).get();
-  const byModality = db.prepare(
-    `SELECT modality, COUNT(*) AS n FROM courses GROUP BY modality`
-  ).all();
+  const byModality = db.prepare(`
+    SELECT modality, COUNT(*) AS n
+    FROM courses cr JOIN colleges c ON c.id = cr.college_id
+    WHERE c.scrape_type NOT IN ('sample','none')
+    GROUP BY modality
+  `).all();
   return { ...totals, byModality };
 }

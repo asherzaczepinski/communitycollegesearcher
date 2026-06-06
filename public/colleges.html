@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Colleges &amp; Scrapers · CCC Mainframe</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <nav class="topnav">
+    <a class="brand" href="/">▣ CCC Mainframe</a>
+    <div class="links">
+      <a href="/search.html">Search</a>
+      <a href="/colleges.html" class="active">Colleges &amp; Scrapers</a>
+    </div>
+  </nav>
+
+  <header>
+    <h1>Colleges &amp; Scrapers</h1>
+    <p class="tagline">Which colleges are working, which aren’t — and run any college’s scraper yourself.</p>
+    <p class="stats" id="stats"></p>
+  </header>
+
+  <main>
+    <div class="manager-bar">
+      <input id="filter" type="search" placeholder="Filter colleges by name…" />
+      <div class="seg" id="seg">
+        <button data-tab="all" class="active">All</button>
+        <button data-tab="live">Live</button>
+        <button data-tab="pending">Not live</button>
+      </div>
+    </div>
+
+    <p class="result-meta" id="manager-meta"></p>
+
+    <section class="college-group" id="group-live">
+      <h2><span class="dot online"></span>Live — real data <span class="result-meta" id="live-count"></span></h2>
+      <div id="list-live" class="college-rows"></div>
+    </section>
+
+    <section class="college-group" id="group-pending">
+      <h2><span class="dot in_person"></span>Not live yet <span class="result-meta" id="pending-count"></span></h2>
+      <p class="hint">These colleges aren’t publicly scrapable over plain HTTP yet, so they have no real data
+        and don’t appear in search. Try <b>Scrape</b> (run the per-college scraper) or <b>Re-learn</b>
+        (re-discover its catalog/schedule links).</p>
+      <div id="list-pending" class="college-rows"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Scraping runs against the live college site and can take a few seconds. Results update in place.</p>
+  </footer>
+
+  <script src="/colleges.js"></script>
+</body>
+</html>

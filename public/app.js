@@ -13,7 +13,8 @@ async function loadColleges() {
   const res = await fetch('/api/colleges');
   const { colleges } = await res.json();
   const sel = $('#college');
-  for (const c of colleges) {
+  // Only live colleges (real scraped data) are searchable, so only list those.
+  for (const c of colleges.filter((c) => c.live)) {
     const opt = document.createElement('option');
     opt.value = c.slug;
     opt.textContent = `${c.name} (${c.course_count})`;
@@ -26,7 +27,7 @@ async function loadStats() {
   const s = await res.json();
   const byMod = Object.fromEntries(s.byModality.map((m) => [m.modality, m.n]));
   $('#stats').textContent =
-    `${s.colleges} colleges · ${s.courses.toLocaleString()} courses · ` +
+    `${s.liveColleges} live colleges · ${s.courses.toLocaleString()} real courses · ` +
     `${byMod.in_person || 0} in person · ${byMod.online || 0} online · ${byMod.hybrid || 0} hybrid`;
 }
 
@@ -100,9 +101,20 @@ function init() {
     search();
   });
 
-  loadColleges();
+  // Honor deep-links from the homepage: /search.html?college=<slug>&q=<term>
+  const params = new URLSearchParams(location.search);
+  const preCollege = params.get('college');
+  const preQ = params.get('q');
+  if (preQ) { state.q = preQ; $('#q').value = preQ; }
+
+  loadColleges().then(() => {
+    if (preCollege && $(`#college option[value="${CSS.escape(preCollege)}"]`)) {
+      state.college = preCollege;
+      $('#college').value = preCollege;
+    }
+    search();
+  });
   loadStats();
-  search();
 }
 
 init();

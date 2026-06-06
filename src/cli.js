@@ -54,14 +54,16 @@ switch (cmd) {
     const seed = loadSeed();
     for (const c of seed) upsertCollege(c);
     console.log(`Seeded ${seed.length} colleges into the database.`);
-    console.log('Next: `npm run scrape` to populate courses (sample data), then `npm start`.');
+    console.log('Next: `npm run scrape` to pull REAL courses (no fake data), then `npm start`.');
     break;
   }
 
   case 'scrape': {
     const colleges = resolveColleges(args);
-    const allowSample = !flags.has('--real'); // --real => real data only, no placeholder fallback
-    console.log(`Scraping ${colleges.length} college(s)${allowSample ? '' : ' (real data only)'}...`);
+    // Real data only by default — we never invent fake courses for colleges that
+    // aren't actually scrapable. Pass --sample to opt back into placeholder data.
+    const allowSample = flags.has('--sample');
+    console.log(`Scraping ${colleges.length} college(s)${allowSample ? ' (incl. sample fallback)' : ' (real data only)'}...`);
     const results = await scrapeAll(colleges, {
       allowSample,
       onResult: (r) =>

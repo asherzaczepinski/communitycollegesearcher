@@ -1,0 +1,254 @@
+================================================================================
+ CALIFORNIA COMMUNITY COLLEGE COURSE SEARCHER — PROCESS SUMMARY
+ Last updated: 2026-06-06
+================================================================================
+
+WHAT THIS IS
+--------------------------------------------------------------------------------
+A local app that lets you type a course and search across California Community
+Colleges at once, with results grouped by delivery method: IN PERSON / ONLINE /
+HYBRID. It has three parts:
+
+  1. A local SQLite DATABASE of colleges + courses.
+  2. A BACKEND that scrapes/updates that database (and "learns" how to find
+     courses on each college's website).
+  3. A FRONTEND (web page) for the actual searching.
+
+Everything runs locally. No cloud, no accounts, no Vercel/Next — it's plain
+Node.js (Node 24), one HTML/JS/CSS frontend, and a couple of npm packages
+(cheerio for HTML parsing, selenium-webdriver for the optional headless browser).
+
+
+================================================================================
+ WHERE THINGS STAND RIGHT NOW
+================================================================================
+
+  Colleges total ............ 118  (the full official CCC list)
+  LIVE (real scraped data) .. 30 colleges, ~14,131 real courses
+  SAMPLE (placeholder) ...... 88 colleges
+  Server .................... http://localhost:3000
+
+In the web page, every result is tagged so you always know what's real:
+    ● live    = scraped from the actual college site
+    ○ sample  = placeholder data (that college isn't publicly scrapable yet)
+
+TWO KINDS OF "LIVE" DATA:
+  - BANNER colleges (9): real OFFERED SECTIONS with REAL MODALITY
+    (in person / online / hybrid). This is the real goal achieved.
+  - CATALOG colleges (21): real course codes + titles, but modality is not
+    published in a catalog, so those default to "in person".
+
+LIVE COLLEGES (course counts):
+  Bakersfield College ............ 3610   (Banner, real modality)
+  Sierra College ................. 2217   (Banner, real modality)
+  Santa Rosa Junior College ...... 2015   (Banner, real modality)
+  Foothill College ............... 1823   (catalog)
+  Allan Hancock College .......... 1275   (Banner, real modality)
+  Cuesta College .................  998   (Banner, real modality)
+  Monterey Peninsula College .....  645   (Banner, real modality)
+  Solano Community College .......  510   (Banner, real modality)
+  Barstow Community College ......  287   (Banner, real modality)
+  College of the Siskiyous .......  235   (Banner, real modality)
+  Los Medanos College ............  214   (catalog)
+  College of the Sequoias ........  107   (catalog)
+  Santa Barbara City College .....   52   (catalog)
+  Norco College ..................   26   (catalog)
+  Diablo Valley College ..........   23   (schedule page)
+  Los Angeles Pierce College .....   16   (catalog)
+  Rio Hondo College ..............   13   (catalog)
+  Mission College ................   12   (catalog)
+  Golden West College ............   10   (catalog)
+  Berkeley City College ..........    9   (catalog)
+  Laney College ..................    9   (catalog)
+  Merritt College ................    7   (catalog)
+  Columbia College ...............    4   (catalog)
+  North Orange Continuing Ed .....    4   (catalog)
+  Contra Costa College ...........    2   (catalog)
+  El Camino College ..............    2   (catalog)
+  Las Positas College ............    2   (catalog)
+  Southwestern College ...........    2   (catalog)
+  Los Angeles Valley College .....    1   (catalog)
+  Orange Coast College ...........    1   (catalog)
+
+The other 88 colleges show sample data because their live class schedule is a
+JavaScript app or a login-gated student portal with no publicly scrapable page.
+
+
+================================================================================
+ THE PROCESS — HOW WE GOT HERE (chronological)
+================================================================================
+
+STEP 1 — Get the list of all colleges
+  Pulled the full list of 118 colleges + their websites from the official page:
+  cccco.edu/Students/Find-a-College/College-Alphabetical-Listing
+  Saved to: src/data/colleges.json
+
+STEP 2 — Build the database + app skeleton
+  - Local SQLite DB (Node's built-in node:sqlite) with two tables: colleges,
+    courses. Courses store: code, title, modality, term, units, instructor,
+    section, description, url.
+  - A zero-dependency HTTP server (src/server.js) that serves the frontend and
+    a small JSON API.
+  - A frontend (public/) with a search box, college dropdown, and
+    In Person / Online / Hybrid filters. Results grouped by modality.
+  - Seeded the 118 colleges; filled with SAMPLE courses so search worked
+    immediately end-to-end.
+
+STEP 3 — Replace placeholder with REAL scraping ("learn how to find courses")
+  - Built a "learn" step (npm run detect) that visits each college's homepage,
+    finds the class-schedule / course-catalog links, follows them up to 2 hops
+    deep, even probes catalog.<college>.edu subdomains, and runs a generic
+    course extractor on whatever real HTML it finds.
+  - Everything it learns is saved to plain files (the "memory"):
+        src/data/learned/<slug>.json      (the recipe: where courses live)
+        src/data/learned/LEARNING_LOG.txt  (append-only log)
+        src/data/snapshots/<slug>.json     (the extracted courses cache)
+  - Result of crawling all 118: ~21 colleges had real, server-rendered course
+    data over plain HTTP (mostly CATALOGS = real courses but no modality).
+    The rest were JavaScript apps / login portals = nothing to scrape.
+
+STEP 4 — One dedicated scraper per college
+  - Generated 118 individual scraper files: src/scrapers/<slug>.js, one per
+    college, each self-contained and editable on its own.
+  - A registry (src/scrapers/index.js) auto-loads them all.
+  - The orchestrator calls each college's OWN scraper first; if it returns
+    courses they're used (source = "college"); if it's still a scaffold and
+    throws, that college falls back to sample data.
+  - 21 working scrapers, 97 scaffolds (each pre-filled with that college's
+    discovered candidate links + a TODO).
+
+STEP 5 — Tried Selenium (headless browser) for the JS-app colleges
+  - Installed selenium-webdriver + used the system Google Chrome.
+  - Finding: it renders JavaScript, BUT most college schedule pages are either
+    empty shells or behind a student login, so even a real browser sees no
+    course data. Selenium was NOT the unlock for those.
+  - Kept it (src/scraper/adapters/browser.js) for genuinely JS-rendered lists.
+
+STEP 6 — The real win: BANNER public JSON API (real modality!)
+  - Discovered that colleges running "Ellucian Banner Student Registration
+    Self-Service" expose a PUBLIC JSON class-search API (no browser needed).
+  - Built src/scraper/adapters/banner.js which:
+        1. opens a session (cookie),
+        2. lists terms and picks the newest one,
+        3. locks the term into the session,
+        4. pages through the results JSON.
+  - Each section includes instructionalMethod + campus, which we map to
+    in person / online / hybrid. THIS IS REAL MODALITY DATA.
+  - Wired 9 Banner colleges to their own per-college scrapers. They now return
+    real Fall 2026 offered sections tagged by modality.
+        Example (Sierra College): ~849 in-person / ~895 online / ~473 hybrid.
+
+
+================================================================================
+ HOW THE PIECES WORK TOGETHER
+================================================================================
+
+  colleges.json ──seed──► SQLite DB (colleges table)
+                                  │
+   npm run detect ("learn") ──────┤ writes recipes -> src/data/learned/*.json
+   crawls each site, finds where   │
+   courses live, extracts samples  │
+                                    ▼
+   npm run scrape  ──► for each college, the orchestrator picks a source:
+        1) the college's own scraper  src/scrapers/<slug>.js   (preferred)
+              - Banner colleges  -> banner.js  (real sections + modality)
+              - catalog colleges -> generic extractor on the learned URL
+        2) else generic recipe (auto/html)
+        3) else SAMPLE placeholder (so the UI is never empty)
+                                    ▼
+                          courses table (SQLite)
+                                    ▼
+   npm start  ──► server.js serves:
+        GET  /api/search?q=&modality=&college=     (the search)
+        GET  /api/colleges                          (dropdown + counts)
+        GET  /api/stats                             (totals)
+        POST /api/update/<slug>                     (re-scrape one college live)
+        POST /api/learn/<slug>                      (re-learn one college)
+                                    ▼
+                  public/ frontend at http://localhost:3000
+
+
+================================================================================
+ HOW TO USE IT
+================================================================================
+
+  npm install                 # one-time: install dependencies
+  npm run seed                # load the 118 colleges into the DB
+  npm run detect              # crawl every site, learn where courses live
+  npm run scrape              # load real data where available, sample elsewhere
+  npm start                   # open http://localhost:3000
+
+  Useful variations:
+  npm run scrape -- sierra-college        # (re)scrape one college
+  npm run detect -- foothill-college      # re-learn one college
+  npm run gen                             # regenerate any missing scraper files
+  npm run gen -- --force                  # rebuild all scraper files from recipes
+  npm run stats                           # counts by college + modality
+
+  Live update while the server runs:
+  curl -X POST http://localhost:3000/api/update/sierra-college
+
+
+================================================================================
+ KEY FILES
+================================================================================
+
+  src/data/colleges.json            the 118 colleges (name + url)
+  src/data/courses.db               the local SQLite database
+  src/data/learned/<slug>.json      what we learned about each site
+  src/data/learned/LEARNING_LOG.txt log of every learn run
+  src/data/snapshots/<slug>.json    cached extracted courses per college
+
+  src/db.js                         DB schema + all queries (search, stats)
+  src/server.js                     HTTP server + JSON API
+  src/cli.js                        backend commands (seed/scrape/detect/stats)
+  src/genScrapers.js                generates the 118 per-college scrapers
+
+  src/scraper/learn.js              the crawler ("learn where courses live")
+  src/scraper/extract.js            generic selector-free course extractor
+  src/scraper/modality.js           normalizes any label -> the 3 buckets
+  src/scraper/index.js              orchestrator (picks a source per college)
+  src/scraper/adapters/banner.js    REAL Banner JSON API scraper (modality!)
+  src/scraper/adapters/auto.js      generic extractor adapter (catalogs)
+  src/scraper/adapters/html.js      selector-driven HTML adapter
+  src/scraper/adapters/sample.js    deterministic placeholder generator
+  src/scraper/adapters/browser.js   Selenium headless-browser renderer
+  src/scrapers/<slug>.js            118 per-college scrapers
+  src/scrapers/index.js             registry that auto-loads them
+
+  public/index.html / app.js / styles.css   the search frontend
+
+
+================================================================================
+ HONEST LIMITATIONS
+================================================================================
+
+  - It is NOT live for all 118 colleges, and it can't easily be. There is no
+    public, scrapable data for the colleges whose schedule is a JavaScript app
+    or sits behind a student login portal. That's a per-college reverse-
+    engineering job, not a single switch.
+
+  - MODALITY (in person / online / hybrid) only exists in a college's LIVE class
+    schedule. The 9 Banner colleges have it for real. The 21 catalog colleges
+    have real courses but default modality, because catalogs don't publish it.
+
+  - Course catalogs list courses that CAN be offered; Banner data is what's
+    actually offered for the current term. They are different things; the app
+    mixes both but labels the source.
+
+
+================================================================================
+ WHAT COULD COME NEXT
+================================================================================
+
+  - Find MORE Banner colleges. Only the ones that link Banner from their
+    homepage were auto-detected (9). Many more exist behind reg-prod / ssb host
+    patterns and could be probed and added — each new Banner college is real
+    modality data for free with the existing adapter.
+
+  - Add adapters for other common platforms (PeopleSoft, custom schedules).
+
+  - For the JS/portal colleges, decide case-by-case whether a headless-browser
+    flow (Selenium driving the term/subject form) is worth it.
+
+================================================================================

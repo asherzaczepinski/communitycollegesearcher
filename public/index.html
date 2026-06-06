@@ -3,40 +3,60 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>CA Community College Course Search</title>
+  <title>CCC Mainframe · California Community College Course Searcher</title>
   <link rel="stylesheet" href="/styles.css" />
 </head>
 <body>
-  <header>
-    <h1>California Community College Course Search</h1>
-    <p class="tagline">Type a course. Search every college at once — in&nbsp;person, online, or hybrid.</p>
-    <p class="stats" id="stats"></p>
+  <nav class="topnav">
+    <a class="brand" href="/">▣ CCC Mainframe</a>
+    <div class="links">
+      <a href="/search.html">Search</a>
+      <a href="/colleges.html">Colleges &amp; Scrapers</a>
+    </div>
+  </nav>
+
+  <header class="hero">
+    <h1>California Community College <span>Mainframe</span></h1>
+    <p class="tagline">One hub for every California community college course — scraped live, never faked.
+      Search across colleges, or pick a college and run its scraper.</p>
+    <div class="bigstats" id="bigstats">
+      <div class="stat"><span class="num" id="stat-live">—</span><span class="lab">live colleges</span></div>
+      <div class="stat"><span class="num" id="stat-courses">—</span><span class="lab">real courses</span></div>
+      <div class="stat"><span class="num" id="stat-pending">—</span><span class="lab">not live yet</span></div>
+    </div>
+    <p class="modline" id="modline"></p>
   </header>
 
   <main>
-    <form id="search-form" class="search-bar" autocomplete="off">
-      <input id="q" type="search" placeholder="Search a course, e.g. “calculus”, “CIS 101”, “nursing”…" />
-      <select id="college" title="College">
-        <option value="all">All colleges</option>
-      </select>
-      <button type="submit">Search</button>
-    </form>
+    <section class="nav-cards">
+      <a class="nav-card" href="/search.html">
+        <div class="ic">🔍</div>
+        <h2>Search Courses</h2>
+        <p>Go into the searcher. Type a course and search every live college at once — filter by in person, online, or hybrid.</p>
+        <span class="go">Open searcher →</span>
+      </a>
+      <a class="nav-card" href="/colleges.html">
+        <div class="ic">🏫</div>
+        <h2>Colleges &amp; Scrapers</h2>
+        <p>See which colleges are working and which aren’t. Pick any college and run its scraper or re-learn its site.</p>
+        <span class="go">Manage colleges →</span>
+      </a>
+    </section>
 
-    <div class="modalities" id="modality-filter">
-      <button data-modality="all" class="active">All</button>
-      <button data-modality="in_person">In Person</button>
-      <button data-modality="online">Online</button>
-      <button data-modality="hybrid">Hybrid</button>
-    </div>
-
-    <p class="result-meta" id="result-meta"></p>
-    <div id="results"></div>
+    <section class="home-list">
+      <div class="home-list-head">
+        <h3>Working colleges <span class="result-meta" id="working-count"></span></h3>
+        <a href="/colleges.html">See all →</a>
+      </div>
+      <div id="working" class="chips"></div>
+    </section>
   </main>
 
   <footer>
-    <p>Local database • update from the backend with <code>npm run scrape</code> or the per-college update button.</p>
+    <p>Local · Node + SQLite · refresh data with <code>npm run scrape</code> or the per-college buttons.
+      Only real scraped data is searchable.</p>
   </footer>
 
-  <script src="/app.js"></script>
+  <script src="/home.js"></script>
 </body>
 </html>

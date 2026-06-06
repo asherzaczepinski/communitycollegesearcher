@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Search · CA Community College Course Search</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <nav class="topnav">
+    <a class="brand" href="/">▣ CCC Mainframe</a>
+    <div class="links">
+      <a href="/search.html" class="active">Search</a>
+      <a href="/colleges.html">Colleges &amp; Scrapers</a>
+    </div>
+  </nav>
+
+  <header>
+    <h1>Search Courses</h1>
+    <p class="tagline">Type a course. Search every <strong>live</strong> college at once — in&nbsp;person, online, or hybrid.</p>
+    <p class="stats" id="stats"></p>
+  </header>
+
+  <main>
+    <form id="search-form" class="search-bar" autocomplete="off">
+      <input id="q" type="search" placeholder="Search a course, e.g. “calculus”, “CIS 101”, “nursing”…" />
+      <select id="college" title="College">
+        <option value="all">All live colleges</option>
+      </select>
+      <button type="submit">Search</button>
+    </form>
+
+    <div class="modalities" id="modality-filter">
+      <button data-modality="all" class="active">All</button>
+      <button data-modality="in_person">In Person</button>
+      <button data-modality="online">Online</button>
+      <button data-modality="hybrid">Hybrid</button>
+    </div>
+
+    <p class="result-meta" id="result-meta"></p>
+    <div id="results"></div>
+  </main>
+
+  <footer>
+    <p>Only real, scraped course data is searchable. Manage scrapers on the
+      <a href="/colleges.html">Colleges &amp; Scrapers</a> page.</p>
+  </footer>
+
+  <script src="/app.js"></script>
+</body>
+</html>
