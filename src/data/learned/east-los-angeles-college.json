@@ -2,13 +2,14 @@
   "slug": "east-los-angeles-college",
   "name": "East Los Angeles College",
   "url": "https://www.elac.edu/",
+  "source": "homepage",
   "platform": "unknown",
   "scheduleUrl": "https://www.laccd.edu/students/class-search-elac",
   "catalogUrl": "https://www.elac.edu/academic-resources/catalog",
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
-  "modalityCoverage": 0,
+  "extractUrl": "http://205.154.255.98/academics/schedules/courselisting/class_list_Spring_2026.htm",
+  "method": "auto",
+  "sampleCount": 609,
+  "modalityCoverage": 0.989,
   "candidates": [
     {
       "text": "Class Search",
@@ -31,7 +32,10 @@
       "score": 6
     }
   ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:44:24.411Z"
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 1,
+  "notes": "Extracted 609 real courses from http://205.154.255.98/academics/schedules/courselisting/class_list_Spring_2026.htm. Modality available for ~99% (real schedule data).",
+  "learnedAt": "2026-06-08T17:21:53.248Z"
 }

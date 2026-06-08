@@ -2,6 +2,7 @@
   "slug": "los-angeles-city-college",
   "name": "Los Angeles City College",
   "url": "https://www.lacitycollege.edu/",
+  "source": "homepage",
   "platform": "unknown",
   "scheduleUrl": null,
   "catalogUrl": null,
@@ -10,7 +11,10 @@
   "sampleCount": 0,
   "modalityCoverage": 0,
   "candidates": [],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
   "confidence": 0,
   "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-05T22:45:08.668Z"
+  "learnedAt": "2026-06-08T17:36:29.862Z"
 }

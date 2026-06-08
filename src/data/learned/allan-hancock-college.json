@@ -2,46 +2,86 @@
   "slug": "allan-hancock-college",
   "name": "Allan Hancock College",
   "url": "https://www.hancockcollege.edu/",
-  "platform": "banner",
-  "scheduleUrl": "https://ssb.hancockcollege.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search",
-  "catalogUrl": "https://hancockcollege.curriqunet.com/catalog",
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "source": "web-search",
+  "platform": "unknown",
+  "scheduleUrl": null,
+  "catalogUrl": null,
+  "extractUrl": "https://en.wikipedia.org/wiki/Allan_Hancock_College",
+  "method": "auto",
+  "sampleCount": 1,
   "modalityCoverage": 0,
   "candidates": [
     {
-      "text": "Class Search",
-      "href": "https://ssb.hancockcollege.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search",
-      "score": 5
+      "text": "Allan Hancock College Calendar",
+      "href": "https://www.hancockcollege.edu/calendar/index.php",
+      "score": 0
     },
     {
-      "text": "MESA/STEM Academic Success Center",
-      "href": "https://www.hancockcollege.edu/mesa/aew-tutoring-schedules.php",
-      "score": 2
+      "text": "Academic & Events Calendars",
+      "href": "https://www.hancockcollege.edu/calendar/grid.php",
+      "score": 0
     },
     {
-      "text": "Catalog",
-      "href": "https://hancockcollege.curriqunet.com/catalog",
-      "score": 3
+      "text": "Allan Hancock College | Sonya Christian's Blog",
+      "href": "https://sonyachristianblog.com/tag/allan-hancock-college/",
+      "score": 0
     },
     {
-      "text": "Transfer Degrees",
-      "href": "https://hancockcollege.curriqunet.com/catalog/iq/140/5135",
-      "score": 3
+      "text": "Allan Hancock offers something for everyone this summer - Santa",
+      "href": "https://santaynezvalleystar.com/allan-hancock-offers-something-for-everyone-this-summer/",
+      "score": 0
     },
     {
-      "text": "Catalog",
-      "href": "https://hancockcollege.curriqunet.com/catalog/iq/301",
-      "score": 3
+      "text": "Allan Hancock College - Wikipedia",
+      "href": "https://en.wikipedia.org/wiki/Allan_Hancock_College",
+      "score": 0
     },
     {
-      "text": "Catalog",
-      "href": "https://hancockcollege.curriqunet.com/catalog/",
-      "score": 3
+      "text": "Allan Hancock College",
+      "href": "https://bibliu.com/resources/allan-hancock-college",
+      "score": 0
     }
   ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:43:14.332Z"
+  "searchQuery": "Allan Hancock College class schedule",
+  "searchResults": [
+    {
+      "title": "Allan Hancock College | Sonya Christian's Blog",
+      "href": "https://sonyachristianblog.com/tag/allan-hancock-college/",
+      "query": "Allan Hancock College class schedule"
+    },
+    {
+      "title": "Allan Hancock College Calendar",
+      "href": "https://www.hancockcollege.edu/calendar/index.php",
+      "query": "Allan Hancock College class schedule"
+    },
+    {
+      "title": "Academic & Events Calendars",
+      "href": "https://www.hancockcollege.edu/calendar/grid.php",
+      "query": "Allan Hancock College class schedule"
+    },
+    {
+      "title": "Allan Hancock offers something for everyone this summer - Santa",
+      "href": "https://santaynezvalleystar.com/allan-hancock-offers-something-for-everyone-this-summer/",
+      "query": "Allan Hancock College class schedule"
+    },
+    {
+      "title": "Allan Hancock College - Wikipedia",
+      "href": "https://en.wikipedia.org/wiki/Allan_Hancock_College",
+      "query": "Allan Hancock College class schedule"
+    },
+    {
+      "title": "Allan Hancock College",
+      "href": "https://bibliu.com/resources/allan-hancock-college",
+      "query": "Allan Hancock College class schedule"
+    }
+  ],
+  "blocked": null,
+  "confidence": 0.4025,
+  "notes": "Extracted 1 real courses from https://en.wikipedia.org/wiki/Allan_Hancock_College. Real courses but modality not exposed here (defaults to in_person). Discovered via web search \"Allan Hancock College class schedule\".",
+  "learnedAt": "2026-06-08T16:42:42.230Z",
+  "browserActions": [
+    "browser https://en.wikipedia.org/wiki/Allan_Hancock_College → 1 courses",
+    "browser https://www.hancockcollege.edu/calendar/index.php → 0 courses",
+    "browser https://www.hancockcollege.edu/calendar/grid.php → 0 courses"
+  ]
 }

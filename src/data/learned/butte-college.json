@@ -2,12 +2,13 @@
   "slug": "butte-college",
   "name": "Butte College",
   "url": "https://www.butte.edu/",
+  "source": "homepage",
   "platform": "unknown",
   "scheduleUrl": "https://www.butte.edu/schedule/",
   "catalogUrl": "https://www.butte.edu/curriculum/catalog/",
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "extractUrl": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+  "method": "browser",
+  "sampleCount": 30,
   "modalityCoverage": 0,
   "candidates": [
     {
@@ -36,7 +37,18 @@
       "score": 1
     }
   ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:43:14.343Z"
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.47500000000000003,
+  "notes": "Extracted 30 real courses from https://selfservice.butte.edu/Student/Courses/SearchResult (rendered with a headless browser). Real courses but modality not exposed here (defaults to in_person).",
+  "learnedAt": "2026-06-08T16:59:52.887Z",
+  "browserActions": [
+    "browser https://www.butte.edu/schedule/ → 0 courses",
+    "browser https://www.butte.edu/curriculum/catalog/ → 0 courses",
+    "browser https://selfservice.butte.edu/Student/Courses → 30 courses"
+  ],
+  "browser": {
+    "settleMs": 2500
+  }
 }

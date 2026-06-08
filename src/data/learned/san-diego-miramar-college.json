@@ -2,26 +2,19 @@
   "slug": "san-diego-miramar-college",
   "name": "San Diego Miramar College",
   "url": "https://www.sdmiramar.edu/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": "https://www.sdccd.edu/students/class-search/search.html",
-  "catalogUrl": "https://www.sdccd.edu/students/college-catalogs/index.aspx",
+  "scheduleUrl": null,
+  "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Class Schedule",
-      "href": "https://www.sdccd.edu/students/class-search/search.html",
-      "score": 5
-    },
-    {
-      "text": "Course Catalog",
-      "href": "https://www.sdccd.edu/students/college-catalogs/index.aspx",
-      "score": 6
-    }
-  ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:46:48.300Z"
+  "candidates": [],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0,
+  "notes": "Could not fetch homepage: fetch failed",
+  "learnedAt": "2026-06-08T17:36:30.157Z"
 }

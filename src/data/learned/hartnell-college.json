@@ -2,12 +2,13 @@
   "slug": "hartnell-college",
   "name": "Hartnell College",
   "url": "https://www.hartnell.edu/",
+  "source": "homepage",
   "platform": "unknown",
   "scheduleUrl": "https://www.hartnell.edu/academics/schedule-classes.html",
   "catalogUrl": "https://www.hartnell.edu/academics-affairs/catalogs.html",
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "extractUrl": "https://www.hartnell.edu/academics/ztc/ztc-course-list.html",
+  "method": "auto",
+  "sampleCount": 384,
   "modalityCoverage": 0,
   "candidates": [
     {
@@ -56,7 +57,10 @@
       "score": 1
     }
   ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:44:50.674Z"
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.9,
+  "notes": "Extracted 384 real courses from https://www.hartnell.edu/academics/ztc/ztc-course-list.html. Real courses but modality not exposed here (defaults to in_person).",
+  "learnedAt": "2026-06-08T17:32:27.332Z"
 }

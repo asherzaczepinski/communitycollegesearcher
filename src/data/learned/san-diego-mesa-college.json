@@ -2,56 +2,89 @@
   "slug": "san-diego-mesa-college",
   "name": "San Diego Mesa College",
   "url": "https://www.sdmesa.edu/",
+  "source": "web-search",
   "platform": "unknown",
-  "scheduleUrl": "https://www.sdccd.edu/students/class-search/search.html",
-  "catalogUrl": "https://www.sdccd.edu/students/college-catalogs/index.aspx",
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "scheduleUrl": null,
+  "catalogUrl": "https://www.sdccd.edu/students/online/enroll_in_online_classes/college_catalog_and_schedule/index.aspx",
+  "extractUrl": "https://www.sdmesa.edu/academics/v2/courses/open-courses.html",
+  "method": "browser",
+  "sampleCount": 71,
   "modalityCoverage": 0,
   "candidates": [
     {
-      "text": "Class Schedule",
-      "href": "https://www.sdccd.edu/students/class-search/search.html",
-      "score": 5
+      "text": "College Catalog & Schedule | San Diego Community College",
+      "href": "https://www.sdccd.edu/students/online/enroll_in_online_classes/college_catalog_and_schedule/index.aspx",
+      "score": 6
     },
     {
-      "text": "Find Classes",
-      "href": "https://www.sdmesa.edu/student-support/register-for-classes/find-your-classes.shtml",
-      "score": 3
-    },
-    {
-      "text": "Catalog",
-      "href": "https://www.sdccd.edu/students/college-catalogs/index.aspx",
-      "score": 3
-    },
-    {
-      "text": "Catalog",
-      "href": "https://www.sdmesa.edu/catalog",
-      "score": 3
-    },
-    {
-      "text": "Catalog",
-      "href": "https://www.sdmesa.edu/academics/catalog/index.shtml/",
-      "score": 3
-    },
-    {
-      "text": "Open Courses",
-      "href": "https://www.sdmesa.edu/open-courses",
+      "text": "Open Courses | Crash List | Fall 2024 | San Diego Mesa College",
+      "href": "https://www.sdmesa.edu/academics/v2/courses/open-courses-fall.html",
       "score": 1
     },
     {
-      "text": "All Courses",
-      "href": "https://www.sdmesa.edu/academics/courses",
+      "text": "Open Courses | Summer 2023 | San Diego Mesa College",
+      "href": "https://www.sdmesa.edu/academics/v2/courses/open-courses.html",
       "score": 1
     },
     {
-      "text": "All Courses",
-      "href": "https://www.sdmesa.edu/academics/courses/",
+      "text": "Open Courses | Crash List | Summer 2025 | San Diego Mesa College",
+      "href": "https://www.sdmesa.edu/academics/v2/courses/open-courses-summer.html",
       "score": 1
+    },
+    {
+      "text": "Open Courses | Crash List | Spring 2025 | San Diego Mesa College",
+      "href": "https://www.sdmesa.edu/academics/v2/courses/open-courses-spring.html",
+      "score": 1
+    },
+    {
+      "text": "Welcome Week | San Diego Mesa College",
+      "href": "https://www.sdmesa.edu/student-support/welcome-week/index.shtml",
+      "score": 0
     }
   ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:46:45.632Z"
+  "searchQuery": "San Diego Mesa College class schedule",
+  "searchResults": [
+    {
+      "title": "Open Courses | Crash List | Fall 2024 | San Diego Mesa College",
+      "href": "https://www.sdmesa.edu/academics/v2/courses/open-courses-fall.html",
+      "query": "San Diego Mesa College class schedule"
+    },
+    {
+      "title": "Open Courses | Summer 2023 | San Diego Mesa College",
+      "href": "https://www.sdmesa.edu/academics/v2/courses/open-courses.html",
+      "query": "San Diego Mesa College class schedule"
+    },
+    {
+      "title": "Welcome Week | San Diego Mesa College",
+      "href": "https://www.sdmesa.edu/student-support/welcome-week/index.shtml",
+      "query": "San Diego Mesa College class schedule"
+    },
+    {
+      "title": "Open Courses | Crash List | Summer 2025 | San Diego Mesa College",
+      "href": "https://www.sdmesa.edu/academics/v2/courses/open-courses-summer.html",
+      "query": "San Diego Mesa College class schedule"
+    },
+    {
+      "title": "Open Courses | Crash List | Spring 2025 | San Diego Mesa College",
+      "href": "https://www.sdmesa.edu/academics/v2/courses/open-courses-spring.html",
+      "query": "San Diego Mesa College class schedule"
+    },
+    {
+      "title": "College Catalog & Schedule | San Diego Community College",
+      "href": "https://www.sdccd.edu/students/online/enroll_in_online_classes/college_catalog_and_schedule/index.aspx",
+      "query": "San Diego Mesa College class schedule"
+    }
+  ],
+  "blocked": null,
+  "confidence": 0.5775,
+  "notes": "Extracted 71 real courses from https://www.sdmesa.edu/academics/v2/courses/open-courses.html (rendered with a headless browser). Real courses but modality not exposed here (defaults to in_person). Discovered via web search \"San Diego Mesa College class schedule\".",
+  "learnedAt": "2026-06-08T16:56:30.730Z",
+  "browserActions": [
+    "browser https://www.sdccd.edu/students/online/enroll_in_online_classes/college_catalog_and_schedule/index.aspx → 0 courses",
+    "browser https://www.sdmesa.edu/academics/v2/courses/open-courses-fall.html → 0 courses",
+    "browser https://www.sdmesa.edu/academics/v2/courses/open-courses.html → 71 courses"
+  ],
+  "browser": {
+    "settleMs": 2500
+  }
 }

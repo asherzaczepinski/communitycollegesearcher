@@ -2,15 +2,50 @@
   "slug": "chabot-college",
   "name": "Chabot College",
   "url": "https://www.chabotcollege.edu/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": null,
-  "catalogUrl": null,
+  "scheduleUrl": "https://www.chabotcollege.edu/courses/index.php",
+  "catalogUrl": "https://www.chabotcollege.edu/courses/index.php#catalog",
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-05T22:43:32.433Z"
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.chabotcollege.edu/courses/index.php",
+      "score": 5
+    },
+    {
+      "text": "Class Schedule",
+      "href": "https://www.chabotcollege.edu/courses",
+      "score": 5
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://www.chabotcollege.edu/courses/index.php#catalog",
+      "score": 7
+    },
+    {
+      "text": "Class Schedule",
+      "href": "https://www.chabotcollege.edu/courses/index.php",
+      "score": 1
+    },
+    {
+      "text": "Class Schedule",
+      "href": "https://www.chabotcollege.edu/courses",
+      "score": 1
+    }
+  ],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.15,
+  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
+  "learnedAt": "2026-06-08T17:03:39.001Z",
+  "browserActions": [
+    "browser https://www.chabotcollege.edu/courses/index.php → 0 courses",
+    "browser https://www.chabotcollege.edu/courses/index.php#catalog → 0 courses",
+    "browser https://www.chabotcollege.edu/courses → 0 courses"
+  ]
 }

@@ -2,15 +2,30 @@
   "slug": "citrus-college",
   "name": "Citrus College",
   "url": "https://www.citruscollege.edu/",
-  "platform": "unknown",
-  "scheduleUrl": null,
-  "catalogUrl": null,
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
-  "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-05T22:43:36.451Z"
+  "source": "homepage",
+  "platform": "acalog",
+  "scheduleUrl": "https://www.citruscollege.edu/studentsuccess/schedules/",
+  "catalogUrl": "https://catalog.citruscollege.edu/",
+  "extractUrl": "https://catalog.citruscollege.edu/course-outlines/",
+  "method": "auto",
+  "sampleCount": 1333,
+  "modalityCoverage": 0.002,
+  "candidates": [
+    {
+      "text": "Class Schedules",
+      "href": "https://www.citruscollege.edu/studentsuccess/schedules/",
+      "score": 5
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://catalog.citruscollege.edu/",
+      "score": 6
+    }
+  ],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.9009002250562641,
+  "notes": "Extracted 1333 real courses from https://catalog.citruscollege.edu/course-outlines/. Real courses but modality not exposed here (defaults to in_person).",
+  "learnedAt": "2026-06-08T17:08:05.091Z"
 }

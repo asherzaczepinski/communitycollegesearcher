@@ -1,0 +1,106 @@
+{
+  "slug": "lassen-college",
+  "name": "Lassen College",
+  "url": "https://www.lassencollege.edu/",
+  "status": "impossible",
+  "attempts": 3,
+  "courseCount": 0,
+  "modalityCoverage": 0,
+  "method": null,
+  "extractUrl": null,
+  "blocked": null,
+  "note": "Could not fetch homepage: fetch failed",
+  "startedAt": "2026-06-08T17:35:55.356Z",
+  "finishedAt": "2026-06-08T17:36:29.818Z",
+  "updatedAt": "2026-06-08T17:36:29.818Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:35:55.356Z",
+      "msg": "▶ Starting Lassen College — https://www.lassencollege.edu/"
+    },
+    {
+      "t": "2026-06-08T17:35:55.356Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:35:55.356Z",
+      "msg": "Fetching homepage https://www.lassencollege.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:35:56.146Z",
+      "msg": "Homepage: 2 schedule + 3 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:35:56.709Z",
+      "msg": "probe https://webadvisor.lassencollege.edu:8171/student/courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:35:57.263Z",
+      "msg": "probe https://www.lassencollege.edu/# → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:35:57.679Z",
+      "msg": "probe https://www.lassencollege.edu/academics/college-catalogs/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:35:58.247Z",
+      "msg": "probe https://www.lassencollege.edu/academics/course-outlines/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:36:08.727Z",
+      "msg": "probe https://catalog.lassencollege.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:36:19.250Z",
+      "msg": "probe https://catalog.lassencollege.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:36:29.774Z",
+      "msg": "probe https://catalog.lassencollege.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:36:29.780Z",
+      "msg": "probe https://catalog.lassencollege.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:36:29.785Z",
+      "msg": "probe https://catalog.lassencollege.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:36:29.791Z",
+      "msg": "probe https://webadvisor.lassencollege.edu:8171/student/courses#tab1-content → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:36:29.797Z",
+      "msg": "probe https://www.lassencollege.edu/academics/course-outlines/#content → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:36:29.801Z",
+      "msg": "probe https://app-na.readspeaker.com/cgi-bin/rsent?customerid=11029&lang=en_us&readid=content&url=https%3A%2F%2Fwww.lassencollege.edu%2Facademics%2Fcourse-outlines%2F → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:36:29.803Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:36:29.816Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:36:29.816Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:36:29.816Z",
+      "msg": "Fetching homepage https://www.lassencollege.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:36:29.818Z",
+      "msg": "Homepage fetch failed: fetch failed"
+    },
+    {
+      "t": "2026-06-08T17:36:29.818Z",
+      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    }
+  ]
+}

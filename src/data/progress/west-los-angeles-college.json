@@ -1,0 +1,58 @@
+{
+  "slug": "west-los-angeles-college",
+  "name": "West Los Angeles College",
+  "url": "https://www.wlac.edu/",
+  "status": "impossible",
+  "attempts": 3,
+  "courseCount": 0,
+  "modalityCoverage": 0,
+  "method": null,
+  "extractUrl": null,
+  "blocked": null,
+  "note": "Could not fetch homepage: fetch failed",
+  "startedAt": "2026-06-08T17:36:30.224Z",
+  "finishedAt": "2026-06-08T17:36:30.230Z",
+  "updatedAt": "2026-06-08T17:36:30.230Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:36:30.224Z",
+      "msg": "▶ Starting West Los Angeles College — https://www.wlac.edu/"
+    },
+    {
+      "t": "2026-06-08T17:36:30.224Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:36:30.224Z",
+      "msg": "Fetching homepage https://www.wlac.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:36:30.224Z",
+      "msg": "Homepage fetch failed: fetch failed"
+    },
+    {
+      "t": "2026-06-08T17:36:30.225Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:36:30.229Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:36:30.230Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:36:30.230Z",
+      "msg": "Fetching homepage https://www.wlac.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:36:30.230Z",
+      "msg": "Homepage fetch failed: fetch failed"
+    },
+    {
+      "t": "2026-06-08T17:36:30.230Z",
+      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    }
+  ]
+}

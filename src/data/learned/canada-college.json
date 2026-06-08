@@ -2,15 +2,86 @@
   "slug": "canada-college",
   "name": "Cañada College",
   "url": "https://www.canadacollege.edu/",
-  "platform": "unknown",
-  "scheduleUrl": null,
-  "catalogUrl": null,
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "source": "web-search",
+  "platform": "acalog",
+  "scheduleUrl": "https://canadacollege.edu/cwa/schedule.php",
+  "catalogUrl": "https://catalog.canadacollege.edu/current/registration/class-schedule.php",
+  "extractUrl": "https://canadacollege.edu/academics/finalexams.php",
+  "method": "auto",
+  "sampleCount": 18,
   "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Could not fetch homepage: This operation was aborted",
-  "learnedAt": "2026-06-05T22:43:22.382Z"
+  "candidates": [
+    {
+      "text": "Class Schedule & Course List | College for Working Adults |",
+      "href": "https://canadacollege.edu/cwa/schedule.php",
+      "score": 10
+    },
+    {
+      "text": "Class Schedule and WebSCHEDULE",
+      "href": "https://catalog.canadacollege.edu/current/registration/class-schedule.php",
+      "score": 10
+    },
+    {
+      "text": "Overview | Schedule and Catalog | Cañada College",
+      "href": "https://canadacollege.edu/catalogschedule/",
+      "score": 4
+    },
+    {
+      "text": "Final Exam Schedule | Academics | Cañada College",
+      "href": "https://canadacollege.edu/academics/finalexams.php",
+      "score": 4
+    },
+    {
+      "text": "Cañada College Inquiry Form | Request Information | Cañada",
+      "href": "https://canadacollege.edu/request-info/",
+      "score": 0
+    },
+    {
+      "text": "In the News | News & Events | Cañada College",
+      "href": "https://www.canadacollege.edu/news/",
+      "score": 0
+    }
+  ],
+  "searchQuery": "Cañada College class schedule",
+  "searchResults": [
+    {
+      "title": "Class Schedule & Course List | College for Working Adults |",
+      "href": "https://canadacollege.edu/cwa/schedule.php",
+      "query": "Cañada College class schedule"
+    },
+    {
+      "title": "Cañada College Inquiry Form | Request Information | Cañada",
+      "href": "https://canadacollege.edu/request-info/",
+      "query": "Cañada College class schedule"
+    },
+    {
+      "title": "Overview | Schedule and Catalog | Cañada College",
+      "href": "https://canadacollege.edu/catalogschedule/",
+      "query": "Cañada College class schedule"
+    },
+    {
+      "title": "Final Exam Schedule | Academics | Cañada College",
+      "href": "https://canadacollege.edu/academics/finalexams.php",
+      "query": "Cañada College class schedule"
+    },
+    {
+      "title": "In the News | News & Events | Cañada College",
+      "href": "https://www.canadacollege.edu/news/",
+      "query": "Cañada College class schedule"
+    },
+    {
+      "title": "Class Schedule and WebSCHEDULE",
+      "href": "https://catalog.canadacollege.edu/current/registration/class-schedule.php",
+      "query": "Cañada College class schedule"
+    }
+  ],
+  "blocked": null,
+  "confidence": 0.445,
+  "notes": "Extracted 18 real courses from https://canadacollege.edu/academics/finalexams.php. Real courses but modality not exposed here (defaults to in_person). Discovered via web search \"Cañada College class schedule\".",
+  "learnedAt": "2026-06-08T17:02:24.979Z",
+  "browserActions": [
+    "browser https://canadacollege.edu/cwa/schedule.php → 0 courses",
+    "browser https://canadacollege.edu/academics/finalexams.php → 18 courses",
+    "browser https://catalog.canadacollege.edu/current/registration/class-schedule.php → 0 courses"
+  ]
 }

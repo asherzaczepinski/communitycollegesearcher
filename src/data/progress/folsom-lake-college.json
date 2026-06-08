@@ -1,0 +1,130 @@
+{
+  "slug": "folsom-lake-college",
+  "name": "Folsom Lake College",
+  "url": "https://www.flc.losrios.edu/",
+  "status": "live",
+  "attempts": 2,
+  "courseCount": 1,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "extractUrl": "https://folsomlakesurf.org/competitive-club-season-schedule/",
+  "blocked": null,
+  "note": "Extracted 1 real courses from https://folsomlakesurf.org/competitive-club-season-schedule/. Real courses but modality not exposed here (defaults to in_person). Discovered via web search \"Folsom Lake College class schedule\".",
+  "startedAt": "2026-06-08T17:23:53.354Z",
+  "finishedAt": "2026-06-08T17:24:35.849Z",
+  "updatedAt": "2026-06-08T17:24:35.849Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:23:53.354Z",
+      "msg": "▶ Starting Folsom Lake College — https://www.flc.losrios.edu/"
+    },
+    {
+      "t": "2026-06-08T17:23:53.355Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:23:53.355Z",
+      "msg": "Fetching homepage https://www.flc.losrios.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:23:53.491Z",
+      "msg": "Homepage returned HTTP 404"
+    },
+    {
+      "t": "2026-06-08T17:23:53.492Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:23:55.692Z",
+      "msg": "Web search returned 6 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:23:55.693Z",
+      "msg": "Top candidate: https://flc.losrios.edu/admissions/academic-calendar-and-deadlines/final-exam-schedule (platform: unknown)."
+    },
+    {
+      "t": "2026-06-08T17:23:55.856Z",
+      "msg": "probe https://flc.losrios.edu/admissions/academic-calendar-and-deadlines/final-exam-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:23:56.251Z",
+      "msg": "probe https://folsomlakesurf.org/folsom-lake-surf-launches-indoor-skills-development-class-schedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:23:56.366Z",
+      "msg": "probe https://flc.losrios.edu/admissions/enroll-in-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:23:56.482Z",
+      "msg": "probe https://flc.losrios.edu/admissions/academic-calendar-and-deadlines → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:23:56.608Z",
+      "msg": "probe https://flc.losrios.edu/register-for-spring → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:23:56.725Z",
+      "msg": "probe https://flc.losrios.edu/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:23:57.015Z",
+      "msg": "probe https://folsomlakesurf.org/folsom-lake-surf-launches-indoor-skills-development-class-schedule/#content → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:23:57.290Z",
+      "msg": "probe https://folsomlakesurf.org/folsom-lake-surf-launches-indoor-skills-development-class-schedule/# → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:23:57.548Z",
+      "msg": "probe https://folsomlakesurf.org/competitive-club-season-schedule/ → 1 courses"
+    },
+    {
+      "t": "2026-06-08T17:23:57.549Z",
+      "msg": "  ↑ new best: 1 courses, modality 0%"
+    },
+    {
+      "t": "2026-06-08T17:23:57.827Z",
+      "msg": "probe https://folsomlakesurf.org/competitive-club-season-schedule/#content → 1 courses"
+    },
+    {
+      "t": "2026-06-08T17:23:58.110Z",
+      "msg": "probe https://folsomlakesurf.org/competitive-club-season-schedule/# → 1 courses"
+    },
+    {
+      "t": "2026-06-08T17:23:58.111Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:23:58.111Z",
+      "msg": "render (headless Chrome) https://folsomlakesurf.org/competitive-club-season-schedule/ …"
+    },
+    {
+      "t": "2026-06-08T17:24:05.622Z",
+      "msg": "browser https://folsomlakesurf.org/competitive-club-season-schedule/ → 1 courses"
+    },
+    {
+      "t": "2026-06-08T17:24:05.623Z",
+      "msg": "render (headless Chrome) https://flc.losrios.edu/admissions/academic-calendar-and-deadlines/final-exam-schedule …"
+    },
+    {
+      "t": "2026-06-08T17:24:26.682Z",
+      "msg": "browser https://flc.losrios.edu/admissions/academic-calendar-and-deadlines/final-exam-schedule → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:24:26.683Z",
+      "msg": "render (headless Chrome) https://folsomlakesurf.org/folsom-lake-surf-launches-indoor-skills-development-class-schedule/ …"
+    },
+    {
+      "t": "2026-06-08T17:24:35.845Z",
+      "msg": "browser https://folsomlakesurf.org/folsom-lake-surf-launches-indoor-skills-development-class-schedule/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:24:35.848Z",
+      "msg": "✅ LIVE — ingested 1 courses into the searchable DB via auto (0% with modality)."
+    },
+    {
+      "t": "2026-06-08T17:24:35.848Z",
+      "msg": "   source: https://folsomlakesurf.org/competitive-club-season-schedule/"
+    }
+  ]
+}

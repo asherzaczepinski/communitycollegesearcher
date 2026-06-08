@@ -1,0 +1,58 @@
+{
+  "slug": "merced-college",
+  "name": "Merced College",
+  "url": "https://www.mccd.edu/",
+  "status": "impossible",
+  "attempts": 3,
+  "courseCount": 0,
+  "modalityCoverage": 0,
+  "method": null,
+  "extractUrl": null,
+  "blocked": null,
+  "note": "Could not fetch homepage: fetch failed",
+  "startedAt": "2026-06-08T17:36:29.919Z",
+  "finishedAt": "2026-06-08T17:36:29.928Z",
+  "updatedAt": "2026-06-08T17:36:29.928Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:36:29.919Z",
+      "msg": "▶ Starting Merced College — https://www.mccd.edu/"
+    },
+    {
+      "t": "2026-06-08T17:36:29.919Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:36:29.919Z",
+      "msg": "Fetching homepage https://www.mccd.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:36:29.920Z",
+      "msg": "Homepage fetch failed: fetch failed"
+    },
+    {
+      "t": "2026-06-08T17:36:29.920Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:36:29.925Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:36:29.925Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:36:29.925Z",
+      "msg": "Fetching homepage https://www.mccd.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:36:29.927Z",
+      "msg": "Homepage fetch failed: fetch failed"
+    },
+    {
+      "t": "2026-06-08T17:36:29.928Z",
+      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    }
+  ]
+}

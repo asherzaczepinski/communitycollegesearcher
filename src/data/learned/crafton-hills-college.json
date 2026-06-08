@@ -2,6 +2,7 @@
   "slug": "crafton-hills-college",
   "name": "Crafton Hills College",
   "url": "https://www.craftonhills.edu/",
+  "source": "homepage",
   "platform": "unknown",
   "scheduleUrl": "https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/index.php",
   "catalogUrl": "https://www.craftonhills.edu/academic-and-career-programs/college-catalog/index.php",
@@ -36,7 +37,15 @@
       "score": 1
     }
   ],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
   "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:44:05.970Z"
+  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
+  "learnedAt": "2026-06-08T17:18:04.723Z",
+  "browserActions": [
+    "browser https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/index.php → 0 courses",
+    "browser https://www.craftonhills.edu/academic-and-career-programs/college-catalog/index.php → 0 courses",
+    "browser https://www.craftonhills.edu/eschedule → 0 courses"
+  ]
 }

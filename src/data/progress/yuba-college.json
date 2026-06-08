@@ -1,0 +1,58 @@
+{
+  "slug": "yuba-college",
+  "name": "Yuba College",
+  "url": "https://yc.yccd.edu/",
+  "status": "impossible",
+  "attempts": 3,
+  "courseCount": 0,
+  "modalityCoverage": 0,
+  "method": null,
+  "extractUrl": null,
+  "blocked": null,
+  "note": "Could not fetch homepage: fetch failed",
+  "startedAt": "2026-06-08T17:37:27.490Z",
+  "finishedAt": "2026-06-08T17:37:27.502Z",
+  "updatedAt": "2026-06-08T17:37:27.502Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:37:27.490Z",
+      "msg": "▶ Starting Yuba College — https://yc.yccd.edu/"
+    },
+    {
+      "t": "2026-06-08T17:37:27.490Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:37:27.490Z",
+      "msg": "Fetching homepage https://yc.yccd.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:37:27.491Z",
+      "msg": "Homepage fetch failed: fetch failed"
+    },
+    {
+      "t": "2026-06-08T17:37:27.492Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:37:27.500Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:37:27.501Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:37:27.501Z",
+      "msg": "Fetching homepage https://yc.yccd.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:37:27.501Z",
+      "msg": "Homepage fetch failed: fetch failed"
+    },
+    {
+      "t": "2026-06-08T17:37:27.502Z",
+      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    }
+  ]
+}

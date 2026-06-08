@@ -1,0 +1,262 @@
+{
+  "slug": "gavilan-college",
+  "name": "Gavilan College",
+  "url": "https://www.gavilan.edu/",
+  "status": "impossible",
+  "attempts": 3,
+  "courseCount": 0,
+  "modalityCoverage": 0,
+  "method": null,
+  "extractUrl": null,
+  "blocked": null,
+  "note": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
+  "startedAt": "2026-06-08T17:28:04.280Z",
+  "finishedAt": "2026-06-08T17:29:09.155Z",
+  "updatedAt": "2026-06-08T17:29:09.155Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:28:04.280Z",
+      "msg": "▶ Starting Gavilan College — https://www.gavilan.edu/"
+    },
+    {
+      "t": "2026-06-08T17:28:04.280Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:28:04.280Z",
+      "msg": "Fetching homepage https://www.gavilan.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:28:04.491Z",
+      "msg": "Homepage: 3 schedule + 2 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:28:04.682Z",
+      "msg": "probe https://www.gavilan.edu/admit/schedule/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:04.796Z",
+      "msg": "probe https://www.gavilan.edu/admit/schedule/2026_summer_fall/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:04.847Z",
+      "msg": "probe https://www.gavilan.edu/catalog/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:05.021Z",
+      "msg": "probe https://caccl-gavilan.primo.exlibrisgroup.com/discovery/search?tab=LibraryCatalog&search_scope=MyInstitution&vid=01CACCL_GAVILAN:GAVILAN&lang=en → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:05.036Z",
+      "msg": "probe https://catalog.gavilan.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:28:05.042Z",
+      "msg": "probe https://catalog.gavilan.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:28:05.045Z",
+      "msg": "probe https://catalog.gavilan.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:28:05.048Z",
+      "msg": "probe https://catalog.gavilan.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:28:05.050Z",
+      "msg": "probe https://catalog.gavilan.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:28:05.162Z",
+      "msg": "probe https://www.gavilan.edu/library/sites.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:05.215Z",
+      "msg": "probe https://www.gavilan.edu/academic/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:05.258Z",
+      "msg": "probe https://www.gavilan.edu/about/site_index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:05.259Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:28:17.462Z",
+      "msg": "Web search returned 6 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:28:17.463Z",
+      "msg": "Top candidate: https://www.gavilan.edu/admit/schedule/2026_winter_spring/index.php (platform: unknown)."
+    },
+    {
+      "t": "2026-06-08T17:28:17.595Z",
+      "msg": "probe https://www.gavilan.edu/admit/schedule/2026_winter_spring/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:17.648Z",
+      "msg": "probe https://www.gavilan.edu/student/eops/calworks/resources.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:17.699Z",
+      "msg": "probe https://www.gavilan.edu/admit/search.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:17.752Z",
+      "msg": "probe https://www.gavilan.edu/academic/math/mathlab.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:17.797Z",
+      "msg": "probe https://www.gavilan.edu/admit/transcripts.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:18.192Z",
+      "msg": "probe https://gilroydispatch.com/gavilan-college-prepares-for-in-person-classes/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:18.262Z",
+      "msg": "probe https://www.gavilan.edu/library/sites.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:18.306Z",
+      "msg": "probe https://www.gavilan.edu/academic/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:18.352Z",
+      "msg": "probe https://www.gavilan.edu/about/site_index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:18.510Z",
+      "msg": "probe https://www.gavilan.edu/admit/schedule/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:18.555Z",
+      "msg": "probe https://www.gavilan.edu/admit/schedule/calendar.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:18.602Z",
+      "msg": "probe https://www.gavilan.edu/catalog/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:18.602Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:28:18.602Z",
+      "msg": "render (headless Chrome) https://www.gavilan.edu/admit/schedule/2026_winter_spring/index.php …"
+    },
+    {
+      "t": "2026-06-08T17:28:25.904Z",
+      "msg": "browser https://www.gavilan.edu/admit/schedule/2026_winter_spring/index.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:28:25.905Z",
+      "msg": "render (headless Chrome) https://www.gavilan.edu/student/eops/calworks/resources.php …"
+    },
+    {
+      "t": "2026-06-08T17:28:34.406Z",
+      "msg": "browser https://www.gavilan.edu/student/eops/calworks/resources.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:28:34.407Z",
+      "msg": "render (headless Chrome) https://www.gavilan.edu/admit/search.php …"
+    },
+    {
+      "t": "2026-06-08T17:28:42.918Z",
+      "msg": "browser https://www.gavilan.edu/admit/search.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:28:42.919Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:28:42.919Z",
+      "msg": "Fetching homepage https://www.gavilan.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:28:43.071Z",
+      "msg": "Homepage: 3 schedule + 2 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:28:43.241Z",
+      "msg": "probe https://www.gavilan.edu/admit/schedule/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:43.289Z",
+      "msg": "probe https://www.gavilan.edu/admit/schedule/2026_summer_fall/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:43.336Z",
+      "msg": "probe https://www.gavilan.edu/catalog/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:43.482Z",
+      "msg": "probe https://caccl-gavilan.primo.exlibrisgroup.com/discovery/search?tab=LibraryCatalog&search_scope=MyInstitution&vid=01CACCL_GAVILAN:GAVILAN&lang=en → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:43.488Z",
+      "msg": "probe https://catalog.gavilan.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:28:43.492Z",
+      "msg": "probe https://catalog.gavilan.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:28:43.495Z",
+      "msg": "probe https://catalog.gavilan.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:28:43.499Z",
+      "msg": "probe https://catalog.gavilan.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:28:43.503Z",
+      "msg": "probe https://catalog.gavilan.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:28:43.560Z",
+      "msg": "probe https://www.gavilan.edu/library/sites.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:43.605Z",
+      "msg": "probe https://www.gavilan.edu/academic/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:43.647Z",
+      "msg": "probe https://www.gavilan.edu/about/site_index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:28:43.647Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:28:43.647Z",
+      "msg": "render (headless Chrome) https://www.gavilan.edu/admit/schedule/index.php …"
+    },
+    {
+      "t": "2026-06-08T17:28:52.176Z",
+      "msg": "browser https://www.gavilan.edu/admit/schedule/index.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:28:52.177Z",
+      "msg": "render (headless Chrome) https://www.gavilan.edu/catalog/index.php …"
+    },
+    {
+      "t": "2026-06-08T17:29:00.701Z",
+      "msg": "browser https://www.gavilan.edu/catalog/index.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:29:00.702Z",
+      "msg": "render (headless Chrome) https://www.gavilan.edu/admit/schedule/2026_summer_fall/index.php …"
+    },
+    {
+      "t": "2026-06-08T17:29:09.153Z",
+      "msg": "browser https://www.gavilan.edu/admit/schedule/2026_summer_fall/index.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:29:09.154Z",
+      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    }
+  ]
+}

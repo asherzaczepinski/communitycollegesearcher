@@ -1,0 +1,94 @@
+{
+  "slug": "college-of-marin",
+  "name": "College of Marin",
+  "url": "https://www.marin.edu/",
+  "status": "live",
+  "attempts": 1,
+  "courseCount": 1103,
+  "modalityCoverage": 0.013,
+  "method": "auto",
+  "extractUrl": "https://netapps.marin.edu/Apps/Directory/ScheduleSearch.aspx",
+  "blocked": null,
+  "note": "Extracted 1103 real courses from https://netapps.marin.edu/Apps/Directory/ScheduleSearch.aspx. Real courses but modality not exposed here (defaults to in_person).",
+  "startedAt": "2026-06-08T17:09:42.361Z",
+  "finishedAt": "2026-06-08T17:09:46.391Z",
+  "updatedAt": "2026-06-08T17:09:46.391Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:09:42.361Z",
+      "msg": "▶ Starting College of Marin — https://www.marin.edu/"
+    },
+    {
+      "t": "2026-06-08T17:09:42.361Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:09:42.361Z",
+      "msg": "Fetching homepage https://www.marin.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:09:42.723Z",
+      "msg": "Homepage: 3 schedule + 4 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:09:42.930Z",
+      "msg": "probe https://www1.marin.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:09:44.434Z",
+      "msg": "probe https://netapps.marin.edu/Apps/Directory/ScheduleSearch.aspx → 1103 courses"
+    },
+    {
+      "t": "2026-06-08T17:09:44.434Z",
+      "msg": "  ↑ new best: 1103 courses, modality 1%"
+    },
+    {
+      "t": "2026-06-08T17:09:44.634Z",
+      "msg": "probe https://marin.elumenapp.com/catalog/current/program-and-course-descriptions → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:09:44.791Z",
+      "msg": "probe https://catalog.marin.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:09:44.796Z",
+      "msg": "probe https://catalog.marin.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:09:44.799Z",
+      "msg": "probe https://catalog.marin.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:09:44.802Z",
+      "msg": "probe https://catalog.marin.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:09:44.805Z",
+      "msg": "probe https://catalog.marin.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:09:46.018Z",
+      "msg": "probe https://youtu.be/OZICEf2O628 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:09:46.196Z",
+      "msg": "probe http://www1.marin.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:09:46.230Z",
+      "msg": "probe https://marin.elumenapp.com/public/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:09:46.369Z",
+      "msg": "probe https://www1.marin.edu/schedule#main → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:09:46.390Z",
+      "msg": "✅ LIVE — ingested 1103 courses into the searchable DB via auto (1% with modality)."
+    },
+    {
+      "t": "2026-06-08T17:09:46.390Z",
+      "msg": "   source: https://netapps.marin.edu/Apps/Directory/ScheduleSearch.aspx"
+    }
+  ]
+}

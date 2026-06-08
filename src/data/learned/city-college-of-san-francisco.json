@@ -2,15 +2,40 @@
   "slug": "city-college-of-san-francisco",
   "name": "City College of San Francisco",
   "url": "https://www.ccsf.edu/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": null,
-  "catalogUrl": null,
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
-  "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-05T22:43:38.517Z"
+  "scheduleUrl": "https://www.ccsf.edu/academics/class-schedule",
+  "catalogUrl": "https://www.ccsf.edu/academics/ccsf-catalog",
+  "extractUrl": "https://www.ccsf.edu/courses",
+  "method": "auto",
+  "sampleCount": 16,
+  "modalityCoverage": 0.188,
+  "candidates": [
+    {
+      "text": "Class Schedules",
+      "href": "https://www.ccsf.edu/academics/class-schedule",
+      "score": 5
+    },
+    {
+      "text": "In-Person Enrollment Support Schedule",
+      "href": "https://www.ccsf.edu/admissions-recordsregistration/in-person-enrollment-support",
+      "score": 2
+    },
+    {
+      "text": "Virtual Counter Schedule",
+      "href": "https://www.ccsf.edu/help-desk/virtual-counter-schedule",
+      "score": 2
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://www.ccsf.edu/academics/ccsf-catalog",
+      "score": 6
+    }
+  ],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.515,
+  "notes": "Extracted 16 real courses from https://www.ccsf.edu/courses. Modality available for ~19% (real schedule data).",
+  "learnedAt": "2026-06-08T17:08:15.780Z"
 }

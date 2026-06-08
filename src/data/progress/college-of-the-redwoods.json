@@ -1,0 +1,222 @@
+{
+  "slug": "college-of-the-redwoods",
+  "name": "College of the Redwoods",
+  "url": "https://www.redwoods.edu/",
+  "status": "impossible",
+  "attempts": 3,
+  "courseCount": 0,
+  "modalityCoverage": 0,
+  "method": null,
+  "extractUrl": null,
+  "blocked": null,
+  "note": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
+  "startedAt": "2026-06-08T17:11:02.539Z",
+  "finishedAt": "2026-06-08T17:12:27.887Z",
+  "updatedAt": "2026-06-08T17:12:27.887Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:11:02.540Z",
+      "msg": "▶ Starting College of the Redwoods — https://www.redwoods.edu/"
+    },
+    {
+      "t": "2026-06-08T17:11:02.540Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:11:02.540Z",
+      "msg": "Fetching homepage https://www.redwoods.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:11:02.756Z",
+      "msg": "Homepage: 1 schedule + 1 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:11:02.899Z",
+      "msg": "probe https://www.redwoods.edu/students/finals.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:02.955Z",
+      "msg": "probe https://www.redwoods.edu/academics/catalog.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:03.117Z",
+      "msg": "probe https://catalog.redwoods.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:11:03.178Z",
+      "msg": "probe https://catalog.redwoods.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:11:03.236Z",
+      "msg": "probe https://catalog.redwoods.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:11:03.308Z",
+      "msg": "probe https://catalog.redwoods.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:11:03.365Z",
+      "msg": "probe https://catalog.redwoods.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:11:03.547Z",
+      "msg": "probe https://www.cvc.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:03.548Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:11:05.450Z",
+      "msg": "Web search returned 6 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:11:05.451Z",
+      "msg": "Top candidate: https://redwood.vusd.org/counseling/class-registration-materials (platform: unknown)."
+    },
+    {
+      "t": "2026-06-08T17:11:06.781Z",
+      "msg": "probe https://redwood.vusd.org/counseling/class-registration-materials → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:06.861Z",
+      "msg": "probe https://kymkemp.com/2025/04/12/college-of-the-redwoods-celebrates-record-breaking-fire-academy-graduating-class/ → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-08T17:11:06.922Z",
+      "msg": "probe https://kymkemp.com/2023/12/06/college-of-the-redwoods-holds-firefighter-academy-graduation/ → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-08T17:11:07.316Z",
+      "msg": "probe https://www.redwoodhs.org/DEPARTMENTS/Guidance-College--Career-Center/index.html → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:07.419Z",
+      "msg": "probe https://bncvirtual.com/vb_faq.php?FVCUSNO=3146 → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-08T17:11:08.737Z",
+      "msg": "probe https://lostcoastoutpost.com/2020/mar/11/college-redwoods-extends-spring-break-due-covid-19/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:09.279Z",
+      "msg": "probe https://docs.google.com/document/d/1NKQfxSnoxg2hm42pwPiwuMX3AfHhDEXKiCZvMYskF78/edit?usp=sharing → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:09.493Z",
+      "msg": "probe https://www.vusd.org/departments/educational-services/family-and-community-resource-center/enrollment → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:11:11.406Z",
+      "msg": "probe https://www.vusd.org/departments/student-services/family-and-community-resource-center → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:11.517Z",
+      "msg": "probe https://www.redwoodhs.org/DEPARTMENTS/Guidance-College--Career-Center/Parent-Resources/Bell-Schedule/index.html → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:11:11.775Z",
+      "msg": "probe https://www.redwoodhs.org/DEPARTMENTS/Guidance-College--Career-Center/index.html#maincontent → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:11.913Z",
+      "msg": "probe https://www.redwoodhs.org/DEPARTMENTS/Guidance-College--Career-Center/index.html# → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:11.914Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:11:11.915Z",
+      "msg": "render (headless Chrome) https://redwood.vusd.org/counseling/class-registration-materials …"
+    },
+    {
+      "t": "2026-06-08T17:11:31.190Z",
+      "msg": "browser https://redwood.vusd.org/counseling/class-registration-materials → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:11:31.191Z",
+      "msg": "render (headless Chrome) https://kymkemp.com/2025/04/12/college-of-the-redwoods-celebrates-record-breaking-fire-academy-graduating-class/ …"
+    },
+    {
+      "t": "2026-06-08T17:11:43.903Z",
+      "msg": "browser https://kymkemp.com/2025/04/12/college-of-the-redwoods-celebrates-record-breaking-fire-academy-graduating-class/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:11:43.903Z",
+      "msg": "render (headless Chrome) https://kymkemp.com/2023/12/06/college-of-the-redwoods-holds-firefighter-academy-graduation/ …"
+    },
+    {
+      "t": "2026-06-08T17:11:50.864Z",
+      "msg": "browser https://kymkemp.com/2023/12/06/college-of-the-redwoods-holds-firefighter-academy-graduation/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:11:50.865Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:11:50.866Z",
+      "msg": "Fetching homepage https://www.redwoods.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:11:51.091Z",
+      "msg": "Homepage: 1 schedule + 1 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:11:51.235Z",
+      "msg": "probe https://www.redwoods.edu/students/finals.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:51.354Z",
+      "msg": "probe https://www.redwoods.edu/academics/catalog.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:51.410Z",
+      "msg": "probe https://catalog.redwoods.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:11:51.464Z",
+      "msg": "probe https://catalog.redwoods.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:11:51.520Z",
+      "msg": "probe https://catalog.redwoods.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:11:51.584Z",
+      "msg": "probe https://catalog.redwoods.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:11:51.644Z",
+      "msg": "probe https://catalog.redwoods.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:11:51.812Z",
+      "msg": "probe https://www.cvc.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:51.813Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:11:51.813Z",
+      "msg": "render (headless Chrome) https://www.redwoods.edu/students/finals.php …"
+    },
+    {
+      "t": "2026-06-08T17:12:09.929Z",
+      "msg": "browser https://www.redwoods.edu/students/finals.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:12:09.930Z",
+      "msg": "render (headless Chrome) https://www.redwoods.edu/academics/catalog.php …"
+    },
+    {
+      "t": "2026-06-08T17:12:27.886Z",
+      "msg": "browser https://www.redwoods.edu/academics/catalog.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:12:27.887Z",
+      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    }
+  ]
+}

@@ -2,36 +2,86 @@
   "slug": "feather-river-college",
   "name": "Feather River College",
   "url": "https://www.frc.edu/",
+  "source": "web-search",
   "platform": "unknown",
-  "scheduleUrl": "https://www.frc.edu/class-search",
-  "catalogUrl": "https://www.frc.edu/instruction/catalogs",
+  "scheduleUrl": null,
+  "catalogUrl": "https://frc.uloop.com/test-prep",
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
   "candidates": [
     {
-      "text": "Classes",
-      "href": "https://www.frc.edu/class-search",
-      "score": 2
+      "text": "Updates to the Fall 2020 Course Schedule | Feather River College",
+      "href": "https://www.frc.edu/alert/1606136/updates-to-the-fall-2020-course-schedule",
+      "score": 4
     },
     {
-      "text": "View Flex Schedule",
-      "href": "https://www.frc.edu/files/Featured%20Stories/2026/Summer%20Flex%20Schedule%202026.pdf",
-      "score": 2
+      "text": "Campus closed Tuesday due to power outage | Feather River",
+      "href": "https://www.frc.edu/alert/1605856/power-is-back-on-frc-is-open-for-regularly-scheduled-hours",
+      "score": 4
     },
     {
-      "text": "Schedule a Tour",
+      "text": "Test Prep Courses for Feather River College Students | Uloop",
+      "href": "https://frc.uloop.com/test-prep",
+      "score": 1
+    },
+    {
+      "text": "Feather River College Curriculum & Instruction | Instruction",
+      "href": "https://www.frc.edu/instruction",
+      "score": 0
+    },
+    {
+      "text": "Feather River College Tours | About FRC",
       "href": "https://www.frc.edu/about/tours",
-      "score": 2
+      "score": 0
     },
     {
-      "text": "FRC Catalog",
-      "href": "https://www.frc.edu/instruction/catalogs",
-      "score": 3
+      "text": "Welcome to Feather River College located in Quincy, California",
+      "href": "https://www.frc.edu/",
+      "score": 0
     }
   ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:44:30.365Z"
+  "searchQuery": "Feather River College class schedule",
+  "searchResults": [
+    {
+      "title": "Feather River College Curriculum & Instruction | Instruction",
+      "href": "https://www.frc.edu/instruction",
+      "query": "Feather River College class schedule"
+    },
+    {
+      "title": "Feather River College Tours | About FRC",
+      "href": "https://www.frc.edu/about/tours",
+      "query": "Feather River College class schedule"
+    },
+    {
+      "title": "Updates to the Fall 2020 Course Schedule | Feather River College",
+      "href": "https://www.frc.edu/alert/1606136/updates-to-the-fall-2020-course-schedule",
+      "query": "Feather River College class schedule"
+    },
+    {
+      "title": "Welcome to Feather River College located in Quincy, California",
+      "href": "https://www.frc.edu/",
+      "query": "Feather River College class schedule"
+    },
+    {
+      "title": "Campus closed Tuesday due to power outage | Feather River",
+      "href": "https://www.frc.edu/alert/1605856/power-is-back-on-frc-is-open-for-regularly-scheduled-hours",
+      "query": "Feather River College class schedule"
+    },
+    {
+      "title": "Test Prep Courses for Feather River College Students | Uloop",
+      "href": "https://frc.uloop.com/test-prep",
+      "query": "Feather River College class schedule"
+    }
+  ],
+  "blocked": "login",
+  "confidence": 0.1,
+  "notes": "Blocked by a sign-in wall — this college's schedule requires a login, the one thing the headless adapter is meant to stop at. Everything up to the login was reachable. Searched the web (6 results) but no page yielded course data — the schedule is likely a bespoke search app. Top results saved above.",
+  "learnedAt": "2026-06-08T17:23:12.806Z",
+  "browserActions": [
+    "browser https://frc.uloop.com/test-prep → 0 courses [login]",
+    "browser https://www.frc.edu/alert/1606136/updates-to-the-fall-2020-course-schedule → 0 courses",
+    "browser https://www.frc.edu/alert/1605856/power-is-back-on-frc-is-open-for-regularly-scheduled-hours → 0 courses"
+  ]
 }

@@ -12,6 +12,7 @@ import { dirname, join } from 'node:path';
 import { upsertCollege, getColleges, getCollegeBySlug, stats } from './db.js';
 import { scrapeAll, scrapeCollege } from './scraper/index.js';
 import { learnCollege } from './scraper/learn.js';
+import { closeDriver } from './scraper/browser.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -83,23 +84,41 @@ switch (cmd) {
   case 'detect':
   case 'learn': {
     const colleges = resolveColleges(args);
-    console.log(`Learning how to scrape ${colleges.length} college(s) (following links, extracting real courses)...`);
+    // --browser falls back to a real headless render when plain HTTP is empty.
+    // It drives one shared Chrome session, so force concurrency 1 to avoid
+    // colliding navigations.
+    const browser = flags.has('--browser');
+    const concurrency = browser ? 1 : 8;
+    console.log(
+      `Learning how to scrape ${colleges.length} college(s)` +
+        (browser ? ' WITH headless-browser fallback (slower, real Chrome)' : ' (following links, extracting real courses)') +
+        '...'
+    );
     let done = 0;
     let withCourses = 0;
     let withModality = 0;
-    await pool(colleges, 8, async (c) => {
-      const recipe = await learnCollege(c);
+    let blocked = 0;
+    await pool(colleges, concurrency, async (c) => {
+      const recipe = await learnCollege(c, { browser });
       done++;
       if (recipe.sampleCount > 0) withCourses++;
       if (recipe.modalityCoverage > 0.05) withModality++;
+      if (recipe.blocked === 'login') blocked++;
       console.log(
         `  [${done}/${colleges.length}] ${c.slug}: ` +
           (recipe.sampleCount > 0
-            ? `${recipe.sampleCount} real courses (modality ${Math.round(recipe.modalityCoverage * 100)}%) <- ${recipe.extractUrl}`
-            : `no server-rendered courses (${recipe.candidates.length} link(s) found, needs browser)`)
+            ? `${recipe.sampleCount} real courses (modality ${Math.round(recipe.modalityCoverage * 100)}%)` +
+              `${recipe.method === 'browser' ? ' [browser]' : ''} <- ${recipe.extractUrl}`
+            : recipe.blocked === 'login'
+              ? '🔒 blocked by sign-in'
+              : `no courses (${recipe.candidates.length} link(s) found${browser ? '' : ', try --browser'})`)
       );
     });
-    console.log(`\nLearned ${colleges.length} colleges: ${withCourses} yielded real courses, ${withModality} with live modality.`);
+    if (browser) await closeDriver();
+    console.log(
+      `\nLearned ${colleges.length} colleges: ${withCourses} yielded real courses, ` +
+        `${withModality} with live modality${blocked ? `, ${blocked} blocked by sign-in` : ''}.`
+    );
     console.log('Recipes -> src/data/learned/*.json · snapshots -> src/data/snapshots/*.json · log -> LEARNING_LOG.txt');
     break;
   }
@@ -122,6 +141,7 @@ Usage:
   npm run scrape -- <slug>...   Scrape specific colleges
   npm run detect                Learn how to scrape every college's site
   npm run detect -- <slug>...   Learn specific colleges
+  npm run detect -- --browser <slug>...  Learn with headless-browser fallback (real Chrome)
   npm run stats                 Show database stats`);
     process.exit(1);
 }

@@ -1,0 +1,266 @@
+{
+  "slug": "chaffey-college",
+  "name": "Chaffey College",
+  "url": "https://www.chaffey.edu/",
+  "status": "live",
+  "attempts": 3,
+  "courseCount": 8,
+  "modalityCoverage": 0,
+  "method": "browser",
+  "extractUrl": "https://colss-prod.ec.chaffey.edu/Student/Courses/SearchResult",
+  "blocked": null,
+  "note": "Extracted 8 real courses from https://colss-prod.ec.chaffey.edu/Student/Courses/SearchResult (rendered with a headless browser). Real courses but modality not exposed here (defaults to in_person).",
+  "startedAt": "2026-06-08T17:04:05.901Z",
+  "finishedAt": "2026-06-08T17:08:05.090Z",
+  "updatedAt": "2026-06-08T17:08:05.090Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:04:05.901Z",
+      "msg": "▶ Starting Chaffey College — https://www.chaffey.edu/"
+    },
+    {
+      "t": "2026-06-08T17:04:05.901Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:04:05.901Z",
+      "msg": "Fetching homepage https://www.chaffey.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:04:06.238Z",
+      "msg": "Homepage: 3 schedule + 3 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:04:06.831Z",
+      "msg": "probe https://www.chaffey.edu/catalogandschedule/schedule.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:07.141Z",
+      "msg": "probe https://colss-prod.ec.chaffey.edu/Student/Courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:08.355Z",
+      "msg": "probe https://www.chaffey.edu/catalogandschedule/catalog.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:08.369Z",
+      "msg": "probe https://catalog.chaffey.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:04:08.371Z",
+      "msg": "probe https://catalog.chaffey.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:04:08.373Z",
+      "msg": "probe https://catalog.chaffey.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:04:08.375Z",
+      "msg": "probe https://catalog.chaffey.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:04:08.377Z",
+      "msg": "probe https://catalog.chaffey.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:04:08.484Z",
+      "msg": "probe https://www.chaffey.edu/about/all-departments.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:09.695Z",
+      "msg": "probe https://www.chaffey.edu/catalogandschedule/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:09.801Z",
+      "msg": "probe https://www.chaffey.edu/catalogandschedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:09.947Z",
+      "msg": "probe https://colss-prod.ec.chaffey.edu/Student/Courses#tab1-content → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:09.948Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:04:11.885Z",
+      "msg": "Web search returned 6 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:04:11.886Z",
+      "msg": "Top candidate: https://www.chaffey.edu/catalogandschedule/schedule.php (platform: unknown)."
+    },
+    {
+      "t": "2026-06-08T17:04:13.084Z",
+      "msg": "probe https://www.chaffey.edu/catalogandschedule/schedule.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:13.187Z",
+      "msg": "probe https://www.chaffey.edu/catalogandschedule/catalog.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:13.300Z",
+      "msg": "probe https://www.chaffey.edu/admissions/register.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:13.395Z",
+      "msg": "probe https://www.chaffey.edu/programsacademics/calendars/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:13.491Z",
+      "msg": "probe https://www.chaffey.edu/community/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:13.658Z",
+      "msg": "probe https://chs.cjuhsd.net/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:13.756Z",
+      "msg": "probe https://www.chaffey.edu/about/all-departments.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:13.850Z",
+      "msg": "probe https://www.chaffey.edu/catalogandschedule/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:13.937Z",
+      "msg": "probe https://www.chaffey.edu/catalogandschedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:14.301Z",
+      "msg": "probe https://colss-prod.ec.chaffey.edu/Student/Courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:14.544Z",
+      "msg": "probe https://chaffey.craniumcafe.com/group/academic-and-career-counseling-/scheduler → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:14.698Z",
+      "msg": "probe https://chs.cjuhsd.net/apps/pages/index.jsp?uREC_ID=1768499&type=d&pREC_ID=1948681 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:04:14.699Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:04:14.699Z",
+      "msg": "render (headless Chrome) https://www.chaffey.edu/catalogandschedule/schedule.php …"
+    },
+    {
+      "t": "2026-06-08T17:04:57.098Z",
+      "msg": "browser https://www.chaffey.edu/catalogandschedule/schedule.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:04:57.099Z",
+      "msg": "render (headless Chrome) https://www.chaffey.edu/catalogandschedule/catalog.php …"
+    },
+    {
+      "t": "2026-06-08T17:05:39.449Z",
+      "msg": "browser https://www.chaffey.edu/catalogandschedule/catalog.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:05:39.450Z",
+      "msg": "render (headless Chrome) https://www.chaffey.edu/admissions/register.php …"
+    },
+    {
+      "t": "2026-06-08T17:06:21.813Z",
+      "msg": "browser https://www.chaffey.edu/admissions/register.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:06:21.814Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:06:21.814Z",
+      "msg": "Fetching homepage https://www.chaffey.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:06:21.973Z",
+      "msg": "Homepage: 3 schedule + 3 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:06:23.117Z",
+      "msg": "probe https://www.chaffey.edu/catalogandschedule/schedule.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:06:23.842Z",
+      "msg": "probe https://colss-prod.ec.chaffey.edu/Student/Courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:06:23.941Z",
+      "msg": "probe https://www.chaffey.edu/catalogandschedule/catalog.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:06:23.946Z",
+      "msg": "probe https://catalog.chaffey.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:06:23.948Z",
+      "msg": "probe https://catalog.chaffey.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:06:23.950Z",
+      "msg": "probe https://catalog.chaffey.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:06:23.952Z",
+      "msg": "probe https://catalog.chaffey.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:06:23.954Z",
+      "msg": "probe https://catalog.chaffey.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:06:25.066Z",
+      "msg": "probe https://www.chaffey.edu/about/all-departments.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:06:25.159Z",
+      "msg": "probe https://www.chaffey.edu/catalogandschedule/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:06:25.268Z",
+      "msg": "probe https://www.chaffey.edu/catalogandschedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:06:25.857Z",
+      "msg": "probe https://colss-prod.ec.chaffey.edu/Student/Courses#tab1-content → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:06:25.858Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:06:25.859Z",
+      "msg": "render (headless Chrome) https://www.chaffey.edu/catalogandschedule/schedule.php …"
+    },
+    {
+      "t": "2026-06-08T17:07:08.251Z",
+      "msg": "browser https://www.chaffey.edu/catalogandschedule/schedule.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:07:08.252Z",
+      "msg": "render (headless Chrome) https://www.chaffey.edu/catalogandschedule/catalog.php …"
+    },
+    {
+      "t": "2026-06-08T17:07:50.608Z",
+      "msg": "browser https://www.chaffey.edu/catalogandschedule/catalog.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:07:50.609Z",
+      "msg": "render (headless Chrome) https://colss-prod.ec.chaffey.edu/Student/Courses …"
+    },
+    {
+      "t": "2026-06-08T17:08:05.087Z",
+      "msg": "browser https://colss-prod.ec.chaffey.edu/Student/Courses → 8 courses"
+    },
+    {
+      "t": "2026-06-08T17:08:05.090Z",
+      "msg": "✅ LIVE — ingested 8 courses into the searchable DB via browser (0% with modality)."
+    },
+    {
+      "t": "2026-06-08T17:08:05.090Z",
+      "msg": "   source: https://colss-prod.ec.chaffey.edu/Student/Courses/SearchResult"
+    }
+  ]
+}

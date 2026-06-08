@@ -1,0 +1,58 @@
+{
+  "slug": "skyline-college",
+  "name": "Skyline College",
+  "url": "https://www.skylinecollege.edu/",
+  "status": "impossible",
+  "attempts": 3,
+  "courseCount": 0,
+  "modalityCoverage": 0,
+  "method": null,
+  "extractUrl": null,
+  "blocked": null,
+  "note": "Could not fetch homepage: fetch failed",
+  "startedAt": "2026-06-08T17:36:30.194Z",
+  "finishedAt": "2026-06-08T17:36:30.200Z",
+  "updatedAt": "2026-06-08T17:36:30.200Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:36:30.194Z",
+      "msg": "▶ Starting Skyline College — https://www.skylinecollege.edu/"
+    },
+    {
+      "t": "2026-06-08T17:36:30.194Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:36:30.194Z",
+      "msg": "Fetching homepage https://www.skylinecollege.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:36:30.195Z",
+      "msg": "Homepage fetch failed: fetch failed"
+    },
+    {
+      "t": "2026-06-08T17:36:30.195Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:36:30.199Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:36:30.199Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:36:30.199Z",
+      "msg": "Fetching homepage https://www.skylinecollege.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:36:30.200Z",
+      "msg": "Homepage fetch failed: fetch failed"
+    },
+    {
+      "t": "2026-06-08T17:36:30.200Z",
+      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    }
+  ]
+}

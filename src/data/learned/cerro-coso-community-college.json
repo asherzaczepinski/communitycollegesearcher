@@ -2,15 +2,25 @@
   "slug": "cerro-coso-community-college",
   "name": "Cerro Coso Community College",
   "url": "https://www.cerrocoso.edu/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": null,
+  "scheduleUrl": "https://www.cerrocoso.edu/academics/class-schedule/#schedules",
   "catalogUrl": null,
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
-  "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-05T22:43:30.425Z"
+  "extractUrl": "https://www.cerrocoso.edu/academics/class-schedule/",
+  "method": "auto",
+  "sampleCount": 37,
+  "modalityCoverage": 0.027,
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.cerrocoso.edu/academics/class-schedule/#schedules",
+      "score": 5
+    }
+  ],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.5033108108108109,
+  "notes": "Extracted 37 real courses from https://www.cerrocoso.edu/academics/class-schedule/. Real courses but modality not exposed here (defaults to in_person).",
+  "learnedAt": "2026-06-08T17:02:55.772Z"
 }

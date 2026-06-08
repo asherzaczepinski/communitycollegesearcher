@@ -1,0 +1,250 @@
+{
+  "slug": "crafton-hills-college",
+  "name": "Crafton Hills College",
+  "url": "https://www.craftonhills.edu/",
+  "status": "impossible",
+  "attempts": 3,
+  "courseCount": 0,
+  "modalityCoverage": 0,
+  "method": null,
+  "extractUrl": null,
+  "blocked": null,
+  "note": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
+  "startedAt": "2026-06-08T17:17:25.544Z",
+  "finishedAt": "2026-06-08T17:18:38.085Z",
+  "updatedAt": "2026-06-08T17:18:38.085Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:17:25.544Z",
+      "msg": "▶ Starting Crafton Hills College — https://www.craftonhills.edu/"
+    },
+    {
+      "t": "2026-06-08T17:17:25.544Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:17:25.545Z",
+      "msg": "Fetching homepage https://www.craftonhills.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:17:26.761Z",
+      "msg": "Homepage: 2 schedule + 3 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:17:27.238Z",
+      "msg": "probe https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:17:27.341Z",
+      "msg": "probe https://www.craftonhills.edu/eschedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:17:27.397Z",
+      "msg": "probe https://www.craftonhills.edu/academic-and-career-programs/college-catalog/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:17:27.535Z",
+      "msg": "probe https://www.craftonhills.edu/catalog → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:17:27.667Z",
+      "msg": "probe https://catalog.craftonhills.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:17:27.671Z",
+      "msg": "probe https://catalog.craftonhills.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:17:27.678Z",
+      "msg": "probe https://catalog.craftonhills.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:17:27.684Z",
+      "msg": "probe https://catalog.craftonhills.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:17:27.689Z",
+      "msg": "probe https://catalog.craftonhills.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:17:28.014Z",
+      "msg": "probe http://www.craftonhills.edu/eSchedule-old/Online/Schedule/C/2026SM/schedule.pdf → 0 (HTTP 406)"
+    },
+    {
+      "t": "2026-06-08T17:17:28.051Z",
+      "msg": "probe http://www.craftonhills.edu/eSchedule-old/Online/Schedule/C/2026FA/schedule.pdf → 0 (HTTP 406)"
+    },
+    {
+      "t": "2026-06-08T17:17:28.104Z",
+      "msg": "probe https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/class-schedule-archive.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:17:28.106Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:17:30.298Z",
+      "msg": "Web search returned 6 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:17:30.299Z",
+      "msg": "Top candidate: https://www.craftonhills.edu/news-and-public-relations/news/2025-08-22-class-adult-education-recognized-statewide.php (platform: unknown)."
+    },
+    {
+      "t": "2026-06-08T17:17:30.394Z",
+      "msg": "probe https://www.craftonhills.edu/news-and-public-relations/news/2025-08-22-class-adult-education-recognized-statewide.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:17:30.613Z",
+      "msg": "probe https://www.craftonhills.edu/working-adult-students/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:17:30.650Z",
+      "msg": "probe https://www.craftonhills.edu/first-time-students/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:17:30.766Z",
+      "msg": "probe https://www.craftonhills.edu/adult-education-program/programs-offered.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:17:33.024Z",
+      "msg": "probe https://p2sinc.com/projects/crafton-hills-college-new-crafton-center-2 → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:17:33.487Z",
+      "msg": "probe https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:17:33.582Z",
+      "msg": "probe http://www.craftonhills.edu/eSchedule-old/Online/Schedule/C/2026SM/schedule.pdf → 0 (HTTP 406)"
+    },
+    {
+      "t": "2026-06-08T17:17:33.604Z",
+      "msg": "probe http://www.craftonhills.edu/eSchedule-old/Online/Schedule/C/2026FA/schedule.pdf → 0 (HTTP 406)"
+    },
+    {
+      "t": "2026-06-08T17:17:33.682Z",
+      "msg": "probe https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/class-schedule-archive.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:17:33.683Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:17:33.684Z",
+      "msg": "render (headless Chrome) https://www.craftonhills.edu/news-and-public-relations/news/2025-08-22-class-adult-education-recognized-statewide.php …"
+    },
+    {
+      "t": "2026-06-08T17:17:44.099Z",
+      "msg": "browser https://www.craftonhills.edu/news-and-public-relations/news/2025-08-22-class-adult-education-recognized-statewide.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:17:44.100Z",
+      "msg": "render (headless Chrome) https://www.craftonhills.edu/working-adult-students/index.php …"
+    },
+    {
+      "t": "2026-06-08T17:17:54.488Z",
+      "msg": "browser https://www.craftonhills.edu/working-adult-students/index.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:17:54.488Z",
+      "msg": "render (headless Chrome) https://www.craftonhills.edu/first-time-students/index.php …"
+    },
+    {
+      "t": "2026-06-08T17:18:04.722Z",
+      "msg": "browser https://www.craftonhills.edu/first-time-students/index.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:18:04.723Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:18:04.723Z",
+      "msg": "Fetching homepage https://www.craftonhills.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:18:06.224Z",
+      "msg": "Homepage: 2 schedule + 3 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:18:06.651Z",
+      "msg": "probe https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:07.007Z",
+      "msg": "probe https://www.craftonhills.edu/eschedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:07.063Z",
+      "msg": "probe https://www.craftonhills.edu/academic-and-career-programs/college-catalog/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:07.150Z",
+      "msg": "probe https://www.craftonhills.edu/catalog → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:07.154Z",
+      "msg": "probe https://catalog.craftonhills.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:18:07.157Z",
+      "msg": "probe https://catalog.craftonhills.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:18:07.160Z",
+      "msg": "probe https://catalog.craftonhills.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:18:07.162Z",
+      "msg": "probe https://catalog.craftonhills.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:18:07.163Z",
+      "msg": "probe https://catalog.craftonhills.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:18:07.195Z",
+      "msg": "probe http://www.craftonhills.edu/eSchedule-old/Online/Schedule/C/2026SM/schedule.pdf → 0 (HTTP 406)"
+    },
+    {
+      "t": "2026-06-08T17:18:07.217Z",
+      "msg": "probe http://www.craftonhills.edu/eSchedule-old/Online/Schedule/C/2026FA/schedule.pdf → 0 (HTTP 406)"
+    },
+    {
+      "t": "2026-06-08T17:18:07.250Z",
+      "msg": "probe https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/class-schedule-archive.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:07.251Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:18:07.251Z",
+      "msg": "render (headless Chrome) https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/index.php …"
+    },
+    {
+      "t": "2026-06-08T17:18:17.705Z",
+      "msg": "browser https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/index.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:18:17.706Z",
+      "msg": "render (headless Chrome) https://www.craftonhills.edu/academic-and-career-programs/college-catalog/index.php …"
+    },
+    {
+      "t": "2026-06-08T17:18:27.879Z",
+      "msg": "browser https://www.craftonhills.edu/academic-and-career-programs/college-catalog/index.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:18:27.880Z",
+      "msg": "render (headless Chrome) https://www.craftonhills.edu/eschedule …"
+    },
+    {
+      "t": "2026-06-08T17:18:38.083Z",
+      "msg": "browser https://www.craftonhills.edu/eschedule → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:18:38.085Z",
+      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    }
+  ]
+}

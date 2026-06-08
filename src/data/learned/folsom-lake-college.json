@@ -2,15 +2,86 @@
   "slug": "folsom-lake-college",
   "name": "Folsom Lake College",
   "url": "https://www.flc.losrios.edu/",
+  "source": "web-search",
   "platform": "unknown",
   "scheduleUrl": null,
   "catalogUrl": null,
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "extractUrl": "https://folsomlakesurf.org/competitive-club-season-schedule/",
+  "method": "auto",
+  "sampleCount": 1,
   "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Homepage returned HTTP 404",
-  "learnedAt": "2026-06-05T22:44:30.379Z"
+  "candidates": [
+    {
+      "text": "Final Exam Schedule | Folsom Lake College",
+      "href": "https://flc.losrios.edu/admissions/academic-calendar-and-deadlines/final-exam-schedule",
+      "score": 4
+    },
+    {
+      "text": "Folsom Lake Surf Launches Indoor Skills Development Class",
+      "href": "https://folsomlakesurf.org/folsom-lake-surf-launches-indoor-skills-development-class-schedule/",
+      "score": 4
+    },
+    {
+      "text": "Enroll in classes | Folsom Lake College",
+      "href": "https://flc.losrios.edu/admissions/enroll-in-classes",
+      "score": 0
+    },
+    {
+      "text": "Academic Calendar and Deadlines | Folsom Lake College",
+      "href": "https://flc.losrios.edu/admissions/academic-calendar-and-deadlines",
+      "score": 0
+    },
+    {
+      "text": "Enroll Now for Spring | Folsom Lake College",
+      "href": "https://flc.losrios.edu/register-for-spring",
+      "score": 0
+    },
+    {
+      "text": "Folsom Lake College | Folsom Lake College",
+      "href": "https://flc.losrios.edu/",
+      "score": 0
+    }
+  ],
+  "searchQuery": "Folsom Lake College class schedule",
+  "searchResults": [
+    {
+      "title": "Enroll in classes | Folsom Lake College",
+      "href": "https://flc.losrios.edu/admissions/enroll-in-classes",
+      "query": "Folsom Lake College class schedule"
+    },
+    {
+      "title": "Final Exam Schedule | Folsom Lake College",
+      "href": "https://flc.losrios.edu/admissions/academic-calendar-and-deadlines/final-exam-schedule",
+      "query": "Folsom Lake College class schedule"
+    },
+    {
+      "title": "Academic Calendar and Deadlines | Folsom Lake College",
+      "href": "https://flc.losrios.edu/admissions/academic-calendar-and-deadlines",
+      "query": "Folsom Lake College class schedule"
+    },
+    {
+      "title": "Enroll Now for Spring | Folsom Lake College",
+      "href": "https://flc.losrios.edu/register-for-spring",
+      "query": "Folsom Lake College class schedule"
+    },
+    {
+      "title": "Folsom Lake College | Folsom Lake College",
+      "href": "https://flc.losrios.edu/",
+      "query": "Folsom Lake College class schedule"
+    },
+    {
+      "title": "Folsom Lake Surf Launches Indoor Skills Development Class",
+      "href": "https://folsomlakesurf.org/folsom-lake-surf-launches-indoor-skills-development-class-schedule/",
+      "query": "Folsom Lake College class schedule"
+    }
+  ],
+  "blocked": null,
+  "confidence": 0.4025,
+  "notes": "Extracted 1 real courses from https://folsomlakesurf.org/competitive-club-season-schedule/. Real courses but modality not exposed here (defaults to in_person). Discovered via web search \"Folsom Lake College class schedule\".",
+  "learnedAt": "2026-06-08T17:23:53.492Z",
+  "browserActions": [
+    "browser https://folsomlakesurf.org/competitive-club-season-schedule/ → 1 courses",
+    "browser https://flc.losrios.edu/admissions/academic-calendar-and-deadlines/final-exam-schedule → 0 courses",
+    "browser https://folsomlakesurf.org/folsom-lake-surf-launches-indoor-skills-development-class-schedule/ → 0 courses"
+  ]
 }

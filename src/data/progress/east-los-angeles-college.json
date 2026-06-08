@@ -1,0 +1,90 @@
+{
+  "slug": "east-los-angeles-college",
+  "name": "East Los Angeles College",
+  "url": "https://www.elac.edu/",
+  "status": "live",
+  "attempts": 1,
+  "courseCount": 609,
+  "modalityCoverage": 0.989,
+  "method": "auto",
+  "extractUrl": "http://205.154.255.98/academics/schedules/courselisting/class_list_Spring_2026.htm",
+  "blocked": null,
+  "note": "Extracted 609 real courses from http://205.154.255.98/academics/schedules/courselisting/class_list_Spring_2026.htm. Modality available for ~99% (real schedule data).",
+  "startedAt": "2026-06-08T17:21:53.247Z",
+  "finishedAt": "2026-06-08T17:22:01.117Z",
+  "updatedAt": "2026-06-08T17:22:01.117Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:21:53.247Z",
+      "msg": "▶ Starting East Los Angeles College — https://www.elac.edu/"
+    },
+    {
+      "t": "2026-06-08T17:21:53.247Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:21:53.248Z",
+      "msg": "Fetching homepage https://www.elac.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:21:53.643Z",
+      "msg": "Homepage: 3 schedule + 1 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:21:53.982Z",
+      "msg": "probe https://www.laccd.edu/students/class-search-elac → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:21:56.541Z",
+      "msg": "probe https://www.elac.edu/academics/calendar-schedules/schedules → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:21:58.519Z",
+      "msg": "probe https://www.elac.edu/academic-resources/catalog → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:21:58.605Z",
+      "msg": "probe https://catalog.elac.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:21:58.611Z",
+      "msg": "probe https://catalog.elac.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:21:58.616Z",
+      "msg": "probe https://catalog.elac.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:21:58.622Z",
+      "msg": "probe https://catalog.elac.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:21:58.627Z",
+      "msg": "probe https://catalog.elac.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:21:58.753Z",
+      "msg": "probe https://mycollege-guest.laccd.edu/psp/classsearchguest/?cmd=login&languageCd=ENG → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:22:00.517Z",
+      "msg": "probe https://www.elac.edu/academics/departments → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:22:01.093Z",
+      "msg": "probe http://205.154.255.98/academics/schedules/courselisting/class_list_Spring_2026.htm → 609 courses"
+    },
+    {
+      "t": "2026-06-08T17:22:01.093Z",
+      "msg": "  ↑ new best: 609 courses, modality 99%"
+    },
+    {
+      "t": "2026-06-08T17:22:01.117Z",
+      "msg": "✅ LIVE — ingested 609 courses into the searchable DB via auto (99% with modality)."
+    },
+    {
+      "t": "2026-06-08T17:22:01.117Z",
+      "msg": "   source: http://205.154.255.98/academics/schedules/courselisting/class_list_Spring_2026.htm"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "antelope-valley-college",
+  "name": "Antelope Valley College",
+  "url": "https://www.avc.edu/",
+  "status": "live",
+  "attempts": 1,
+  "courseCount": 1,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "extractUrl": "https://www.avc.edu/2yearschedule",
+  "blocked": null,
+  "note": "Extracted 1 real courses from https://www.avc.edu/2yearschedule. Real courses but modality not exposed here (defaults to in_person).",
+  "startedAt": "2026-06-08T16:58:51.754Z",
+  "finishedAt": "2026-06-08T16:59:00.005Z",
+  "updatedAt": "2026-06-08T16:59:00.005Z",
+  "log": [
+    {
+      "t": "2026-06-08T16:58:51.754Z",
+      "msg": "▶ Starting Antelope Valley College — https://www.avc.edu/"
+    },
+    {
+      "t": "2026-06-08T16:58:51.754Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T16:58:51.754Z",
+      "msg": "Fetching homepage https://www.avc.edu/ …"
+    },
+    {
+      "t": "2026-06-08T16:58:55.066Z",
+      "msg": "Homepage: 6 schedule + 5 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T16:58:55.628Z",
+      "msg": "probe https://www.avc.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:58:56.193Z",
+      "msg": "probe https://www.avc.edu/distance-education/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:58:56.535Z",
+      "msg": "probe https://avc.elumenapp.com/catalog → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:58:57.605Z",
+      "msg": "probe https://www.avc.edu/academics/el/noncredit-programs-and-courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:58:57.660Z",
+      "msg": "probe https://catalog.avc.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T16:58:57.662Z",
+      "msg": "probe https://catalog.avc.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T16:58:57.663Z",
+      "msg": "probe https://catalog.avc.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T16:58:57.665Z",
+      "msg": "probe https://catalog.avc.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T16:58:57.666Z",
+      "msg": "probe https://catalog.avc.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T16:58:58.429Z",
+      "msg": "probe https://www.avc.edu/schedule#main-content → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:58:59.747Z",
+      "msg": "probe https://www.avc.edu/2yearschedule → 1 courses"
+    },
+    {
+      "t": "2026-06-08T16:58:59.747Z",
+      "msg": "  ↑ new best: 1 courses, modality 0%"
+    },
+    {
+      "t": "2026-06-08T16:59:00.003Z",
+      "msg": "probe https://www.avc.edu/distance-education/schedule#main-content → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:00.005Z",
+      "msg": "✅ LIVE — ingested 1 courses into the searchable DB via auto (0% with modality)."
+    },
+    {
+      "t": "2026-06-08T16:59:00.005Z",
+      "msg": "   source: https://www.avc.edu/2yearschedule"
+    }
+  ]
+}

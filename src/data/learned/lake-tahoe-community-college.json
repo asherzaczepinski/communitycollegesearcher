@@ -2,36 +2,86 @@
   "slug": "lake-tahoe-community-college",
   "name": "Lake Tahoe Community College",
   "url": "https://www.ltcc.edu/",
+  "source": "web-search",
   "platform": "unknown",
-  "scheduleUrl": "https://www.ltcc.edu/academics/scheduleofclasses.php",
-  "catalogUrl": "https://www.ltcc.edu/academics/catalog.php",
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "scheduleUrl": null,
+  "catalogUrl": null,
+  "extractUrl": "https://southtahoenow.com/05/19/2012/lake-tahoe-community-college-ramps-summer-connect-programs",
+  "method": "auto",
+  "sampleCount": 1,
   "modalityCoverage": 0,
   "candidates": [
     {
-      "text": "Schedule of Classes",
-      "href": "https://www.ltcc.edu/academics/scheduleofclasses.php",
-      "score": 5
+      "text": "Register for Classes | Lake Tahoe Community College",
+      "href": "https://www.ltcc.edu/admissions/registration/index.php",
+      "score": 0
     },
     {
-      "text": "An Online Student High-quality education offered virtually to accommodate busy schedules",
-      "href": "https://www.ltcc.edu/i_am/onlinestudent.php",
-      "score": 2
+      "text": "Physical Education & Health Programs | Lake Tahoe Community",
+      "href": "https://www.ltcc.edu/academics/academic_programs/kinesiology.php",
+      "score": 0
     },
     {
-      "text": "Catalog",
-      "href": "https://www.ltcc.edu/academics/catalog.php",
-      "score": 3
+      "text": "Events Calendar | Lake Tahoe Community College",
+      "href": "https://www.ltcc.edu/calendar/index.php",
+      "score": 0
     },
     {
-      "text": "Academics Courses & Programs",
-      "href": "https://www.ltcc.edu/academics/index.php",
-      "score": 1
+      "text": "Events Calendar | Lake Tahoe Community College",
+      "href": "https://www.ltcc.edu/calendar/index.php?com=send&eID=401",
+      "score": 0
+    },
+    {
+      "text": "News & Updates | Lake Tahoe Community College",
+      "href": "https://www.ltcc.edu/news/?cat=All&page=41",
+      "score": 0
+    },
+    {
+      "text": "Lake Tahoe Community College ramps up summer with Connect",
+      "href": "https://southtahoenow.com/05/19/2012/lake-tahoe-community-college-ramps-summer-connect-programs",
+      "score": 0
     }
   ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:44:59.834Z"
+  "searchQuery": "Lake Tahoe Community College class schedule",
+  "searchResults": [
+    {
+      "title": "Register for Classes | Lake Tahoe Community College",
+      "href": "https://www.ltcc.edu/admissions/registration/index.php",
+      "query": "Lake Tahoe Community College class schedule"
+    },
+    {
+      "title": "Physical Education & Health Programs | Lake Tahoe Community",
+      "href": "https://www.ltcc.edu/academics/academic_programs/kinesiology.php",
+      "query": "Lake Tahoe Community College class schedule"
+    },
+    {
+      "title": "Events Calendar | Lake Tahoe Community College",
+      "href": "https://www.ltcc.edu/calendar/index.php",
+      "query": "Lake Tahoe Community College class schedule"
+    },
+    {
+      "title": "Events Calendar | Lake Tahoe Community College",
+      "href": "https://www.ltcc.edu/calendar/index.php?com=send&eID=401",
+      "query": "Lake Tahoe Community College class schedule"
+    },
+    {
+      "title": "News & Updates | Lake Tahoe Community College",
+      "href": "https://www.ltcc.edu/news/?cat=All&page=41",
+      "query": "Lake Tahoe Community College class schedule"
+    },
+    {
+      "title": "Lake Tahoe Community College ramps up summer with Connect",
+      "href": "https://southtahoenow.com/05/19/2012/lake-tahoe-community-college-ramps-summer-connect-programs",
+      "query": "Lake Tahoe Community College class schedule"
+    }
+  ],
+  "blocked": null,
+  "confidence": 0.4025,
+  "notes": "Extracted 1 real courses from https://southtahoenow.com/05/19/2012/lake-tahoe-community-college-ramps-summer-connect-programs. Real courses but modality not exposed here (defaults to in_person). Discovered via web search \"Lake Tahoe Community College class schedule\".",
+  "learnedAt": "2026-06-08T17:35:17.854Z",
+  "browserActions": [
+    "browser https://southtahoenow.com/05/19/2012/lake-tahoe-community-college-ramps-summer-connect-programs → 1 courses",
+    "browser https://www.ltcc.edu/admissions/registration/index.php → 0 courses",
+    "browser https://www.ltcc.edu/academics/academic_programs/kinesiology.php → 0 courses"
+  ]
 }

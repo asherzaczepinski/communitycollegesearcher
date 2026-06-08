@@ -1,0 +1,182 @@
+{
+  "slug": "college-of-the-canyons",
+  "name": "College of the Canyons",
+  "url": "https://www.canyons.edu/",
+  "status": "live",
+  "attempts": 2,
+  "courseCount": 1,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "extractUrl": "https://www.hometownstation.com/on-air-features/program-schedule",
+  "blocked": null,
+  "note": "Extracted 1 real courses from https://www.hometownstation.com/on-air-features/program-schedule. Real courses but modality not exposed here (defaults to in_person). Discovered via web search \"College of the Canyons class schedule\".",
+  "startedAt": "2026-06-08T17:10:10.210Z",
+  "finishedAt": "2026-06-08T17:10:59.649Z",
+  "updatedAt": "2026-06-08T17:10:59.649Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:10:10.210Z",
+      "msg": "▶ Starting College of the Canyons — https://www.canyons.edu/"
+    },
+    {
+      "t": "2026-06-08T17:10:10.210Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:10:10.210Z",
+      "msg": "Fetching homepage https://www.canyons.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:10:11.431Z",
+      "msg": "Homepage: 2 schedule + 2 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:10:11.522Z",
+      "msg": "probe https://www.canyons.edu/studentservices/admissions/resources/classschedule.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:11.602Z",
+      "msg": "probe https://www.canyons.edu/about/bus-schedule.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:11.743Z",
+      "msg": "probe https://www.canyons.edu/administration/instruction/catalog/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:11.799Z",
+      "msg": "probe https://www.canyons.edu/academics/schools/ppl/collegepreparationcourses.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:11.829Z",
+      "msg": "probe https://catalog.canyons.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:10:11.833Z",
+      "msg": "probe https://catalog.canyons.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:10:11.835Z",
+      "msg": "probe https://catalog.canyons.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:10:11.837Z",
+      "msg": "probe https://catalog.canyons.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:10:11.839Z",
+      "msg": "probe https://catalog.canyons.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:10:11.980Z",
+      "msg": "probe https://www.canyons.edu/about/a-to-z-index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:12.354Z",
+      "msg": "probe https://selfservice.canyons.edu/Student/Courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:12.436Z",
+      "msg": "probe https://www.canyons.edu/studentservices/admissions/resources/classschedule.php#maincontent → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:12.436Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:10:14.442Z",
+      "msg": "Web search returned 6 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:10:14.442Z",
+      "msg": "Top candidate: https://scvnews.com/college-of-the-canyons-registration-open-for-winter-2026-session/ (platform: unknown)."
+    },
+    {
+      "t": "2026-06-08T17:10:16.419Z",
+      "msg": "probe https://scvnews.com/college-of-the-canyons-registration-open-for-winter-2026-session/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:16.945Z",
+      "msg": "probe https://scvnews.com/college-of-the-canyons-fall-semester-registration-now-open/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:17.452Z",
+      "msg": "probe https://scvnews.com/registration-ongoing-for-college-of-the-canyons-2026-summer-sessions/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:24.222Z",
+      "msg": "probe https://scvnews.com/june-6-college-of-the-canyons-to-celebrate-class-of-2025/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:24.668Z",
+      "msg": "probe https://scvnews.com/college-of-the-canyons-to-reopen-aug-22/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:26.228Z",
+      "msg": "probe https://www.hometownstation.com/santa-clarita-news/coronavirus/college-of-the-canyons-cancels-classes-for-two-days-317492 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:26.578Z",
+      "msg": "probe https://canyons.us10.list-manage.com/track/click?u=87cfd625d53ba10c856940996&id=dc1ad980d7&e=6d7da6da83 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:26.855Z",
+      "msg": "probe https://www.hometownstation.com/on-air-features/program-schedule → 1 courses"
+    },
+    {
+      "t": "2026-06-08T17:10:26.855Z",
+      "msg": "  ↑ new best: 1 courses, modality 0%"
+    },
+    {
+      "t": "2026-06-08T17:10:27.130Z",
+      "msg": "probe https://www.hometownstation.com/on-air-features/program-schedule/monday-program-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:27.325Z",
+      "msg": "probe https://www.hometownstation.com/on-air-features/program-schedule/tuesday-program-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:27.421Z",
+      "msg": "probe https://www.canyons.edu/about/a-to-z-index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:27.506Z",
+      "msg": "probe https://www.canyons.edu/studentservices/admissions/resources/classschedule.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:10:27.507Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:10:27.507Z",
+      "msg": "render (headless Chrome) https://www.hometownstation.com/on-air-features/program-schedule …"
+    },
+    {
+      "t": "2026-06-08T17:10:33.837Z",
+      "msg": "browser https://www.hometownstation.com/on-air-features/program-schedule → 1 courses"
+    },
+    {
+      "t": "2026-06-08T17:10:33.837Z",
+      "msg": "render (headless Chrome) https://scvnews.com/college-of-the-canyons-registration-open-for-winter-2026-session/ …"
+    },
+    {
+      "t": "2026-06-08T17:10:46.930Z",
+      "msg": "browser https://scvnews.com/college-of-the-canyons-registration-open-for-winter-2026-session/ → 1 courses"
+    },
+    {
+      "t": "2026-06-08T17:10:46.931Z",
+      "msg": "render (headless Chrome) https://scvnews.com/college-of-the-canyons-fall-semester-registration-now-open/ …"
+    },
+    {
+      "t": "2026-06-08T17:10:59.648Z",
+      "msg": "browser https://scvnews.com/college-of-the-canyons-fall-semester-registration-now-open/ → 1 courses"
+    },
+    {
+      "t": "2026-06-08T17:10:59.649Z",
+      "msg": "✅ LIVE — ingested 1 courses into the searchable DB via auto (0% with modality)."
+    },
+    {
+      "t": "2026-06-08T17:10:59.649Z",
+      "msg": "   source: https://www.hometownstation.com/on-air-features/program-schedule"
+    }
+  ]
+}

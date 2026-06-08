@@ -2,15 +2,35 @@
   "slug": "coastline-college",
   "name": "Coastline College",
   "url": "https://www.coastline.edu/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": null,
-  "catalogUrl": null,
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "scheduleUrl": "https://www.coastline.edu/academics/class-schedules.php",
+  "catalogUrl": "https://www.coastline.edu/academics/class-schedules.php",
+  "extractUrl": "https://ssb-prod.ec.cccd.edu/PROD/pw_pub_sched.p_search?Term=202650&college=CL",
+  "method": "auto",
+  "sampleCount": 1,
   "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-05T22:43:42.390Z"
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "https://www.coastline.edu/academics/class-schedules.php",
+      "score": 5
+    },
+    {
+      "text": "Welcome Week Schedule",
+      "href": "https://www.coastline.edu/student-life/welcome-week-schedule.php",
+      "score": 2
+    },
+    {
+      "text": "Class Schedule & Catalog",
+      "href": "https://www.coastline.edu/academics/class-schedules.php",
+      "score": 3
+    }
+  ],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.4025,
+  "notes": "Extracted 1 real courses from https://ssb-prod.ec.cccd.edu/PROD/pw_pub_sched.p_search?Term=202650&college=CL. Real courses but modality not exposed here (defaults to in_person).",
+  "learnedAt": "2026-06-08T17:09:35.343Z"
 }

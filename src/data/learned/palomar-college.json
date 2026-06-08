@@ -2,36 +2,19 @@
   "slug": "palomar-college",
   "name": "Palomar College",
   "url": "https://www.palomar.edu/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": "https://www.palomar.edu/schedule/",
-  "catalogUrl": "https://www.palomar.edu/catalog/",
+  "scheduleUrl": null,
+  "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Class Schedule",
-      "href": "https://www.palomar.edu/schedule/",
-      "score": 5
-    },
-    {
-      "text": "Find Classes and Enroll",
-      "href": "https://www.palomar.edu/mypalomar/findclasses/",
-      "score": 3
-    },
-    {
-      "text": "View Catalog",
-      "href": "https://www.palomar.edu/catalog/",
-      "score": 3
-    },
-    {
-      "text": "Explore courses.",
-      "href": "https://www.palomar.edu/wcce/",
-      "score": 1
-    }
-  ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:46:23.388Z"
+  "candidates": [],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0,
+  "notes": "Could not fetch homepage: fetch failed",
+  "learnedAt": "2026-06-08T17:36:30.053Z"
 }

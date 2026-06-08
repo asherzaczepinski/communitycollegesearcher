@@ -1,0 +1,58 @@
+{
+  "slug": "los-angeles-trade-tech-college",
+  "name": "Los Angeles Trade-Tech College",
+  "url": "https://www.lattc.edu/",
+  "status": "impossible",
+  "attempts": 3,
+  "courseCount": 0,
+  "modalityCoverage": 0,
+  "method": null,
+  "extractUrl": null,
+  "blocked": null,
+  "note": "Could not fetch homepage: fetch failed",
+  "startedAt": "2026-06-08T17:36:29.887Z",
+  "finishedAt": "2026-06-08T17:36:29.901Z",
+  "updatedAt": "2026-06-08T17:36:29.901Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:36:29.887Z",
+      "msg": "▶ Starting Los Angeles Trade-Tech College — https://www.lattc.edu/"
+    },
+    {
+      "t": "2026-06-08T17:36:29.887Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:36:29.887Z",
+      "msg": "Fetching homepage https://www.lattc.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:36:29.887Z",
+      "msg": "Homepage fetch failed: fetch failed"
+    },
+    {
+      "t": "2026-06-08T17:36:29.888Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:36:29.893Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:36:29.894Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:36:29.894Z",
+      "msg": "Fetching homepage https://www.lattc.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:36:29.901Z",
+      "msg": "Homepage fetch failed: fetch failed"
+    },
+    {
+      "t": "2026-06-08T17:36:29.901Z",
+      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    }
+  ]
+}

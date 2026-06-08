@@ -2,46 +2,86 @@
   "slug": "west-valley-college",
   "name": "West Valley College",
   "url": "https://www.westvalley.edu/",
+  "source": "web-search",
   "platform": "unknown",
-  "scheduleUrl": "https://www.westvalley.edu/classes/schedule/",
-  "catalogUrl": "https://www.westvalley.edu/catalog/",
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "scheduleUrl": "https://www.westvalley.edu/classes/schedule/index.html",
+  "catalogUrl": null,
+  "extractUrl": "https://www.westvalley.edu/calendar/academic.html",
+  "method": "auto",
+  "sampleCount": 2,
   "modalityCoverage": 0,
   "candidates": [
     {
-      "text": "Class Schedule",
-      "href": "https://www.westvalley.edu/classes/schedule/",
-      "score": 5
+      "text": "Class Schedules | West Valley College",
+      "href": "https://www.westvalley.edu/classes/schedule/index.html",
+      "score": 10
     },
     {
-      "text": "Fees and Tuition",
-      "href": "https://www.westvalley.edu/admissions/fee-schedule.html",
-      "score": 2
+      "text": "Final Exam Schedule | West Valley College",
+      "href": "https://www.westvalley.edu/calendar/finals.html",
+      "score": 4
     },
     {
-      "text": "Course Catalog",
-      "href": "https://www.westvalley.edu/catalog/",
-      "score": 6
+      "text": "Homepage | West Valley College",
+      "href": "https://www.westvalley.edu/",
+      "score": 0
     },
     {
-      "text": "College Catalog →",
-      "href": "https://www.westvalley.edu/catalog/index.html",
-      "score": 6
+      "text": "Online Classes | West Valley College",
+      "href": "https://www.westvalley.edu/classes/online.html",
+      "score": 0
     },
     {
-      "text": "Academic Programs",
-      "href": "https://www.westvalley.edu/catalog/programs/",
-      "score": 3
+      "text": "Academic Calendar Dates & Deadlines | West Valley College",
+      "href": "https://www.westvalley.edu/calendar/academic.html",
+      "score": 0
     },
     {
-      "text": "Courses and Programs",
-      "href": "https://westvalley.elumenapp.com/public/",
-      "score": 1
+      "text": "West Valley College Portal - Tecupdate",
+      "href": "https://tecupdate.com/west-valley-college-portal/",
+      "score": 0
     }
   ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:47:36.033Z"
+  "searchQuery": "West Valley College class schedule",
+  "searchResults": [
+    {
+      "title": "Class Schedules | West Valley College",
+      "href": "https://www.westvalley.edu/classes/schedule/index.html",
+      "query": "West Valley College class schedule"
+    },
+    {
+      "title": "Homepage | West Valley College",
+      "href": "https://www.westvalley.edu/",
+      "query": "West Valley College class schedule"
+    },
+    {
+      "title": "Online Classes | West Valley College",
+      "href": "https://www.westvalley.edu/classes/online.html",
+      "query": "West Valley College class schedule"
+    },
+    {
+      "title": "Final Exam Schedule | West Valley College",
+      "href": "https://www.westvalley.edu/calendar/finals.html",
+      "query": "West Valley College class schedule"
+    },
+    {
+      "title": "Academic Calendar Dates & Deadlines | West Valley College",
+      "href": "https://www.westvalley.edu/calendar/academic.html",
+      "query": "West Valley College class schedule"
+    },
+    {
+      "title": "West Valley College Portal - Tecupdate",
+      "href": "https://tecupdate.com/west-valley-college-portal/",
+      "query": "West Valley College class schedule"
+    }
+  ],
+  "blocked": null,
+  "confidence": 0.405,
+  "notes": "Extracted 2 real courses from https://www.westvalley.edu/calendar/academic.html. Real courses but modality not exposed here (defaults to in_person). Discovered via web search \"West Valley College class schedule\".",
+  "learnedAt": "2026-06-08T17:36:30.232Z",
+  "browserActions": [
+    "browser https://www.westvalley.edu/classes/schedule/index.html → 0 courses",
+    "browser https://www.westvalley.edu/calendar/academic.html → 2 courses",
+    "browser https://www.westvalley.edu/calendar/finals.html → 0 courses"
+  ]
 }

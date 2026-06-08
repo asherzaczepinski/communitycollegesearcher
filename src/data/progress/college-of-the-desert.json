@@ -1,0 +1,94 @@
+{
+  "slug": "college-of-the-desert",
+  "name": "College of the Desert",
+  "url": "https://www.collegeofthedesert.edu/",
+  "status": "live",
+  "attempts": 1,
+  "courseCount": 1293,
+  "modalityCoverage": 0.003,
+  "method": "auto",
+  "extractUrl": "https://www.collegeofthedesert.edu/students/catalog-schedule/course-outlines.php",
+  "blocked": null,
+  "note": "Extracted 1293 real courses from https://www.collegeofthedesert.edu/students/catalog-schedule/course-outlines.php. Real courses but modality not exposed here (defaults to in_person).",
+  "startedAt": "2026-06-08T17:10:59.649Z",
+  "finishedAt": "2026-06-08T17:11:02.539Z",
+  "updatedAt": "2026-06-08T17:11:02.539Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:10:59.649Z",
+      "msg": "▶ Starting College of the Desert — https://www.collegeofthedesert.edu/"
+    },
+    {
+      "t": "2026-06-08T17:10:59.649Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:10:59.649Z",
+      "msg": "Fetching homepage https://www.collegeofthedesert.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:10:59.976Z",
+      "msg": "Homepage: 3 schedule + 3 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:11:00.085Z",
+      "msg": "probe https://www.collegeofthedesert.edu/students/catalog-schedule/default.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:00.358Z",
+      "msg": "probe https://www.collegeofthedesert.edu/_web-items/documents/pdf-files/schedules/2026-spring-final-exam.pdf → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:00.639Z",
+      "msg": "probe https://www.collegeofthedesert.edu/students/catalog-schedule/academic-calendar.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:01.173Z",
+      "msg": "probe https://catalog.collegeofthedesert.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:01.449Z",
+      "msg": "probe https://catalog.collegeofthedesert.edu/course-outlines/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:11:01.687Z",
+      "msg": "probe https://catalog.collegeofthedesert.edu/courses/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:01.755Z",
+      "msg": "probe https://catalog.collegeofthedesert.edu/coursesaz/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:11:01.845Z",
+      "msg": "probe https://catalog.collegeofthedesert.edu/course-descriptions/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:11:02.213Z",
+      "msg": "probe https://www.collegeofthedesert.edu/students/catalog-schedule/course-outlines.php → 1293 courses"
+    },
+    {
+      "t": "2026-06-08T17:11:02.213Z",
+      "msg": "  ↑ new best: 1293 courses, modality 0%"
+    },
+    {
+      "t": "2026-06-08T17:11:02.316Z",
+      "msg": "probe https://www.collegeofthedesert.edu/students/catalog-schedule/winter-spring-schedule.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:02.415Z",
+      "msg": "probe https://www.collegeofthedesert.edu/students/catalog-schedule/summer-schedule.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:02.515Z",
+      "msg": "probe https://www.collegeofthedesert.edu/students/catalog-schedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:11:02.539Z",
+      "msg": "✅ LIVE — ingested 1293 courses into the searchable DB via auto (0% with modality)."
+    },
+    {
+      "t": "2026-06-08T17:11:02.539Z",
+      "msg": "   source: https://www.collegeofthedesert.edu/students/catalog-schedule/course-outlines.php"
+    }
+  ]
+}

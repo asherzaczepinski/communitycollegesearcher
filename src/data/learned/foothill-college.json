@@ -2,46 +2,80 @@
   "slug": "foothill-college",
   "name": "Foothill College",
   "url": "https://www.foothill.edu/",
-  "platform": "acalog",
-  "scheduleUrl": "https://foothill.edu/schedule/index.html",
-  "catalogUrl": "https://foothill.edu/catalog/index.html",
-  "extractUrl": "https://catalog.foothill.edu/course-outlines/",
+  "source": "web-search",
+  "platform": "unknown",
+  "scheduleUrl": "https://foothill.edu/schedule/index.html?Quarter=2025W&srchcrn=32348",
+  "catalogUrl": null,
+  "extractUrl": "https://foothill.edu/schedule/index.html?Quarter=2025S&srchcrn=41479",
   "method": "auto",
-  "sampleCount": 1823,
-  "modalityCoverage": 0.005,
+  "sampleCount": 1,
+  "modalityCoverage": 0,
   "candidates": [
     {
-      "text": "Class Schedule",
-      "href": "https://foothill.edu/schedule/index.html",
-      "score": 5
+      "text": "Class Schedule | Foothill College",
+      "href": "https://foothill.edu/schedule/index.html?Quarter=2025W&srchcrn=32348",
+      "score": 10
     },
     {
-      "text": "College Catalog",
-      "href": "https://foothill.edu/catalog/index.html",
-      "score": 6
+      "text": "Class Schedule | Foothill College",
+      "href": "https://foothill.edu/schedule/index.html?Quarter=2025W&srchcrn=30974",
+      "score": 10
     },
     {
-      "text": "Degrees & Certificates",
-      "href": "https://catalog.foothill.edu/degrees-certificates/",
-      "score": 3
+      "text": "Class Schedule | Foothill College",
+      "href": "https://foothill.edu/schedule/index.html?Quarter=2025S&srchcrn=40252",
+      "score": 10
     },
     {
-      "text": "Choose a Major",
-      "href": "https://catalog.foothill.edu/degrees-certificates/by-type/",
-      "score": 3
+      "text": "Class Schedule | Foothill College",
+      "href": "https://foothill.edu/schedule/index.html?Quarter=2025S&srchcrn=41479",
+      "score": 10
     },
     {
-      "text": "See Program Details",
-      "href": "https://catalog.foothill.edu/degrees-certificates/bs/",
-      "score": 3
+      "text": "Class Schedule | Foothill College",
+      "href": "https://www.foothill.fhda.edu/schedule/index.html?dept=&srchloca=SV",
+      "score": 10
     },
     {
-      "text": "Explore Certificate Options",
-      "href": "https://catalog.foothill.edu/degrees-certificates/credit-certificates/",
-      "score": 3
+      "text": "foothill.edu/schedule",
+      "href": "https://foothill.edu/schedule/",
+      "score": 4
     }
   ],
-  "confidence": 0.902194185408667,
-  "notes": "Extracted 1823 real courses from https://catalog.foothill.edu/course-outlines/. Source is a catalog: real courses but modality not exposed here (defaults to in_person until a live-schedule adapter is added).",
-  "learnedAt": "2026-06-05T22:44:33.448Z"
+  "searchQuery": "Foothill College class schedule",
+  "searchResults": [
+    {
+      "title": "foothill.edu/schedule",
+      "href": "https://foothill.edu/schedule/",
+      "query": "Foothill College class schedule"
+    },
+    {
+      "title": "Class Schedule | Foothill College",
+      "href": "https://foothill.edu/schedule/index.html?Quarter=2025W&srchcrn=32348",
+      "query": "Foothill College class schedule"
+    },
+    {
+      "title": "Class Schedule | Foothill College",
+      "href": "https://foothill.edu/schedule/index.html?Quarter=2025W&srchcrn=30974",
+      "query": "Foothill College class schedule"
+    },
+    {
+      "title": "Class Schedule | Foothill College",
+      "href": "https://foothill.edu/schedule/index.html?Quarter=2025S&srchcrn=40252",
+      "query": "Foothill College class schedule"
+    },
+    {
+      "title": "Class Schedule | Foothill College",
+      "href": "https://foothill.edu/schedule/index.html?Quarter=2025S&srchcrn=41479",
+      "query": "Foothill College class schedule"
+    },
+    {
+      "title": "Class Schedule | Foothill College",
+      "href": "https://www.foothill.fhda.edu/schedule/index.html?dept=&srchloca=SV",
+      "query": "Foothill College class schedule"
+    }
+  ],
+  "confidence": 0.4025,
+  "notes": "Extracted 1 real courses from https://foothill.edu/schedule/index.html?Quarter=2025S&srchcrn=41479. Source is a catalog: real courses but modality not exposed here (defaults to in_person until a live-schedule adapter is added). Discovered via web search \"Foothill College class schedule\".",
+  "learnedAt": "2026-06-08T14:43:29.437Z"
 }

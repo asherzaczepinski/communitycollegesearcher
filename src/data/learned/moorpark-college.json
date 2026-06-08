@@ -2,46 +2,19 @@
   "slug": "moorpark-college",
   "name": "Moorpark College",
   "url": "https://www.moorparkcollege.edu/",
-  "platform": "acalog",
-  "scheduleUrl": "https://schedule.vcccd.edu/",
-  "catalogUrl": "https://www.moorparkcollege.edu/apply-and-enroll/college-catalog",
+  "source": "homepage",
+  "platform": "unknown",
+  "scheduleUrl": null,
+  "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Class Schedule",
-      "href": "https://schedule.vcccd.edu/",
-      "score": 5
-    },
-    {
-      "text": "Class Schedule",
-      "href": "https://www.moorparkcollege.edu/apply-and-enroll/schedule-classes",
-      "score": 5
-    },
-    {
-      "text": "College Catalog",
-      "href": "https://www.moorparkcollege.edu/apply-and-enroll/college-catalog",
-      "score": 6
-    },
-    {
-      "text": "Catalog",
-      "href": "https://catalog.vcccd.edu/moorpark/",
-      "score": 3
-    },
-    {
-      "text": "Catalog",
-      "href": "https://catalog.vcccd.edu/moorpark",
-      "score": 3
-    },
-    {
-      "text": "College Programs & Courses",
-      "href": "https://www.moorparkcollege.edu/departments/academic",
-      "score": 1
-    }
-  ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:45:57.401Z"
+  "candidates": [],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0,
+  "notes": "Could not fetch homepage: fetch failed",
+  "learnedAt": "2026-06-08T17:36:29.951Z"
 }

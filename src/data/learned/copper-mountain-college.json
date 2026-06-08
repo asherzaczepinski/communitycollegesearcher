@@ -2,6 +2,7 @@
   "slug": "copper-mountain-college",
   "name": "Copper Mountain College",
   "url": "https://www.cmccd.edu/",
+  "source": "homepage",
   "platform": "unknown",
   "scheduleUrl": "https://www.cmccd.edu/class-schedule/",
   "catalogUrl": "https://www.cmccd.edu/academic-catalogs/",
@@ -26,7 +27,15 @@
       "score": 1
     }
   ],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
   "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:44:04.160Z"
+  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
+  "learnedAt": "2026-06-08T17:15:16.961Z",
+  "browserActions": [
+    "browser https://www.cmccd.edu/class-schedule/ → 0 courses",
+    "browser https://www.cmccd.edu/academic-catalogs/ → 0 courses",
+    "browser https://www.cmccd.edu/academics/online-courses/ → 0 courses"
+  ]
 }

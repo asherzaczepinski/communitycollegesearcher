@@ -1,0 +1,106 @@
+{
+  "slug": "woodland-community-college",
+  "name": "Woodland Community College",
+  "url": "https://wcc.yccd.edu/",
+  "status": "impossible",
+  "attempts": 3,
+  "courseCount": 0,
+  "modalityCoverage": 0,
+  "method": null,
+  "extractUrl": null,
+  "blocked": null,
+  "note": "Could not fetch homepage: fetch failed",
+  "startedAt": "2026-06-08T17:37:03.894Z",
+  "finishedAt": "2026-06-08T17:37:27.490Z",
+  "updatedAt": "2026-06-08T17:37:27.490Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:37:03.894Z",
+      "msg": "▶ Starting Woodland Community College — https://wcc.yccd.edu/"
+    },
+    {
+      "t": "2026-06-08T17:37:03.894Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:37:03.894Z",
+      "msg": "Fetching homepage https://wcc.yccd.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:37:04.287Z",
+      "msg": "Homepage: 2 schedule + 3 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:37:04.480Z",
+      "msg": "probe https://wcc.yccd.edu/academics/class-schedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:37:04.642Z",
+      "msg": "probe https://wcc.yccd.edu/admissions/course-search/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:37:04.819Z",
+      "msg": "probe https://wcc.yccd.edu/academics/catalog/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:37:06.962Z",
+      "msg": "probe https://yccd.teamdynamix.com/TDClient/1911/Portal/Requests/ServiceCatalog?CategoryID=13956 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:37:07.120Z",
+      "msg": "probe https://catalog.wcc.yccd.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:37:07.125Z",
+      "msg": "probe https://catalog.wcc.yccd.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:37:07.128Z",
+      "msg": "probe https://catalog.wcc.yccd.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:37:07.131Z",
+      "msg": "probe https://catalog.wcc.yccd.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:37:07.134Z",
+      "msg": "probe https://catalog.wcc.yccd.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:37:07.471Z",
+      "msg": "probe https://wcc.yccd.edu/academics/class-schedule/# → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:37:27.474Z",
+      "msg": "probe https://wcc.yccd.edu/wp-content/uploads/2019/12/SPRING-2020-SCHEDULE-OF-CLASSES.pdf → 0 (This operation was aborted)"
+    },
+    {
+      "t": "2026-06-08T17:37:27.477Z",
+      "msg": "probe https://wcc.yccd.edu/wp-content/uploads/2019/04/WCC-SU-FA19-Web.pdf → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:37:27.477Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:37:27.488Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:37:27.488Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:37:27.488Z",
+      "msg": "Fetching homepage https://wcc.yccd.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:37:27.489Z",
+      "msg": "Homepage fetch failed: fetch failed"
+    },
+    {
+      "t": "2026-06-08T17:37:27.490Z",
+      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    }
+  ]
+}

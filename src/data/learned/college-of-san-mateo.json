@@ -2,15 +2,86 @@
   "slug": "college-of-san-mateo",
   "name": "College of San Mateo",
   "url": "https://www.collegeofsanmateo.edu/",
+  "source": "web-search",
   "platform": "unknown",
-  "scheduleUrl": null,
+  "scheduleUrl": "https://communicationacademy.com/schedules/san-mateo/",
   "catalogUrl": null,
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "extractUrl": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp",
+  "method": "auto",
+  "sampleCount": 7,
   "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-05T22:43:48.381Z"
+  "candidates": [
+    {
+      "text": "San Mateo Class Schedules - Communication Academy",
+      "href": "https://communicationacademy.com/schedules/san-mateo/",
+      "score": 10
+    },
+    {
+      "text": "Final Examination Schedule at College of San Mateo - Spring 2025",
+      "href": "https://collegeofsanmateo.edu/finalexams/spring2025.asp",
+      "score": 4
+    },
+    {
+      "text": "Final Examination Schedule at College of San Mateo - Spring 2023",
+      "href": "https://collegeofsanmateo.edu/finalexams/spring2023.asp",
+      "score": 4
+    },
+    {
+      "text": "Final Examination Schedule at College of San Mateo - Spring 2024",
+      "href": "https://collegeofsanmateo.edu/finalexams/spring2024.asp",
+      "score": 4
+    },
+    {
+      "text": "Final Examination Schedule at College of San Mateo - Spring 2026",
+      "href": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp",
+      "score": 4
+    },
+    {
+      "text": "Final Examination Schedule at College of San Mateo",
+      "href": "https://collegeofsanmateo.edu/finalexams/fall2024.asp",
+      "score": 4
+    }
+  ],
+  "searchQuery": "College of San Mateo class schedule",
+  "searchResults": [
+    {
+      "title": "Final Examination Schedule at College of San Mateo - Spring 2025",
+      "href": "https://collegeofsanmateo.edu/finalexams/spring2025.asp",
+      "query": "College of San Mateo class schedule"
+    },
+    {
+      "title": "Final Examination Schedule at College of San Mateo - Spring 2023",
+      "href": "https://collegeofsanmateo.edu/finalexams/spring2023.asp",
+      "query": "College of San Mateo class schedule"
+    },
+    {
+      "title": "Final Examination Schedule at College of San Mateo - Spring 2024",
+      "href": "https://collegeofsanmateo.edu/finalexams/spring2024.asp",
+      "query": "College of San Mateo class schedule"
+    },
+    {
+      "title": "Final Examination Schedule at College of San Mateo - Spring 2026",
+      "href": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp",
+      "query": "College of San Mateo class schedule"
+    },
+    {
+      "title": "Final Examination Schedule at College of San Mateo",
+      "href": "https://collegeofsanmateo.edu/finalexams/fall2024.asp",
+      "query": "College of San Mateo class schedule"
+    },
+    {
+      "title": "San Mateo Class Schedules - Communication Academy",
+      "href": "https://communicationacademy.com/schedules/san-mateo/",
+      "query": "College of San Mateo class schedule"
+    }
+  ],
+  "blocked": null,
+  "confidence": 0.41750000000000004,
+  "notes": "Extracted 7 real courses from https://www.collegeofsanmateo.edu/finalexams/spring2026.asp. Real courses but modality not exposed here (defaults to in_person). Discovered via web search \"College of San Mateo class schedule\".",
+  "learnedAt": "2026-06-08T17:09:47.766Z",
+  "browserActions": [
+    "browser https://communicationacademy.com/schedules/san-mateo/ → 0 courses",
+    "browser https://www.collegeofsanmateo.edu/finalexams/spring2026.asp → 7 courses",
+    "browser https://collegeofsanmateo.edu/finalexams/spring2025.asp → 6 courses"
+  ]
 }

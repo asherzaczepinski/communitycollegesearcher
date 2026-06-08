@@ -2,15 +2,55 @@
   "slug": "college-of-marin",
   "name": "College of Marin",
   "url": "https://www.marin.edu/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": null,
-  "catalogUrl": null,
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
-  "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-05T22:43:46.375Z"
+  "scheduleUrl": "https://www1.marin.edu/schedule",
+  "catalogUrl": "https://www1.marin.edu/schedule",
+  "extractUrl": "https://netapps.marin.edu/Apps/Directory/ScheduleSearch.aspx",
+  "method": "auto",
+  "sampleCount": 1103,
+  "modalityCoverage": 0.013,
+  "candidates": [
+    {
+      "text": "Class Schedules & Catalogs",
+      "href": "https://www1.marin.edu/schedule",
+      "score": 5
+    },
+    {
+      "text": "Class Schedule Online",
+      "href": "https://netapps.marin.edu/Apps/Directory/ScheduleSearch.aspx",
+      "score": 5
+    },
+    {
+      "text": "Class Schedule & Catalogs",
+      "href": "http://www1.marin.edu/schedule",
+      "score": 5
+    },
+    {
+      "text": "Class Schedules & Catalogs",
+      "href": "https://www1.marin.edu/schedule",
+      "score": 3
+    },
+    {
+      "text": "Degrees & Certificates",
+      "href": "https://marin.elumenapp.com/catalog/current/program-and-course-descriptions",
+      "score": 3
+    },
+    {
+      "text": "Class Schedule & Catalogs",
+      "href": "http://www1.marin.edu/schedule",
+      "score": 3
+    },
+    {
+      "text": "Course Outline of Record",
+      "href": "https://marin.elumenapp.com/public/",
+      "score": 2
+    }
+  ],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.9050770625566636,
+  "notes": "Extracted 1103 real courses from https://netapps.marin.edu/Apps/Directory/ScheduleSearch.aspx. Real courses but modality not exposed here (defaults to in_person).",
+  "learnedAt": "2026-06-08T17:09:42.361Z"
 }

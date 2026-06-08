@@ -1,0 +1,94 @@
+{
+  "slug": "coastline-college",
+  "name": "Coastline College",
+  "url": "https://www.coastline.edu/",
+  "status": "live",
+  "attempts": 1,
+  "courseCount": 1,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "extractUrl": "https://ssb-prod.ec.cccd.edu/PROD/pw_pub_sched.p_search?Term=202650&college=CL",
+  "blocked": null,
+  "note": "Extracted 1 real courses from https://ssb-prod.ec.cccd.edu/PROD/pw_pub_sched.p_search?Term=202650&college=CL. Real courses but modality not exposed here (defaults to in_person).",
+  "startedAt": "2026-06-08T17:09:35.343Z",
+  "finishedAt": "2026-06-08T17:09:37.988Z",
+  "updatedAt": "2026-06-08T17:09:37.988Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:09:35.343Z",
+      "msg": "▶ Starting Coastline College — https://www.coastline.edu/"
+    },
+    {
+      "t": "2026-06-08T17:09:35.343Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:09:35.343Z",
+      "msg": "Fetching homepage https://www.coastline.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:09:35.693Z",
+      "msg": "Homepage: 2 schedule + 1 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:09:35.809Z",
+      "msg": "probe https://www.coastline.edu/academics/class-schedules.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:09:35.970Z",
+      "msg": "probe https://www.coastline.edu/student-life/welcome-week-schedule.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:09:35.988Z",
+      "msg": "probe https://catalog.coastline.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:09:35.990Z",
+      "msg": "probe https://catalog.coastline.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:09:35.991Z",
+      "msg": "probe https://catalog.coastline.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:09:35.993Z",
+      "msg": "probe https://catalog.coastline.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:09:35.994Z",
+      "msg": "probe https://catalog.coastline.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:09:36.106Z",
+      "msg": "probe https://www.coastline.edu/academics/academic-departments/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:09:36.261Z",
+      "msg": "probe https://www.cccd.edu/departments/chancellor/internalaudit-issues.html → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:09:37.715Z",
+      "msg": "probe https://ssb-prod.ec.cccd.edu/PROD/pw_pub_sched.p_search?Term=202650&college=CL → 1 courses"
+    },
+    {
+      "t": "2026-06-08T17:09:37.716Z",
+      "msg": "  ↑ new best: 1 courses, modality 0%"
+    },
+    {
+      "t": "2026-06-08T17:09:37.895Z",
+      "msg": "probe https://www.coastline.edu/student-life/welcome-week-schedule.php#js-global-header → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:09:37.987Z",
+      "msg": "probe https://www.coastline.edu/academics/academic-departments/index.php#js-global-header → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:09:37.988Z",
+      "msg": "✅ LIVE — ingested 1 courses into the searchable DB via auto (0% with modality)."
+    },
+    {
+      "t": "2026-06-08T17:09:37.988Z",
+      "msg": "   source: https://ssb-prod.ec.cccd.edu/PROD/pw_pub_sched.p_search?Term=202650&college=CL"
+    }
+  ]
+}

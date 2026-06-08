@@ -2,36 +2,19 @@
   "slug": "ohlone-college",
   "name": "Ohlone College",
   "url": "https://www.ohlone.edu/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": "https://www.ohlone.edu/admissions/classschedules",
-  "catalogUrl": "https://www.ohlone.edu/catalog",
+  "scheduleUrl": null,
+  "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Class Schedule",
-      "href": "https://www.ohlone.edu/admissions/classschedules",
-      "score": 5
-    },
-    {
-      "text": "Search for Classes",
-      "href": "https://www.ohlone.edu/go/classschedule",
-      "score": 5
-    },
-    {
-      "text": "Catalog",
-      "href": "https://www.ohlone.edu/catalog",
-      "score": 3
-    },
-    {
-      "text": "Noncredit Courses",
-      "href": "https://www.ohlone.edu/noncredit",
-      "score": 1
-    }
-  ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:46:15.177Z"
+  "candidates": [],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0,
+  "notes": "Could not fetch homepage: fetch failed",
+  "learnedAt": "2026-06-08T17:36:30.018Z"
 }

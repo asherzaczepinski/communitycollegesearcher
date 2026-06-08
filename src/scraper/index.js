@@ -5,6 +5,8 @@ import { loadRecipe, saveSnapshot } from './kb.js';
 import { sampleCourses } from './adapters/sample.js';
 import { htmlCourses } from './adapters/html.js';
 import { autoCourses } from './adapters/auto.js';
+import { browserCourses } from './adapters/browser.js';
+import { closeDriver } from './browser.js';
 import { getScraper } from '../scrapers/index.js';
 
 // Decide how to get courses for a college (real data preferred over samples).
@@ -29,11 +31,12 @@ async function extract(college, { allowSample = true } = {}) {
   const recipe = loadRecipe(college.slug);
   // Only a "real" stored type is sticky; 'sample'/'none' are non-sticky defaults
   // so a freshly-learned recipe always wins over an old sample fallback.
-  let type = college.scrape_type === 'html' || college.scrape_type === 'auto'
+  let type = ['html', 'auto', 'browser'].includes(college.scrape_type)
     ? college.scrape_type
     : null;
   if (!type) {
     if (recipe && recipe.selectors) type = 'html';
+    else if (recipe && recipe.method === 'browser' && recipe.extractUrl) type = 'browser';
     else if (recipe && recipe.extractUrl) type = 'auto';
     else type = allowSample ? 'sample' : 'none';
   }
@@ -43,6 +46,8 @@ async function extract(college, { allowSample = true } = {}) {
       return { type, courses: await htmlCourses(college, recipe) };
     case 'auto':
       return { type, courses: await autoCourses(college, recipe) };
+    case 'browser':
+      return { type, courses: await browserCourses(college, recipe) };
     case 'none':
       return { type, courses: [] };
     case 'sample':
@@ -79,5 +84,6 @@ export async function scrapeAll(colleges, { concurrency = 6, onResult, allowSamp
     }
   }
   await Promise.all(Array.from({ length: Math.min(concurrency, colleges.length) }, worker));
+  await closeDriver(); // free Chrome if any 'browser'-typed college used it
   return results;
 }

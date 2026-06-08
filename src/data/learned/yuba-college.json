@@ -2,51 +2,19 @@
   "slug": "yuba-college",
   "name": "Yuba College",
   "url": "https://yc.yccd.edu/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": "https://yc.yccd.edu/academics/class-schedule/",
-  "catalogUrl": "https://yc.yccd.edu/academics/catalog/",
+  "scheduleUrl": null,
+  "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Class Schedule",
-      "href": "https://yc.yccd.edu/academics/class-schedule/",
-      "score": 5
-    },
-    {
-      "text": "Schedule A Visit",
-      "href": "https://yc.yccd.edu/admissions/",
-      "score": 2
-    },
-    {
-      "text": "Finals Schedule",
-      "href": "https://yc.yccd.edu/academics/finals-schedule/",
-      "score": 2
-    },
-    {
-      "text": "Course ScheduleSchedules for Summer/Fall 2026 are now searchable!",
-      "href": "https://yc.yccd.edu/admissions/courses/",
-      "score": 2
-    },
-    {
-      "text": "Catalog",
-      "href": "https://yc.yccd.edu/academics/catalog/",
-      "score": 3
-    },
-    {
-      "text": "IT HelpDesk",
-      "href": "https://yccd.teamdynamix.com/TDClient/1911/Portal/Requests/ServiceCatalog?CategoryID=13956",
-      "score": 3
-    },
-    {
-      "text": "Course Search",
-      "href": "https://yc.yccd.edu/admissions/courses/",
-      "score": 1
-    }
-  ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:47:43.711Z"
+  "candidates": [],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0,
+  "notes": "Could not fetch homepage: fetch failed",
+  "learnedAt": "2026-06-08T17:37:27.501Z"
 }

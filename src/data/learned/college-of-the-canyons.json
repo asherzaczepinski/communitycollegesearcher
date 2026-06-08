@@ -2,15 +2,86 @@
   "slug": "college-of-the-canyons",
   "name": "College of the Canyons",
   "url": "https://www.canyons.edu/",
+  "source": "web-search",
   "platform": "unknown",
   "scheduleUrl": null,
   "catalogUrl": null,
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "extractUrl": "https://www.hometownstation.com/on-air-features/program-schedule",
+  "method": "auto",
+  "sampleCount": 1,
   "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-05T22:43:50.398Z"
+  "candidates": [
+    {
+      "text": "SCVNews.com | College of the Canyons Registration Open for",
+      "href": "https://scvnews.com/college-of-the-canyons-registration-open-for-winter-2026-session/",
+      "score": 0
+    },
+    {
+      "text": "SCVNews.com | College of the Canyons Fall Semester Registration",
+      "href": "https://scvnews.com/college-of-the-canyons-fall-semester-registration-now-open/",
+      "score": 0
+    },
+    {
+      "text": "SCVNews.com | Registration Ongoing for College of the Canyons",
+      "href": "https://scvnews.com/registration-ongoing-for-college-of-the-canyons-2026-summer-sessions/",
+      "score": 0
+    },
+    {
+      "text": "SCVNews.com | June 6: College of the Canyons to Celebrate Class",
+      "href": "https://scvnews.com/june-6-college-of-the-canyons-to-celebrate-class-of-2025/",
+      "score": 0
+    },
+    {
+      "text": "SCVNews.com | College of the Canyons Welcomes Students for Fall",
+      "href": "https://scvnews.com/college-of-the-canyons-to-reopen-aug-22/",
+      "score": 0
+    },
+    {
+      "text": "College of the Canyons Cancels Classes For Two Days",
+      "href": "https://www.hometownstation.com/santa-clarita-news/coronavirus/college-of-the-canyons-cancels-classes-for-two-days-317492",
+      "score": 0
+    }
+  ],
+  "searchQuery": "College of the Canyons class schedule",
+  "searchResults": [
+    {
+      "title": "SCVNews.com | College of the Canyons Registration Open for",
+      "href": "https://scvnews.com/college-of-the-canyons-registration-open-for-winter-2026-session/",
+      "query": "College of the Canyons class schedule"
+    },
+    {
+      "title": "SCVNews.com | College of the Canyons Fall Semester Registration",
+      "href": "https://scvnews.com/college-of-the-canyons-fall-semester-registration-now-open/",
+      "query": "College of the Canyons class schedule"
+    },
+    {
+      "title": "SCVNews.com | Registration Ongoing for College of the Canyons",
+      "href": "https://scvnews.com/registration-ongoing-for-college-of-the-canyons-2026-summer-sessions/",
+      "query": "College of the Canyons class schedule"
+    },
+    {
+      "title": "SCVNews.com | June 6: College of the Canyons to Celebrate Class",
+      "href": "https://scvnews.com/june-6-college-of-the-canyons-to-celebrate-class-of-2025/",
+      "query": "College of the Canyons class schedule"
+    },
+    {
+      "title": "SCVNews.com | College of the Canyons Welcomes Students for Fall",
+      "href": "https://scvnews.com/college-of-the-canyons-to-reopen-aug-22/",
+      "query": "College of the Canyons class schedule"
+    },
+    {
+      "title": "College of the Canyons Cancels Classes For Two Days",
+      "href": "https://www.hometownstation.com/santa-clarita-news/coronavirus/college-of-the-canyons-cancels-classes-for-two-days-317492",
+      "query": "College of the Canyons class schedule"
+    }
+  ],
+  "blocked": null,
+  "confidence": 0.4025,
+  "notes": "Extracted 1 real courses from https://www.hometownstation.com/on-air-features/program-schedule. Real courses but modality not exposed here (defaults to in_person). Discovered via web search \"College of the Canyons class schedule\".",
+  "learnedAt": "2026-06-08T17:10:12.436Z",
+  "browserActions": [
+    "browser https://www.hometownstation.com/on-air-features/program-schedule → 1 courses",
+    "browser https://scvnews.com/college-of-the-canyons-registration-open-for-winter-2026-session/ → 1 courses",
+    "browser https://scvnews.com/college-of-the-canyons-fall-semester-registration-now-open/ → 1 courses"
+  ]
 }

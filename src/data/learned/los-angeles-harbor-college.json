@@ -2,31 +2,19 @@
   "slug": "los-angeles-harbor-college",
   "name": "Los Angeles Harbor College",
   "url": "https://www.lahc.edu/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": "https://www.laccd.edu/students/class-search-lahc",
-  "catalogUrl": "https://www.lahc.edu/academics/schedules-catalogs",
+  "scheduleUrl": null,
+  "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Class Search",
-      "href": "https://www.laccd.edu/students/class-search-lahc",
-      "score": 5
-    },
-    {
-      "text": "Schedules & Catalogs",
-      "href": "https://www.lahc.edu/academics/schedules-catalogs",
-      "score": 2
-    },
-    {
-      "text": "Schedules & Catalogs",
-      "href": "https://www.lahc.edu/academics/schedules-catalogs",
-      "score": 3
-    }
-  ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:45:18.319Z"
+  "candidates": [],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0,
+  "notes": "Could not fetch homepage: fetch failed",
+  "learnedAt": "2026-06-08T17:36:29.870Z"
 }

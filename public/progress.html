@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Progress · CCC Mainframe</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <nav class="topnav">
+    <a class="brand" href="/">▣ CCC Mainframe</a>
+    <div class="links">
+      <a href="/search.html">Search</a>
+      <a href="/colleges.html">Colleges &amp; Scrapers</a>
+      <a href="/progress.html" class="active">Progress</a>
+    </div>
+  </nav>
+
+  <header>
+    <h1>Scraping Progress</h1>
+    <p class="tagline">Auto-scrape every college, one at a time — homepage HTTP → web search → headless Chrome
+      (driving Search forms, iframes, pagination). It only gives up at a sign-in wall. Watch it live below.</p>
+    <p class="stats" id="summary"></p>
+  </header>
+
+  <main>
+    <div class="prog-controls">
+      <button class="btn" id="run-all">▶ Auto-scrape all not-live</button>
+      <button class="btn ghost" id="stop" disabled>■ Stop</button>
+      <span class="run-indicator" id="run-indicator">idle</span>
+      <input id="filter" type="search" placeholder="Filter colleges…" />
+    </div>
+
+    <div class="prog-bar" id="prog-bar-wrap" hidden>
+      <div class="prog-bar-fill" id="prog-bar-fill"></div>
+      <span class="prog-bar-label" id="prog-bar-label"></span>
+    </div>
+
+    <!-- Live log console — the centerpiece. -->
+    <section class="console-wrap">
+      <div class="console-head">
+        <h2>📡 Live log <span class="result-meta" id="console-meta">connecting…</span></h2>
+        <div class="console-actions">
+          <label class="chk"><input type="checkbox" id="autoscroll" checked /> auto-scroll</label>
+          <button class="btn ghost small" id="clear-log">clear</button>
+        </div>
+      </div>
+      <div class="console" id="console"></div>
+    </section>
+
+    <!-- Status counters -->
+    <div class="status-tiles" id="status-tiles"></div>
+
+    <!-- Per-college status grid -->
+    <section class="college-group">
+      <h2>Colleges <span class="result-meta" id="grid-count"></span></h2>
+      <div id="grid" class="prog-rows"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Each college's full record + log is saved to <code>src/data/progress/&lt;slug&gt;.json</code>.
+      Found courses are ingested into the searchable DB and flip the college <b>live</b>.</p>
+  </footer>
+
+  <script src="/progress.js"></script>
+</body>
+</html>

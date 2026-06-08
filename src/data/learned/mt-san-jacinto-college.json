@@ -2,41 +2,19 @@
   "slug": "mt-san-jacinto-college",
   "name": "Mt. San Jacinto College",
   "url": "https://www.msjc.edu/",
-  "platform": "acalog",
-  "scheduleUrl": "https://www.msjc.edu/scheduleofclasses/",
-  "catalogUrl": "https://catalog.msjc.edu/courses/#coursesaztext",
+  "source": "homepage",
+  "platform": "unknown",
+  "scheduleUrl": null,
+  "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Schedule of Classes",
-      "href": "https://www.msjc.edu/scheduleofclasses/",
-      "score": 5
-    },
-    {
-      "text": "Courses A-Z",
-      "href": "https://catalog.msjc.edu/courses/#coursesaztext",
-      "score": 4
-    },
-    {
-      "text": "General Education Patterns",
-      "href": "https://www.msjc.edu/catalog/general-education-patterns.html",
-      "score": 3
-    },
-    {
-      "text": "Academic Calendar",
-      "href": "https://www.msjc.edu/catalog/academic-calendar.html",
-      "score": 3
-    },
-    {
-      "text": "Catalog",
-      "href": "https://www.msjc.edu/catalog/",
-      "score": 3
-    }
-  ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:46:06.245Z"
+  "candidates": [],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0,
+  "notes": "Could not fetch homepage: fetch failed",
+  "learnedAt": "2026-06-08T17:36:30.001Z"
 }

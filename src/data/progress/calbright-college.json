@@ -1,0 +1,174 @@
+{
+  "slug": "calbright-college",
+  "name": "Calbright College",
+  "url": "https://www.calbright.org/",
+  "status": "impossible",
+  "attempts": 3,
+  "courseCount": 0,
+  "modalityCoverage": 0,
+  "method": null,
+  "extractUrl": null,
+  "blocked": null,
+  "note": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
+  "startedAt": "2026-06-08T17:01:21.602Z",
+  "finishedAt": "2026-06-08T17:02:21.124Z",
+  "updatedAt": "2026-06-08T17:02:21.124Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:01:21.602Z",
+      "msg": "▶ Starting Calbright College — https://www.calbright.org/"
+    },
+    {
+      "t": "2026-06-08T17:01:21.602Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:01:21.602Z",
+      "msg": "Fetching homepage https://www.calbright.org/ …"
+    },
+    {
+      "t": "2026-06-08T17:01:22.220Z",
+      "msg": "Homepage: 0 schedule + 1 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:01:23.665Z",
+      "msg": "probe https://www.calbright.edu/academic-catalogs/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:01:23.717Z",
+      "msg": "probe https://catalog.calbright.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:01:23.719Z",
+      "msg": "probe https://catalog.calbright.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:01:23.721Z",
+      "msg": "probe https://catalog.calbright.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:01:23.723Z",
+      "msg": "probe https://catalog.calbright.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:01:23.724Z",
+      "msg": "probe https://catalog.calbright.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:01:23.725Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:01:25.940Z",
+      "msg": "Web search returned 6 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:01:25.941Z",
+      "msg": "Top candidate: https://www.calbright.edu/programs/learning/ (platform: unknown)."
+    },
+    {
+      "t": "2026-06-08T17:01:26.125Z",
+      "msg": "probe https://www.calbright.edu/programs/learning/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:01:26.319Z",
+      "msg": "probe https://www.calbright.edu/about/history/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:01:27.726Z",
+      "msg": "probe https://www.calbright.edu/info-session → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:01:28.799Z",
+      "msg": "probe https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:01:28.962Z",
+      "msg": "probe https://www.calbright.edu/about/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:01:44.580Z",
+      "msg": "probe https://calmatters.org/education/2023/04/calbright-community-college/ → 0 (HTTP 429)"
+    },
+    {
+      "t": "2026-06-08T17:01:44.581Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:01:44.582Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/programs/learning/ …"
+    },
+    {
+      "t": "2026-06-08T17:01:54.299Z",
+      "msg": "browser https://www.calbright.edu/programs/learning/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:01:54.299Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/about/history/ …"
+    },
+    {
+      "t": "2026-06-08T17:02:03.037Z",
+      "msg": "browser https://www.calbright.edu/about/history/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:02:03.038Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/info-session …"
+    },
+    {
+      "t": "2026-06-08T17:02:11.825Z",
+      "msg": "browser https://www.calbright.edu/info-session → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:02:11.826Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:02:11.826Z",
+      "msg": "Fetching homepage https://www.calbright.org/ …"
+    },
+    {
+      "t": "2026-06-08T17:02:12.197Z",
+      "msg": "Homepage: 0 schedule + 1 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:02:12.329Z",
+      "msg": "probe https://www.calbright.edu/academic-catalogs/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:02:12.332Z",
+      "msg": "probe https://catalog.calbright.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:02:12.334Z",
+      "msg": "probe https://catalog.calbright.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:02:12.336Z",
+      "msg": "probe https://catalog.calbright.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:02:12.337Z",
+      "msg": "probe https://catalog.calbright.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:02:12.338Z",
+      "msg": "probe https://catalog.calbright.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:02:12.338Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:02:12.339Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/academic-catalogs/ …"
+    },
+    {
+      "t": "2026-06-08T17:02:21.123Z",
+      "msg": "browser https://www.calbright.edu/academic-catalogs/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:02:21.124Z",
+      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    }
+  ]
+}

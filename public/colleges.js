@@ -36,6 +36,8 @@ function row(c) {
       ${searchLink}
       <button class="btn" data-act="scrape">Scrape</button>
       <button class="btn ghost" data-act="learn">Re-learn</button>
+      <button class="btn ghost" data-act="learn-search" title="Search the web for this college's class schedule, then learn from the results">Search &amp; learn</button>
+      <a class="btn ghost" href="/progress.html?college=${encodeURIComponent(c.slug)}" title="Auto-scrape this college (HTTP → web search → headless browser) on the Progress tab, with a live log.">Auto-scrape ↗</a>
     </div>
   </div>`;
 }
@@ -62,11 +64,22 @@ async function runAction(slug, act, btn) {
   buttons.forEach((b) => (b.disabled = true));
   const statusEl = rowEl.querySelector('.cr-status');
   const original = statusEl.textContent;
-  statusEl.textContent = act === 'scrape' ? 'scraping…' : 're-learning…';
+  // Auto-scrape lives on the Progress tab (/progress.html) — these are the quick in-row actions.
+  const ENDPOINTS = {
+    scrape: '/api/update/',
+    learn: '/api/learn/',
+    'learn-search': '/api/learn-search/',
+  };
+  const BUSY = {
+    scrape: 'scraping…',
+    learn: 're-learning…',
+    'learn-search': 'searching the web…',
+  };
+  statusEl.textContent = BUSY[act] || 'working…';
   rowEl.classList.add('busy');
 
   try {
-    const url = act === 'scrape' ? `/api/update/${encodeURIComponent(slug)}` : `/api/learn/${encodeURIComponent(slug)}`;
+    const url = `${ENDPOINTS[act]}${encodeURIComponent(slug)}`;
     const res = await fetch(url, { method: 'POST' });
     const data = await res.json();
 
@@ -77,10 +90,17 @@ async function runAction(slug, act, btn) {
         statusEl.textContent = `error: ${data.error || 'failed'}`;
       }
     } else {
+      // All learn flows return { recipe }.
       const r = data.recipe || {};
-      statusEl.textContent = r.sampleCount > 0
-        ? `learned: ${r.sampleCount} courses found ← ${r.extractUrl || ''}`
-        : `learned: no server-rendered courses (${(r.candidates || []).length} links)`;
+      const via = act === 'learn-search' ? ` (web search: ${(r.searchResults || []).length} results)` : '';
+      if (r.blocked === 'login') {
+        statusEl.textContent = `🔒 blocked: sign-in required${via}`;
+      } else if (r.sampleCount > 0) {
+        const how = r.method === 'browser' ? ' [browser]' : '';
+        statusEl.textContent = `learned${how}${via}: ${r.sampleCount} courses found ← ${r.extractUrl || ''}`;
+      } else {
+        statusEl.textContent = `learned${via}: no courses found (${(r.candidates || []).length} links)`;
+      }
     }
     // Refresh truth from the server so live/pending grouping + counts update.
     await loadColleges();

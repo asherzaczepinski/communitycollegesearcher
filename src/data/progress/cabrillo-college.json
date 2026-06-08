@@ -1,0 +1,266 @@
+{
+  "slug": "cabrillo-college",
+  "name": "Cabrillo College",
+  "url": "https://www.cabrillo.edu/",
+  "status": "live",
+  "attempts": 3,
+  "courseCount": 3,
+  "modalityCoverage": 0,
+  "method": "browser",
+  "extractUrl": "https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search?searchResultsView=SectionListing&terms=2026SP",
+  "blocked": null,
+  "note": "Extracted 3 real courses from https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search?searchResultsView=SectionListing&terms=2026SP (rendered with a headless browser). Real courses but modality not exposed here (defaults to in_person).",
+  "startedAt": "2026-06-08T17:00:29.630Z",
+  "finishedAt": "2026-06-08T17:01:21.602Z",
+  "updatedAt": "2026-06-08T17:01:21.602Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:00:29.630Z",
+      "msg": "▶ Starting Cabrillo College — https://www.cabrillo.edu/"
+    },
+    {
+      "t": "2026-06-08T17:00:29.631Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:00:29.631Z",
+      "msg": "Fetching homepage https://www.cabrillo.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:00:29.770Z",
+      "msg": "Homepage: 5 schedule + 6 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:00:29.854Z",
+      "msg": "probe https://www.cabrillo.edu/class-schedules/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:31.840Z",
+      "msg": "probe https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search?searchResultsView=SectionListing&terms=2026SP → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:32.113Z",
+      "msg": "probe https://www.cabrillo.edu/college-catalog/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:32.360Z",
+      "msg": "probe https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:32.425Z",
+      "msg": "probe https://catalog.cabrillo.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:00:32.429Z",
+      "msg": "probe https://catalog.cabrillo.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:00:32.431Z",
+      "msg": "probe https://catalog.cabrillo.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:00:32.433Z",
+      "msg": "probe https://catalog.cabrillo.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:00:32.434Z",
+      "msg": "probe https://catalog.cabrillo.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:00:32.541Z",
+      "msg": "probe https://www.cabrillo.edu/class-schedules/#browse-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:32.618Z",
+      "msg": "probe https://www.cabrillo.edu/class-schedules/#ArchivedClassSchedules → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:33.094Z",
+      "msg": "probe https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search?searchResultsView=SectionListing&terms=2026SP# → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:33.095Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:00:34.588Z",
+      "msg": "Web search returned 6 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:00:34.589Z",
+      "msg": "Top candidate: https://www.cabrillo.edu/class-schedules/ (platform: unknown)."
+    },
+    {
+      "t": "2026-06-08T17:00:34.693Z",
+      "msg": "probe https://www.cabrillo.edu/class-schedules/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:35.302Z",
+      "msg": "probe https://www.cabrillo.edu/cabrillo-information-systems-scheduled-maintenance/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:35.698Z",
+      "msg": "probe https://www.cabrillo.edu/governing-board/board-meetings-and-dates/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:36.287Z",
+      "msg": "probe https://www.cabrillo.edu/governance/college-planning-committee/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:37.109Z",
+      "msg": "probe https://www.ed2go.com/cabrillo/help.html → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:37.215Z",
+      "msg": "probe https://www.cabrillo.edu/class-schedules/#browse-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:37.360Z",
+      "msg": "probe https://www.cabrillo.edu/class-schedules/#ArchivedClassSchedules → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:37.603Z",
+      "msg": "probe https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:38.043Z",
+      "msg": "probe https://drive.google.com/file/d/1iniKcwviJqYvfm2q3H7Thur5fIXA8Czq/view?usp=sharing → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:38.291Z",
+      "msg": "probe https://cabrillo-ss.colleague.elluciancloud.com/Student/Student/Courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:38.507Z",
+      "msg": "probe https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:38.857Z",
+      "msg": "probe https://www.aaiscloud.com/CabrilloC/Default.aspx → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:38.858Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:00:38.859Z",
+      "msg": "render (headless Chrome) https://www.cabrillo.edu/class-schedules/ …"
+    },
+    {
+      "t": "2026-06-08T17:00:45.736Z",
+      "msg": "browser https://www.cabrillo.edu/class-schedules/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:00:45.736Z",
+      "msg": "render (headless Chrome) https://www.cabrillo.edu/cabrillo-information-systems-scheduled-maintenance/ …"
+    },
+    {
+      "t": "2026-06-08T17:00:52.582Z",
+      "msg": "browser https://www.cabrillo.edu/cabrillo-information-systems-scheduled-maintenance/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:00:52.582Z",
+      "msg": "render (headless Chrome) https://www.cabrillo.edu/governing-board/board-meetings-and-dates/ …"
+    },
+    {
+      "t": "2026-06-08T17:00:59.413Z",
+      "msg": "browser https://www.cabrillo.edu/governing-board/board-meetings-and-dates/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:00:59.414Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:00:59.414Z",
+      "msg": "Fetching homepage https://www.cabrillo.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:00:59.502Z",
+      "msg": "Homepage: 5 schedule + 6 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:00:59.561Z",
+      "msg": "probe https://www.cabrillo.edu/class-schedules/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:00:59.953Z",
+      "msg": "probe https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search?searchResultsView=SectionListing&terms=2026SP → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:01:00.020Z",
+      "msg": "probe https://www.cabrillo.edu/college-catalog/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:01:00.258Z",
+      "msg": "probe https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:01:00.261Z",
+      "msg": "probe https://catalog.cabrillo.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:01:00.262Z",
+      "msg": "probe https://catalog.cabrillo.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:01:00.263Z",
+      "msg": "probe https://catalog.cabrillo.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:01:00.264Z",
+      "msg": "probe https://catalog.cabrillo.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:01:00.265Z",
+      "msg": "probe https://catalog.cabrillo.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:01:00.345Z",
+      "msg": "probe https://www.cabrillo.edu/class-schedules/#browse-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:01:00.444Z",
+      "msg": "probe https://www.cabrillo.edu/class-schedules/#ArchivedClassSchedules → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:01:00.926Z",
+      "msg": "probe https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search?searchResultsView=SectionListing&terms=2026SP# → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:01:00.927Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:01:00.927Z",
+      "msg": "render (headless Chrome) https://www.cabrillo.edu/class-schedules/ …"
+    },
+    {
+      "t": "2026-06-08T17:01:07.748Z",
+      "msg": "browser https://www.cabrillo.edu/class-schedules/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:01:07.748Z",
+      "msg": "render (headless Chrome) https://www.cabrillo.edu/college-catalog/ …"
+    },
+    {
+      "t": "2026-06-08T17:01:14.615Z",
+      "msg": "browser https://www.cabrillo.edu/college-catalog/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:01:14.615Z",
+      "msg": "render (headless Chrome) https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search?searchResultsView=SectionListing&terms=2026SP …"
+    },
+    {
+      "t": "2026-06-08T17:01:21.599Z",
+      "msg": "browser https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search?searchResultsView=SectionListing&terms=2026SP → 3 courses"
+    },
+    {
+      "t": "2026-06-08T17:01:21.601Z",
+      "msg": "✅ LIVE — ingested 3 courses into the searchable DB via browser (0% with modality)."
+    },
+    {
+      "t": "2026-06-08T17:01:21.601Z",
+      "msg": "   source: https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search?searchResultsView=SectionListing&terms=2026SP"
+    }
+  ]
+}

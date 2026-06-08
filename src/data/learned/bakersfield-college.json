@@ -2,21 +2,86 @@
   "slug": "bakersfield-college",
   "name": "Bakersfield College",
   "url": "https://www.bakersfieldcollege.edu/",
-  "platform": "banner",
-  "scheduleUrl": "https://reg-prod.ec.kccd.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search",
-  "catalogUrl": null,
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "source": "web-search",
+  "platform": "unknown",
+  "scheduleUrl": null,
+  "catalogUrl": "https://www.bakersfieldcollege.edu/academics/distance-learning/online-courses.html",
+  "extractUrl": "https://online.flippingbook.com/view/29298325/",
+  "method": "auto",
+  "sampleCount": 1,
   "modalityCoverage": 0,
   "candidates": [
     {
-      "text": "Class Schedule",
-      "href": "https://reg-prod.ec.kccd.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search",
-      "score": 5
+      "text": "Online Courses | Bakersfield College",
+      "href": "https://www.bakersfieldcollege.edu/academics/distance-learning/online-courses.html",
+      "score": 1
+    },
+    {
+      "text": "General Information | Faculty Handbook | Bakersfield College",
+      "href": "https://www.bakersfieldcollege.edu/employees/faculty/faculty-handbook/section-6-general-information.html",
+      "score": 0
+    },
+    {
+      "text": "Finish Fast at Bakersfield College",
+      "href": "https://www.bakersfieldcollege.edu/academics/finish-fast.html",
+      "score": 0
+    },
+    {
+      "text": "Welcome Back for Fall 2024 Semester",
+      "href": "https://www.bakersfieldcollege.edu/news/2024/0815-bc-set-to-welcome-back-students-for-fall-2024-semester.html",
+      "score": 0
+    },
+    {
+      "text": "New Students",
+      "href": "https://www.bakersfieldcollege.edu/new-students.html",
+      "score": 0
+    },
+    {
+      "text": "Finals Week | Bakersfield High School",
+      "href": "https://bakersfield.kernhigh.org/apps/news/article/1550946",
+      "score": 0
     }
   ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:43:14.341Z"
+  "searchQuery": "Bakersfield College class schedule",
+  "searchResults": [
+    {
+      "title": "General Information | Faculty Handbook | Bakersfield College",
+      "href": "https://www.bakersfieldcollege.edu/employees/faculty/faculty-handbook/section-6-general-information.html",
+      "query": "Bakersfield College class schedule"
+    },
+    {
+      "title": "Finish Fast at Bakersfield College",
+      "href": "https://www.bakersfieldcollege.edu/academics/finish-fast.html",
+      "query": "Bakersfield College class schedule"
+    },
+    {
+      "title": "Welcome Back for Fall 2024 Semester",
+      "href": "https://www.bakersfieldcollege.edu/news/2024/0815-bc-set-to-welcome-back-students-for-fall-2024-semester.html",
+      "query": "Bakersfield College class schedule"
+    },
+    {
+      "title": "Online Courses | Bakersfield College",
+      "href": "https://www.bakersfieldcollege.edu/academics/distance-learning/online-courses.html",
+      "query": "Bakersfield College class schedule"
+    },
+    {
+      "title": "New Students",
+      "href": "https://www.bakersfieldcollege.edu/new-students.html",
+      "query": "Bakersfield College class schedule"
+    },
+    {
+      "title": "Finals Week | Bakersfield High School",
+      "href": "https://bakersfield.kernhigh.org/apps/news/article/1550946",
+      "query": "Bakersfield College class schedule"
+    }
+  ],
+  "blocked": null,
+  "confidence": 0.4025,
+  "notes": "Extracted 1 real courses from https://online.flippingbook.com/view/29298325/. Real courses but modality not exposed here (defaults to in_person). Discovered via web search \"Bakersfield College class schedule\".",
+  "learnedAt": "2026-06-08T15:43:14.079Z",
+  "browserActions": [
+    "browser https://online.flippingbook.com/view/29298325/ → 0 courses",
+    "browser https://www.bakersfieldcollege.edu/academics/distance-learning/online-courses.html → 0 courses",
+    "browser https://www.bakersfieldcollege.edu/employees/faculty/faculty-handbook/section-6-general-information.html → 0 courses"
+  ]
 }

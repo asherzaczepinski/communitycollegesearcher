@@ -2,12 +2,13 @@
   "slug": "antelope-valley-college",
   "name": "Antelope Valley College",
   "url": "https://www.avc.edu/",
+  "source": "homepage",
   "platform": "unknown",
   "scheduleUrl": "https://www.avc.edu/schedule",
   "catalogUrl": "https://avc.elumenapp.com/catalog",
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "extractUrl": "https://www.avc.edu/2yearschedule",
+  "method": "auto",
+  "sampleCount": 1,
   "modalityCoverage": 0,
   "candidates": [
     {
@@ -61,7 +62,10 @@
       "score": 1
     }
   ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:43:14.341Z"
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.4025,
+  "notes": "Extracted 1 real courses from https://www.avc.edu/2yearschedule. Real courses but modality not exposed here (defaults to in_person).",
+  "learnedAt": "2026-06-08T16:58:51.754Z"
 }

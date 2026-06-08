@@ -1,0 +1,250 @@
+{
+  "slug": "grossmont-college",
+  "name": "Grossmont College",
+  "url": "https://www.grossmont.edu/",
+  "status": "live",
+  "attempts": 3,
+  "courseCount": 30,
+  "modalityCoverage": 0,
+  "method": "browser",
+  "extractUrl": "https://selfservice.gcccd.edu/Student/Courses/SearchResult",
+  "blocked": null,
+  "note": "Extracted 30 real courses from https://selfservice.gcccd.edu/Student/Courses/SearchResult (rendered with a headless browser). Real courses but modality not exposed here (defaults to in_person).",
+  "startedAt": "2026-06-08T17:30:55.681Z",
+  "finishedAt": "2026-06-08T17:32:27.331Z",
+  "updatedAt": "2026-06-08T17:32:27.331Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:30:55.681Z",
+      "msg": "▶ Starting Grossmont College — https://www.grossmont.edu/"
+    },
+    {
+      "t": "2026-06-08T17:30:55.681Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:30:55.681Z",
+      "msg": "Fetching homepage https://www.grossmont.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:30:55.896Z",
+      "msg": "Homepage: 2 schedule + 1 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:30:56.161Z",
+      "msg": "probe https://selfservice.gcccd.edu/Student/Courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:30:56.229Z",
+      "msg": "probe https://www.grossmont.edu/academics/schedule/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:30:56.293Z",
+      "msg": "probe https://catalog.grossmont.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:30:56.295Z",
+      "msg": "probe https://catalog.grossmont.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:30:56.297Z",
+      "msg": "probe https://catalog.grossmont.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:30:56.298Z",
+      "msg": "probe https://catalog.grossmont.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:30:56.299Z",
+      "msg": "probe https://catalog.grossmont.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:30:56.545Z",
+      "msg": "probe https://selfservice.gcccd.edu/Student/Courses#tab1-content → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:30:56.608Z",
+      "msg": "probe https://www.grossmont.edu/academics/schedule/_resources/assets/pdf/2026/2026-su-class-schedule.pdf → 0 (HTTP 406)"
+    },
+    {
+      "t": "2026-06-08T17:30:56.773Z",
+      "msg": "probe https://www.grossmont.edu/academics/schedule/_resources/assets/pdf/2026/2026sp-class-schedule-complete.pdf → 0 (HTTP 406)"
+    },
+    {
+      "t": "2026-06-08T17:30:56.821Z",
+      "msg": "probe https://www.grossmont.edu/academics/schedule/_resources/assets/pdf/2025/fall/2025sp-class-schedule-complete-v2.pdf → 0 (HTTP 406)"
+    },
+    {
+      "t": "2026-06-08T17:30:56.823Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:30:59.100Z",
+      "msg": "Web search returned 6 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:30:59.101Z",
+      "msg": "Top candidate: https://www.grossmont.edu/academics/schedule/index.php (platform: unknown)."
+    },
+    {
+      "t": "2026-06-08T17:30:59.197Z",
+      "msg": "probe https://www.grossmont.edu/academics/schedule/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:30:59.984Z",
+      "msg": "probe https://gcsummit.com/7851/uncategorized/new-classes-have-been-added-at-grossmont-college/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:31:00.474Z",
+      "msg": "probe https://gcsummit.com/8655/uncategorized/grossmont-college-jump-start-for-high-school-students/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:31:00.844Z",
+      "msg": "probe https://www.schoolandcollegelistings.com/US/El-Cajon/213688571979940/Grossmont-College---American-Collegiate-English---ACE → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:31:01.117Z",
+      "msg": "probe https://www.findglocal.com/US/El-Cajon/137012795783/Grossmont-College-OPT-Program → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:31:01.265Z",
+      "msg": "probe https://selfservice.gcccd.edu/Student/Courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:31:01.312Z",
+      "msg": "probe https://www.grossmont.edu/academics/schedule/_resources/assets/pdf/2026/2026-su-class-schedule.pdf → 0 (HTTP 406)"
+    },
+    {
+      "t": "2026-06-08T17:31:01.453Z",
+      "msg": "probe https://www.grossmont.edu/academics/schedule/_resources/assets/pdf/2026/2026sp-class-schedule-complete.pdf → 0 (HTTP 406)"
+    },
+    {
+      "t": "2026-06-08T17:31:01.930Z",
+      "msg": "probe https://gcsummit.com/scores-and-schedules/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:31:02.044Z",
+      "msg": "probe https://selfservice.gcccd.edu/Student/Courses#tab1-content → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:31:02.434Z",
+      "msg": "probe https://gcsummit.com/scores-and-schedules/#sno-sites-main-content → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:31:02.839Z",
+      "msg": "probe https://gcsummit.com/scores-and-schedules/?sport=badminton&schoolyear=2021-2022 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:31:02.839Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:31:02.840Z",
+      "msg": "render (headless Chrome) https://www.grossmont.edu/academics/schedule/index.php …"
+    },
+    {
+      "t": "2026-06-08T17:31:11.483Z",
+      "msg": "browser https://www.grossmont.edu/academics/schedule/index.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:31:11.484Z",
+      "msg": "render (headless Chrome) https://gcsummit.com/7851/uncategorized/new-classes-have-been-added-at-grossmont-college/ …"
+    },
+    {
+      "t": "2026-06-08T17:31:41.386Z",
+      "msg": "browser https://gcsummit.com/7851/uncategorized/new-classes-have-been-added-at-grossmont-college/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:31:41.387Z",
+      "msg": "render (headless Chrome) https://gcsummit.com/8655/uncategorized/grossmont-college-jump-start-for-high-school-students/ …"
+    },
+    {
+      "t": "2026-06-08T17:32:05.537Z",
+      "msg": "browser https://gcsummit.com/8655/uncategorized/grossmont-college-jump-start-for-high-school-students/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:32:05.539Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:32:05.539Z",
+      "msg": "Fetching homepage https://www.grossmont.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:32:05.790Z",
+      "msg": "Homepage: 2 schedule + 1 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:32:05.952Z",
+      "msg": "probe https://selfservice.gcccd.edu/Student/Courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:32:06.012Z",
+      "msg": "probe https://www.grossmont.edu/academics/schedule/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:32:06.015Z",
+      "msg": "probe https://catalog.grossmont.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:32:06.017Z",
+      "msg": "probe https://catalog.grossmont.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:32:06.018Z",
+      "msg": "probe https://catalog.grossmont.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:32:06.019Z",
+      "msg": "probe https://catalog.grossmont.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:32:06.021Z",
+      "msg": "probe https://catalog.grossmont.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:32:06.169Z",
+      "msg": "probe https://selfservice.gcccd.edu/Student/Courses#tab1-content → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:32:06.221Z",
+      "msg": "probe https://www.grossmont.edu/academics/schedule/_resources/assets/pdf/2026/2026-su-class-schedule.pdf → 0 (HTTP 406)"
+    },
+    {
+      "t": "2026-06-08T17:32:06.426Z",
+      "msg": "probe https://www.grossmont.edu/academics/schedule/_resources/assets/pdf/2026/2026sp-class-schedule-complete.pdf → 0 (HTTP 406)"
+    },
+    {
+      "t": "2026-06-08T17:32:06.472Z",
+      "msg": "probe https://www.grossmont.edu/academics/schedule/_resources/assets/pdf/2025/fall/2025sp-class-schedule-complete-v2.pdf → 0 (HTTP 406)"
+    },
+    {
+      "t": "2026-06-08T17:32:06.474Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:32:06.474Z",
+      "msg": "render (headless Chrome) https://selfservice.gcccd.edu/Student/Courses …"
+    },
+    {
+      "t": "2026-06-08T17:32:18.869Z",
+      "msg": "browser https://selfservice.gcccd.edu/Student/Courses → 30 courses"
+    },
+    {
+      "t": "2026-06-08T17:32:18.869Z",
+      "msg": "render (headless Chrome) https://www.grossmont.edu/academics/schedule/index.php …"
+    },
+    {
+      "t": "2026-06-08T17:32:27.326Z",
+      "msg": "browser https://www.grossmont.edu/academics/schedule/index.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:32:27.330Z",
+      "msg": "✅ LIVE — ingested 30 courses into the searchable DB via browser (0% with modality)."
+    },
+    {
+      "t": "2026-06-08T17:32:27.331Z",
+      "msg": "   source: https://selfservice.gcccd.edu/Student/Courses/SearchResult"
+    }
+  ]
+}

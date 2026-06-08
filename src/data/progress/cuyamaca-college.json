@@ -1,0 +1,234 @@
+{
+  "slug": "cuyamaca-college",
+  "name": "Cuyamaca College",
+  "url": "https://www.cuyamaca.edu/",
+  "status": "live",
+  "attempts": 3,
+  "courseCount": 30,
+  "modalityCoverage": 0,
+  "method": "browser",
+  "extractUrl": "https://selfservice.gcccd.edu/Student/Courses/SearchResult",
+  "blocked": null,
+  "note": "Extracted 30 real courses from https://selfservice.gcccd.edu/Student/Courses/SearchResult (rendered with a headless browser). Real courses but modality not exposed here (defaults to in_person).",
+  "startedAt": "2026-06-08T17:18:38.085Z",
+  "finishedAt": "2026-06-08T17:19:36.030Z",
+  "updatedAt": "2026-06-08T17:19:36.030Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:18:38.086Z",
+      "msg": "▶ Starting Cuyamaca College — https://www.cuyamaca.edu/"
+    },
+    {
+      "t": "2026-06-08T17:18:38.086Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:18:38.086Z",
+      "msg": "Fetching homepage https://www.cuyamaca.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:18:38.308Z",
+      "msg": "Homepage: 2 schedule + 2 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:18:38.882Z",
+      "msg": "probe https://selfservice.gcccd.edu/Student/Courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:39.380Z",
+      "msg": "probe https://www.cuyamaca.edu/academics/class-schedules-catalog-and-calendars/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:39.503Z",
+      "msg": "probe https://catalog.cuyamaca.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:18:39.510Z",
+      "msg": "probe https://catalog.cuyamaca.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:18:39.515Z",
+      "msg": "probe https://catalog.cuyamaca.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:18:39.518Z",
+      "msg": "probe https://catalog.cuyamaca.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:18:39.522Z",
+      "msg": "probe https://catalog.cuyamaca.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:18:39.860Z",
+      "msg": "probe https://selfservice.gcccd.edu/Student/Courses#tab1-content → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:40.148Z",
+      "msg": "probe https://a.cms.omniupdate.com/11/?skin=oucampus&account=gcccd&site=cuyamaca&action=de&path=/academics/class-schedules-catalog-and-calendars/index.pcf → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:40.150Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:18:42.654Z",
+      "msg": "Web search returned 6 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:18:42.655Z",
+      "msg": "Top candidate: https://www.cuyamaca.edu/ (platform: unknown)."
+    },
+    {
+      "t": "2026-06-08T17:18:42.796Z",
+      "msg": "probe https://www.cuyamaca.edu/index-02.php → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:18:43.002Z",
+      "msg": "probe https://www.cuyamaca.edu/short-term/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:43.062Z",
+      "msg": "probe https://www.cuyamaca.edu/admissions/international-students/international-students-about-cuyamaca-college.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:43.586Z",
+      "msg": "probe https://www.cuyamaca.edu/academics/ways-to-take-classes.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:44.616Z",
+      "msg": "probe https://news.gcccd.edu/2023/08/17/cuyamaca-college-welcomes-students-to-campus-for-fall-semester-2/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:45.168Z",
+      "msg": "probe https://selfservice.gcccd.edu/Student/Courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:45.278Z",
+      "msg": "probe https://www.cuyamaca.edu/academics/class-schedules-catalog-and-calendars/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:45.382Z",
+      "msg": "probe https://www.cuyamaca.edu/academics/class-schedules-catalog-and-calendars/college-catalog.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:45.527Z",
+      "msg": "probe https://www.cuyamaca.edu/academics/class-schedules-catalog-and-calendars/spring-2026.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:45.723Z",
+      "msg": "probe https://selfservice.gcccd.edu/Student/Courses#tab1-content → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:45.968Z",
+      "msg": "probe https://a.cms.omniupdate.com/11/?skin=oucampus&account=gcccd&site=cuyamaca&action=de&path=/academics/class-schedules-catalog-and-calendars/index.pcf → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:46.039Z",
+      "msg": "probe https://www.cuyamaca.edu/academics/class-schedules-catalog-and-calendars/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:18:46.040Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:18:46.041Z",
+      "msg": "render (headless Chrome) https://www.cuyamaca.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:18:56.264Z",
+      "msg": "browser https://www.cuyamaca.edu/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:18:56.266Z",
+      "msg": "render (headless Chrome) https://www.cuyamaca.edu/index-02.php …"
+    },
+    {
+      "t": "2026-06-08T17:19:04.818Z",
+      "msg": "browser https://www.cuyamaca.edu/index-02.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:19:04.818Z",
+      "msg": "render (headless Chrome) https://www.cuyamaca.edu/short-term/index.php …"
+    },
+    {
+      "t": "2026-06-08T17:19:13.255Z",
+      "msg": "browser https://www.cuyamaca.edu/short-term/index.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:19:13.256Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:19:13.257Z",
+      "msg": "Fetching homepage https://www.cuyamaca.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:19:13.459Z",
+      "msg": "Homepage: 2 schedule + 2 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:19:13.774Z",
+      "msg": "probe https://selfservice.gcccd.edu/Student/Courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:19:13.831Z",
+      "msg": "probe https://www.cuyamaca.edu/academics/class-schedules-catalog-and-calendars/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:19:13.834Z",
+      "msg": "probe https://catalog.cuyamaca.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:19:13.836Z",
+      "msg": "probe https://catalog.cuyamaca.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:19:13.838Z",
+      "msg": "probe https://catalog.cuyamaca.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:19:13.840Z",
+      "msg": "probe https://catalog.cuyamaca.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:19:13.842Z",
+      "msg": "probe https://catalog.cuyamaca.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:19:14.077Z",
+      "msg": "probe https://selfservice.gcccd.edu/Student/Courses#tab1-content → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:19:14.355Z",
+      "msg": "probe https://a.cms.omniupdate.com/11/?skin=oucampus&account=gcccd&site=cuyamaca&action=de&path=/academics/class-schedules-catalog-and-calendars/index.pcf → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:19:14.357Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:19:14.358Z",
+      "msg": "render (headless Chrome) https://selfservice.gcccd.edu/Student/Courses …"
+    },
+    {
+      "t": "2026-06-08T17:19:27.341Z",
+      "msg": "browser https://selfservice.gcccd.edu/Student/Courses → 30 courses"
+    },
+    {
+      "t": "2026-06-08T17:19:27.342Z",
+      "msg": "render (headless Chrome) https://www.cuyamaca.edu/academics/class-schedules-catalog-and-calendars/index.php …"
+    },
+    {
+      "t": "2026-06-08T17:19:36.023Z",
+      "msg": "browser https://www.cuyamaca.edu/academics/class-schedules-catalog-and-calendars/index.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:19:36.029Z",
+      "msg": "✅ LIVE — ingested 30 courses into the searchable DB via browser (0% with modality)."
+    },
+    {
+      "t": "2026-06-08T17:19:36.029Z",
+      "msg": "   source: https://selfservice.gcccd.edu/Student/Courses/SearchResult"
+    }
+  ]
+}

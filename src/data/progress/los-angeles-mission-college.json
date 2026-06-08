@@ -1,0 +1,58 @@
+{
+  "slug": "los-angeles-mission-college",
+  "name": "Los Angeles Mission College",
+  "url": "https://www.lamission.edu/",
+  "status": "impossible",
+  "attempts": 3,
+  "courseCount": 0,
+  "modalityCoverage": 0,
+  "method": null,
+  "extractUrl": null,
+  "blocked": null,
+  "note": "Could not fetch homepage: fetch failed",
+  "startedAt": "2026-06-08T17:36:29.871Z",
+  "finishedAt": "2026-06-08T17:36:29.878Z",
+  "updatedAt": "2026-06-08T17:36:29.878Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:36:29.871Z",
+      "msg": "▶ Starting Los Angeles Mission College — https://www.lamission.edu/"
+    },
+    {
+      "t": "2026-06-08T17:36:29.871Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:36:29.871Z",
+      "msg": "Fetching homepage https://www.lamission.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:36:29.872Z",
+      "msg": "Homepage fetch failed: fetch failed"
+    },
+    {
+      "t": "2026-06-08T17:36:29.872Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:36:29.877Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:36:29.877Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:36:29.877Z",
+      "msg": "Fetching homepage https://www.lamission.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:36:29.878Z",
+      "msg": "Homepage fetch failed: fetch failed"
+    },
+    {
+      "t": "2026-06-08T17:36:29.878Z",
+      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    }
+  ]
+}

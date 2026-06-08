@@ -1,0 +1,266 @@
+{
+  "slug": "butte-college",
+  "name": "Butte College",
+  "url": "https://www.butte.edu/",
+  "status": "live",
+  "attempts": 3,
+  "courseCount": 30,
+  "modalityCoverage": 0,
+  "method": "browser",
+  "extractUrl": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+  "blocked": null,
+  "note": "Extracted 30 real courses from https://selfservice.butte.edu/Student/Courses/SearchResult (rendered with a headless browser). Real courses but modality not exposed here (defaults to in_person).",
+  "startedAt": "2026-06-08T16:59:00.006Z",
+  "finishedAt": "2026-06-08T17:00:29.630Z",
+  "updatedAt": "2026-06-08T17:00:29.630Z",
+  "log": [
+    {
+      "t": "2026-06-08T16:59:00.006Z",
+      "msg": "▶ Starting Butte College — https://www.butte.edu/"
+    },
+    {
+      "t": "2026-06-08T16:59:00.006Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T16:59:00.006Z",
+      "msg": "Fetching homepage https://www.butte.edu/ …"
+    },
+    {
+      "t": "2026-06-08T16:59:00.145Z",
+      "msg": "Homepage: 3 schedule + 2 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T16:59:00.279Z",
+      "msg": "probe https://www.butte.edu/schedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:00.649Z",
+      "msg": "probe https://selfservice.butte.edu/Student/Courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:00.742Z",
+      "msg": "probe https://www.butte.edu/curriculum/catalog/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:00.867Z",
+      "msg": "probe https://catalog.butte.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T16:59:00.872Z",
+      "msg": "probe https://catalog.butte.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T16:59:00.876Z",
+      "msg": "probe https://catalog.butte.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T16:59:00.879Z",
+      "msg": "probe https://catalog.butte.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T16:59:00.882Z",
+      "msg": "probe https://catalog.butte.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T16:59:00.959Z",
+      "msg": "probe https://www.butte.edu/departments/governance/accreditation/index.html → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:01.031Z",
+      "msg": "probe https://www.butte.edu/departments/fpm/index.html → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:01.243Z",
+      "msg": "probe https://www.butte.edu/departments/assessment/AB705/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:01.585Z",
+      "msg": "probe https://selfservice.butte.edu/Student/Courses#tab1-content → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:01.587Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T16:59:03.702Z",
+      "msg": "Web search returned 6 result(s)."
+    },
+    {
+      "t": "2026-06-08T16:59:03.703Z",
+      "msg": "Top candidate: https://www.silentstardust.net/schedule/ (platform: unknown)."
+    },
+    {
+      "t": "2026-06-08T16:59:03.781Z",
+      "msg": "probe https://www.silentstardust.net/schedule/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T16:59:06.189Z",
+      "msg": "probe https://www.buttehigh.org/news/what_s_new/board_meeting_schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:07.900Z",
+      "msg": "probe https://thebcroadrunner.com/5152/campus/butte-college-annual-welcome-week/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:08.897Z",
+      "msg": "probe https://www.ed2go.com/butte/help.html → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:08.901Z",
+      "msg": "probe https://www.silentstardust.net/feeds/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T16:59:09.404Z",
+      "msg": "probe https://ghs.gusd.org/Counseling/College--Career-Readiness/Butte-College-REG-2-GO/index.html → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:10.087Z",
+      "msg": "probe https://www.buttehigh.org/high_school_office/class_schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:10.612Z",
+      "msg": "probe https://www.buttehigh.org/news/what_s_new/board_meeting_schedule#content-wrapper → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:10.834Z",
+      "msg": "probe https://www.buttehigh.org/gateway/Login.aspx?returnUrl=%2fnews%2fwhat_s_new%2fboard_meeting_schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:11.166Z",
+      "msg": "probe https://www.butte.edu/departments/learning/journalism/advertising-form.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:13.076Z",
+      "msg": "probe https://www.ed2go.com/butte/SearchResults.aspx?CategoryId=1376%2c1377%2c1378%2c1380%2c1375&Sort=Relevance&CurrPage=1 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:15.045Z",
+      "msg": "probe https://www.ed2go.com/butte/SearchResults.aspx?CategoryId=1382%2c1383%2c1384%2c1385%2c1386%2c1387%2c1388%2c1389%2c1390%2c1381&Sort=Relevance&CurrPage=1 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:15.046Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T16:59:15.046Z",
+      "msg": "render (headless Chrome) https://www.silentstardust.net/schedule/ …"
+    },
+    {
+      "t": "2026-06-08T16:59:21.839Z",
+      "msg": "browser https://www.silentstardust.net/schedule/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T16:59:21.840Z",
+      "msg": "render (headless Chrome) https://www.buttehigh.org/news/what_s_new/board_meeting_schedule …"
+    },
+    {
+      "t": "2026-06-08T16:59:31.205Z",
+      "msg": "browser https://www.buttehigh.org/news/what_s_new/board_meeting_schedule → 0 courses"
+    },
+    {
+      "t": "2026-06-08T16:59:31.205Z",
+      "msg": "render (headless Chrome) https://thebcroadrunner.com/5152/campus/butte-college-annual-welcome-week/ …"
+    },
+    {
+      "t": "2026-06-08T16:59:52.885Z",
+      "msg": "browser https://thebcroadrunner.com/5152/campus/butte-college-annual-welcome-week/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T16:59:52.887Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T16:59:52.887Z",
+      "msg": "Fetching homepage https://www.butte.edu/ …"
+    },
+    {
+      "t": "2026-06-08T16:59:53.293Z",
+      "msg": "Homepage: 3 schedule + 2 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T16:59:53.456Z",
+      "msg": "probe https://www.butte.edu/schedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:53.794Z",
+      "msg": "probe https://selfservice.butte.edu/Student/Courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:53.842Z",
+      "msg": "probe https://www.butte.edu/curriculum/catalog/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:53.847Z",
+      "msg": "probe https://catalog.butte.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T16:59:53.849Z",
+      "msg": "probe https://catalog.butte.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T16:59:53.851Z",
+      "msg": "probe https://catalog.butte.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T16:59:53.853Z",
+      "msg": "probe https://catalog.butte.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T16:59:53.855Z",
+      "msg": "probe https://catalog.butte.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T16:59:53.920Z",
+      "msg": "probe https://www.butte.edu/departments/governance/accreditation/index.html → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:53.996Z",
+      "msg": "probe https://www.butte.edu/departments/fpm/index.html → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:54.179Z",
+      "msg": "probe https://www.butte.edu/departments/assessment/AB705/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:54.625Z",
+      "msg": "probe https://selfservice.butte.edu/Student/Courses#tab1-content → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T16:59:54.625Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T16:59:54.626Z",
+      "msg": "render (headless Chrome) https://www.butte.edu/schedule/ …"
+    },
+    {
+      "t": "2026-06-08T17:00:05.257Z",
+      "msg": "browser https://www.butte.edu/schedule/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:00:05.258Z",
+      "msg": "render (headless Chrome) https://www.butte.edu/curriculum/catalog/ …"
+    },
+    {
+      "t": "2026-06-08T17:00:15.700Z",
+      "msg": "browser https://www.butte.edu/curriculum/catalog/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:00:15.700Z",
+      "msg": "render (headless Chrome) https://selfservice.butte.edu/Student/Courses …"
+    },
+    {
+      "t": "2026-06-08T17:00:29.626Z",
+      "msg": "browser https://selfservice.butte.edu/Student/Courses → 30 courses"
+    },
+    {
+      "t": "2026-06-08T17:00:29.630Z",
+      "msg": "✅ LIVE — ingested 30 courses into the searchable DB via browser (0% with modality)."
+    },
+    {
+      "t": "2026-06-08T17:00:29.630Z",
+      "msg": "   source: https://selfservice.butte.edu/Student/Courses/SearchResult"
+    }
+  ]
+}

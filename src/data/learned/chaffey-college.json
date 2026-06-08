@@ -2,15 +2,58 @@
   "slug": "chaffey-college",
   "name": "Chaffey College",
   "url": "https://www.chaffey.edu/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": null,
-  "catalogUrl": null,
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "scheduleUrl": "https://www.chaffey.edu/catalogandschedule/schedule.php",
+  "catalogUrl": "https://www.chaffey.edu/catalogandschedule/catalog.php",
+  "extractUrl": "https://colss-prod.ec.chaffey.edu/Student/Courses/SearchResult",
+  "method": "browser",
+  "sampleCount": 8,
   "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-05T22:43:34.444Z"
+  "candidates": [
+    {
+      "text": "Schedule of Classes",
+      "href": "https://www.chaffey.edu/catalogandschedule/schedule.php",
+      "score": 5
+    },
+    {
+      "text": "Search for Classes",
+      "href": "https://colss-prod.ec.chaffey.edu/Student/Courses",
+      "score": 5
+    },
+    {
+      "text": "Catalog",
+      "href": "https://www.chaffey.edu/catalogandschedule/catalog.php",
+      "score": 2
+    },
+    {
+      "text": "Catalog",
+      "href": "https://www.chaffey.edu/catalogandschedule/catalog.php",
+      "score": 3
+    },
+    {
+      "text": "Schedule of Classes",
+      "href": "https://www.chaffey.edu/catalogandschedule/schedule.php",
+      "score": 3
+    },
+    {
+      "text": "Search for Classes",
+      "href": "https://colss-prod.ec.chaffey.edu/Student/Courses",
+      "score": 1
+    }
+  ],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.42000000000000004,
+  "notes": "Extracted 8 real courses from https://colss-prod.ec.chaffey.edu/Student/Courses/SearchResult (rendered with a headless browser). Real courses but modality not exposed here (defaults to in_person).",
+  "learnedAt": "2026-06-08T17:06:21.814Z",
+  "browserActions": [
+    "browser https://www.chaffey.edu/catalogandschedule/schedule.php → 0 courses",
+    "browser https://www.chaffey.edu/catalogandschedule/catalog.php → 0 courses",
+    "browser https://colss-prod.ec.chaffey.edu/Student/Courses → 8 courses"
+  ],
+  "browser": {
+    "settleMs": 2500
+  }
 }

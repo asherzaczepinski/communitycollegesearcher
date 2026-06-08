@@ -5,7 +5,10 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join, extname } from 'node:path';
 import { getColleges, getCollegeBySlug, searchCourses, stats } from './db.js';
 import { scrapeCollege } from './scraper/index.js';
-import { learnCollege } from './scraper/learn.js';
+import { learnCollege, learnCollegeViaSearch } from './scraper/learn.js';
+import { runCollege, runAll, requestStop, runState } from './scraper/autoscrape.js';
+import * as progress from './scraper/progress.js';
+import { closeDriver } from './scraper/browser.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const PUBLIC_DIR = join(__dirname, '..', 'public');
@@ -69,17 +72,102 @@ const server = createServer(async (req, res) => {
       const slug = decodeURIComponent(pathname.split('/').pop());
       const college = getCollegeBySlug(slug);
       if (!college) return sendJson(res, 404, { error: 'unknown college' });
-      const result = await scrapeCollege(college);
-      return sendJson(res, result.ok ? 200 : 500, result);
+      try {
+        const result = await scrapeCollege(college);
+        return sendJson(res, result.ok ? 200 : 500, result);
+      } finally {
+        await closeDriver(); // free Chrome if this was a 'browser'-typed college
+      }
     }
 
-    // POST /api/learn/:slug  -> (re)learn how to scrape one college
+    // POST /api/learn/:slug  -> (re)learn how to scrape one college (homepage crawl)
+    // Add ?browser=1 to fall back to the headless browser when plain HTTP is empty.
     if (pathname.startsWith('/api/learn/') && req.method === 'POST') {
       const slug = decodeURIComponent(pathname.split('/').pop());
       const college = getCollegeBySlug(slug);
       if (!college) return sendJson(res, 404, { error: 'unknown college' });
-      const recipe = await learnCollege(college);
-      return sendJson(res, 200, { recipe });
+      const browser = searchParams.get('browser') === '1';
+      try {
+        const recipe = await learnCollege(college, { browser });
+        return sendJson(res, 200, { recipe });
+      } finally {
+        if (browser) await closeDriver();
+      }
+    }
+
+    // POST /api/learn-search/:slug  -> learn by searching the web for the schedule.
+    // Add ?browser=1 to render the discovered pages in a headless browser.
+    if (pathname.startsWith('/api/learn-search/') && req.method === 'POST') {
+      const slug = decodeURIComponent(pathname.split('/').pop());
+      const college = getCollegeBySlug(slug);
+      if (!college) return sendJson(res, 404, { error: 'unknown college' });
+      const browser = searchParams.get('browser') === '1';
+      try {
+        const recipe = await learnCollegeViaSearch(college, { browser });
+        return sendJson(res, 200, { recipe });
+      } finally {
+        if (browser) await closeDriver();
+      }
+    }
+
+    // --- Progress tracker (auto-scrape every college) -------------------
+    // GET /api/progress  -> snapshot of every college's scraping progress + run state.
+    if (pathname === '/api/progress' && req.method === 'GET') {
+      return sendJson(res, 200, { run: runState(), colleges: progress.summaryAll() });
+    }
+
+    // GET /api/progress/college/:slug  -> one college's full record (with log).
+    if (pathname.startsWith('/api/progress/college/') && req.method === 'GET') {
+      const slug = decodeURIComponent(pathname.split('/').pop());
+      return sendJson(res, 200, { record: progress.get(slug) });
+    }
+
+    // GET /api/progress/stream  -> Server-Sent Events: live log + status + run events.
+    if (pathname === '/api/progress/stream') {
+      res.writeHead(200, {
+        'Content-Type': 'text/event-stream; charset=utf-8',
+        'Cache-Control': 'no-cache, no-transform',
+        Connection: 'keep-alive',
+      });
+      res.write(`event: run\ndata: ${JSON.stringify(runState())}\n\n`);
+      const onEvent = (ev) => {
+        try {
+          res.write(`event: ${ev.type}\ndata: ${JSON.stringify(ev)}\n\n`);
+        } catch {
+          /* client gone — cleanup happens on 'close' */
+        }
+      };
+      progress.bus.on('event', onEvent);
+      const ping = setInterval(() => res.write(': ping\n\n'), 20000); // keep proxies from closing it
+      req.on('close', () => {
+        clearInterval(ping);
+        progress.bus.off('event', onEvent);
+      });
+      return; // never resolve — stays open
+    }
+
+    // POST /api/progress/run/:slug  -> auto-scrape ONE college (fire-and-forget; watch via SSE).
+    if (pathname.startsWith('/api/progress/run/') && req.method === 'POST') {
+      const slug = decodeURIComponent(pathname.split('/').pop());
+      const college = getCollegeBySlug(slug);
+      if (!college) return sendJson(res, 404, { error: 'unknown college' });
+      // Run in the background; the client follows the live log over SSE.
+      runCollege(college)
+        .catch((err) => progress.log(slug, `fatal: ${err.message}`))
+        .finally(() => closeDriver());
+      return sendJson(res, 202, { started: true, slug });
+    }
+
+    // POST /api/progress/run-all  -> auto-scrape every not-yet-live college, one at a time.
+    if (pathname === '/api/progress/run-all' && req.method === 'POST') {
+      if (runState().running) return sendJson(res, 409, { error: 'a run is already in progress', run: runState() });
+      runAll(getColleges(), { skipLive: true }).catch(() => {}); // background; watch via SSE
+      return sendJson(res, 202, { started: true });
+    }
+
+    // POST /api/progress/stop  -> ask the in-flight run-all to stop after the current college.
+    if (pathname === '/api/progress/stop' && req.method === 'POST') {
+      return sendJson(res, 200, { stopping: requestStop(), run: runState() });
     }
 
     if (pathname.startsWith('/api/')) {

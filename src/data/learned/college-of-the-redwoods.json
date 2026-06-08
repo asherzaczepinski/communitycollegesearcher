@@ -2,15 +2,34 @@
   "slug": "college-of-the-redwoods",
   "name": "College of the Redwoods",
   "url": "https://www.redwoods.edu/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": null,
-  "catalogUrl": null,
+  "scheduleUrl": "https://www.redwoods.edu/students/finals.php",
+  "catalogUrl": "https://www.redwoods.edu/academics/catalog.php",
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-05T22:43:50.838Z"
+  "candidates": [
+    {
+      "text": "Finals Schedule",
+      "href": "https://www.redwoods.edu/students/finals.php",
+      "score": 2
+    },
+    {
+      "text": "College Catalog",
+      "href": "https://www.redwoods.edu/academics/catalog.php",
+      "score": 6
+    }
+  ],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.15,
+  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
+  "learnedAt": "2026-06-08T17:11:50.865Z",
+  "browserActions": [
+    "browser https://www.redwoods.edu/students/finals.php → 0 courses",
+    "browser https://www.redwoods.edu/academics/catalog.php → 0 courses"
+  ]
 }

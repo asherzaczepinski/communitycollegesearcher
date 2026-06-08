@@ -2,6 +2,7 @@
   "slug": "evergreen-valley-college",
   "name": "Evergreen Valley College",
   "url": "https://www.evc.edu/",
+  "source": "homepage",
   "platform": "unknown",
   "scheduleUrl": "https://www.evc.edu/schedule",
   "catalogUrl": "https://www.evc.edu/catalog",
@@ -21,7 +22,14 @@
       "score": 6
     }
   ],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
   "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:44:27.460Z"
+  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
+  "learnedAt": "2026-06-08T17:22:48.556Z",
+  "browserActions": [
+    "browser https://www.evc.edu/schedule → 0 courses",
+    "browser https://www.evc.edu/catalog → 0 courses"
+  ]
 }

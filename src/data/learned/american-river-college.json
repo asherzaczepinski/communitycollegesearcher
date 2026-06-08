@@ -2,15 +2,89 @@
   "slug": "american-river-college",
   "name": "American River College",
   "url": "https://www.arc.losrios.edu/",
+  "source": "web-search",
   "platform": "unknown",
   "scheduleUrl": null,
   "catalogUrl": null,
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "extractUrl": "https://arc.losrios.edu/admissions/academic-calendar-and-deadlines/academic-calendar-archives/summer-2022-academic-calendar-archive",
+  "method": "browser",
+  "sampleCount": 45,
   "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Homepage returned HTTP 404",
-  "learnedAt": "2026-06-05T22:43:14.340Z"
+  "candidates": [
+    {
+      "text": "Final Exam Schedule | American River College",
+      "href": "https://arc.losrios.edu/admissions/academic-calendar-and-deadlines/final-exams",
+      "score": 4
+    },
+    {
+      "text": "Enrollment and eServices Information | American River College",
+      "href": "https://arc.losrios.edu/admissions/enrollment-and-eservices",
+      "score": 0
+    },
+    {
+      "text": "Summer 2022 Academic Calendar Archive | American River College",
+      "href": "https://arc.losrios.edu/admissions/academic-calendar-and-deadlines/academic-calendar-archives/summer-2022-academic-calendar-archive",
+      "score": 0
+    },
+    {
+      "text": "Academic Calendar and Deadlines | American River College",
+      "href": "https://arc.losrios.edu/admissions/academic-calendar-and-deadlines",
+      "score": 0
+    },
+    {
+      "text": "Calendar and Events | American River College",
+      "href": "https://arc.losrios.edu/campus-life/calendar-and-events",
+      "score": 0
+    },
+    {
+      "text": "American River College announces more on-campus classes for",
+      "href": "https://www.arcurrent.com/news/2021/03/16/american-river-college-announces-more-on-campus-classes-for-fall-2021-semester/",
+      "score": 0
+    }
+  ],
+  "searchQuery": "American River College class schedule",
+  "searchResults": [
+    {
+      "title": "Final Exam Schedule | American River College",
+      "href": "https://arc.losrios.edu/admissions/academic-calendar-and-deadlines/final-exams",
+      "query": "American River College class schedule"
+    },
+    {
+      "title": "Enrollment and eServices Information | American River College",
+      "href": "https://arc.losrios.edu/admissions/enrollment-and-eservices",
+      "query": "American River College class schedule"
+    },
+    {
+      "title": "Summer 2022 Academic Calendar Archive | American River College",
+      "href": "https://arc.losrios.edu/admissions/academic-calendar-and-deadlines/academic-calendar-archives/summer-2022-academic-calendar-archive",
+      "query": "American River College class schedule"
+    },
+    {
+      "title": "Academic Calendar and Deadlines | American River College",
+      "href": "https://arc.losrios.edu/admissions/academic-calendar-and-deadlines",
+      "query": "American River College class schedule"
+    },
+    {
+      "title": "Calendar and Events | American River College",
+      "href": "https://arc.losrios.edu/campus-life/calendar-and-events",
+      "query": "American River College class schedule"
+    },
+    {
+      "title": "American River College announces more on-campus classes for",
+      "href": "https://www.arcurrent.com/news/2021/03/16/american-river-college-announces-more-on-campus-classes-for-fall-2021-semester/",
+      "query": "American River College class schedule"
+    }
+  ],
+  "blocked": null,
+  "confidence": 0.5125000000000001,
+  "notes": "Extracted 45 real courses from https://arc.losrios.edu/admissions/academic-calendar-and-deadlines/academic-calendar-archives/summer-2022-academic-calendar-archive (rendered with a headless browser). Real courses but modality not exposed here (defaults to in_person). Discovered via web search \"American River College class schedule\".",
+  "learnedAt": "2026-06-08T16:57:59.918Z",
+  "browserActions": [
+    "browser https://arc.losrios.edu/admissions/academic-calendar-and-deadlines/final-exams → 0 courses",
+    "browser https://arc.losrios.edu/admissions/enrollment-and-eservices → 0 courses",
+    "browser https://arc.losrios.edu/admissions/academic-calendar-and-deadlines/academic-calendar-archives/summer-2022-academic-calendar-archive → 45 courses"
+  ],
+  "browser": {
+    "settleMs": 2500
+  }
 }

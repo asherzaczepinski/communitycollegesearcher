@@ -2,36 +2,19 @@
   "slug": "san-jose-city-college",
   "name": "San Jose City College",
   "url": "https://www.sjcc.edu/",
-  "platform": "acalog",
-  "scheduleUrl": "https://www.sjcc.edu/admissions-records/schedule.aspx",
-  "catalogUrl": "https://www.sjcc.edu/academic-affairs/college-catalog.aspx",
+  "source": "homepage",
+  "platform": "unknown",
+  "scheduleUrl": null,
+  "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Class Schedule",
-      "href": "https://www.sjcc.edu/admissions-records/schedule.aspx",
-      "score": 5
-    },
-    {
-      "text": "College Catalog",
-      "href": "https://www.sjcc.edu/academic-affairs/college-catalog.aspx",
-      "score": 6
-    },
-    {
-      "text": "ITSS Help Desk",
-      "href": "https://services.sjeccd.edu/TDClient/1862/Portal/Requests/ServiceCatalog?CategoryID=18176",
-      "score": 3
-    },
-    {
-      "text": "Informed Consent",
-      "href": "https://catalog.sjcc.edu/college-district-policies/informed-consent/",
-      "score": 3
-    }
-  ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:46:53.734Z"
+  "candidates": [],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0,
+  "notes": "Could not fetch homepage: fetch failed",
+  "learnedAt": "2026-06-08T17:36:30.169Z"
 }

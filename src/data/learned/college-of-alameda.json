@@ -2,15 +2,40 @@
   "slug": "college-of-alameda",
   "name": "College of Alameda",
   "url": "https://alameda.edu/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": null,
-  "catalogUrl": null,
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "scheduleUrl": "https://alameda.edu/class-schedule-and-course-catalog",
+  "catalogUrl": "https://alameda.edu/class-schedule-and-course-catalog",
+  "extractUrl": "https://alameda.edu/coa-online-schedule",
+  "method": "auto",
+  "sampleCount": 7,
   "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-05T22:43:44.349Z"
+  "candidates": [
+    {
+      "text": "Class Schedules and Course Catalogs",
+      "href": "https://alameda.edu/class-schedule-and-course-catalog",
+      "score": 5
+    },
+    {
+      "text": "LGBTQ+",
+      "href": "https://alameda.edu/class-schedule-and-course-catalog-0",
+      "score": 2
+    },
+    {
+      "text": "Class Schedules and Course Catalogs",
+      "href": "https://alameda.edu/class-schedule-and-course-catalog",
+      "score": 6
+    },
+    {
+      "text": "LGBTQ+",
+      "href": "https://alameda.edu/class-schedule-and-course-catalog-0",
+      "score": 3
+    }
+  ],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.41750000000000004,
+  "notes": "Extracted 7 real courses from https://alameda.edu/coa-online-schedule. Real courses but modality not exposed here (defaults to in_person).",
+  "learnedAt": "2026-06-08T17:09:37.988Z"
 }

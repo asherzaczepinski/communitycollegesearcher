@@ -1,0 +1,262 @@
+{
+  "slug": "copper-mountain-college",
+  "name": "Copper Mountain College",
+  "url": "https://www.cmccd.edu/",
+  "status": "impossible",
+  "attempts": 3,
+  "courseCount": 0,
+  "modalityCoverage": 0,
+  "method": null,
+  "extractUrl": null,
+  "blocked": null,
+  "note": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
+  "startedAt": "2026-06-08T17:13:26.533Z",
+  "finishedAt": "2026-06-08T17:16:21.161Z",
+  "updatedAt": "2026-06-08T17:16:21.161Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:13:26.533Z",
+      "msg": "▶ Starting Copper Mountain College — https://www.cmccd.edu/"
+    },
+    {
+      "t": "2026-06-08T17:13:26.533Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:13:26.533Z",
+      "msg": "Fetching homepage https://www.cmccd.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:13:27.172Z",
+      "msg": "Homepage: 1 schedule + 2 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:13:27.440Z",
+      "msg": "probe https://www.cmccd.edu/class-schedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:13:27.717Z",
+      "msg": "probe https://www.cmccd.edu/academic-catalogs/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:13:28.084Z",
+      "msg": "probe https://www.cmccd.edu/academics/online-courses/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:13:28.263Z",
+      "msg": "probe https://catalog.cmccd.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:13:28.269Z",
+      "msg": "probe https://catalog.cmccd.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:13:28.272Z",
+      "msg": "probe https://catalog.cmccd.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:13:28.275Z",
+      "msg": "probe https://catalog.cmccd.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:13:28.278Z",
+      "msg": "probe https://catalog.cmccd.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:13:28.704Z",
+      "msg": "probe https://www.cmccd.edu/class-schedule/class-schedule-archive/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:13:48.711Z",
+      "msg": "probe https://www.cmccd.edu/wp-content/uploads/2026/06/Final-Winter-Spring-Summer-2026-06.04.26.pdf → 0 (This operation was aborted)"
+    },
+    {
+      "t": "2026-06-08T17:14:08.713Z",
+      "msg": "probe https://www.cmccd.edu/wp-content/uploads/2026/06/Final-Fall-2026-06.04.26r1.pdf → 0 (This operation was aborted)"
+    },
+    {
+      "t": "2026-06-08T17:14:09.099Z",
+      "msg": "probe https://www.cmccd.edu/academic-catalogs/# → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:14:09.101Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:14:11.299Z",
+      "msg": "Web search returned 6 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:14:11.300Z",
+      "msg": "Top candidate: https://www.cmccd.edu/class-schedule/ (platform: unknown)."
+    },
+    {
+      "t": "2026-06-08T17:14:11.634Z",
+      "msg": "probe https://www.cmccd.edu/class-schedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:14:11.789Z",
+      "msg": "probe https://www.cmccd.edu/academics/2-year-course-cycle/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:14:11.930Z",
+      "msg": "probe https://www.cmccd.edu/campus/history/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:14:12.139Z",
+      "msg": "probe https://www.cmccd.edu/admissions/register/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:14:12.284Z",
+      "msg": "probe https://www.cmccd.edu/academics/community-education/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:14:12.968Z",
+      "msg": "probe https://cccata.org/2017/08/23/copper-mountain-college-part-time-atc/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:14:13.170Z",
+      "msg": "probe https://www.cmccd.edu/class-schedule/class-schedule-archive/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:14:33.172Z",
+      "msg": "probe https://www.cmccd.edu/wp-content/uploads/2026/06/Final-Winter-Spring-Summer-2026-06.04.26.pdf → 0 (This operation was aborted)"
+    },
+    {
+      "t": "2026-06-08T17:14:53.174Z",
+      "msg": "probe https://www.cmccd.edu/wp-content/uploads/2026/06/Final-Fall-2026-06.04.26r1.pdf → 0 (This operation was aborted)"
+    },
+    {
+      "t": "2026-06-08T17:14:54.498Z",
+      "msg": "probe https://www.cmccd.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:14:54.926Z",
+      "msg": "probe https://cccata.org/2025/05/13/3cata-symposium/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:14:55.252Z",
+      "msg": "probe https://www.cmccd.edu/class-schedule/class-schedule-archive/#page-content → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:14:55.252Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:14:55.253Z",
+      "msg": "render (headless Chrome) https://www.cmccd.edu/class-schedule/ …"
+    },
+    {
+      "t": "2026-06-08T17:15:03.150Z",
+      "msg": "browser https://www.cmccd.edu/class-schedule/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:15:03.150Z",
+      "msg": "render (headless Chrome) https://www.cmccd.edu/academics/2-year-course-cycle/ …"
+    },
+    {
+      "t": "2026-06-08T17:15:10.071Z",
+      "msg": "browser https://www.cmccd.edu/academics/2-year-course-cycle/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:15:10.071Z",
+      "msg": "render (headless Chrome) https://www.cmccd.edu/campus/history/ …"
+    },
+    {
+      "t": "2026-06-08T17:15:16.960Z",
+      "msg": "browser https://www.cmccd.edu/campus/history/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:15:16.961Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:15:16.961Z",
+      "msg": "Fetching homepage https://www.cmccd.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:15:17.308Z",
+      "msg": "Homepage: 1 schedule + 2 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:15:17.458Z",
+      "msg": "probe https://www.cmccd.edu/class-schedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:15:17.677Z",
+      "msg": "probe https://www.cmccd.edu/academic-catalogs/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:15:17.904Z",
+      "msg": "probe https://www.cmccd.edu/academics/online-courses/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:15:17.908Z",
+      "msg": "probe https://catalog.cmccd.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:15:17.911Z",
+      "msg": "probe https://catalog.cmccd.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:15:17.912Z",
+      "msg": "probe https://catalog.cmccd.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:15:17.914Z",
+      "msg": "probe https://catalog.cmccd.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:15:17.916Z",
+      "msg": "probe https://catalog.cmccd.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:15:18.118Z",
+      "msg": "probe https://www.cmccd.edu/class-schedule/class-schedule-archive/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:15:38.122Z",
+      "msg": "probe https://www.cmccd.edu/wp-content/uploads/2026/06/Final-Winter-Spring-Summer-2026-06.04.26.pdf → 0 (This operation was aborted)"
+    },
+    {
+      "t": "2026-06-08T17:15:58.125Z",
+      "msg": "probe https://www.cmccd.edu/wp-content/uploads/2026/06/Final-Fall-2026-06.04.26r1.pdf → 0 (This operation was aborted)"
+    },
+    {
+      "t": "2026-06-08T17:15:58.531Z",
+      "msg": "probe https://www.cmccd.edu/academic-catalogs/# → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:15:58.532Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:15:58.532Z",
+      "msg": "render (headless Chrome) https://www.cmccd.edu/class-schedule/ …"
+    },
+    {
+      "t": "2026-06-08T17:16:06.288Z",
+      "msg": "browser https://www.cmccd.edu/class-schedule/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:16:06.289Z",
+      "msg": "render (headless Chrome) https://www.cmccd.edu/academic-catalogs/ …"
+    },
+    {
+      "t": "2026-06-08T17:16:14.116Z",
+      "msg": "browser https://www.cmccd.edu/academic-catalogs/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:16:14.117Z",
+      "msg": "render (headless Chrome) https://www.cmccd.edu/academics/online-courses/ …"
+    },
+    {
+      "t": "2026-06-08T17:16:21.160Z",
+      "msg": "browser https://www.cmccd.edu/academics/online-courses/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:16:21.161Z",
+      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    }
+  ]
+}

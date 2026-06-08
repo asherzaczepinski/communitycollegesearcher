@@ -2,6 +2,7 @@
   "slug": "fresno-city-college",
   "name": "Fresno City College",
   "url": "https://www.fresnocitycollege.edu/",
+  "source": "homepage",
   "platform": "unknown",
   "scheduleUrl": "https://www.fresnocitycollege.edu/admissions-aid/schedules.html",
   "catalogUrl": "https://www.fresnocitycollege.edu/admissions-aid/catalog.html",
@@ -26,7 +27,15 @@
       "score": 3
     }
   ],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
   "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:44:34.746Z"
+  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
+  "learnedAt": "2026-06-08T17:25:19.999Z",
+  "browserActions": [
+    "browser https://www.fresnocitycollege.edu/admissions-aid/schedules.html → 0 courses",
+    "browser https://www.fresnocitycollege.edu/admissions-aid/catalog.html → 0 courses",
+    "browser https://www.fresnocitycollege.edu/academics/finals.html → 0 courses"
+  ]
 }

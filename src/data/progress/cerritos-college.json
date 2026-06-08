@@ -1,0 +1,90 @@
+{
+  "slug": "cerritos-college",
+  "name": "Cerritos College",
+  "url": "https://www.cerritos.edu/",
+  "status": "live",
+  "attempts": 1,
+  "courseCount": 66,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "extractUrl": "https://cerritos-public.courseleaf.com/degrees-certificates-courses/course-descriptions/",
+  "blocked": null,
+  "note": "Extracted 66 real courses from https://cerritos-public.courseleaf.com/degrees-certificates-courses/course-descriptions/. Real courses but modality not exposed here (defaults to in_person).",
+  "startedAt": "2026-06-08T17:02:52.256Z",
+  "finishedAt": "2026-06-08T17:02:55.771Z",
+  "updatedAt": "2026-06-08T17:02:55.771Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:02:52.256Z",
+      "msg": "▶ Starting Cerritos College — https://www.cerritos.edu/"
+    },
+    {
+      "t": "2026-06-08T17:02:52.256Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:02:52.257Z",
+      "msg": "Fetching homepage https://www.cerritos.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:02:52.371Z",
+      "msg": "Homepage: 1 schedule + 1 catalog link(s); platform courseleaf."
+    },
+    {
+      "t": "2026-06-08T17:02:54.084Z",
+      "msg": "probe http://www.cerritos.edu/schedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:02:54.373Z",
+      "msg": "probe https://cerritos-public.courseleaf.com/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:02:54.465Z",
+      "msg": "probe https://catalog.cerritos.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:02:54.470Z",
+      "msg": "probe https://catalog.cerritos.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:02:54.474Z",
+      "msg": "probe https://catalog.cerritos.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:02:54.477Z",
+      "msg": "probe https://catalog.cerritos.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:02:54.480Z",
+      "msg": "probe https://catalog.cerritos.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:02:54.785Z",
+      "msg": "probe https://cerritos-public.courseleaf.com/azindex/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:02:55.275Z",
+      "msg": "probe https://cerritos-public.courseleaf.com/degrees-certificates-courses/course-descriptions/ → 66 courses"
+    },
+    {
+      "t": "2026-06-08T17:02:55.275Z",
+      "msg": "  ↑ new best: 66 courses, modality 0%"
+    },
+    {
+      "t": "2026-06-08T17:02:55.350Z",
+      "msg": "probe https://cerritos-public.courseleaf.com/degrees-certificates-courses/department_list/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:02:55.766Z",
+      "msg": "probe https://cerritos-public.courseleaf.com/degrees-certificates-courses/departments/childdevelopment-earlychildhood/ → 19 courses"
+    },
+    {
+      "t": "2026-06-08T17:02:55.771Z",
+      "msg": "✅ LIVE — ingested 66 courses into the searchable DB via auto (0% with modality)."
+    },
+    {
+      "t": "2026-06-08T17:02:55.771Z",
+      "msg": "   source: https://cerritos-public.courseleaf.com/degrees-certificates-courses/course-descriptions/"
+    }
+  ]
+}

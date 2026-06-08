@@ -1,0 +1,94 @@
+{
+  "slug": "city-college-of-san-francisco",
+  "name": "City College of San Francisco",
+  "url": "https://www.ccsf.edu/",
+  "status": "live",
+  "attempts": 1,
+  "courseCount": 16,
+  "modalityCoverage": 0.188,
+  "method": "auto",
+  "extractUrl": "https://www.ccsf.edu/courses",
+  "blocked": null,
+  "note": "Extracted 16 real courses from https://www.ccsf.edu/courses. Modality available for ~19% (real schedule data).",
+  "startedAt": "2026-06-08T17:08:15.780Z",
+  "finishedAt": "2026-06-08T17:08:17.607Z",
+  "updatedAt": "2026-06-08T17:08:17.607Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:08:15.780Z",
+      "msg": "▶ Starting City College of San Francisco — https://www.ccsf.edu/"
+    },
+    {
+      "t": "2026-06-08T17:08:15.780Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:08:15.780Z",
+      "msg": "Fetching homepage https://www.ccsf.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:08:16.082Z",
+      "msg": "Homepage: 3 schedule + 1 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:08:16.207Z",
+      "msg": "probe https://www.ccsf.edu/academics/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:08:16.314Z",
+      "msg": "probe https://www.ccsf.edu/admissions-recordsregistration/in-person-enrollment-support → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:08:16.387Z",
+      "msg": "probe https://www.ccsf.edu/academics/ccsf-catalog → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:08:16.406Z",
+      "msg": "probe https://catalog.ccsf.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:08:16.408Z",
+      "msg": "probe https://catalog.ccsf.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:08:16.409Z",
+      "msg": "probe https://catalog.ccsf.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:08:16.411Z",
+      "msg": "probe https://catalog.ccsf.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:08:16.412Z",
+      "msg": "probe https://catalog.ccsf.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:08:16.498Z",
+      "msg": "probe https://www.ccsf.edu/academics/schools → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:08:16.582Z",
+      "msg": "probe https://www.ccsf.edu/academics/class-schedule#main-content → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:08:16.749Z",
+      "msg": "probe https://www.ccsf.edu/courses → 16 courses"
+    },
+    {
+      "t": "2026-06-08T17:08:16.750Z",
+      "msg": "  ↑ new best: 16 courses, modality 19%"
+    },
+    {
+      "t": "2026-06-08T17:08:17.603Z",
+      "msg": "probe https://ccsf.curricunet.com/catalog/iq/courses/3 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:08:17.607Z",
+      "msg": "✅ LIVE — ingested 16 courses into the searchable DB via auto (19% with modality)."
+    },
+    {
+      "t": "2026-06-08T17:08:17.607Z",
+      "msg": "   source: https://www.ccsf.edu/courses"
+    }
+  ]
+}

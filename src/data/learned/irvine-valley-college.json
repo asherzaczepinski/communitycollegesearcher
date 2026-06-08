@@ -2,12 +2,13 @@
   "slug": "irvine-valley-college",
   "name": "Irvine Valley College",
   "url": "https://www.ivc.edu/",
+  "source": "homepage",
   "platform": "unknown",
   "scheduleUrl": "https://www.ivc.edu/class-schedule",
   "catalogUrl": "https://www.ivc.edu/catalog",
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "extractUrl": "https://classes.socccd.edu/smartscheduleweb/list/1/I/202670/search",
+  "method": "browser",
+  "sampleCount": 2,
   "modalityCoverage": 0,
   "candidates": [
     {
@@ -36,17 +37,23 @@
       "score": 2
     },
     {
-      "text": "The 2026-27 Irvine Valley men's basketball schedule is released",
-      "href": "https://ivclasers.com/sports/mbkb/2025-26/releases/20260601nbdyr1",
-      "score": 2
-    },
-    {
       "text": "Catalog",
       "href": "https://www.ivc.edu/catalog",
       "score": 3
     }
   ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:44:57.519Z"
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.405,
+  "notes": "Extracted 2 real courses from https://classes.socccd.edu/smartscheduleweb/list/1/I/202670/search (rendered with a headless browser). Real courses but modality not exposed here (defaults to in_person).",
+  "learnedAt": "2026-06-08T17:34:24.668Z",
+  "browserActions": [
+    "browser https://www.ivc.edu/class-schedule → 0 courses",
+    "browser https://www.ivc.edu/catalog → 0 courses",
+    "browser https://classes.socccd.edu/smartscheduleweb/index/1/I/202670/MarketingCode → 2 courses"
+  ],
+  "browser": {
+    "settleMs": 2500
+  }
 }

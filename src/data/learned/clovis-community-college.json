@@ -2,15 +2,40 @@
   "slug": "clovis-community-college",
   "name": "Clovis Community College",
   "url": "https://www.cloviscollege.edu/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": null,
-  "catalogUrl": null,
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "scheduleUrl": "https://www.cloviscollege.edu/current-students/schedule-of-classes.html",
+  "catalogUrl": "https://www.cloviscollege.edu/catalog/index.html",
+  "extractUrl": "https://www.cloviscollege.edu/student-services/academic-counseling/common-course-numbering.html",
+  "method": "auto",
+  "sampleCount": 29,
   "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-05T22:43:40.599Z"
+  "candidates": [
+    {
+      "text": "Class Schedules",
+      "href": "https://www.cloviscollege.edu/current-students/schedule-of-classes.html",
+      "score": 5
+    },
+    {
+      "text": "Final Exam Schedule",
+      "href": "https://www.cloviscollege.edu/academics/final-exam-schedule.html",
+      "score": 2
+    },
+    {
+      "text": "Official Catalog",
+      "href": "https://www.cloviscollege.edu/catalog/index.html",
+      "score": 3
+    },
+    {
+      "text": "Common Course Numbering (CCN) Course information for some courses changing this Fall View changes",
+      "href": "https://www.cloviscollege.edu/student-services/academic-counseling/common-course-numbering.html",
+      "score": 1
+    }
+  ],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.47250000000000003,
+  "notes": "Extracted 29 real courses from https://www.cloviscollege.edu/student-services/academic-counseling/common-course-numbering.html. Real courses but modality not exposed here (defaults to in_person).",
+  "learnedAt": "2026-06-08T17:08:17.608Z"
 }

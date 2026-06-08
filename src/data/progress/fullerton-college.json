@@ -1,0 +1,246 @@
+{
+  "slug": "fullerton-college",
+  "name": "Fullerton College",
+  "url": "https://www.fullcoll.edu/",
+  "status": "impossible",
+  "attempts": 3,
+  "courseCount": 0,
+  "modalityCoverage": 0,
+  "method": null,
+  "extractUrl": null,
+  "blocked": null,
+  "note": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
+  "startedAt": "2026-06-08T17:25:44.162Z",
+  "finishedAt": "2026-06-08T17:28:04.280Z",
+  "updatedAt": "2026-06-08T17:28:04.280Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:25:44.162Z",
+      "msg": "▶ Starting Fullerton College — https://www.fullcoll.edu/"
+    },
+    {
+      "t": "2026-06-08T17:25:44.162Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:25:44.162Z",
+      "msg": "Fetching homepage https://www.fullcoll.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:25:44.593Z",
+      "msg": "Homepage: 1 schedule + 1 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:25:44.741Z",
+      "msg": "probe https://www.fullcoll.edu/schedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:25:45.219Z",
+      "msg": "probe https://catalog.fullcoll.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:25:45.524Z",
+      "msg": "probe https://catalog.fullcoll.edu/course-outlines/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:25:45.711Z",
+      "msg": "probe https://catalog.fullcoll.edu/courses/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:25:45.831Z",
+      "msg": "probe https://catalog.fullcoll.edu/coursesaz/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:25:46.213Z",
+      "msg": "probe https://catalog.fullcoll.edu/course-descriptions/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:25:46.733Z",
+      "msg": "probe https://www.nocccd.edu/employees-departments/departments/educational-services/common-course-numbering → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:25:46.833Z",
+      "msg": "probe https://schedule.nocccd.edu/?college=2 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:26:06.837Z",
+      "msg": "probe https://fcwp84c4ac8dab.blob.core.windows.net/blobfcwp84c4ac8dab/wp-content/uploads/2024/05/FullertonCollegeScheduleFall2024web.pdf → 0 (This operation was aborted)"
+    },
+    {
+      "t": "2026-06-08T17:26:07.300Z",
+      "msg": "probe https://catalog.nocccd.edu/fullerton-college/course-descriptions/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:26:07.761Z",
+      "msg": "probe https://catalog.nocccd.edu/fullerton-college/instructional-divisions-departments/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:26:08.251Z",
+      "msg": "probe https://catalog.nocccd.edu/fullerton-college/course-descriptions/# → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:26:08.253Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:26:20.238Z",
+      "msg": "Web search returned 6 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:26:20.239Z",
+      "msg": "Top candidate: https://www.fullcoll.edu/schedule/ (platform: unknown)."
+    },
+    {
+      "t": "2026-06-08T17:26:20.668Z",
+      "msg": "probe https://www.fullcoll.edu/schedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:26:20.775Z",
+      "msg": "probe https://www.fullcoll.edu/directory/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:26:22.516Z",
+      "msg": "probe https://news.fullcoll.edu/tag/academic-support-center/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:26:23.761Z",
+      "msg": "probe https://news.fullcoll.edu/tag/library/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:26:24.587Z",
+      "msg": "probe https://fchornetmedia.com/34514/news/fullerton-college-hopes-to-prepare-students-by-offering-registration-dates-months-in-advance/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:26:24.978Z",
+      "msg": "probe https://fchornetmedia.com/25253/news/winter-classes-will-arrive-at-fullerton-college-this-year/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:26:25.398Z",
+      "msg": "probe https://www.nocccd.edu/employees-departments/departments/educational-services/common-course-numbering → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:26:25.451Z",
+      "msg": "probe https://schedule.nocccd.edu/?college=2 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:26:45.453Z",
+      "msg": "probe https://fcwp84c4ac8dab.blob.core.windows.net/blobfcwp84c4ac8dab/wp-content/uploads/2024/05/FullertonCollegeScheduleFall2024web.pdf → 0 (This operation was aborted)"
+    },
+    {
+      "t": "2026-06-08T17:26:45.956Z",
+      "msg": "probe https://www.fullcoll.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:26:46.316Z",
+      "msg": "probe https://www.nocccd.edu/employees-departments/departments/educational-services-institutional-effectiveness/common-course-numbering#main-menu → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:26:46.620Z",
+      "msg": "probe https://www.nocccd.edu/employees-departments/departments/educational-services-institutional-effectiveness/common-course-numbering#main-content → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:26:46.621Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:26:46.621Z",
+      "msg": "render (headless Chrome) https://www.fullcoll.edu/schedule/ …"
+    },
+    {
+      "t": "2026-06-08T17:26:54.290Z",
+      "msg": "browser https://www.fullcoll.edu/schedule/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:26:54.290Z",
+      "msg": "render (headless Chrome) https://www.fullcoll.edu/directory/ …"
+    },
+    {
+      "t": "2026-06-08T17:27:12.554Z",
+      "msg": "browser https://www.fullcoll.edu/directory/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:27:12.555Z",
+      "msg": "render (headless Chrome) https://news.fullcoll.edu/tag/academic-support-center/ …"
+    },
+    {
+      "t": "2026-06-08T17:27:34.115Z",
+      "msg": "browser https://news.fullcoll.edu/tag/academic-support-center/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:27:34.118Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:27:34.118Z",
+      "msg": "Fetching homepage https://www.fullcoll.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:27:34.593Z",
+      "msg": "Homepage: 1 schedule + 1 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:27:34.732Z",
+      "msg": "probe https://www.fullcoll.edu/schedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:27:35.249Z",
+      "msg": "probe https://catalog.fullcoll.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:27:35.361Z",
+      "msg": "probe https://catalog.fullcoll.edu/course-outlines/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:27:35.472Z",
+      "msg": "probe https://catalog.fullcoll.edu/courses/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:27:35.504Z",
+      "msg": "probe https://catalog.fullcoll.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:27:35.887Z",
+      "msg": "probe https://catalog.fullcoll.edu/course-descriptions/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:27:36.268Z",
+      "msg": "probe https://www.nocccd.edu/employees-departments/departments/educational-services/common-course-numbering → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:27:36.426Z",
+      "msg": "probe https://schedule.nocccd.edu/?college=2 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:27:56.429Z",
+      "msg": "probe https://fcwp84c4ac8dab.blob.core.windows.net/blobfcwp84c4ac8dab/wp-content/uploads/2024/05/FullertonCollegeScheduleFall2024web.pdf → 0 (This operation was aborted)"
+    },
+    {
+      "t": "2026-06-08T17:27:56.849Z",
+      "msg": "probe https://catalog.nocccd.edu/fullerton-college/course-descriptions/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:27:57.280Z",
+      "msg": "probe https://catalog.nocccd.edu/fullerton-college/instructional-divisions-departments/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:27:57.499Z",
+      "msg": "probe https://catalog.nocccd.edu/fullerton-college/course-descriptions/# → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:27:57.501Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T17:27:57.501Z",
+      "msg": "render (headless Chrome) https://www.fullcoll.edu/schedule/ …"
+    },
+    {
+      "t": "2026-06-08T17:28:04.278Z",
+      "msg": "browser https://www.fullcoll.edu/schedule/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T17:28:04.279Z",
+      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    }
+  ]
+}

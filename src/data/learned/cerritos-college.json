@@ -2,15 +2,30 @@
   "slug": "cerritos-college",
   "name": "Cerritos College",
   "url": "https://www.cerritos.edu/",
-  "platform": "unknown",
-  "scheduleUrl": null,
-  "catalogUrl": null,
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "source": "homepage",
+  "platform": "courseleaf",
+  "scheduleUrl": "http://www.cerritos.edu/schedule/",
+  "catalogUrl": "https://cerritos-public.courseleaf.com/",
+  "extractUrl": "https://cerritos-public.courseleaf.com/degrees-certificates-courses/course-descriptions/",
+  "method": "auto",
+  "sampleCount": 66,
   "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-05T22:43:24.414Z"
+  "candidates": [
+    {
+      "text": "Class Schedule",
+      "href": "http://www.cerritos.edu/schedule/",
+      "score": 5
+    },
+    {
+      "text": "Catalog",
+      "href": "https://cerritos-public.courseleaf.com/",
+      "score": 3
+    }
+  ],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.5650000000000001,
+  "notes": "Extracted 66 real courses from https://cerritos-public.courseleaf.com/degrees-certificates-courses/course-descriptions/. Real courses but modality not exposed here (defaults to in_person).",
+  "learnedAt": "2026-06-08T17:02:52.257Z"
 }

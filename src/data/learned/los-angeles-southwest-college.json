@@ -2,41 +2,19 @@
   "slug": "los-angeles-southwest-college",
   "name": "Los Angeles Southwest College",
   "url": "https://www.lasc.edu/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": "https://www.laccd.edu/students/class-search-lasc",
-  "catalogUrl": "https://www.lasc.edu/academic-resources/catalog",
+  "scheduleUrl": null,
+  "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Class Search",
-      "href": "https://www.laccd.edu/students/class-search-lasc",
-      "score": 5
-    },
-    {
-      "text": "Schedule of Classes",
-      "href": "https://www.lasc.edu/academics/schedule-of-classes",
-      "score": 5
-    },
-    {
-      "text": "Search for Classes",
-      "href": "https://www.lasc.edu/academics/schedules",
-      "score": 5
-    },
-    {
-      "text": "2-Year Schedule Planner",
-      "href": "https://www.lasc.edu/academics/2-year-planner",
-      "score": 2
-    },
-    {
-      "text": "College Catalog",
-      "href": "https://www.lasc.edu/academic-resources/catalog",
-      "score": 6
-    }
-  ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:45:20.999Z"
+  "candidates": [],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0,
+  "notes": "Could not fetch homepage: fetch failed",
+  "learnedAt": "2026-06-08T17:36:29.885Z"
 }

@@ -1,0 +1,58 @@
+{
+  "slug": "los-angeles-city-college",
+  "name": "Los Angeles City College",
+  "url": "https://www.lacitycollege.edu/",
+  "status": "impossible",
+  "attempts": 3,
+  "courseCount": 0,
+  "modalityCoverage": 0,
+  "method": null,
+  "extractUrl": null,
+  "blocked": null,
+  "note": "Could not fetch homepage: fetch failed",
+  "startedAt": "2026-06-08T17:36:29.854Z",
+  "finishedAt": "2026-06-08T17:36:29.863Z",
+  "updatedAt": "2026-06-08T17:36:29.863Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:36:29.854Z",
+      "msg": "▶ Starting Los Angeles City College — https://www.lacitycollege.edu/"
+    },
+    {
+      "t": "2026-06-08T17:36:29.854Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:36:29.854Z",
+      "msg": "Fetching homepage https://www.lacitycollege.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:36:29.855Z",
+      "msg": "Homepage fetch failed: fetch failed"
+    },
+    {
+      "t": "2026-06-08T17:36:29.855Z",
+      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
+    },
+    {
+      "t": "2026-06-08T17:36:29.861Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-08T17:36:29.862Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T17:36:29.862Z",
+      "msg": "Fetching homepage https://www.lacitycollege.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:36:29.863Z",
+      "msg": "Homepage fetch failed: fetch failed"
+    },
+    {
+      "t": "2026-06-08T17:36:29.863Z",
+      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    }
+  ]
+}

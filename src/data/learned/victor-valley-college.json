@@ -2,51 +2,19 @@
   "slug": "victor-valley-college",
   "name": "Victor Valley College",
   "url": "https://www.vvc.edu/",
-  "platform": "acalog",
-  "scheduleUrl": "https://vvc-ss.colleague.elluciancloud.com/Student/Courses",
-  "catalogUrl": "https://catalog.vvc.edu/",
+  "source": "homepage",
+  "platform": "unknown",
+  "scheduleUrl": null,
+  "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Schedule of courses",
-      "href": "https://vvc-ss.colleague.elluciancloud.com/Student/Courses",
-      "score": 2
-    },
-    {
-      "text": "College Catalogs",
-      "href": "https://catalog.vvc.edu/",
-      "score": 6
-    },
-    {
-      "text": "Schedule of courses",
-      "href": "https://vvc-ss.colleague.elluciancloud.com/Student/Courses",
-      "score": 1
-    },
-    {
-      "text": "Basic Skills",
-      "href": "https://vvc.emsicc.com/programs/basic-skills-non-credit-courses/125091?radius=100%20miles&region=Greater%20Victor%20Valley%20Area",
-      "score": 1
-    },
-    {
-      "text": "Developmental Studies",
-      "href": "https://vvc.emsicc.com/programs/developmental-studies-non-credit-courses/125091?radius=100%20miles&region=Greater%20Victor%20Valley%20Area",
-      "score": 1
-    },
-    {
-      "text": "English as a Second Language",
-      "href": "https://vvc.emsicc.com/programs/english-as-a-second-language-non-credit-courses/125091?radius=100%20miles&region=Greater%20Victor%20Valley%20Area",
-      "score": 1
-    },
-    {
-      "text": "Library Science",
-      "href": "https://vvc.emsicc.com/programs/library-science-non-credit-courses/125091?radius=100%20miles&region=Greater%20Victor%20Valley%20Area",
-      "score": 1
-    }
-  ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:47:25.216Z"
+  "candidates": [],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0,
+  "notes": "Could not fetch homepage: fetch failed",
+  "learnedAt": "2026-06-08T17:36:30.223Z"
 }

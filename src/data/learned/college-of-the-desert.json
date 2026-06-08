@@ -2,15 +2,50 @@
   "slug": "college-of-the-desert",
   "name": "College of the Desert",
   "url": "https://www.collegeofthedesert.edu/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": null,
-  "catalogUrl": null,
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
-  "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-05T22:43:50.401Z"
+  "scheduleUrl": "https://www.collegeofthedesert.edu/students/catalog-schedule/default.php",
+  "catalogUrl": "https://www.collegeofthedesert.edu/students/catalog-schedule/default.php",
+  "extractUrl": "https://www.collegeofthedesert.edu/students/catalog-schedule/course-outlines.php",
+  "method": "auto",
+  "sampleCount": 1293,
+  "modalityCoverage": 0.003,
+  "candidates": [
+    {
+      "text": "Catalogs & Schedules",
+      "href": "https://www.collegeofthedesert.edu/students/catalog-schedule/default.php",
+      "score": 2
+    },
+    {
+      "text": "Final Exam Schedule",
+      "href": "https://www.collegeofthedesert.edu/_web-items/documents/pdf-files/schedules/2026-spring-final-exam.pdf",
+      "score": 2
+    },
+    {
+      "text": "View the 2026-2027 Academic Calendar",
+      "href": "https://www.collegeofthedesert.edu/students/catalog-schedule/academic-calendar.php",
+      "score": 2
+    },
+    {
+      "text": "Catalogs & Schedules",
+      "href": "https://www.collegeofthedesert.edu/students/catalog-schedule/default.php",
+      "score": 3
+    },
+    {
+      "text": "View the 2026-2027 Academic Calendar",
+      "href": "https://www.collegeofthedesert.edu/students/catalog-schedule/academic-calendar.php",
+      "score": 3
+    },
+    {
+      "text": "View Open Class List",
+      "href": "https://cms.collegeofthedesert.edu/informer/openclasses/available-courses.html",
+      "score": 1
+    }
+  ],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.9012374323279196,
+  "notes": "Extracted 1293 real courses from https://www.collegeofthedesert.edu/students/catalog-schedule/course-outlines.php. Real courses but modality not exposed here (defaults to in_person).",
+  "learnedAt": "2026-06-08T17:10:59.649Z"
 }

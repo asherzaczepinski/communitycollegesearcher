@@ -2,12 +2,13 @@
   "slug": "cabrillo-college",
   "name": "Cabrillo College",
   "url": "https://www.cabrillo.edu/",
+  "source": "homepage",
   "platform": "unknown",
   "scheduleUrl": "https://www.cabrillo.edu/class-schedules/",
   "catalogUrl": "https://www.cabrillo.edu/college-catalog/",
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "extractUrl": "https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search?searchResultsView=SectionListing&terms=2026SP",
+  "method": "browser",
+  "sampleCount": 3,
   "modalityCoverage": 0,
   "candidates": [
     {
@@ -61,7 +62,18 @@
       "score": 1
     }
   ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:43:14.343Z"
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.40750000000000003,
+  "notes": "Extracted 3 real courses from https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search?searchResultsView=SectionListing&terms=2026SP (rendered with a headless browser). Real courses but modality not exposed here (defaults to in_person).",
+  "learnedAt": "2026-06-08T17:00:59.414Z",
+  "browserActions": [
+    "browser https://www.cabrillo.edu/class-schedules/ → 0 courses",
+    "browser https://www.cabrillo.edu/college-catalog/ → 0 courses",
+    "browser https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search?searchResultsView=SectionListing&terms=2026SP → 3 courses"
+  ],
+  "browser": {
+    "settleMs": 2500
+  }
 }

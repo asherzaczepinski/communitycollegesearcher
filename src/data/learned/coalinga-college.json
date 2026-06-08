@@ -2,15 +2,40 @@
   "slug": "coalinga-college",
   "name": "Coalinga College",
   "url": "https://www.westhillscollege.com/coalinga/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": null,
-  "catalogUrl": null,
+  "scheduleUrl": "https://coalingacollege.edu/schedule/",
+  "catalogUrl": "https://coalingacollege.edu/catalog/",
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [],
-  "confidence": 0,
-  "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-05T22:43:42.340Z"
+  "candidates": [
+    {
+      "text": "{ou:pcf-param('class-search-text')}",
+      "href": "https://coalingacollege.edu/schedule/",
+      "score": 2
+    },
+    {
+      "text": "Finals Schedule",
+      "href": "https://coalingacollege.edu/documents/final_exam_schedule.pdf",
+      "score": 2
+    },
+    {
+      "text": "Academic Catalog",
+      "href": "https://coalingacollege.edu/catalog/",
+      "score": 3
+    }
+  ],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0.15,
+  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
+  "learnedAt": "2026-06-08T17:08:55.047Z",
+  "browserActions": [
+    "browser https://coalingacollege.edu/schedule/ → 0 courses",
+    "browser https://coalingacollege.edu/catalog/ → 0 courses",
+    "browser https://coalingacollege.edu/documents/final_exam_schedule.pdf → 0 courses"
+  ]
 }

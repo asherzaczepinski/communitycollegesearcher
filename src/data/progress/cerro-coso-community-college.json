@@ -1,0 +1,94 @@
+{
+  "slug": "cerro-coso-community-college",
+  "name": "Cerro Coso Community College",
+  "url": "https://www.cerrocoso.edu/",
+  "status": "live",
+  "attempts": 1,
+  "courseCount": 37,
+  "modalityCoverage": 0.027,
+  "method": "auto",
+  "extractUrl": "https://www.cerrocoso.edu/academics/class-schedule/",
+  "blocked": null,
+  "note": "Extracted 37 real courses from https://www.cerrocoso.edu/academics/class-schedule/. Real courses but modality not exposed here (defaults to in_person).",
+  "startedAt": "2026-06-08T17:02:55.771Z",
+  "finishedAt": "2026-06-08T17:02:56.792Z",
+  "updatedAt": "2026-06-08T17:02:56.792Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:02:55.771Z",
+      "msg": "▶ Starting Cerro Coso Community College — https://www.cerrocoso.edu/"
+    },
+    {
+      "t": "2026-06-08T17:02:55.772Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:02:55.772Z",
+      "msg": "Fetching homepage https://www.cerrocoso.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:02:55.891Z",
+      "msg": "Homepage: 1 schedule + 0 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T17:02:56.069Z",
+      "msg": "probe https://www.cerrocoso.edu/academics/class-schedule/#schedules → 37 courses"
+    },
+    {
+      "t": "2026-06-08T17:02:56.070Z",
+      "msg": "  ↑ new best: 37 courses, modality 3%"
+    },
+    {
+      "t": "2026-06-08T17:02:56.108Z",
+      "msg": "probe https://catalog.cerrocoso.edu/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:02:56.112Z",
+      "msg": "probe https://catalog.cerrocoso.edu/course-outlines/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:02:56.115Z",
+      "msg": "probe https://catalog.cerrocoso.edu/courses/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:02:56.117Z",
+      "msg": "probe https://catalog.cerrocoso.edu/coursesaz/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:02:56.120Z",
+      "msg": "probe https://catalog.cerrocoso.edu/course-descriptions/ → 0 (fetch failed)"
+    },
+    {
+      "t": "2026-06-08T17:02:56.225Z",
+      "msg": "probe https://www.cerrocoso.edu/academics/class-schedule/fall-list-by-subject.html → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:02:56.333Z",
+      "msg": "probe https://www.cerrocoso.edu/academics/class-schedule/summer-list-by-subject.html → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:02:56.422Z",
+      "msg": "probe https://www.cerrocoso.edu/academics/class-schedule/spring-list-by-subject.html → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:02:56.475Z",
+      "msg": "probe https://www.cerrocoso.edu/academics/class-schedule/fall-list-by-subject.html#main → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:02:56.536Z",
+      "msg": "probe https://www.cerrocoso.edu/academics/class-schedule/summer-list-by-subject.html#main → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:02:56.784Z",
+      "msg": "probe https://a.cms.omniupdate.com/11/?skin=oucampus&account=kccd&site=cc-prod-www&action=de&path=/academics/class-schedule/summer-list-by-subject.pcf → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:02:56.791Z",
+      "msg": "✅ LIVE — ingested 37 courses into the searchable DB via auto (3% with modality)."
+    },
+    {
+      "t": "2026-06-08T17:02:56.791Z",
+      "msg": "   source: https://www.cerrocoso.edu/academics/class-schedule/"
+    }
+  ]
+}

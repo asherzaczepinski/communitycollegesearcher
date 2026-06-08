@@ -1,0 +1,98 @@
+{
+  "slug": "citrus-college",
+  "name": "Citrus College",
+  "url": "https://www.citruscollege.edu/",
+  "status": "live",
+  "attempts": 1,
+  "courseCount": 1333,
+  "modalityCoverage": 0.002,
+  "method": "auto",
+  "extractUrl": "https://catalog.citruscollege.edu/course-outlines/",
+  "blocked": null,
+  "note": "Extracted 1333 real courses from https://catalog.citruscollege.edu/course-outlines/. Real courses but modality not exposed here (defaults to in_person).",
+  "startedAt": "2026-06-08T17:08:05.090Z",
+  "finishedAt": "2026-06-08T17:08:15.779Z",
+  "updatedAt": "2026-06-08T17:08:15.779Z",
+  "log": [
+    {
+      "t": "2026-06-08T17:08:05.090Z",
+      "msg": "▶ Starting Citrus College — https://www.citruscollege.edu/"
+    },
+    {
+      "t": "2026-06-08T17:08:05.090Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T17:08:05.091Z",
+      "msg": "Fetching homepage https://www.citruscollege.edu/ …"
+    },
+    {
+      "t": "2026-06-08T17:08:05.533Z",
+      "msg": "Homepage: 1 schedule + 1 catalog link(s); platform acalog."
+    },
+    {
+      "t": "2026-06-08T17:08:05.638Z",
+      "msg": "probe https://www.citruscollege.edu/studentsuccess/schedules/ → 4 courses"
+    },
+    {
+      "t": "2026-06-08T17:08:05.639Z",
+      "msg": "  ↑ new best: 4 courses, modality 0%"
+    },
+    {
+      "t": "2026-06-08T17:08:06.150Z",
+      "msg": "probe https://catalog.citruscollege.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:08:06.889Z",
+      "msg": "probe https://catalog.citruscollege.edu/course-outlines/ → 1333 courses"
+    },
+    {
+      "t": "2026-06-08T17:08:06.889Z",
+      "msg": "  ↑ new best: 1333 courses, modality 0%"
+    },
+    {
+      "t": "2026-06-08T17:08:06.961Z",
+      "msg": "probe https://catalog.citruscollege.edu/courses/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:08:07.029Z",
+      "msg": "probe https://catalog.citruscollege.edu/coursesaz/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T17:08:08.083Z",
+      "msg": "probe https://catalog.citruscollege.edu/course-descriptions/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:08:08.637Z",
+      "msg": "probe https://apps.citruscollege.edu/open-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:08:09.068Z",
+      "msg": "probe https://apps.citruscollege.edu/open-classes?term=202640 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:08:09.261Z",
+      "msg": "probe https://www.citruscollege.edu/studentsuccess/schedules/#main-content → 4 courses"
+    },
+    {
+      "t": "2026-06-08T17:08:10.448Z",
+      "msg": "probe https://catalog.citruscollege.edu/disciplines/accounting/cpa-exam-preparation-accounting-subjects-requirement-certificate-achievement/ → 15 courses"
+    },
+    {
+      "t": "2026-06-08T17:08:10.976Z",
+      "msg": "probe https://catalog.citruscollege.edu/disciplines/accounting/cpa-exam-preparation-business-related-subjects-requirement-certificate-achievement/ → 43 courses"
+    },
+    {
+      "t": "2026-06-08T17:08:15.747Z",
+      "msg": "probe https://catalog.citruscollege.edu/course-descriptions/course-scheduling-frequency/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T17:08:15.779Z",
+      "msg": "✅ LIVE — ingested 1333 courses into the searchable DB via auto (0% with modality)."
+    },
+    {
+      "t": "2026-06-08T17:08:15.779Z",
+      "msg": "   source: https://catalog.citruscollege.edu/course-outlines/"
+    }
+  ]
+}

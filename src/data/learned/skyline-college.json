@@ -2,41 +2,19 @@
   "slug": "skyline-college",
   "name": "Skyline College",
   "url": "https://www.skylinecollege.edu/",
+  "source": "homepage",
   "platform": "unknown",
-  "scheduleUrl": "https://webschedule.smccd.edu/",
-  "catalogUrl": "https://skylinecollege.edu/catalogschedule/",
+  "scheduleUrl": null,
+  "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Find Classes",
-      "href": "https://webschedule.smccd.edu/",
-      "score": 5
-    },
-    {
-      "text": "Course Catalog & Schedule",
-      "href": "https://skylinecollege.edu/catalogschedule/",
-      "score": 2
-    },
-    {
-      "text": "Schedule a Tour",
-      "href": "https://skylinecollege.edu/enrollmentworkshops",
-      "score": 2
-    },
-    {
-      "text": "Building Hours",
-      "href": "https://smccd.edu/facilities/skyline/buildingschedule.php",
-      "score": 2
-    },
-    {
-      "text": "Course Catalog & Schedule",
-      "href": "https://skylinecollege.edu/catalogschedule/",
-      "score": 6
-    }
-  ],
-  "confidence": 0.15,
-  "notes": "Found entry links but no server-rendered course data — the schedule/catalog is likely a JavaScript app or behind a search form. Needs a headless-browser adapter. Best guesses saved above.",
-  "learnedAt": "2026-06-05T22:47:19.420Z"
+  "candidates": [],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
+  "confidence": 0,
+  "notes": "Could not fetch homepage: fetch failed",
+  "learnedAt": "2026-06-08T17:36:30.199Z"
 }

@@ -2,6 +2,7 @@
   "slug": "sacramento-city-college",
   "name": "Sacramento City College",
   "url": "https://www.scc.losrios.edu/",
+  "source": "homepage",
   "platform": "unknown",
   "scheduleUrl": null,
   "catalogUrl": null,
@@ -10,7 +11,10 @@
   "sampleCount": 0,
   "modalityCoverage": 0,
   "candidates": [],
+  "searchQuery": null,
+  "searchResults": [],
+  "blocked": null,
   "confidence": 0,
-  "notes": "Homepage returned HTTP 404",
-  "learnedAt": "2026-06-05T22:46:36.997Z"
+  "notes": "Could not fetch homepage: fetch failed",
+  "learnedAt": "2026-06-08T17:36:30.118Z"
 }
