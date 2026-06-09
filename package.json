@@ -6,6 +6,9 @@
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
+    "dev": "npm --prefix web run dev",
+    "web": "npm --prefix web run dev",
+    "web:install": "npm --prefix web install",
     "seed": "node src/cli.js seed",
     "gen": "node src/genScrapers.js",
     "scrape": "node src/cli.js scrape",
