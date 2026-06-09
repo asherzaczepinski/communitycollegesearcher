@@ -2,6 +2,7 @@
 // A–G areas that actually appear in the dataset (grouped by system).
 import { NextResponse } from 'next/server';
 import { query } from '../../../lib/db';
+import { SUBJECTS } from '../../../lib/subjects';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
@@ -25,6 +26,7 @@ export async function GET() {
 
   return NextResponse.json({
     colleges: colleges.rows,
+    subjects: SUBJECTS.map((s) => s.label),
     geAreas: {
       csu: csu.rows.map((r) => r.area),
       igetc: igetc.rows.map((r) => r.area),

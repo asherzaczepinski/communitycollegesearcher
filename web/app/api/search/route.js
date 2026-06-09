@@ -6,21 +6,54 @@
 // from (no `source`, no CVC ids/urls). The frontend is just a clean searcher.
 import { NextResponse } from 'next/server';
 import { query } from '../../../lib/db';
+import { SUBJECT_BY_LABEL } from '../../../lib/subjects';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
 
 export async function GET(req) {
   const sp = req.nextUrl.searchParams;
-  const where = ["c.scrape_type NOT IN ('sample','none')"];
+  const where = [
+    "c.scrape_type NOT IN ('sample','none')",
+    // Defensive: only surface rows with a real course title. Excludes broken
+    // scrape artifacts — PDF links ("pdf"), section/CRN numbers as the title
+    // ("0002"), and location/modality captured as the title ("In-Person, …",
+    // "Online Asynchronous, …"). A real title has at least one letter.
+    // A real title has 2+ consecutive letters (excludes "M7321", "0002", "pdf").
+    "co.title ~ '[A-Za-z][A-Za-z]'",
+    "lower(trim(co.title)) <> 'pdf'",
+    "co.title !~* '^(in.?person|online (a?synchronous)|hybrid,)'",
+  ];
   const params = [];
   const p = (v) => { params.push(v); return `$${params.length}`; };
 
+  // Keyword search — title + course code only, relevance-driven (NOT dumb
+  // substring, which made "ab" match Lab/Database/Algebra → 29k results).
+  // A row matches when:
+  //   • its code starts with the query (space-insensitive: "anth101"→ANTH 101), OR
+  //   • a WORD in the title starts with the query ("bio"→Biology, not symbiosis), OR
+  //   • for longer queries (≥4 chars) the title contains it anywhere (so
+  //     "biology" still finds "Microbiology").
   const q = (sp.get('q') || '').trim();
+  const qNoSpace = q.replace(/\s+/g, '');
+  const qnl = qNoSpace.toLowerCase();
+  const ql = q.toLowerCase();
+  const qWordRe = '\\m' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // \m = start-of-word
   if (q) {
-    const like = p(`%${q}%`);
-    where.push(`(co.title ILIKE ${like} OR co.code ILIKE ${like} OR co.description ILIKE ${like})`);
+    const ors = [
+      `replace(lower(co.code), ' ', '') LIKE ${p(qnl + '%')}`,
+      `co.title ~* ${p(qWordRe)}`,
+    ];
+    if (qNoSpace.length >= 4) ors.push(`co.title ILIKE ${p('%' + q + '%')}`);
+    where.push(`(${ors.join(' OR ')})`);
   }
+  // Subject filter — match any of the curated subject's code prefixes.
+  const subject = sp.get('subject');
+  if (subject && SUBJECT_BY_LABEL[subject]) {
+    const ors = SUBJECT_BY_LABEL[subject].map((pre) => `co.code ILIKE ${p(pre + '%')}`);
+    where.push(`(${ors.join(' OR ')})`);
+  }
+
   const college = sp.get('college');
   if (college && college !== 'all') where.push(`c.slug = ${p(college)}`);
 
@@ -77,8 +110,22 @@ export async function GET(req) {
          3959 * acos(LEAST(1, cos(radians(${p(ulat)})) * cos(radians(c.lat)) * cos(radians(c.lng) - radians(${p(ulng)})) + sin(radians(${p(ulat)})) * sin(radians(c.lat)))) END)`
     : 'NULL';
 
+  // Relevance rank for a keyword search: verbatim/closer matches bubble to the top.
+  // Typing takes priority: verbatim/closer matches bubble to the very top.
+  // 0 = exact code or exact title, 1 = code starts-with, 2 = title starts-with,
+  // 3 = a title WORD starts with the query, 4 = anywhere else. Params added AFTER
+  // the count query (so the count isn't given extra binds).
+  const relRank = q
+    ? `(CASE
+         WHEN replace(lower(co.code),' ','') = ${p(qnl)} OR lower(co.title) = ${p(ql)} THEN 0
+         WHEN replace(lower(co.code),' ','') LIKE ${p(qnl + '%')} THEN 1
+         WHEN lower(co.title) LIKE ${p(ql + '%')} THEN 2
+         WHEN co.title ~* ${p(qWordRe)} THEN 3
+         ELSE 4 END)`
+    : null;
+
   const SORTS = {
-    relevance: 'c.name, co.code, co.title',
+    relevance: relRank ? `${relRank}, length(co.title), c.name, co.code` : 'c.name, co.code, co.title',
     title: 'co.title, c.name',
     college: 'c.name, co.code',
     units: `${unitExpr} DESC NULLS LAST, c.name`,

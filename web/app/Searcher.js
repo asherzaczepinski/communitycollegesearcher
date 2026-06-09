@@ -10,7 +10,7 @@ const TRANSFERS = [
 const PAGE = 60;
 
 const blank = {
-  q: '', college: 'all', modality: 'all', transfer: '',
+  q: '', subject: '', college: 'all', modality: 'all', transfer: '',
   ztc: false, quality: false, format: '', sort: 'relevance',
 };
 
@@ -22,7 +22,7 @@ function useDebounced(value, ms) {
 
 export default function Searcher() {
   const [f, setF] = useState(blank);
-  const [options, setOptions] = useState({ colleges: [], geAreas: { csu: [], igetc: [], calGetc: [] } });
+  const [options, setOptions] = useState({ colleges: [], subjects: [], geAreas: { csu: [], igetc: [], calGetc: [] } });
   const [data, setData] = useState({ results: [], total: 0 });
   const [loading, setLoading] = useState(true);
   const [offset, setOffset] = useState(0);
@@ -52,6 +52,7 @@ export default function Searcher() {
   const queryString = useCallback((off) => {
     const sp = new URLSearchParams();
     if (debouncedQ) sp.set('q', debouncedQ);
+    if (f.subject) sp.set('subject', f.subject);
     if (f.college !== 'all') sp.set('college', f.college);
     if (f.modality !== 'all') sp.set('modality', f.modality);
     if (f.transfer) sp.set('transfer', f.transfer);
@@ -80,7 +81,7 @@ export default function Searcher() {
   };
 
   const hasMore = data.results.length < data.total;
-  const activeFilters = (f.college !== 'all') + (f.modality !== 'all') + !!f.transfer
+  const activeFilters = !!f.subject + (f.college !== 'all') + (f.modality !== 'all') + !!f.transfer
     + !!f.ztc + !!f.quality + !!f.format;
 
   return (
@@ -106,8 +107,16 @@ export default function Searcher() {
         <p>Every transferable course across all 100+ colleges, in one place.</p>
       </div>
 
-      {/* Filters first — college selector and everything else */}
+      {/* Filters — subject, college, and everything else */}
       <div className="controls">
+        <div className="ctrl">
+          <span className="ctrl-label">Subject</span>
+          <select value={f.subject} onChange={(e) => set('subject', e.target.value)}>
+            <option value="">All subjects</option>
+            {options.subjects.map((s) => <option key={s} value={s}>{s}</option>)}
+          </select>
+        </div>
+
         <div className="ctrl">
           <span className="ctrl-label">College</span>
           <select value={f.college} onChange={(e) => set('college', e.target.value)}>
@@ -156,7 +165,7 @@ export default function Searcher() {
         )}
       </div>
 
-      {/* Search sits under the whole selector */}
+      {/* Keyword search sits under the whole selector */}
       <div className="searchrow">
         <input
           type="search" value={f.q} onChange={(e) => set('q', e.target.value)}
