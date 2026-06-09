@@ -1,5 +1,5 @@
 'use client';
-import { useCallback, useEffect, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 
 const MODALITIES = [
   ['all', 'All'], ['in_person', 'In person'], ['online', 'Online'], ['hybrid', 'Hybrid'],
@@ -49,6 +49,10 @@ export default function Searcher() {
     fetch('/api/options').then((r) => r.json()).then(setOptions).catch(() => {});
   }, []);
 
+  // Build the query from the DEBOUNCED text + the live filters. Depends on the
+  // individual filter fields (NOT the whole `f`, and NOT the raw f.q) so typing a
+  // letter doesn't fire a search with a stale debounced value — only the settled
+  // text or a real filter change does.
   const queryString = useCallback((off) => {
     const sp = new URLSearchParams();
     if (debouncedQ) sp.set('q', debouncedQ);
@@ -64,13 +68,18 @@ export default function Searcher() {
     sp.set('limit', String(PAGE));
     sp.set('offset', String(off));
     return sp.toString();
-  }, [debouncedQ, f, loc]);
+  }, [debouncedQ, f.subject, f.college, f.modality, f.transfer, f.ztc, f.quality, f.format, f.sort, loc]);
 
+  // Race guard: only the most recent request is allowed to update the results,
+  // so an out-of-order response can never leave stale results on screen.
+  const reqId = useRef(0);
   useEffect(() => {
+    const id = ++reqId.current;
     setLoading(true);
     fetch(`/api/search?${queryString(0)}`).then((r) => r.json()).then((d) => {
+      if (id !== reqId.current) return; // a newer search superseded this one
       setData(d); setOffset(0); setLoading(false);
-    }).catch(() => setLoading(false));
+    }).catch(() => { if (id === reqId.current) setLoading(false); });
   }, [queryString]);
 
   const loadMore = async () => {
