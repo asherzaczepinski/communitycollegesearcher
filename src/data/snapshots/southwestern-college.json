@@ -1,6 +1,6 @@
 {
   "slug": "southwestern-college",
-  "scrapedAt": "2026-06-09T13:53:35.835Z",
+  "scrapedAt": "2026-06-09T18:10:03.168Z",
   "count": 2,
   "courses": [
     {
@@ -13,7 +13,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.swccd.edu/classes-and-registration/class-schedule/index.aspx"
+      "url": "https://www.swccd.edu/classes-and-registration/class-schedule/index.aspx",
+      "source": "site"
     },
     {
       "code": "GROUP 5",
@@ -25,7 +26,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.swccd.edu/classes-and-registration/class-schedule/index.aspx"
+      "url": "https://www.swccd.edu/classes-and-registration/class-schedule/index.aspx",
+      "source": "site"
     }
   ]
 }

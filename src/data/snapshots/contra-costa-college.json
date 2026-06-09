@@ -1,7 +1,7 @@
 {
   "slug": "contra-costa-college",
-  "scrapedAt": "2026-06-09T13:38:44.653Z",
-  "count": 8,
+  "scrapedAt": "2026-06-09T17:16:02.674Z",
+  "count": 14,
   "courses": [
     {
       "code": "ESL50",
@@ -9,10 +9,57 @@
       "modality": "online",
       "term": "Jun 15 - Aug 13",
       "units": "2.0",
-      "instructor": null,
+      "instructor": "Bruno L. Sablan, Mr. David J. Gorman",
       "section": "1285828",
-      "description": "Tuition: $92.00",
-      "url": "https://search.cvc.edu/courses/1285828?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation"
+      "description": "This beginning course provides instruction in English for every day life. Students work on developing basic grammar, listening, speaking, reading and writing skills.",
+      "url": "https://search.cvc.edu/courses/1285828?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 92,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Jun 15",
+        "endDate": "Aug 13",
+        "cvcCourseId": "1285828",
+        "cvcUrl": "https://search.cvc.edu/courses/1285828?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous",
+          "Synchronous"
+        ],
+        "professors": [
+          "Bruno L. Sablan",
+          "Mr. David J. Gorman"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "3800",
+            "dates": "Jan 26 to May 22",
+            "professor": "Bruno L. Sablan",
+            "format": "Asynchronous",
+            "notes": "The non-credit equivalent of this course is ESL-850N-3804. CLICK 'NEXT' AT THE BOTTOM OF THIS PAGE TO SEE NON-CREDIT COURSE LISTINGS BEGINNING WITH ESL-808N. Section 0903 will meet online with synchronous Zoom sessions on the days and times listed. There will also be about 2 hours of independent work posted online. Your teacher will contact you with important information prior to the start of the semester. For more information, you can contact your instructor at bsablan@contracosta.edu."
+          },
+          {
+            "crn": "3023",
+            "dates": "Jun 15 to Aug 13",
+            "professor": "Bruno L. Sablan",
+            "format": "Synchronous",
+            "notes": "The non-credit equivalent of this course is ESL-850N-3033. Section 3023 is offered in an online format with class meetings on Zoom on Mondays, Tuesdays, Wednesdays and Thursdays from 6:00 to 8:20 pm and 2 hours of work online. Your teacher will contact you with important information prior to the start of the class. For more information, you can contact your instructor at XXXX@contracosta.edu."
+          },
+          {
+            "crn": "3290",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Mr. David J. Gorman",
+            "format": "Asynchronous",
+            "notes": "The non-credit equivalent of this course is ESL-850N-3292. This is a fully online course with synchronous meetings on the days and times indicated and 2 hours of independent work online. If you register for this section, plan on attending classes on the days and times listed. For more information, you can contact your instructor at dgorman@contracosta.edu."
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
     },
     {
       "code": "ESL51",
@@ -20,10 +67,101 @@
       "modality": "online",
       "term": "Jun 15 - Aug 13",
       "units": "3.0",
-      "instructor": null,
+      "instructor": "Miss Michelle Walsh",
       "section": "1359485",
-      "description": "Tuition: $138.00",
-      "url": "https://search.cvc.edu/courses/1359485?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation"
+      "description": "This course provides instruction in basic reading and common everyday vocabulary. Students improve their reading skills, expand their vocabulary, and increase their fluency through discussion of reading material. This course supplements material covered in ESL-050.",
+      "url": "https://search.cvc.edu/courses/1359485?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Jun 15",
+        "endDate": "Aug 13",
+        "cvcCourseId": "1359485",
+        "cvcUrl": "https://search.cvc.edu/courses/1359485?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Synchronous"
+        ],
+        "professors": [
+          "Miss Michelle Walsh"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "3026",
+            "dates": "Jun 15 to Aug 13",
+            "professor": "Miss Michelle Walsh",
+            "format": "Synchronous",
+            "notes": "The non-credit equivalent of this course is ESL-851N-3036 SCROLL DOWN TO THE BOTTOM OF THIS PAGE TO SEE NON-CREDIT COURSE LISTINGS BEGINNING WITH ESL-808N. Section 3026 will meet online with Zoom sessions on Tuesdays, Wednesdays and Thursdays from 6:00 to 7:50pm . Your teacher will contact you with important information prior to the start of the class. For more information, you can contact your instructor at mwalsh@contracosta.edu."
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "JRNAL130",
+      "title": "Survey of Mass Comm & Media",
+      "modality": "online",
+      "term": "Jun 15 - Jul 23",
+      "units": "3.0",
+      "instructor": "Annie Sciacca",
+      "section": "1034405",
+      "description": "This course provides a survey of mass communication and the interrelationships of media with society, including history, structure and trends in a digital age. The course involves discussion of theories, economics, technology, law and ethics, global media, media literacy, and social issues, including gender and cultural diversity. Emphasizing the social science study of human behavior and institutions, the course examines how individuals and media systems interact within cultural, political, and economic contexts. Students analyze mass communication through core social science methods, exploring evidence, theory, and historical and global perspectives to better understand media's role in shaping society.",
+      "url": "https://search.cvc.edu/courses/1034405?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Jun 15",
+        "endDate": "Jul 23",
+        "cvcCourseId": "1034405",
+        "cvcUrl": "https://search.cvc.edu/courses/1034405?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Annie Sciacca"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "3006",
+            "dates": "Feb 23 to May 22",
+            "professor": "Annie Sciacca",
+            "format": "Asynchronous",
+            "notes": "Section 3006 is a late-start fully online, asynchronous class. For more information, please contact, Prof. Annie Sciacca (asciacca@contracosta.edu)"
+          },
+          {
+            "crn": "3137",
+            "dates": "Jun 15 to Jul 23",
+            "professor": "Annie Sciacca",
+            "format": "Asynchronous",
+            "notes": "Section 3137 is a fully online class with no required meeting times on campus or on Zoom. For more information, please contact instructor Annie Sciacca (asciacca@contracosta.edu)."
+          },
+          {
+            "crn": "3040",
+            "dates": "Sep 22 to Dec 12",
+            "professor": "Annie Sciacca",
+            "format": "Asynchronous",
+            "notes": "Section 3040 is a late start class, beginning 9/22. All instruction will be offered online, with no required synchronous Zoom meetings. You will receive a college email from your instructor prior to the class. For more information, contact instructor Annie Sciacca at asciacca@contracosta.edu."
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
     },
     {
       "code": "PSYCH205B",
@@ -31,10 +169,55 @@
       "modality": "online",
       "term": "Jun 15 - Jul 23",
       "units": "4.0",
-      "instructor": null,
+      "instructor": "Arpine Hovasapian",
       "section": "293642",
-      "description": "Tuition: $184.00",
-      "url": "https://search.cvc.edu/courses/293642?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation"
+      "description": "This course surveys various psychological research methods with an emphasis on research design, experimental procedures, descriptive methods, instrumentation, and the collection, analysis, interpretation, and reporting or research data. Research design and methodology will be examined through a review of research in a variety of the sub-disciplines of psychology. In laboratory sessions students will conduct experimental and non-experimental research in variety of areas of psychology. Actual data collected from research conducted during laboratory sessions will be analyzed with statistical software. Prerequisite: Prerequisite: PSYC-C1000 and STAT-C1000 Advisory: College level reading and writing skills",
+      "url": "https://search.cvc.edu/courses/293642?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 184,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Jun 15",
+        "endDate": "Jul 23",
+        "cvcCourseId": "293642",
+        "cvcUrl": "https://search.cvc.edu/courses/293642?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Arpine Hovasapian"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "3050",
+            "dates": "Jan 26 to May 22",
+            "professor": "Arpine Hovasapian",
+            "format": "Asynchronous",
+            "notes": "This is an online class with no required live meeting dates or times (fully asynchronous). Please email ahovasapian@contracosta.edu for more information. The pre-requisties for this course have been renumbered as part of the statewide Common Course Numbering system. PSYC-C1000 was previously named Psych 220. STAT-C1000 was previously named MATH 164. The course content and transferability for both courses remain equivalent"
+          },
+          {
+            "crn": "3113",
+            "dates": "Jun 15 to Jul 23",
+            "professor": "Arpine Hovasapian",
+            "format": "Asynchronous",
+            "notes": "Section 3113 is an online course, with a mandatory online orientation. All instruction will be online. You will receive a college email prior to the start of class. You may contact your instructor at ahovasapian@contracosta.edu. Note: PSYCH 220 and MATH 164 are equivalent to PSYC-C1000 and STAT-C1000."
+          },
+          {
+            "crn": "3846",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Arpine Hovasapian",
+            "format": "Asynchronous",
+            "notes": "Section 3846 is an online course. All instruction will be online. You will receive a college email prior to the start of class. You may contact your instructor at ahovasapian@contracosta.edu. Note: PSYCH 220 and MATH 164 are equivalent to PSYC-C1000 and STAT-C1000."
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
     },
     {
       "code": "HUMAN113",
@@ -42,10 +225,53 @@
       "modality": "online",
       "term": "Jun 15 - Jul 23",
       "units": "3.0",
-      "instructor": null,
+      "instructor": "Nzingha Dugas",
       "section": "454013",
-      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $138.00",
-      "url": "https://search.cvc.edu/courses/454013?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation"
+      "description": "This course presents an integrated and historical study of African American culture and African Americans' influence upon American life. Emphasis will be upon philosophy, fine and applied arts, and ways by which they reflect the social, political, and economic realities of a culture.",
+      "url": "https://search.cvc.edu/courses/454013?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Jun 15",
+        "endDate": "Jul 23",
+        "cvcCourseId": "454013",
+        "cvcUrl": "https://search.cvc.edu/courses/454013?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous",
+          "Synchronous"
+        ],
+        "professors": [
+          "Nzingha Dugas"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "3194",
+            "dates": "Jun 15 to Jul 23",
+            "professor": "Nzingha Dugas",
+            "format": "Asynchronous",
+            "notes": "AFRAM 113/HUM 113 is offered fully online. This is an online class with no required live meeting dates or times (fully asynchronous). You will received a college email before the start of class."
+          },
+          {
+            "crn": "3766",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Nzingha Dugas",
+            "format": "Synchronous",
+            "notes": "HUMAN-113-3766 is also offered as AFRAM 113-3765. This class is fully online with mandatory live Zoom meetings scheduled at the days and times listed. You will receive a college email prior to the start of class. This class is a part of the AFRAM Studies Program."
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
     },
     {
       "code": "AFRAM113",
@@ -53,10 +279,141 @@
       "modality": "online",
       "term": "Jun 15 - Jul 23",
       "units": "3.0",
-      "instructor": null,
+      "instructor": "Nzingha Dugas",
       "section": "10657890",
-      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $138.00",
-      "url": "https://search.cvc.edu/courses/10657890?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation"
+      "description": "This course presents an integrated and historical study of African American culture and African Americans' influence upon American life. Emphasis will be upon philosophy, fine and applied arts, and ways by which they reflect the social, political, and economic realities of a culture.",
+      "url": "https://search.cvc.edu/courses/10657890?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Jun 15",
+        "endDate": "Jul 23",
+        "cvcCourseId": "10657890",
+        "cvcUrl": "https://search.cvc.edu/courses/10657890?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous",
+          "Synchronous"
+        ],
+        "professors": [
+          "Nzingha Dugas"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "3182",
+            "dates": "Jun 15 to Jul 23",
+            "professor": "Nzingha Dugas",
+            "format": "Asynchronous",
+            "notes": "AFRAM 113/HUM 113 is offered fully online. This is an online class with no required live meeting dates or times (fully asynchronous). You will received a college email before the start of class."
+          },
+          {
+            "crn": "3765",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Nzingha Dugas",
+            "format": "Synchronous",
+            "notes": "AFRAM 113-3765 is also offered as HUMAN 113-3766. This class is fully online with mandatory live Zoom meetings scheduled at the days and times listed. You will receive a college email prior to the start of class. This class is a part of the AFRAM Studies Program."
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "LARAZ113",
+      "title": "Intro Analysis/Amer Pol Instit",
+      "modality": "online",
+      "term": "Jun 15 - Jul 23",
+      "units": "3.0",
+      "instructor": "Dr. Mauricio E. Ramirez",
+      "section": "1098977",
+      "description": "This course examines the U.S. Constitution and the U.S. system of government at the national and state levels, with an emphasis on Latino political participation. The course covers both U.S. and California political processes and highlights the relationships between the federal government and state and local governments. It will also survey the resolution of conflicts and the establishment of cooperative mechanisms under the constitutions of both the state and federal governments. Important events since the American Revolution and contributions of Latinos, women and various ethnic groups will be surveyed. Through a multidisciplinary approach, students will gain a deeper understanding of the challenges, opportunities, and nuances within Latino politics.",
+      "url": "https://search.cvc.edu/courses/1098977?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Jun 15",
+        "endDate": "Jul 23",
+        "cvcCourseId": "1098977",
+        "cvcUrl": "https://search.cvc.edu/courses/1098977?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Dr. Mauricio E. Ramirez"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "3210",
+            "dates": "Mar 30 to May 22",
+            "professor": "Dr. Mauricio E. Ramirez",
+            "format": "Asynchronous",
+            "notes": "This section is a short term eight-week online course. All instruction will be online. You will receive a college email from your instructor before the class begins. For more information, please email the instructor at maramirez@contracosta.edu."
+          },
+          {
+            "crn": "3196",
+            "dates": "Mar 30 to May 22",
+            "professor": "Dr. Mauricio E. Ramirez",
+            "format": "Asynchronous",
+            "notes": "This section is a short term eight-week online course. All instruction will be online. You will receive a college email from your instructor before the class begins. For more information, please email the instructor at maramirez@contracosta.edu."
+          },
+          {
+            "crn": "3093",
+            "dates": "Jun 15 to Jul 23",
+            "professor": "Dr. Mauricio E. Ramirez",
+            "format": "Asynchronous",
+            "notes": "Section 3093 is an online course with no mandatory meetings. All instruction will be online. Your instructor will send a college email to you prior to the start of the class. For more information contact maramirez@contracosta.edu"
+          },
+          {
+            "crn": "3095",
+            "dates": "Jun 15 to Jul 23",
+            "professor": "Dr. Mauricio E. Ramirez",
+            "format": "Asynchronous",
+            "notes": "Section 3095 is an online course with no mandatory meetings. All instruction will be online. Your instructor will send a college email to you prior to the start of the class. For more information contact maramirez@contracosta.edu"
+          },
+          {
+            "crn": "3795",
+            "dates": "Oct 20 to Dec 12",
+            "professor": "Dr. Mauricio E. Ramirez",
+            "format": "Asynchronous",
+            "notes": "Section 3795 is an online course. All instruction will be online with no mandatory meetings. You will receive a college email from your instructor before the class begins. For more information, please email the instructor at apalacios@contracosta.edu."
+          },
+          {
+            "crn": "3720",
+            "dates": "Oct 20 to Dec 12",
+            "professor": "Dr. Mauricio E. Ramirez",
+            "format": "Asynchronous",
+            "notes": "Section 3720 is an online course. All instruction will be online with no mandatory meetings. You will receive a college email from your instructor before the class begins. For more information, please email the instructor at apalacios@contracosta.edu."
+          },
+          {
+            "crn": "3990",
+            "dates": "Dec 8 to Jan 5",
+            "professor": "Dr. Mauricio E. Ramirez",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 7
+      },
+      "source": "cvc"
     },
     {
       "code": "LIBST110A",
@@ -64,10 +421,322 @@
       "modality": "online",
       "term": "Jun 15 - Jul 23",
       "units": "1.0",
-      "instructor": null,
+      "instructor": "Dr. Amy L. Catania, Miss Veronica B. Churchill",
       "section": "1098982",
-      "description": "Tuition: $46.00",
-      "url": "https://search.cvc.edu/courses/1098982?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=information+technology&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation"
+      "description": "This is a performance-based course that introduces students to a variety of print and electronic information resources. Students will learn how to find, use and select the most appropriate sources for different information needs, utilize an effective search strategy and evaluate search results. Students will become information competent. This course may be offered in lecture format or online format.",
+      "url": "https://search.cvc.edu/courses/1098982?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=information+technology&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 46,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Jun 15",
+        "endDate": "Jul 23",
+        "cvcCourseId": "1098982",
+        "cvcUrl": "https://search.cvc.edu/courses/1098982?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=information+technology&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Dr. Amy L. Catania",
+          "Miss Veronica B. Churchill"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "3003",
+            "dates": "Mar 30 to May 22",
+            "professor": "Dr. Amy L. Catania",
+            "format": "Asynchronous",
+            "notes": "Section 3003 is a late start online class beginning on 03/30/2026. All instruction will be offered online, with no required synchronous Zoom meetings. You will receive a college email from your instructor prior to the class. For more information, you can contact your instructor at staff@contracosta.edu"
+          },
+          {
+            "crn": "3976",
+            "dates": "Jan 26 to Mar 20",
+            "professor": "Dr. Amy L. Catania",
+            "format": "Asynchronous",
+            "notes": "Section 3976 is a short-term online class that runs from 1/26/26 to 3/20/26. All instruction will be offered online, with no required synchronous Zoom meetings. You will receive a college email from your instructor prior to the class. For more information, you can contact your instructor at acatania@contracosta.edu"
+          },
+          {
+            "crn": "3200",
+            "dates": "Jun 15 to Jul 23",
+            "professor": "Miss Veronica B. Churchill",
+            "format": "Asynchronous",
+            "notes": "Section 3200 is offered online for 1 unit. There are no required live meeting dates or times. Students must complete an online orientation. Students will receive an email in their college 4cd.email prior to the class start date about the orientation requirement. Students may contact their instructor at vchurchhill@contracosta.edu."
+          },
+          {
+            "crn": "3324",
+            "dates": "Oct 20 to Dec 12",
+            "professor": "Dr. Amy L. Catania",
+            "format": "Asynchronous",
+            "notes": "Section 3324 is a late-start online class, beginning on 10/20/25. All instruction will be offered online, with no required synchronous Zoom meetings. You will receive a college email from your instructor prior to the class. For more information, you can contact your instructor at acatania@contracosta.edu."
+          },
+          {
+            "crn": "9902",
+            "dates": "Dec 8 to Jan 5",
+            "professor": "Miss Veronica B. Churchill",
+            "format": "Asynchronous",
+            "notes": "Section 9902 is a cyber session online class, beginning on 12/8/25. All instruction will be offered online, with no required synchronous Zoom meetings. You will receive a college email from your instructor prior to the class. For more information, you can contact your instructor at vchurchill@contracosta.edu."
+          }
+        ],
+        "sectionCount": 5
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "GEOG160",
+      "title": "World Regional Geography",
+      "modality": "online",
+      "term": "Jun 15 - Jul 23",
+      "units": "3.0",
+      "instructor": "Noah B. Schillo",
+      "section": "454920",
+      "description": "This course provides a study of the world's regions and realms using the framework of cultural geography. This geographic view of the world will be divided between the 12 major geographic realms and the many regions contained within them. Human cultures will be studied spatially, developing an understanding of the interconnectedness of the world.",
+      "url": "https://search.cvc.edu/courses/454920?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=geography&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Jun 15",
+        "endDate": "Jul 23",
+        "cvcCourseId": "454920",
+        "cvcUrl": "https://search.cvc.edu/courses/454920?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=geography&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Noah B. Schillo"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "3072",
+            "dates": "Jun 15 to Jul 23",
+            "professor": "Noah B. Schillo",
+            "format": "Asynchronous",
+            "notes": "Section 3072 is a fully online course. All instruction will be offered online. You will receive a college email from your instructor before the class begins. For more information, please contact the instructor at nschillo@contracosta.edu."
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "HED110",
+      "title": "Introduction to Public Health",
+      "modality": "online",
+      "term": "Jun 15 - Jul 23",
+      "units": "3.0",
+      "instructor": "Mr. Nikki A. Ferguson, Beth A. Goehring, Mr. Miguel A. Johnson",
+      "section": "3789869",
+      "description": "This course presents an overview of the disciplines of community and public health. Topics include the basic concepts and terminologies of public health; an overview of various public health professions and organizations; the study, prevention and control of diseases in the community; the analysis of the social determinants of health; strategies for eliminating disease, illness, and health disparities among various populations; community organizing and health promotion programming; school health promotion; environmental health and safety; and an overview of the healthcare delivery system in the United States. Emphasis will be placed on the development of knowledge and preliminary skills to serve as an effective advocate for community and public health. Prerequisite: Advisory: Eligibility for ENGL-C1000 or ENGL-C1000E.",
+      "url": "https://search.cvc.edu/courses/3789869?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Jun 15",
+        "endDate": "Jul 23",
+        "cvcCourseId": "3789869",
+        "cvcUrl": "https://search.cvc.edu/courses/3789869?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Mr. Nikki A. Ferguson",
+          "Beth A. Goehring",
+          "Mr. Miguel A. Johnson"
+        ],
+        "prerequisites": "Prerequisite: Advisory: Eligibility for ENGL-C1000 or ENGL-C1000E.",
+        "sections": [
+          {
+            "crn": "3397",
+            "dates": "Feb 23 to May 22",
+            "professor": "Mr. Nikki A. Ferguson",
+            "format": "Asynchronous",
+            "notes": "Section 3397 is offered in a fully online format. This is an online class with no required live meeting dates or times (fully asynchronous). Course information will be sent to your CCC insite address prior to the class start date. You will receive a college email prior to the class. For more information, contact Nikki Ferguson at nferguson@contracosta.edu."
+          },
+          {
+            "crn": "3396",
+            "dates": "Mar 30 to May 22",
+            "professor": "Mr. Nikki A. Ferguson",
+            "format": "Asynchronous",
+            "notes": "Section 3396 is offered in a fully online format. This is an online class with no required live meeting dates or times (fully asynchronous). Course information will be sent to your CCC insite address prior to the class start date. You will receive a college email prior to the class. For more information, contact Nikki Ferguson at nferguson@contracosta.edu."
+          },
+          {
+            "crn": "3432",
+            "dates": "Feb 23 to May 22",
+            "professor": "Mr. Nikki A. Ferguson",
+            "format": "Asynchronous",
+            "notes": "This course is fully online. For more information, please contact Nikki Ferguson at nferguson@contracosta.edu"
+          },
+          {
+            "crn": "3395",
+            "dates": "Jan 26 to May 22",
+            "professor": "Beth A. Goehring",
+            "format": "Asynchronous",
+            "notes": "Section 3395 is offered in an online format. This is an online class with no required live meeting dates or times (fully asynchronous). Course information will be sent to your CCC insite email address prior to the class start date. For more information, contact Beth Goehring at bgoehring@contracosta.edu."
+          },
+          {
+            "crn": "3042",
+            "dates": "Jun 15 to Jul 23",
+            "professor": "Beth A. Goehring",
+            "format": "Asynchronous",
+            "notes": "Section 3110 is offered online asynchronous format. Please check your college email for notification and course materials prior to the start of the course for information on online orientation. Students are required to email the instructor at nferguson@contracosta.edu prior to the online orientation."
+          },
+          {
+            "crn": "3110",
+            "dates": "Jun 15 to Jul 23",
+            "professor": "Mr. Nikki A. Ferguson",
+            "format": "Asynchronous",
+            "notes": "Section 3717 is offered in a fully online format asynchronous. Course information will be sent to your college email address prior to the class start date. For more information contact nferguson@contracosta.edu."
+          },
+          {
+            "crn": "3717",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Mr. Nikki A. Ferguson",
+            "format": "Asynchronous",
+            "notes": "Section 3716 is offered online asynchronous. Students must check college email for course instructions and materials. An online orientation will be presented in Canvas. Students must email instructor after registering at nferguson@contracosta.edu"
+          },
+          {
+            "crn": "3716",
+            "dates": "Oct 20 to Dec 12",
+            "professor": "Mr. Nikki A. Ferguson",
+            "format": "Asynchronous",
+            "notes": "Section 3718 is offered in a fully online format asynchronous. Course information will be sent to your college email address prior to the class start date. For more information contact mjohnson@contracosta.edu."
+          },
+          {
+            "crn": "3718",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Mr. Miguel A. Johnson",
+            "format": "Asynchronous",
+            "notes": "Section 3715 is offered in a fully online format asynchronous. Course information will be sent to your college email address prior to the class start date. For more information contact mjohnson@contracosta.edu."
+          },
+          {
+            "crn": "3715",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Mr. Miguel A. Johnson",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 10
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "HED120",
+      "title": "Education for Healthful Living",
+      "modality": "online",
+      "term": "Jun 15 - Jul 23",
+      "units": "3.0",
+      "instructor": "Mr. Nikki A. Ferguson, Mr. Miguel A. Johnson, Beth A. Goehring",
+      "section": "1034429",
+      "description": "This course will require students to explore, analyze, personalize, and discuss the following issues as they relate to the essential components of health and wellness: nutrition, physical activity/exercise/fitness, weight control, eating disorders and body image, media influences, mental health, stress, violence, substance use/abuse, sexuality and sexual orientation, sexually transmitted infections, reproductive choices/contraception, relationships, disease prevention, environment, health care, aging, and general public health issues. Students will be taught the knowledge and skills necessary to implement lifestyle behaviors that can improve their health and well-being. Prerequisite: Eligibility for ENGL-C1000 or ENGL-C1000E.",
+      "url": "https://search.cvc.edu/courses/1034429?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "CSU BREADTH"
+        ],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": true,
+        "startDate": "Jun 15",
+        "endDate": "Jul 23",
+        "cvcCourseId": "1034429",
+        "cvcUrl": "https://search.cvc.edu/courses/1034429?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Mr. Nikki A. Ferguson",
+          "Mr. Miguel A. Johnson",
+          "Beth A. Goehring"
+        ],
+        "prerequisites": "Prerequisite: Eligibility for ENGL-C1000 or ENGL-C1000E.",
+        "sections": [
+          {
+            "crn": "3399",
+            "dates": "Feb 23 to May 22",
+            "professor": "Mr. Nikki A. Ferguson",
+            "format": "Asynchronous",
+            "notes": "Section 3399 is offered in a fully online format. This is an online class with no required live meeting dates or times (fully asynchronous). Course information will be sent to your CCC insite email address prior to the class start date. For more information, contact Nikki Ferguson at nferguson@contracosta.edu"
+          },
+          {
+            "crn": "3401",
+            "dates": "Jan 26 to May 22",
+            "professor": "Mr. Miguel A. Johnson",
+            "format": "Asynchronous",
+            "notes": "Section 3401 is offered in an online format. This is an online class with no required live meeting dates or times (fully asynchronous). Course information will be sent to your CCC insite email address prior to the class start date. For more information contact Miguel Johnson at mjohnson@contracosta.edu."
+          },
+          {
+            "crn": "3403",
+            "dates": "Jan 26 to May 22",
+            "professor": "Beth A. Goehring",
+            "format": "Asynchronous",
+            "notes": "Section 3403 is offered in an online format. This is an online class with no required live meeting dates or times (fully asynchronous). Course information will be sent to your CCC insite email address prior to the class start date. For more information, contact Beth Goehring at bgoehring@contracosta.edu."
+          },
+          {
+            "crn": "3184",
+            "dates": "Jun 15 to Jul 23",
+            "professor": "Mr. Nikki A. Ferguson",
+            "format": "Asynchronous",
+            "notes": "Section 3184 is offered online asynchronous format. Please check your college email for notification and course materials prior to the start of the course for information on online orientation. Students are required to email the instructor at nferguson@contracosta.edu prior to the online orientation."
+          },
+          {
+            "crn": "3183",
+            "dates": "May 26 to Jun 18",
+            "professor": "Mr. Miguel A. Johnson",
+            "format": "Asynchronous",
+            "notes": "Section 3183 is offered online asynchronous format Please check your college email for notification and course materials prior to the start of the course for information on online orientation. Students are required to e-mail the instructor at bgoehring@contracosta.edu prior to the online orientation."
+          },
+          {
+            "crn": "3721",
+            "dates": "Oct 20 to Dec 12",
+            "professor": "Mr. Nikki A. Ferguson",
+            "format": "Asynchronous",
+            "notes": "Section 3721 is offered online asynchronous. Students must email instructor at nferguson@contracosta.edu prior to online orientation for course information and materials."
+          },
+          {
+            "crn": "3075",
+            "dates": "Oct 20 to Dec 12",
+            "professor": "Mr. Miguel A. Johnson",
+            "format": "Asynchronous",
+            "notes": "Section 3075 is offered fully online. Course information will be sent to students via Canvas email. For more information contact Instructor at mjohnson@contracosta.edu."
+          },
+          {
+            "crn": "9912",
+            "dates": "Dec 8 to Jan 5",
+            "professor": "Beth A. Goehring",
+            "format": "Asynchronous",
+            "notes": "Section 9912 is offered in a fully online format asynchronous. Course information will be sent to your college email address prior to the class start date. For more information contact bgoehring@contracosta.edu."
+          }
+        ],
+        "sectionCount": 8
+      },
+      "source": "cvc"
     },
     {
       "code": "KINES190",
@@ -75,10 +744,63 @@
       "modality": "online",
       "term": "Jun 15 - Jul 23",
       "units": "3.0",
-      "instructor": null,
+      "instructor": "Beth A. Goehring, Mr. Nikki A. Ferguson",
       "section": "454180",
-      "description": "Tuition: $138.00",
-      "url": "https://search.cvc.edu/courses/454180?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation"
+      "description": "This course is intended to prepare students to enter the professional field of kinesiology. It is an introduction to the interdisciplinary approach to the study of human movement. An overview of the importance of the sub-disciplines in kinesiology will be discussed along with career opportunities in the areas of teaching, coaching, allied health, and fitness professions.",
+      "url": "https://search.cvc.edu/courses/454180?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Jun 15",
+        "endDate": "Jul 23",
+        "cvcCourseId": "454180",
+        "cvcUrl": "https://search.cvc.edu/courses/454180?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Beth A. Goehring",
+          "Mr. Nikki A. Ferguson"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "3405",
+            "dates": "Jan 26 to May 22",
+            "professor": "Beth A. Goehring",
+            "format": "Asynchronous",
+            "notes": "Section 3405 is offered in fully online format, For course information please contact Beth Goehring bgoehring@contracosta.edu for more information."
+          },
+          {
+            "crn": "3185",
+            "dates": "Jun 15 to Jul 23",
+            "professor": "Beth A. Goehring",
+            "format": "Asynchronous",
+            "notes": "Section 3185 is offered online asynchronous format. Please check your college email for notifications and materials prior to your online orientation. Students are required to email the instructor at bgoehring@contracosta.edu prior to the online orientation."
+          },
+          {
+            "crn": "3190",
+            "dates": "Oct 20 to Dec 12",
+            "professor": "Mr. Nikki A. Ferguson",
+            "format": "Asynchronous",
+            "notes": "Section 3190 is offered online asynchronous. Students must check college email for course instructions and materials. An online orientation will be presented in Canvas. Students must email instructor after registering at nferguson@contracosta.edu."
+          },
+          {
+            "crn": "3730",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Beth A. Goehring",
+            "format": "Asynchronous",
+            "notes": "Section 3730 is offered online asynchronous. Students must check college email for course instructions and materials. An online orientation will be presented in Canvas. Students must email instructor after registering at bgoehring@contracosta.edu."
+          }
+        ],
+        "sectionCount": 4
+      },
+      "source": "cvc"
     },
     {
       "code": "CHIN120",
@@ -86,10 +808,109 @@
       "modality": "online",
       "term": "Jun 15 - Jul 23",
       "units": "5.0",
-      "instructor": null,
+      "instructor": "Yachi Teng, Wei N. Li",
       "section": "1034358",
-      "description": "Transfer: IGETC, CSU BREADTH | Tuition: $230.00",
-      "url": "https://search.cvc.edu/courses/1034358?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation"
+      "description": "This course introduces the fundamentals of Mandarin. The goals are to communicate in Mandarin through the development of skills in speaking, understanding, reading and writing, and to develop an appreciation of the Chinese culture.",
+      "url": "https://search.cvc.edu/courses/1034358?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": false,
+        "csuBreadth": true,
+        "tuition": 230,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Jun 15",
+        "endDate": "Jul 23",
+        "cvcCourseId": "1034358",
+        "cvcUrl": "https://search.cvc.edu/courses/1034358?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Synchronous",
+          "Asynchronous"
+        ],
+        "professors": [
+          "Yachi Teng",
+          "Wei N. Li"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "3318",
+            "dates": "Jan 26 to May 22",
+            "professor": "Yachi Teng",
+            "format": "Synchronous",
+            "notes": "Section 3318 is offered online with mandatory Zoom meetings on Fridays, 11:10am-1:40pm. Access to a computer with video and audio capability is required. You will receive a college email prior to the class. Students may contact their instructor at yteng@contracosta.edu."
+          },
+          {
+            "crn": "3057",
+            "dates": "Jun 15 to Jul 23",
+            "professor": "Wei N. Li",
+            "format": "Asynchronous",
+            "notes": "Section 3057 is offered in an online format. All instruction will be offered online with no synchronous meeting times. Your instructor will send a college email to you prior to the class. If you have any questions regarding the course, you may contact your instructor at wli@contracosta.edu."
+          },
+          {
+            "crn": "3162",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Yachi Teng",
+            "format": "Synchronous",
+            "notes": "Section 3162 is offered online with required synchronous Zoom meetings on Fridays from 11:10-2:00pm. You will receive a college email from your instructor prior to the class. For more information, you can contact your instructor at yteng@contracosta.edu."
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "JRNAL120",
+      "title": "Reporting & Writing for Media",
+      "modality": "online",
+      "term": "Jun 15 - Jul 23",
+      "units": "3.0",
+      "instructor": "Annie Sciacca",
+      "section": "455035",
+      "description": "This course presents the fundamentals of newswriting, newsgathering, and news judgment for newspapers and online news media. Emphasis is on accurate, clear and concise writing, organization and structure of news articles, language and style of journalism, reporting and newsgathering, revising and editing articles, and legal and ethical issues as they relate to journalistic reporting. Students will report and write based on their original interviews and research to produce news content. Experiences may include covering speeches, meetings and other events, writing under deadline and use of AP Style.",
+      "url": "https://search.cvc.edu/courses/455035?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Jun 15",
+        "endDate": "Jul 23",
+        "cvcCourseId": "455035",
+        "cvcUrl": "https://search.cvc.edu/courses/455035?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Annie Sciacca"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "3104",
+            "dates": "Jun 15 to Jul 23",
+            "professor": "Annie Sciacca",
+            "format": "Asynchronous",
+            "notes": "Section 3104 is a fully online course with no required meeting times on campus or on Zoom. For more information, please contact instructor Annie Sciacca (asciacca@contracosta.edu."
+          },
+          {
+            "crn": "3007",
+            "dates": "Sep 22 to Dec 12",
+            "professor": "Annie Sciacca",
+            "format": "Asynchronous",
+            "notes": "Section 1220 is a late start class, beginning 9/23. All instruction will be offered online, with no required synchronous Zoom meetings. You will receive a college email from your instructor prior to the class. For more information, contact instructor Annie Sciacca at asciacca@contracosta.edu."
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
     }
   ]
 }

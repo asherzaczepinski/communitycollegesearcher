@@ -9,7 +9,7 @@
 import { fetchCvcCourses } from '../cvc.js';
 
 export async function cvcCourses(college) {
-  const courses = await fetchCvcCourses(college.slug);
+  const courses = await fetchCvcCourses(college.slug, { withDetails: true });
   if (!courses.length) throw new Error('CVC has no online courses for this college');
   // strip the internal `_`-prefixed fields the client attaches for the validator
   return courses.map(({ _college, _transfer, _tuition, ...c }) => c);

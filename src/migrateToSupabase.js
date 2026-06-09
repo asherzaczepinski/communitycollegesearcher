@@ -56,6 +56,7 @@ CREATE TABLE courses (
   description text,
   url         text,
   source      text,
+  meta        jsonb,
   updated_at  text
 );
 
@@ -64,6 +65,7 @@ CREATE INDEX idx_courses_modality ON courses(modality);
 CREATE INDEX idx_courses_title    ON courses(title);
 CREATE INDEX idx_courses_code     ON courses(code);
 CREATE INDEX idx_courses_source   ON courses(source);
+CREATE INDEX idx_courses_meta     ON courses USING gin (meta);
 `;
 
 // Insert rows in batches of multi-row VALUES. Returns total inserted.
@@ -113,7 +115,7 @@ async function run() {
 
   // Courses (preserve original ids + the FK by college_id).
   const courseCols = ['id', 'college_id', 'code', 'title', 'modality', 'term', 'units',
-    'instructor', 'section', 'description', 'url', 'source', 'updated_at'];
+    'instructor', 'section', 'description', 'url', 'source', 'meta', 'updated_at'];
   await bulkInsert(client, 'courses', courseCols, courses);
 
   // Keep Postgres sequences (if any future inserts) past our max ids — harmless here

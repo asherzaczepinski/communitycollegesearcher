@@ -23,6 +23,16 @@
   </header>
 
   <main>
+    <div class="recheck-bar">
+      <button id="recheck-btn" class="btn primary">↻ Recheck everything</button>
+      <div class="usage" id="usage">
+        <span class="usage-num" id="usage-requests">0</span> requests ·
+        <span class="usage-num" id="usage-mb">0</span> MB
+        <span class="usage-since" id="usage-status"></span>
+      </div>
+      <button id="usage-reset" class="btn ghost" title="Reset the usage meter to zero">Reset</button>
+    </div>
+
     <div class="manager-bar">
       <input id="filter" type="search" placeholder="Filter colleges by name…" />
       <div class="seg" id="seg">

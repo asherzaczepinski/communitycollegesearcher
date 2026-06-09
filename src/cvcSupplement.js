@@ -29,11 +29,15 @@ async function run() {
   let added = 0, touched = 0;
   for (const c of colleges) {
     let cvc = [];
-    try { cvc = await fetchCvcCourses(c.slug); }
+    try { cvc = await fetchCvcCourses(c.slug, { withDetails: true }); }
     catch (e) { console.log(`  ✗ ${c.slug.padEnd(34)} ${e.message}`); continue; }
     if (!cvc.length) { console.log(`  · ${c.slug.padEnd(34)} no CVC online courses`); continue; }
 
-    // What online courses do we already have for this college?
+    // Idempotent refresh: drop our previously-added CVC rows so re-running picks
+    // up the latest CVC data (incl. the structured `meta`) without piling up dupes.
+    db.prepare(`DELETE FROM courses WHERE college_id=? AND source='cvc'`).run(c.id);
+
+    // What online courses do we already have from the college's OWN source?
     const existing = new Set(
       db.prepare(`SELECT code, title FROM courses WHERE college_id=? AND modality='online'`)
         .all(c.id).map(onlineKey),

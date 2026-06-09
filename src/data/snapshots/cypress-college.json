@@ -1,7 +1,7 @@
 {
   "slug": "cypress-college",
-  "scrapedAt": "2026-06-09T13:16:03.328Z",
-  "count": 10,
+  "scrapedAt": "2026-06-09T17:17:42.902Z",
+  "count": 11,
   "courses": [
     {
       "code": "ENGL102C",
@@ -9,10 +9,105 @@
       "modality": "online",
       "term": "Jun 15 - Jul 26",
       "units": "3.0",
-      "instructor": null,
+      "instructor": "Kathleen Elizabeth McAlister, Ruth Gutierrez, Christie Rossier Diep, Linda Carol Borla, Judith Castillo",
       "section": "1868108",
-      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $138.00",
-      "url": "https://search.cvc.edu/courses/1868108?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation"
+      "description": "Prerequisite: ENGL C1000 (ENGL 100 C) or ENGL C1000H (ENGL 100HC) or ENGL C1000E (ENGL 101 C) or ESL 110 C with a grade of C or better. Term hours: 54 lecture. This course is a continuation of ENGL 100 C. It builds from the inferential reading and expository writing of the first semester course to demonstrate reading comprehension as well as composition of the analytical and critical essay. The content introduces students to techniques and major authors of narrative fiction, drama, and poetry, providing them with an opportunity to enrich their lives, enhance their understanding of the human condition, and develop an appreciation of literature. (UC/CSU, AA GE, CalGETC, RDG, C-ID: ENGL 120)",
+      "url": "https://search.cvc.edu/courses/1868108?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Jun 15",
+        "endDate": "Jul 26",
+        "cvcCourseId": "1868108",
+        "cvcUrl": "https://search.cvc.edu/courses/1868108?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Kathleen Elizabeth McAlister",
+          "Ruth Gutierrez",
+          "Christie Rossier Diep",
+          "Linda Carol Borla",
+          "Judith Castillo"
+        ],
+        "prerequisites": "Prerequisite: ENGL C1000 (ENGL 100 C) or ENGL C1000H (ENGL 100HC) or ENGL C1000E (ENGL 101 C) or ESL 110 C with a grade of C or better.",
+        "sections": [
+          {
+            "crn": "20737",
+            "dates": "Feb 2 to Mar 29",
+            "professor": "Kathleen Elizabeth McAlister",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above 8-week Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "25063",
+            "dates": "Dec 17 to Jan 28",
+            "professor": "Ruth Gutierrez",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in myGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "25064",
+            "dates": "Dec 17 to Jan 28",
+            "professor": "Christie Rossier Diep",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in myGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "25032",
+            "dates": "Feb 2 to Mar 29",
+            "professor": "Linda Carol Borla",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above 8-week Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in myGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "20736",
+            "dates": "Apr 6 to May 30",
+            "professor": "Linda Carol Borla",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Second-Session, 8-week Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in myGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30868",
+            "dates": "Jun 15 to Jul 26",
+            "professor": "Linda Carol Borla",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30869",
+            "dates": "Jun 29 to Aug 9",
+            "professor": "Kathleen Elizabeth McAlister",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13592",
+            "dates": "Aug 25 to Oct 19",
+            "professor": "Kathleen Elizabeth McAlister",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above 8-week online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "14880",
+            "dates": "Aug 25 to Dec 13",
+            "professor": "Judith Castillo",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          }
+        ],
+        "sectionCount": 9
+      },
+      "source": "cvc"
     },
     {
       "code": "ENGLC1000",
@@ -20,10 +115,288 @@
       "modality": "online",
       "term": "Jun 15 - Jul 26",
       "units": "4.0",
-      "instructor": null,
+      "instructor": "Tamar Annie Melanie Altebarmakian, Christy Teres Groves, Justin Scott Campbell, Blake A Jordan, Christie Rossier Diep, Janet Nau, Alyssa Marie Garman, Brooke Campbell, Ashton Konrad Politanoff, Kristen Venegas, Annette Letcher, Janet Jurie Fujimoto, Bret Adrian Kaufman, Judith Castillo, Emily Danielle Sapien, Sarah Arnold Jones, Ruth Gutierrez, Sarah M Daugherty, Megan Jean Friess, Linda Carol Borla",
       "section": "15956705",
-      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $184.00",
-      "url": "https://search.cvc.edu/courses/15956705?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation"
+      "description": "(formerly: ENGL 100 C College Writing) Prerequisite: Placement as determined by the college’s multiple measures assessment process. Term Hours: 72 lecture. In this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research. English C1000 is a college level course in written communication. It is designed to develop reading, critical thinking, and writing strategies necessary for academic success. The emphasis is on writing expository essays. The course requires the use of research and documentation skills. Duplicate credit not granted for ENGL C1000H. (UC Credit Limitation/CSU, AA GE, Cal-GETC, C-ID:ENGL 100).",
+      "url": "https://search.cvc.edu/courses/15956705?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 184,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Jun 15",
+        "endDate": "Jul 26",
+        "cvcCourseId": "15956705",
+        "cvcUrl": "https://search.cvc.edu/courses/15956705?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Tamar Annie Melanie Altebarmakian",
+          "Christy Teres Groves",
+          "Justin Scott Campbell",
+          "Blake A Jordan",
+          "Christie Rossier Diep",
+          "Janet Nau",
+          "Alyssa Marie Garman",
+          "Brooke Campbell",
+          "Ashton Konrad Politanoff",
+          "Kristen Venegas",
+          "Annette Letcher",
+          "Janet Jurie Fujimoto",
+          "Bret Adrian Kaufman",
+          "Judith Castillo",
+          "Emily Danielle Sapien",
+          "Sarah Arnold Jones",
+          "Ruth Gutierrez",
+          "Sarah M Daugherty",
+          "Megan Jean Friess",
+          "Linda Carol Borla"
+        ],
+        "prerequisites": "Prerequisite: Placement as determined by the college’s multiple measures assessment process.",
+        "sections": [
+          {
+            "crn": "20713",
+            "dates": "Feb 2 to May 30",
+            "professor": "Tamar Annie Melanie Altebarmakian",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "20709",
+            "dates": "Feb 2 to May 30",
+            "professor": "Christy Teres Groves",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "25483",
+            "dates": "Mar 2 to May 30",
+            "professor": "Justin Scott Campbell",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: This Late-Start,12-week Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "20706",
+            "dates": "Feb 2 to May 30",
+            "professor": "Blake A Jordan",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone. This section will be enhanced with the support of a Peer Tutor to encourage increased student success."
+          },
+          {
+            "crn": "20716",
+            "dates": "Feb 9 to May 10",
+            "professor": "Christie Rossier Diep",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Late-Start, 12-week Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21376",
+            "dates": "Feb 9 to May 10",
+            "professor": "Christie Rossier Diep",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Late-Start, 12-week Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "20712",
+            "dates": "Feb 2 to May 30",
+            "professor": "Janet Nau",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in myGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "25049",
+            "dates": "Mar 2 to May 30",
+            "professor": "Christie Rossier Diep",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: This Late-Start,12-week Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in myGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21532",
+            "dates": "Feb 2 to May 30",
+            "professor": "Justin Scott Campbell",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "25439",
+            "dates": "Mar 2 to May 30",
+            "professor": "Alyssa Marie Garman",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: This Late-Start,12-week Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in myGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "20710",
+            "dates": "Feb 2 to May 30",
+            "professor": "Brooke Campbell",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21528",
+            "dates": "Feb 2 to May 30",
+            "professor": "Ashton Konrad Politanoff",
+            "format": "Asynchronous",
+            "notes": "This section will be enhanced with the support of a Peer Tutor to encourage increased student success. ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "25448",
+            "dates": "Mar 2 to May 30",
+            "professor": "Kristen Venegas",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: This Late-Start,12-week Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21389",
+            "dates": "Feb 2 to May 30",
+            "professor": "Annette Letcher",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21381",
+            "dates": "Feb 2 to May 30",
+            "professor": "Janet Jurie Fujimoto",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21612",
+            "dates": "Mar 2 to May 30",
+            "professor": "Bret Adrian Kaufman",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Late-Start,12-week Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "25449",
+            "dates": "Mar 2 to May 30",
+            "professor": "Judith Castillo",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: This Late-Start,12-week Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "20711",
+            "dates": "Feb 2 to May 30",
+            "professor": "Emily Danielle Sapien",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in myGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21527",
+            "dates": "Feb 2 to May 30",
+            "professor": "Bret Adrian Kaufman",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21380",
+            "dates": "Feb 2 to May 30",
+            "professor": "Sarah Arnold Jones",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21618",
+            "dates": "Mar 2 to May 30",
+            "professor": "Bret Adrian Kaufman",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: This Late-Start,12-week Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30861",
+            "dates": "Jun 8 to Jul 19",
+            "professor": "Ruth Gutierrez",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30860",
+            "dates": "Jun 8 to Jul 19",
+            "professor": "Ruth Gutierrez",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30907",
+            "dates": "Jun 29 to Aug 9",
+            "professor": "Sarah M Daugherty",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30867",
+            "dates": "Jun 29 to Aug 9",
+            "professor": "Megan Jean Friess",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30858",
+            "dates": "Jun 8 to Jul 19",
+            "professor": "Christie Rossier Diep",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30865",
+            "dates": "Jun 22 to Aug 2",
+            "professor": "Sarah Arnold Jones",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30864",
+            "dates": "Jun 15 to Jul 26",
+            "professor": "Justin Scott Campbell",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30859",
+            "dates": "Jun 8 to Jul 19",
+            "professor": "Christie Rossier Diep",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "31014",
+            "dates": "Jul 13 to Aug 21",
+            "professor": "Judith Castillo",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30862",
+            "dates": "Jun 15 to Jul 26",
+            "professor": "Linda Carol Borla",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30866",
+            "dates": "Jun 22 to Aug 2",
+            "professor": "Christy Teres Groves",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30863",
+            "dates": "Jun 15 to Jul 26",
+            "professor": "Justin Scott Campbell",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          }
+        ],
+        "sectionCount": 33
+      },
+      "source": "cvc"
     },
     {
       "code": "SPAN101C",
@@ -31,10 +404,95 @@
       "modality": "online",
       "term": "Jun 22 - Aug 14",
       "units": "5.0",
-      "instructor": null,
+      "instructor": "Ana Lucrecia Maradiaga-Bunker, Santiago M Tamariz, Evelyn Selena Gamez, Arturo Fernandez Navarro",
       "section": "1873166",
-      "description": "Transfer: CSU BREADTH | Tuition: $230.00",
-      "url": "https://search.cvc.edu/courses/1873166?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation"
+      "description": "This course focuses on the acquisition of the four major skills in language learning: listening comprehension, speaking, reading , and writing. Included are the grammar and vocabulary necessary to develop proficiency and communicative competence in these four skill areas. Students are introduced to the culture, customs, history, and geography of Spain and other Spanish-speaking countries through lectures, presentations, photography, videos, film and reading assignments. This course is conducted primarily in Spanish and requires weekly assignments, so students may develop linguistic proficiency and cultural understanding at the elementary level. Pass/No Pass/Letter Grade Option. (CSU/UC Credit Limitation, AA GE, C-ID: SPAN 100)",
+      "url": "https://search.cvc.edu/courses/1873166?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "CSU BREADTH"
+        ],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": true,
+        "tuition": 230,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Jun 22",
+        "endDate": "Aug 14",
+        "cvcCourseId": "1873166",
+        "cvcUrl": "https://search.cvc.edu/courses/1873166?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Ana Lucrecia Maradiaga-Bunker",
+          "Santiago M Tamariz",
+          "Evelyn Selena Gamez",
+          "Arturo Fernandez Navarro"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "25279",
+            "dates": "Apr 6 to May 30",
+            "professor": "Ana Lucrecia Maradiaga-Bunker",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Second-Session, 8-week Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "20912",
+            "dates": "Feb 2 to May 30",
+            "professor": "Santiago M Tamariz",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "25443",
+            "dates": "Apr 6 to May 30",
+            "professor": "Evelyn Selena Gamez",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: This Second-Session, 8-week Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30854",
+            "dates": "Jun 22 to Aug 14",
+            "professor": "Ana Lucrecia Maradiaga-Bunker",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30853",
+            "dates": "Jun 8 to Aug 2",
+            "professor": "Santiago M Tamariz",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "31013",
+            "dates": "Jun 29 to Aug 21",
+            "professor": "Arturo Fernandez Navarro",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "15087",
+            "dates": "Oct 20 to Dec 13",
+            "professor": "Ana Lucrecia Maradiaga-Bunker",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above second-session, 8-week online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "12690",
+            "dates": "Aug 25 to Dec 13",
+            "professor": "Santiago M Tamariz",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          }
+        ],
+        "sectionCount": 8
+      },
+      "source": "cvc"
     },
     {
       "code": "KIN248C",
@@ -42,21 +500,136 @@
       "modality": "online",
       "term": "Jul 13 - Aug 14",
       "units": "3.0",
-      "instructor": null,
+      "instructor": "Piero S Cutrona",
       "section": "4181788",
-      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $138.00",
-      "url": "https://search.cvc.edu/courses/4181788?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation"
+      "description": "Term hours: 54 lecture. This course consists of the psychological study of athletes on all levels of competition. The course includes such areas as competition, understanding coaches, goal setting, motivation, youth sports, anxiety and stress, relaxation and sport imagery, relationships, and drug abuse in sports. (UC/CSU, AA GE, CalGETC)",
+      "url": "https://search.cvc.edu/courses/4181788?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Jul 13",
+        "endDate": "Aug 14",
+        "cvcCourseId": "4181788",
+        "cvcUrl": "https://search.cvc.edu/courses/4181788?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Piero S Cutrona"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "21143",
+            "dates": "Apr 6 to May 30",
+            "professor": "Piero S Cutrona",
+            "format": "Asynchronous",
+            "notes": "Term hours: 54 lecture. This course consists of the psychological study of athletes on all levels of competition. The course includes such areas as competition, understanding coaches, goal setting, motivation, youth sports, anxiety and stress, relaxation and sport imagery, relationships, and drug abuse in sports. (UC/CSU, AA GE, CalGETC)"
+          },
+          {
+            "crn": "20827",
+            "dates": "Mar 3 to May 30",
+            "professor": "Piero S Cutrona",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, students MUST enter their e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "21208",
+            "dates": "Dec 17 to Jan 28",
+            "professor": "Piero S Cutrona",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30524",
+            "dates": "Jun 8 to Jul 12",
+            "professor": "Piero S Cutrona",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, students MUST enter their e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "30525",
+            "dates": "Jul 13 to Aug 14",
+            "professor": "Piero S Cutrona",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, students MUST enter their e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "11203",
+            "dates": "Aug 25 to Dec 13",
+            "professor": "Piero S Cutrona",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "15106",
+            "dates": "Oct 20 to Dec 13",
+            "professor": "Piero S Cutrona",
+            "format": "Asynchronous",
+            "notes": "Term hours: 54 lecture. This course consists of the psychological study of athletes on all levels of competition. The course includes such areas as competition, understanding coaches, goal setting, motivation, youth sports, anxiety and stress, relaxation and sport imagery, relationships, and drug abuse in sports. (UC/CSU, AA GE, CalGETC)"
+          },
+          {
+            "crn": "14056",
+            "dates": "Oct 20 to Dec 13",
+            "professor": "Piero S Cutrona",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, students MUST enter their e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          }
+        ],
+        "sectionCount": 8
+      },
+      "source": "cvc"
     },
     {
-      "code": "CIS226C",
-      "title": "Java Programming",
+      "code": "CIS196C",
+      "title": "Ethical Hacking",
       "modality": "online",
-      "term": "Jul 13 - Aug 14",
+      "term": "Jul 19 - Aug 14",
       "units": "3.0",
-      "instructor": null,
-      "section": "2022410",
-      "description": "Tuition: $138.00",
-      "url": "https://search.cvc.edu/courses/2022410?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation"
+      "instructor": "Michael Tang Franklin",
+      "section": "2022361",
+      "description": "Term hours: 36 lecture and 54 laboratory. This course provides students with basic anti-hacking, penetration testing, risk assessment and management, incident response, security controls, and enterprise network security concepts and hands-on skills. Important defense in depth topics such as network and computer attacks, footprinting, port scanning, enumeration, forensics, cryptography and operating systems vulnerabilities and hardening are covered. This course also prepares students for the CompTIA CySA+ Cybersecurity Analyst certificate. $3.00 Material Fee - PAYABLE AT REGISTRATION. Pass/No Pass/Letter Grade Option. (CSU)",
+      "url": "https://search.cvc.edu/courses/2022361?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Jul 19",
+        "endDate": "Aug 14",
+        "cvcCourseId": "2022361",
+        "cvcUrl": "https://search.cvc.edu/courses/2022361?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Synchronous"
+        ],
+        "professors": [
+          "Michael Tang Franklin"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "30214",
+            "dates": "Jul 19 to Aug 14",
+            "professor": "Michael Tang Franklin",
+            "format": "Synchronous",
+            "notes": "The above hybrid course includes both Zoom and online instruction. Zoom meetings will be during the days and times identified in the schedule. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/. Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone. The above course uses open educational resources and has zero textbook costs."
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
     },
     {
       "code": "COUN140C",
@@ -64,10 +637,404 @@
       "modality": "online",
       "term": "Jul 6 - Aug 2",
       "units": "1.0",
-      "instructor": null,
+      "instructor": "Cassandra Alexxis Rodriguez, Brianna Alise Gonzales-Harwell, Marisa Elena Lehmeier, Stephany Cristantos Valencia, Renay Laguana-Ferinac, Ernesto Heredia, Karen S Hill, Monique Thai-Arnold, Vince Edward Vizcarra, Moises Perez Martinez, Jose Miguel Flores Garcia, Melissa Michelle Brandan, Quinn Ngoc Doan",
       "section": "2022655",
-      "description": "Tuition: $46.00",
-      "url": "https://search.cvc.edu/courses/2022655?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=computer+science&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation"
+      "description": "Term hours: 18 lecture. This course is designed for new students as part of the Student Success and Support Program. The course includes: an orientation to college life, responsibilities, requirements, and regulations; an overview of the guided self-placement/assessment process; psychological, sociological, and physiological factors of student success; certificates, occupational degrees, and transfer degrees; the transfer process; career guidance and pathways for selection of a major plan of study; and development of a student educational plan. Students utilize multiple computer applications and websites to conduct research in developing a comprehensive educational plan. Students also data-enter their plan into Degree Works. PASS/NO PASS. (UC/CSU)",
+      "url": "https://search.cvc.edu/courses/2022655?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=computer+science&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 46,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Jul 6",
+        "endDate": "Aug 2",
+        "cvcCourseId": "2022655",
+        "cvcUrl": "https://search.cvc.edu/courses/2022655?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=computer+science&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous",
+          "Synchronous"
+        ],
+        "professors": [
+          "Cassandra Alexxis Rodriguez",
+          "Brianna Alise Gonzales-Harwell",
+          "Marisa Elena Lehmeier",
+          "Stephany Cristantos Valencia",
+          "Renay Laguana-Ferinac",
+          "Ernesto Heredia",
+          "Karen S Hill",
+          "Monique Thai-Arnold",
+          "Vince Edward Vizcarra",
+          "Moises Perez Martinez",
+          "Jose Miguel Flores Garcia",
+          "Melissa Michelle Brandan",
+          "Quinn Ngoc Doan"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "21049",
+            "dates": "Feb 2 to Mar 1",
+            "professor": "Cassandra Alexxis Rodriguez",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "25340",
+            "dates": "Feb 23 to May 24",
+            "professor": "Brianna Alise Gonzales-Harwell",
+            "format": "Asynchronous",
+            "notes": "The above class is designed for student-athletes participating in intercollegiate sports. Please contact Brianna Gonzles-Harwell at bgonzales-harwell@cypresscollege.edu to add the class. ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "25125",
+            "dates": "Mar 16 to May 3",
+            "professor": "Marisa Elena Lehmeier",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21097",
+            "dates": "Feb 2 to Mar 29",
+            "professor": "Cassandra Alexxis Rodriguez",
+            "format": "Asynchronous",
+            "notes": "ONLINE: ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "25124",
+            "dates": "Feb 2 to Mar 15",
+            "professor": "Marisa Elena Lehmeier",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21351",
+            "dates": "Dec 17 to Jan 28",
+            "professor": "Cassandra Alexxis Rodriguez",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21118",
+            "dates": "Apr 6 to May 30",
+            "professor": "Stephany Cristantos Valencia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21350",
+            "dates": "Dec 17 to Jan 28",
+            "professor": "Renay Laguana-Ferinac",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "25126",
+            "dates": "Feb 23 to Apr 12",
+            "professor": "Marisa Elena Lehmeier",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21102",
+            "dates": "Apr 6 to May 3",
+            "professor": "Cassandra Alexxis Rodriguez",
+            "format": "Asynchronous",
+            "notes": "ZOOM: The above course meets via Zoom during the days and times identified in the schedule. Online courses are taught using Canvas, an Internet-base software to deliver materials and communication with students, and may require the software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21277",
+            "dates": "Dec 17 to Jan 28",
+            "professor": "Marisa Elena Lehmeier",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21276",
+            "dates": "Dec 17 to Jan 28",
+            "professor": "Ernesto Heredia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21098",
+            "dates": "Apr 6 to May 30",
+            "professor": "Cassandra Alexxis Rodriguez",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21390",
+            "dates": "Apr 6 to May 30",
+            "professor": "Ernesto Heredia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21065",
+            "dates": "Mar 2 to Mar 29",
+            "professor": "Cassandra Alexxis Rodriguez",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30948",
+            "dates": "Jun 8 to Jul 5",
+            "professor": "Marisa Elena Lehmeier",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered entirely online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/. Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30949",
+            "dates": "Jul 6 to Aug 2",
+            "professor": "Cassandra Alexxis Rodriguez",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered entirely online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/. Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30950",
+            "dates": "Jul 13 to Aug 9",
+            "professor": "Ernesto Heredia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered entirely online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/. Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13091",
+            "dates": "Nov 17 to Dec 13",
+            "professor": "Cassandra Alexxis Rodriguez",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13093",
+            "dates": "Aug 25 to Oct 19",
+            "professor": "Karen S Hill",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13095",
+            "dates": "Aug 25 to Oct 19",
+            "professor": "Cassandra Alexxis Rodriguez",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "12514",
+            "dates": "Oct 20 to Dec 13",
+            "professor": "Monique Thai-Arnold",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13081",
+            "dates": "Aug 25 to Oct 19",
+            "professor": "Vince Edward Vizcarra",
+            "format": "Synchronous",
+            "notes": "ZOOM CLASS: The above course meets via Zoom during the days and times identified in the schedule. Online courses are taught using Canvas, an Internet-base software to deliver materials and communication with students, and may require the software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13119",
+            "dates": "Aug 25 to Nov 16",
+            "professor": "Ernesto Heredia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13102",
+            "dates": "Oct 20 to Dec 13",
+            "professor": "Moises Perez Martinez",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13046",
+            "dates": "Aug 25 to Oct 19",
+            "professor": "Ernesto Heredia",
+            "format": "Asynchronous",
+            "notes": "ZOOM: The above course meets via Zoom during the days and times identified in the schedule. Online courses are taught using Canvas, an Internet-base software to deliver materials and communication with students, and may require the software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13100",
+            "dates": "Oct 20 to Dec 13",
+            "professor": "Jose Miguel Flores Garcia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13083",
+            "dates": "Oct 20 to Dec 13",
+            "professor": "Ernesto Heredia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13045",
+            "dates": "Aug 25 to Sep 21",
+            "professor": "Cassandra Alexxis Rodriguez",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13101",
+            "dates": "Oct 20 to Dec 13",
+            "professor": "Cassandra Alexxis Rodriguez",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "12512",
+            "dates": "Sep 29 to Nov 6",
+            "professor": "Melissa Michelle Brandan",
+            "format": "Synchronous",
+            "notes": "ZOOM CLASS: The above course meets via Zoom during the days and times identified in the schedule. Online courses are taught using Canvas, an Internet-base software to deliver materials and communication with students, and may require the software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13098",
+            "dates": "Oct 20 to Dec 13",
+            "professor": "Ernesto Heredia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13120",
+            "dates": "Oct 20 to Dec 13",
+            "professor": "Ernesto Heredia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13084",
+            "dates": "Oct 20 to Dec 13",
+            "professor": "Vince Edward Vizcarra",
+            "format": "Synchronous",
+            "notes": "The above course meets via Zoom during the days and times identified in the schedule. Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13087",
+            "dates": "Aug 25 to Oct 5",
+            "professor": "Marisa Elena Lehmeier",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13086",
+            "dates": "Sep 8 to Oct 19",
+            "professor": "Marisa Elena Lehmeier",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13076",
+            "dates": "Aug 25 to Nov 16",
+            "professor": "Moises Perez Martinez",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "12507",
+            "dates": "Aug 25 to Oct 19",
+            "professor": "Quinn Ngoc Doan",
+            "format": "Synchronous",
+            "notes": "ZOOM CLASS: The above course meets via Zoom during the days and times identified in the schedule. Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13092",
+            "dates": "Aug 25 to Oct 19",
+            "professor": "Ernesto Heredia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13106",
+            "dates": "Oct 20 to Dec 13",
+            "professor": "Karen S Hill",
+            "format": "Synchronous",
+            "notes": "ZOOM CLASS: The above course meets via Zoom during the days and times identified in the schedule. Online courses are taught using Canvas, an Internet-base software to deliver materials and communication with students, and may require the software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13042",
+            "dates": "Aug 25 to Nov 16",
+            "professor": "Quinn Ngoc Doan",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13089",
+            "dates": "Oct 20 to Nov 16",
+            "professor": "Cassandra Alexxis Rodriguez",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13103",
+            "dates": "Aug 25 to Oct 19",
+            "professor": "Karen S Hill",
+            "format": "Synchronous",
+            "notes": "ZOOM CLASS: The above course meets via Zoom during the days and times identified in the schedule. Online courses are taught using Canvas, an Internet-base software to deliver materials and communication with students, and may require the software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13096",
+            "dates": "Aug 25 to Oct 19",
+            "professor": "Jose Miguel Flores Garcia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "12510",
+            "dates": "Aug 25 to Oct 19",
+            "professor": "Monique Thai-Arnold",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13094",
+            "dates": "Aug 25 to Oct 19",
+            "professor": "Stephany Cristantos Valencia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13088",
+            "dates": "Oct 6 to Nov 16",
+            "professor": "Marisa Elena Lehmeier",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13077",
+            "dates": "Sep 22 to Oct 19",
+            "professor": "Cassandra Alexxis Rodriguez",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "12312",
+            "dates": "Aug 25 to Nov 16",
+            "professor": "Ernesto Heredia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13090",
+            "dates": "Sep 29 to Nov 9",
+            "professor": "Marisa Elena Lehmeier",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "13113",
+            "dates": "Aug 25 to Nov 16",
+            "professor": "Ernesto Heredia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          }
+        ],
+        "sectionCount": 51
+      },
+      "source": "cvc"
     },
     {
       "code": "KIN148C",
@@ -75,21 +1042,71 @@
       "modality": "online",
       "term": "Jul 6 - Aug 14",
       "units": "1.0",
-      "instructor": null,
+      "instructor": "Anthony David Hutting",
       "section": "3961287",
-      "description": "Transfer: CSU BREADTH | Tuition: $46.00",
-      "url": "https://search.cvc.edu/courses/3961287?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation"
-    },
-    {
-      "code": "KIN249C",
-      "title": "Sport and United States Society (formerly PE 250 C)",
-      "modality": "online",
-      "term": "Jun 15 - Jul 12",
-      "units": "3.0",
-      "instructor": null,
-      "section": "3961317",
-      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $138.00",
-      "url": "https://search.cvc.edu/courses/3961317?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation"
+      "description": "Formerly PE 187 C Term hours: 54 laboratory. This course emphasizes physical fitness which will be achieved through the use of resistance exercises and body building routines. Pass/No Pass/Letter Grade Option. (UC Credit Limitation/CSU, AA GE).",
+      "url": "https://search.cvc.edu/courses/3961287?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "CSU BREADTH"
+        ],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": true,
+        "tuition": 46,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Jul 6",
+        "endDate": "Aug 14",
+        "cvcCourseId": "3961287",
+        "cvcUrl": "https://search.cvc.edu/courses/3961287?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Anthony David Hutting"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "21110",
+            "dates": "Feb 2 to May 30",
+            "professor": "Anthony David Hutting",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above one-unit online course has no scheduled meeting times and is offered fully online. To avoid being dropped, students MUST enter their e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "21144",
+            "dates": "Apr 6 to May 30",
+            "professor": "Anthony David Hutting",
+            "format": "Asynchronous",
+            "notes": "Formerly PE 187 CTerm hours: 54 laboratory. This course emphasizes physical fitness which will be achieved through the use of resistance exercises and body building routines. Pass/No Pass/Letter Grade Option. (UC Credit Limitation/CSU, AA GE)."
+          },
+          {
+            "crn": "30528",
+            "dates": "Jun 8 to Jul 19",
+            "professor": "Anthony David Hutting",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, students MUST enter their e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "30529",
+            "dates": "Jul 6 to Aug 14",
+            "professor": "Anthony David Hutting",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, students MUST enter their e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "14058",
+            "dates": "Oct 20 to Dec 13",
+            "professor": "Anthony David Hutting",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, students MUST enter their e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          }
+        ],
+        "sectionCount": 5
+      },
+      "source": "cvc"
     },
     {
       "code": "KIN235C",
@@ -97,10 +1114,387 @@
       "modality": "online",
       "term": "Jul 6 - Aug 14",
       "units": "3.0",
-      "instructor": null,
+      "instructor": "Tracy Renee Vanherk, Jordan Jacob Fleck, Kelly Lynn Morris",
       "section": "3961313",
-      "description": "Transfer: CSU BREADTH | Tuition: $138.00",
-      "url": "https://search.cvc.edu/courses/3961313?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation"
+      "description": "Formerly PE 235 C Term hours: 54 lecture. This course includes the theory and implementation of the skills necessary in response to an emergency. Successful completion of the course will qualify the student for the American Red Cross \"Responding to Emergencies\" First Aid Certificate, Adult, Child and Infant CPR Certificates, and Automated External Defibrillation Certificate. Costs may include materials for the construction of a First Aid Kit. $27 Red Cross service fee payable at registration. (UC/CSU, C-ID: KIN 101).",
+      "url": "https://search.cvc.edu/courses/3961313?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "CSU BREADTH"
+        ],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Jul 6",
+        "endDate": "Aug 14",
+        "cvcCourseId": "3961313",
+        "cvcUrl": "https://search.cvc.edu/courses/3961313?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Tracy Renee Vanherk",
+          "Jordan Jacob Fleck",
+          "Kelly Lynn Morris"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "24947",
+            "dates": "Feb 2 to May 30",
+            "professor": "Tracy Renee Vanherk",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, please confirm that your e-mail address in MyGateway is accurate after enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "24884",
+            "dates": "Apr 6 to May 30",
+            "professor": "Jordan Jacob Fleck",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, please confirm that your e-mail address in MyGateway is accurate after enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "25460",
+            "dates": "Feb 18 to May 14",
+            "professor": "Kelly Lynn Morris",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, students MUST enter their e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "24887",
+            "dates": "Dec 17 to Jan 28",
+            "professor": "Jordan Jacob Fleck",
+            "format": "Asynchronous",
+            "notes": "Formerly PE 235 CTerm hours: 54 lecture. This course includes the theory and implementation of the skills necessary in response to an emergency. Successful completion of the course will qualify the student for the American Red Cross Responding to Emergencies First Aid Certificate, Adult, Child and Infant CPR Certificates, and Automated External Defibrillation Certificate. Costs may include materials for the construction of a First Aid Kit. $27 Red Cross service fee payable at registration. (UC/CSU, C-ID: KIN 101)."
+          },
+          {
+            "crn": "30526",
+            "dates": "Jul 6 to Aug 14",
+            "professor": "Jordan Jacob Fleck",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, students MUST enter their e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "14862",
+            "dates": "Aug 25 to Dec 13",
+            "professor": "Kelly Lynn Morris",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "14864",
+            "dates": "Aug 25 to Dec 13",
+            "professor": "Tracy Renee Vanherk",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "14861",
+            "dates": "Oct 20 to Dec 13",
+            "professor": "Jordan Jacob Fleck",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          }
+        ],
+        "sectionCount": 8
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "KIN249C",
+      "title": "Sport and United States Society (formerly PE 250 C)",
+      "modality": "online",
+      "term": "Jun 15 - Jul 12",
+      "units": "3.0",
+      "instructor": "Margaret Mary Mohr",
+      "section": "3961317",
+      "description": "Term hours: 54 lecture. This course examines sport in the United States society and how various ethnic and under-represented groups have influenced sport participation at the local, state, and national levels. Influences of other cultures outside of the United States will be reviewed and analyzed. Media influences on the perception of sport in society will be examined. (CSU/UC, AA GE, CalGETC, SOC JUST)",
+      "url": "https://search.cvc.edu/courses/3961317?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Jun 15",
+        "endDate": "Jul 12",
+        "cvcCourseId": "3961317",
+        "cvcUrl": "https://search.cvc.edu/courses/3961317?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Margaret Mary Mohr"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "21214",
+            "dates": "Dec 17 to Jan 28",
+            "professor": "Margaret Mary Mohr",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21058",
+            "dates": "Feb 23 to Apr 25",
+            "professor": "Margaret Mary Mohr",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above 8-week online course has no scheduled meeting times and is offered fully online. To avoid being dropped, please confirm that your e-mail address in MyGateway is accurate after enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "21057",
+            "dates": "Feb 2 to May 30",
+            "professor": "Margaret Mary Mohr",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, please confirm that your e-mail address in MyGateway is accurate after enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "30535",
+            "dates": "Jun 15 to Jul 12",
+            "professor": "Margaret Mary Mohr",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, students MUST enter their e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "30536",
+            "dates": "Jul 20 to Aug 16",
+            "professor": "Margaret Mary Mohr",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, students MUST enter their e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "11502",
+            "dates": "Aug 25 to Oct 19",
+            "professor": "Margaret Mary Mohr",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "11504",
+            "dates": "Oct 20 to Dec 13",
+            "professor": "Margaret Mary Mohr",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "11204",
+            "dates": "Aug 25 to Dec 13",
+            "professor": "Margaret Mary Mohr",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          }
+        ],
+        "sectionCount": 8
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "ENGLC1001",
+      "title": "Critical Thinking and Writing",
+      "modality": "online",
+      "term": "Jun 15 - Jul 26",
+      "units": "4.0",
+      "instructor": "Justin Scott Campbell, Kathryn L Sonne, Anna Christine Morrison, Christie Rossier Diep, Randa B Wahbe, Lawrence Joshua Keel, Joseph Peter Melodia, Annette Letcher, Janet Jurie Fujimoto, Nora Salim Masri Simoes, Blake A Jordan, Kathleen Elizabeth McAlister, Ashton Konrad Politanoff",
+      "section": "15956708",
+      "description": "(formerly: ENGL 103 C Critical Reasoning and Writing) Prerequisite: College-level composition (ENGL C1000/ENGL C1000H/ENGLC1000E/C-ID ENGL 100) or equivalent or ESL 110 C with a grade of C or better. Term Hours: 72 Lecture. In this course, students receive instruction in critical thinking for purposes of constructing, evaluating, and composing arguments in a variety of rhetorical forms, using primarily non-fiction texts, refining writing skills and research strategies developed in ENGL C1000 College Reading and Writing (C-ID ENGL 100) or similar first-year college writing course. This course is designed to develop critical thinking, reading, and writing skills beyond the level achieved in ENGL C1000. The course will focus on the development of logical reasoning and analytical and argumentative writing skills. (UC/CSU, AA GE, Cal-GETC, RDG, C-ID: ENGL 105).",
+      "url": "https://search.cvc.edu/courses/15956708?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 184,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Jun 15",
+        "endDate": "Jul 26",
+        "cvcCourseId": "15956708",
+        "cvcUrl": "https://search.cvc.edu/courses/15956708?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Justin Scott Campbell",
+          "Kathryn L Sonne",
+          "Anna Christine Morrison",
+          "Christie Rossier Diep",
+          "Randa B Wahbe",
+          "Lawrence Joshua Keel",
+          "Joseph Peter Melodia",
+          "Annette Letcher",
+          "Janet Jurie Fujimoto",
+          "Nora Salim Masri Simoes",
+          "Blake A Jordan",
+          "Kathleen Elizabeth McAlister",
+          "Ashton Konrad Politanoff"
+        ],
+        "prerequisites": "Prerequisite: College-level composition (ENGL C1000/ENGL C1000H/ENGLC1000E/C-ID ENGL 100) or equivalent or ESL 110 C with a grade of C or better.",
+        "sections": [
+          {
+            "crn": "20799",
+            "dates": "Feb 2 to May 30",
+            "professor": "Justin Scott Campbell",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21560",
+            "dates": "Feb 2 to May 3",
+            "professor": "Kathryn L Sonne",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above 12-week Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "20681",
+            "dates": "Feb 2 to May 30",
+            "professor": "Anna Christine Morrison",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "25050",
+            "dates": "Apr 6 to May 30",
+            "professor": "Christie Rossier Diep",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Second-Session, 8-week Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in myGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "24914",
+            "dates": "Feb 2 to May 30",
+            "professor": "Randa B Wahbe",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "20798",
+            "dates": "Feb 2 to May 30",
+            "professor": "Justin Scott Campbell",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "24897",
+            "dates": "Feb 2 to May 30",
+            "professor": "Lawrence Joshua Keel",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in myGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21382",
+            "dates": "Feb 2 to Mar 29",
+            "professor": "Joseph Peter Melodia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above 8-week, Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in myGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "20769",
+            "dates": "Feb 2 to May 30",
+            "professor": "Annette Letcher",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21378",
+            "dates": "Feb 2 to May 30",
+            "professor": "Randa B Wahbe",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "20767",
+            "dates": "Feb 2 to Mar 29",
+            "professor": "Joseph Peter Melodia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above 8-week, Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in myGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "20770",
+            "dates": "Feb 2 to May 30",
+            "professor": "Janet Jurie Fujimoto",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "21133",
+            "dates": "Feb 2 to May 30",
+            "professor": "Nora Salim Masri Simoes",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in myGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30987",
+            "dates": "Jul 13 to Aug 21",
+            "professor": "Blake A Jordan",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30874",
+            "dates": "Jun 29 to Aug 9",
+            "professor": "Kathleen Elizabeth McAlister",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30873",
+            "dates": "Jun 15 to Jul 26",
+            "professor": "Joseph Peter Melodia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30875",
+            "dates": "Jun 29 to Aug 9",
+            "professor": "Ashton Konrad Politanoff",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30876",
+            "dates": "Jun 29 to Aug 9",
+            "professor": "Ashton Konrad Politanoff",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30872",
+            "dates": "Jun 8 to Jul 19",
+            "professor": "Randa B Wahbe",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "30871",
+            "dates": "Jun 8 to Jul 19",
+            "professor": "Randa B Wahbe",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          },
+          {
+            "crn": "31019",
+            "dates": "Jul 13 to Aug 21",
+            "professor": "Joseph Peter Melodia",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above Online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          }
+        ],
+        "sectionCount": 21
+      },
+      "source": "cvc"
     },
     {
       "code": "KIN128C",
@@ -108,10 +1502,80 @@
       "modality": "online",
       "term": "Jun 22 - Jul 26",
       "units": "1.0",
-      "instructor": null,
+      "instructor": "Eve Adler, Silvie Grote, Sam G Gould",
       "section": "3961276",
-      "description": "Transfer: CSU BREADTH | Tuition: $46.00",
-      "url": "https://search.cvc.edu/courses/3961276?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation"
+      "description": "Advisory: Students should have taken KIN 130 C or demonstrate intermediate yoga practitioners skills. Term hours: 54 laboratory. This is an intermediate course in yoga. It involves a deeper investigation and practice of yoga postures (asana), breathing (pranayama), and meditation, through the eight-limb system of Patanjali. This course will introduce students to a more thorough exploration of Yoga through its primary practicing methodology of asana, pranayama, and meditation. This process of practice will offer a deeper signification of the integration of body, mind, and spirit, as integral to the practice of yoga. Pass/No Pass/Letter Grade Option. (UC Credit Limitation/CSU, AA GE).",
+      "url": "https://search.cvc.edu/courses/3961276?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "CSU BREADTH"
+        ],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": true,
+        "tuition": 46,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Jun 22",
+        "endDate": "Jul 26",
+        "cvcCourseId": "3961276",
+        "cvcUrl": "https://search.cvc.edu/courses/3961276?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=508&filter%5Btransferability%5D%5B%5D=articulation",
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Eve Adler",
+          "Silvie Grote",
+          "Sam G Gould"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "21640",
+            "dates": "Apr 6 to May 30",
+            "professor": "Eve Adler",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course is a one-unit class and has no scheduled meeting times and is offered fully online. To avoid being dropped, please confirm that your e-mail address in MyGateway is accurate after enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "21044",
+            "dates": "Dec 17 to Jan 28",
+            "professor": "Silvie Grote",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above one-unit online course has no scheduled meeting times and is offered fully online. To avoid being dropped, please confirm that your e-mail address in MyGateway is accurate after enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "21053",
+            "dates": "Feb 18 to May 14",
+            "professor": "Sam G Gould",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above one-unit 12 week online course has no scheduled meeting times and is offered fully online. To avoid being dropped, please confirm that your e-mail address in MyGateway is accurate after enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "30579",
+            "dates": "Jun 22 to Jul 26",
+            "professor": "Sam G Gould",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, students MUST enter their e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "14059",
+            "dates": "Oct 20 to Dec 13",
+            "professor": "Eve Adler",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, students MUST enter their e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/"
+          },
+          {
+            "crn": "11910",
+            "dates": "Sep 8 to Nov 26",
+            "professor": "Eve Adler",
+            "format": "Asynchronous",
+            "notes": "ONLINE CLASS: The above online course has no scheduled meeting times and is offered fully online. To avoid being dropped, you MUST enter your e-mail address in MyGateway BEFORE enrolling in the class. For more information, go to https://www.cypresscollege.edu/academics/distance-education/ Online courses are taught using Canvas, an Internet-based software to deliver materials and communicate with students, and may require the use of software for proctoring exams or other additional tasks. To take online courses, students must have access to a computer and internet services and may be required to use a web camera and microphone."
+          }
+        ],
+        "sectionCount": 6
+      },
+      "source": "cvc"
     }
   ]
 }

@@ -89,8 +89,53 @@ function render() {
   $('#group-pending').style.display = state.tab === 'live' ? 'none' : '';
 }
 
+// --- Usage meter + Recheck everything -------------------------------------
+let usageTimer = null;
+
+async function refreshUsage() {
+  try {
+    const { usage, recheck } = await fetch('/api/usage').then((r) => r.json());
+    $('#usage-requests').textContent = (usage.requests || 0).toLocaleString();
+    $('#usage-mb').textContent = (usage.mb || 0).toLocaleString();
+    const btn = $('#recheck-btn');
+    if (recheck.running) {
+      btn.disabled = true;
+      btn.textContent = `↻ Rechecking… ${recheck.done}/${recheck.total}`;
+      $('#usage-status').textContent = '· live';
+    } else {
+      btn.disabled = false;
+      btn.textContent = '↻ Recheck everything';
+      $('#usage-status').textContent = '';
+      // Stop polling once a run finishes; refresh the college list with new data.
+      if (usageTimer && btn.dataset.wasRunning === '1') {
+        clearInterval(usageTimer); usageTimer = null;
+        btn.dataset.wasRunning = '0';
+        loadColleges(); loadStats();
+      }
+    }
+    btn.dataset.wasRunning = recheck.running ? '1' : (btn.dataset.wasRunning || '0');
+  } catch { /* ignore transient errors */ }
+}
+
+function startUsagePolling() {
+  if (usageTimer) clearInterval(usageTimer);
+  usageTimer = setInterval(refreshUsage, 2000);
+}
+
 function init() {
   $('#filter').addEventListener('input', (e) => { state.filter = e.target.value; render(); });
+  $('#recheck-btn').addEventListener('click', async () => {
+    if (!confirm('Re-scrape every college? This re-pulls all sources (college sites, Colleague, CVC + section details) and can take a while.')) return;
+    const r = await fetch('/api/recheck-all', { method: 'POST' });
+    if (r.status === 409) { alert('A recheck is already running.'); return; }
+    $('#recheck-btn').dataset.wasRunning = '1';
+    startUsagePolling();
+    refreshUsage();
+  });
+  $('#usage-reset').addEventListener('click', async () => {
+    await fetch('/api/usage/reset', { method: 'POST' });
+    refreshUsage();
+  });
   $('#seg').addEventListener('click', (e) => {
     const btn = e.target.closest('button[data-tab]');
     if (!btn) return;
@@ -101,6 +146,9 @@ function init() {
 
   loadColleges();
   loadStats();
+  refreshUsage();
+  // If a recheck is already running (e.g. started elsewhere), follow it.
+  fetch('/api/usage').then((r) => r.json()).then(({ recheck }) => { if (recheck.running) startUsagePolling(); }).catch(() => {});
 }
 
 init();

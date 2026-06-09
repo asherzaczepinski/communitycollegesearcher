@@ -6,6 +6,8 @@
 //   - on DNS/connection failure, falls back to www<->apex and https<->http,
 //   - never throws: returns { ok, status, url, body, error } so callers can log
 //     a real reason instead of a useless "could not fetch".
+import { recordRequest } from './usage.js';
+
 const UA =
   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 ' +
   '(KHTML, like Gecko) Chrome/124.0 Safari/537.36';
@@ -50,6 +52,7 @@ async function once(url, timeoutMs) {
   try {
     const res = await fetch(url, { headers: HEADERS, redirect: 'follow', signal: ctrl.signal });
     const body = await res.text();
+    recordRequest(body.length); // meter network usage for the UI
     return { ok: res.ok, status: res.status, url: res.url, body };
   } finally {
     clearTimeout(t);

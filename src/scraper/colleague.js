@@ -20,6 +20,7 @@
 // Pagination: pageNumber + quantityPerPage both work; a single big quantityPerPage
 // (e.g. 9999) returns the whole catalog in one request.
 import { normalizeModality } from './modality.js';
+import { recordRequest } from './usage.js';
 
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 
@@ -41,6 +42,7 @@ async function handshake(host) {
   });
   if (!res.ok) throw new Error(`Self-Service handshake HTTP ${res.status}`);
   const html = await res.text();
+  recordRequest(html.length);
   const token = (html.match(/name="__RequestVerificationToken"[^>]*value="([^"]+)"/) || [])[1];
   if (!token) throw new Error('no antiforgery token on /Student/Courses (not Colleague Self-Service?)');
   // collect Set-Cookie name=value pairs
@@ -60,7 +62,9 @@ async function postSearch(host, { token, cookie }, criteria) {
     body: JSON.stringify(criteria), // criteria go at the TOP LEVEL, not wrapped
   });
   if (!res.ok) throw new Error(`PostSearchCriteria HTTP ${res.status}`);
-  return res.json();
+  const text = await res.text();
+  recordRequest(text.length);
+  return JSON.parse(text);
 }
 
 // Map a Colleague course object to our normalized course shape.

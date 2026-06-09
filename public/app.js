@@ -1,6 +1,6 @@
 const $ = (sel) => document.querySelector(sel);
 
-const state = { q: '', modality: 'all', college: 'all' };
+const state = { q: '', modality: 'all', college: 'all', transfer: '', ztc: false, quality: false };
 
 const MODALITY_ORDER = ['in_person', 'online', 'hybrid'];
 const MODALITY_LABELS = { in_person: 'In Person', online: 'Online', hybrid: 'Hybrid' };
@@ -38,6 +38,28 @@ function card(c) {
   const collegeLink = c.college_url
     ? `<a href="${esc(c.college_url)}" target="_blank" rel="noopener">${esc(c.college_name)}</a>`
     : esc(c.college_name);
+
+  // Rich CVC metadata: transferability areas, tuition, course badges.
+  const m = c.meta || {};
+  const chips = [];
+  (m.transferable || []).forEach((t) => chips.push(`<span class="chip transfer">${esc(t)}</span>`));
+  if (m.tuition != null) chips.push(`<span class="chip tuition">$${esc(m.tuition)}</span>`);
+  if (m.zeroTextbookCost) chips.push(`<span class="chip ztc" title="Zero Textbook Cost">$0 books</span>`);
+  if (m.qualityReviewed) chips.push(`<span class="chip quality" title="Quality Reviewed">★ Quality Reviewed</span>`);
+  const chipRow = chips.length ? `<div class="chips-row">${chips.join('')}</div>` : '';
+
+  // Specific GE / A–G areas this course satisfies (e.g. "CSU B2", "IGETC 5B").
+  const ga = m.geAreas || {};
+  const areaChips = [];
+  const SYS = { csu: 'CSU', igetc: 'IGETC', calGetc: 'Cal-GETC' };
+  for (const [k, label] of Object.entries(SYS)) {
+    (ga[k] || []).forEach((area) => {
+      const code = String(area).split(' ')[0]; // "B2 Life Science" -> "B2"
+      areaChips.push(`<span class="chip area" title="${esc(label)} ${esc(area)}">${label} ${esc(code)}</span>`);
+    });
+  }
+  const areaRow = areaChips.length
+    ? `<div class="chips-row areas"><span class="chips-lab">Satisfies:</span>${areaChips.join('')}</div>` : '';
   // Where this specific course came from.
   const sourceTag = c.source === 'cvc'
     ? `<span class="src cvc" title="From the CVC Exchange — an online course available to CA community college students">● CVC online</span>`
@@ -50,6 +72,8 @@ function card(c) {
       <span class="badge ${c.modality}">${MODALITY_LABELS[c.modality] || c.modality}</span>
     </div>
     ${meta ? `<div class="meta">${meta}</div>` : ''}
+    ${chipRow}
+    ${areaRow}
     <div class="college">${collegeLink} ${sourceTag}</div>
   </div>`;
 }
@@ -77,6 +101,9 @@ function render(results) {
 let timer;
 async function search() {
   const params = new URLSearchParams({ q: state.q, modality: state.modality, college: state.college });
+  if (state.transfer) params.set('transfer', state.transfer);
+  if (state.ztc) params.set('ztc', '1');
+  if (state.quality) params.set('quality', '1');
   $('#result-meta').textContent = 'Searching…';
   const res = await fetch(`/api/search?${params}`);
   const { count, results } = await res.json();
@@ -102,6 +129,15 @@ function init() {
     document.querySelectorAll('#modality-filter button').forEach((b) => b.classList.toggle('active', b === btn));
     search();
   });
+  $('#transfer-filter').addEventListener('click', (e) => {
+    const btn = e.target.closest('button[data-transfer]');
+    if (!btn) return;
+    state.transfer = btn.dataset.transfer;
+    document.querySelectorAll('#transfer-filter button').forEach((b) => b.classList.toggle('active', b === btn));
+    search();
+  });
+  $('#ztc').addEventListener('change', (e) => { state.ztc = e.target.checked; search(); });
+  $('#quality').addEventListener('change', (e) => { state.quality = e.target.checked; search(); });
 
   // Honor deep-links from the homepage: /search.html?college=<slug>&q=<term>
   const params = new URLSearchParams(location.search);

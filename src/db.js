@@ -60,6 +60,13 @@ if (!db.prepare(`PRAGMA table_info(courses)`).all().some((c) => c.name === 'sour
   db.exec(`ALTER TABLE courses ADD COLUMN source TEXT`);
 }
 
+// Migration: structured per-course metadata as a JSON string — transferability
+// (IGETC/Cal-GETC/CSU BREADTH), tuition, Zero-Textbook-Cost / Quality-Reviewed
+// badges, dates, CVC ids, etc. Held as JSON so new fields don't need a migration.
+if (!db.prepare(`PRAGMA table_info(courses)`).all().some((c) => c.name === 'meta')) {
+  db.exec(`ALTER TABLE courses ADD COLUMN meta TEXT`);
+}
+
 export function slugify(name) {
   return name
     .toLowerCase()
@@ -118,16 +125,20 @@ export function markScraped(collegeId, status) {
 // --- Courses --------------------------------------------------------------
 
 const insertCourseStmt = db.prepare(`
-  INSERT INTO courses (college_id, code, title, modality, term, units, instructor, section, description, url, source, updated_at)
-  VALUES (@college_id, @code, @title, @modality, @term, @units, @instructor, @section, @description, @url, @source, @updated_at)
+  INSERT INTO courses (college_id, code, title, modality, term, units, instructor, section, description, url, source, meta, updated_at)
+  VALUES (@college_id, @code, @title, @modality, @term, @units, @instructor, @section, @description, @url, @source, @meta, @updated_at)
   ON CONFLICT(college_id, code, title, modality, term, section) DO UPDATE SET
     units = excluded.units,
     instructor = excluded.instructor,
     description = excluded.description,
     url = excluded.url,
     source = excluded.source,
+    meta = excluded.meta,
     updated_at = excluded.updated_at
 `);
+
+// Serialize a course's structured metadata to a JSON string for storage.
+const metaJson = (c) => (c.meta && Object.keys(c.meta).length ? JSON.stringify(c.meta) : null);
 
 // Replace all courses for a college in a single transaction (idempotent re-scrape).
 export function replaceCourses(collegeId, courses) {
@@ -150,6 +161,7 @@ export function replaceCourses(collegeId, courses) {
         description: c.description || null,
         url: c.url || null,
         source: c.source || null,
+        meta: metaJson(c),
         updated_at: now,
       });
     }
@@ -182,6 +194,7 @@ export function addCourses(collegeId, courses) {
         description: c.description || null,
         url: c.url || null,
         source: c.source || null,
+        meta: metaJson(c),
         updated_at: now,
       });
     }
@@ -195,7 +208,7 @@ export function addCourses(collegeId, courses) {
 
 // --- Search ---------------------------------------------------------------
 
-export function searchCourses({ q = '', modality = null, collegeSlug = null, limit = 500 }) {
+export function searchCourses({ q = '', modality = null, collegeSlug = null, limit = 500, transfer = null, ztc = false, quality = false }) {
   // Only ever surface REAL scraped data. Sample/placeholder rows are never searchable.
   const where = ["colleges.scrape_type NOT IN ('sample', 'none')"];
   const params = {};
@@ -208,6 +221,12 @@ export function searchCourses({ q = '', modality = null, collegeSlug = null, lim
     where.push('courses.modality = @modality');
     params.modality = modality;
   }
+  // Transferability + badge filters read the structured `meta` JSON.
+  const TRANSFER_KEY = { igetc: 'igetc', 'cal-getc': 'calGetc', calgetc: 'calGetc', csu: 'csuBreadth' };
+  const tk = transfer && TRANSFER_KEY[String(transfer).toLowerCase()];
+  if (tk) where.push(`json_extract(courses.meta, '$.${tk}') = 1`);
+  if (ztc) where.push(`json_extract(courses.meta, '$.zeroTextbookCost') = 1`);
+  if (quality) where.push(`json_extract(courses.meta, '$.qualityReviewed') = 1`);
   if (collegeSlug && collegeSlug !== 'all') {
     where.push('colleges.slug = @slug');
     params.slug = collegeSlug;
@@ -224,7 +243,13 @@ export function searchCourses({ q = '', modality = null, collegeSlug = null, lim
     ORDER BY colleges.name, courses.code, courses.title
     LIMIT @limit
   `;
-  return db.prepare(sql).all(params);
+  // Parse the JSON `meta` blob into an object so the frontend gets structured
+  // transferability / tuition / badge fields directly.
+  return db.prepare(sql).all(params).map((row) => {
+    let meta = null;
+    if (row.meta) { try { meta = JSON.parse(row.meta); } catch { /* leave null */ } }
+    return { ...row, meta };
+  });
 }
 
 export function stats() {
