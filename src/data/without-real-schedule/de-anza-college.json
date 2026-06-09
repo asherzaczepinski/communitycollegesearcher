@@ -1,0 +1,28 @@
+{
+  "slug": "de-anza-college",
+  "name": "De Anza College",
+  "url": "https://www.deanza.edu/",
+  "live": true,
+  "courseCount": 1,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": "Deep web search + headless form-driving",
+  "extractUrl": "https://en.wikipedia.org/wiki/De_Anza_College",
+  "status": "live",
+  "lastStatus": "ok: 1 courses via auto (solved)",
+  "reason": "Partial capture — only 1 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "A 17",
+      "title": "year effort, the Kirsch Center was conceived and is operated by De Anza faculty, staff and students.[28]",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://en.wikipedia.org/wiki/De_Anza_College"
+    }
+  ]
+}

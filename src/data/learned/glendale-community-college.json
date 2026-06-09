@@ -2,65 +2,14 @@
   "slug": "glendale-community-college",
   "name": "Glendale Community College",
   "url": "https://www.glendale.edu/",
-  "source": "homepage",
+  "source": "solve",
+  "strategy": "Exhaustive Google/DDG search sweep",
   "platform": "unknown",
-  "scheduleUrl": "javascript:void(0)",
-  "catalogUrl": "https://www.glendale.edu/academics/catalogs",
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "extractUrl": "https://www.appily.com/colleges/glendale-community-college-ca",
+  "method": "auto",
+  "sampleCount": 1,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "CLASS SCHEDULE",
-      "href": "javascript:void(0)",
-      "score": 5
-    },
-    {
-      "text": "Winter 2026 Printed Class Schedule",
-      "href": "https://www.glendale.edu/class-schedule/printed-class-schedule",
-      "score": 5
-    },
-    {
-      "text": "Class Schedule",
-      "href": "https://www.glendale.edu/class-schedule/class-schedule",
-      "score": 5
-    },
-    {
-      "text": "Canvas",
-      "href": "https://www.glendale.edu/class-schedule/distance-education/canvas",
-      "score": 2
-    },
-    {
-      "text": "Catalogs",
-      "href": "https://www.glendale.edu/class-schedule/catalogs",
-      "score": 2
-    },
-    {
-      "text": "Common Course Numbering",
-      "href": "https://www.glendale.edu/class-schedule/ccn",
-      "score": 2
-    },
-    {
-      "text": "2025-2026 Catalog",
-      "href": "https://www.glendale.edu/academics/catalogs",
-      "score": 3
-    },
-    {
-      "text": "Catalogs",
-      "href": "https://www.glendale.edu/class-schedule/catalogs",
-      "score": 3
-    }
-  ],
-  "searchQuery": null,
-  "searchResults": [],
-  "blocked": null,
-  "confidence": 0.15,
-  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "learnedAt": "2026-06-08T17:29:59.699Z",
-  "browserActions": [
-    "browser javascript:void(0) → 0 courses",
-    "browser https://www.glendale.edu/academics/catalogs → 0 courses",
-    "browser https://www.glendale.edu/class-schedule/printed-class-schedule → 0 courses"
-  ]
+  "confidence": 0.6,
+  "notes": "Solved via \"Exhaustive Google/DDG search sweep\" — 1 courses from https://www.appily.com/colleges/glendale-community-college-ca.",
+  "learnedAt": "2026-06-08T23:47:56.187Z"
 }

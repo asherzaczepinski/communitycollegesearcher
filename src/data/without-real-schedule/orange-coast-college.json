@@ -1,0 +1,28 @@
+{
+  "slug": "orange-coast-college",
+  "name": "Orange Coast College",
+  "url": "https://www.orangecoastcollege.edu/",
+  "live": true,
+  "courseCount": 1,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": null,
+  "extractUrl": "https://ssb-prod.ec.cccd.edu/PROD/pw_pub_sched.p_search?Term=202650&college=OC",
+  "status": "live",
+  "lastStatus": "ok: 1 courses via college",
+  "reason": "Partial capture — only 1 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "CCCD 8",
+      "title": "18.2",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://ssb-prod.ec.cccd.edu/PROD/pw_pub_sched.p_search?Term=202650&college=OC"
+    }
+  ]
+}

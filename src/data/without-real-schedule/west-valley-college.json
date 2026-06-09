@@ -1,0 +1,40 @@
+{
+  "slug": "west-valley-college",
+  "name": "West Valley College",
+  "url": "https://www.westvalley.edu/",
+  "live": true,
+  "courseCount": 2,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": "web-search",
+  "extractUrl": "https://www.westvalley.edu/calendar/academic.html",
+  "status": "live",
+  "lastStatus": "ok: 2 courses via auto (auto-learned)",
+  "reason": "Partial capture — only 2 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "June 1",
+      "title": "First day of classes",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.westvalley.edu/calendar/academic.html"
+    },
+    {
+      "code": "April 24",
+      "title": "Last day to DROP a semester-length class with a \"W\"",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.westvalley.edu/calendar/academic.html"
+    }
+  ]
+}

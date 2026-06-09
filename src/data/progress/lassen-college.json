@@ -2,17 +2,17 @@
   "slug": "lassen-college",
   "name": "Lassen College",
   "url": "https://www.lassencollege.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 18,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://www.lassencollege.edu/academics/course-outlines/registered-nursing/",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:35:55.356Z",
-  "finishedAt": "2026-06-08T17:36:29.818Z",
-  "updatedAt": "2026-06-08T17:36:29.818Z",
+  "note": "Solved via \"Explore real homepage links (HTTP)\" — 18 courses from https://www.lassencollege.edu/academics/course-outlines/registered-nursing/.",
+  "startedAt": "2026-06-08T23:47:56.190Z",
+  "finishedAt": "2026-06-09T00:29:39.930Z",
+  "updatedAt": "2026-06-09T00:29:39.930Z",
   "log": [
     {
       "t": "2026-06-08T17:35:55.356Z",
@@ -101,6 +101,443 @@
     {
       "t": "2026-06-08T17:36:29.818Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-08T23:47:56.191Z",
+      "msg": "▶ Solving Lassen College — https://www.lassencollege.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-08T23:47:56.191Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-08T23:47:56.619Z",
+      "msg": "  explore https://www.lassencollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:47:57.019Z",
+      "msg": "  explore https://webadvisor.lassencollege.edu:8171/student/courses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:47:57.204Z",
+      "msg": "  explore https://www.lassencollege.edu/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:47:57.318Z",
+      "msg": "  explore https://www.lassencollege.edu/academics/course-outlines/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:47:57.421Z",
+      "msg": "  explore https://www.lassencollege.edu/academics/college-catalogs/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:47:57.526Z",
+      "msg": "  explore https://www.lassencollege.edu/academics/college-catalogs/#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:47:57.629Z",
+      "msg": "  explore https://www.lassencollege.edu/academics/college-catalogs/#header → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:47:57.733Z",
+      "msg": "  explore https://www.lassencollege.edu/academics/college-catalogs/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:47:57.842Z",
+      "msg": "  explore https://www.lassencollege.edu/student-services/special-admit-concurrent-enrollment/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:47:58.918Z",
+      "msg": "  explore https://www.lassencollege.edu/academics/course-outlines/registered-nursing/ → 18 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T23:47:59.354Z",
+      "msg": "  explore https://www.lassencollege.edu/wp-content/uploads/2026/04/2025-2026-College-Catalog-Addendum-1.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:50:53.575Z",
+      "msg": "  explore https://www.lassencollege.edu/wp-content/uploads/2026/04/2025-2026-College-Catalog-Complete-with-Covers.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:50:57.805Z",
+      "msg": "  explore https://www.lassencollege.edu/wp-content/uploads/2024/08/2024-2025-Lassen-College-Catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:50:58.211Z",
+      "msg": "  explore https://www.lassencollege.edu/student-services/special-admit-concurrent-enrollment/#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:50:59.083Z",
+      "msg": "  explore https://www.lassencollege.edu/wp-content/uploads/2024/09/Special-Admit-091924.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:50:59.528Z",
+      "msg": "  explore https://www.lassencollege.edu/student-services/special-admit-concurrent-enrollment/#header → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:50:59.625Z",
+      "msg": "  explore https://www.lassencollege.edu/student-services/special-admit-concurrent-enrollment/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:50:59.714Z",
+      "msg": "  explore https://www.lassencollege.edu/academics/course-outlines/registered-nursing/#content → 18 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T23:51:00.716Z",
+      "msg": "  explore https://www.lassencollege.edu/academics/course-outlines/registered-nursing/nurs-1-pharmacology/ → 1 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T23:51:01.818Z",
+      "msg": "  explore https://www.lassencollege.edu/academics/course-outlines/registered-nursing/nurs-10-advanced-maternal-child/ → 1 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T23:51:02.829Z",
+      "msg": "  explore https://www.lassencollege.edu/academics/course-outlines/registered-nursing/nurs-11-clinical-practice-iii/ → 1 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T23:51:03.965Z",
+      "msg": "  explore https://www.lassencollege.edu/student-services/application-for-admission/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:51:03.979Z",
+      "msg": "   ✓ \"Explore real homepage links (HTTP)\" found 18 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:51:03.979Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-08T23:51:05.619Z",
+      "msg": "  sitemap https://www.lassencollege.edu/sitemap.xml → 16 entries"
+    },
+    {
+      "t": "2026-06-08T23:51:11.448Z",
+      "msg": "  sitemap https://www.lassencollege.edu/sitemap_index.xml → 16 entries"
+    },
+    {
+      "t": "2026-06-08T23:51:12.648Z",
+      "msg": "  sitemap https://www.lassencollege.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-08T23:51:12.649Z",
+      "msg": "  sitemap mining → 846 URL(s), 540 course-ish to probe"
+    },
+    {
+      "t": "2026-06-08T23:51:19.626Z",
+      "msg": "  sitemap probe https://www.lassencollege.edu/course-outlines/ → 1"
+    },
+    {
+      "t": "2026-06-08T23:51:28.658Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-08T23:51:31.137Z",
+      "msg": "  explore https://www.lassencollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:51:31.526Z",
+      "msg": "  explore https://webadvisor.lassencollege.edu:8171/student/courses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:51:31.704Z",
+      "msg": "  explore https://www.lassencollege.edu/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:51:31.812Z",
+      "msg": "  explore https://www.lassencollege.edu/academics/course-outlines/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:51:31.920Z",
+      "msg": "  explore https://www.lassencollege.edu/academics/college-catalogs/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:51:32.021Z",
+      "msg": "  explore https://www.lassencollege.edu/academics/college-catalogs/#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:51:32.131Z",
+      "msg": "  explore https://www.lassencollege.edu/academics/college-catalogs/#header → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:51:32.240Z",
+      "msg": "  explore https://www.lassencollege.edu/academics/college-catalogs/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:51:32.345Z",
+      "msg": "  explore https://www.lassencollege.edu/student-services/special-admit-concurrent-enrollment/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:51:32.446Z",
+      "msg": "  explore https://www.lassencollege.edu/academics/course-outlines/registered-nursing/ → 18 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T23:51:33.425Z",
+      "msg": "  explore https://www.lassencollege.edu/wp-content/uploads/2026/04/2025-2026-College-Catalog-Addendum-1.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:54:31.587Z",
+      "msg": "  explore https://www.lassencollege.edu/wp-content/uploads/2026/04/2025-2026-College-Catalog-Complete-with-Covers.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:54:36.021Z",
+      "msg": "  explore https://www.lassencollege.edu/wp-content/uploads/2024/08/2024-2025-Lassen-College-Catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:54:36.433Z",
+      "msg": "  explore https://www.lassencollege.edu/student-services/special-admit-concurrent-enrollment/#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:54:36.446Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-08T23:56:52.416Z",
+      "msg": "  google \"Lassen College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:59:07.993Z",
+      "msg": "  google \"Lassen College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T00:01:23.569Z",
+      "msg": "  google \"Lassen College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T00:03:39.623Z",
+      "msg": "  google \"Lassen College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T00:05:55.356Z",
+      "msg": "  google \"Lassen College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T00:08:10.517Z",
+      "msg": "  google \"Lassen College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T00:10:26.240Z",
+      "msg": "  google \"Lassen College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T00:12:42.301Z",
+      "msg": "  google \"Lassen College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T00:14:57.896Z",
+      "msg": "  google \"Lassen College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T00:17:14.068Z",
+      "msg": "  google \"Lassen College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T00:19:29.878Z",
+      "msg": "  google \"Lassen College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T00:21:46.211Z",
+      "msg": "  google \"site:lassencollege.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T00:24:02.142Z",
+      "msg": "  google \"site:lassencollege.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T00:24:02.143Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
+    },
+    {
+      "t": "2026-06-09T00:24:02.144Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T00:26:18.559Z",
+      "msg": "search \"Lassen College schedule of classes\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-09T00:28:35.577Z",
+      "msg": "search \"Lassen College search for classes\" → 8 hit(s) (14 unique so far)"
+    },
+    {
+      "t": "2026-06-09T00:28:35.579Z",
+      "msg": "Web search returned 14 result(s)."
+    },
+    {
+      "t": "2026-06-09T00:28:35.580Z",
+      "msg": "Top candidate: https://susanvillestuff.com/golf-added-to-lassen-colleges-spring-schedule/ (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T00:28:36.657Z",
+      "msg": "probe https://susanvillestuff.com/golf-added-to-lassen-colleges-spring-schedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T00:28:39.415Z",
+      "msg": "probe https://susanvillestuff.com/fall-semester-begins-at-lassen-college/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T00:28:40.346Z",
+      "msg": "probe https://susanvillestuff.com/lassen-community-college-offering-new-classes-in-administrative-medical-assisting/ → 3 courses"
+    },
+    {
+      "t": "2026-06-09T00:28:40.347Z",
+      "msg": "  ↑ new best: 3 courses, modality 0%"
+    },
+    {
+      "t": "2026-06-09T00:28:41.372Z",
+      "msg": "probe https://susanvillestuff.com/summer-semester-begins-at-lassen-college/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T00:28:42.290Z",
+      "msg": "probe https://susanvillestuff.com/community-calendar-brought-to-you-by-casa-of-lassen-family-services-august-14-august-21/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T00:28:43.646Z",
+      "msg": "probe https://www.lassennews.com/spring-semester-begins-at-lassen-community-college → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T00:28:44.847Z",
+      "msg": "probe https://www.lassennews.com/lassen-high-school-daily-bulletin-302 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T00:28:45.255Z",
+      "msg": "probe https://www.lassencollege.edu/academics/dates-and-deadlines/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T00:28:46.281Z",
+      "msg": "probe https://susanvillestuff.com/lassen-college-offering-online-classes-for-upcoming-summer-session/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T00:28:47.194Z",
+      "msg": "probe https://susanvillestuff.com/lassen-community-college-ccw-classes/ → 1 courses"
+    },
+    {
+      "t": "2026-06-09T00:28:48.266Z",
+      "msg": "probe https://www.lassencollege.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:28:49.611Z",
+      "msg": "probe https://www.lassencollege.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:28:50.714Z",
+      "msg": "probe https://www.lassencollege.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:28:51.848Z",
+      "msg": "probe https://www.lassencollege.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:28:52.898Z",
+      "msg": "probe https://www.lassencollege.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:28:54.013Z",
+      "msg": "probe https://www.lassencollege.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:28:55.137Z",
+      "msg": "probe https://www.lassencollege.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:28:56.255Z",
+      "msg": "probe https://www.lassencollege.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:28:57.372Z",
+      "msg": "probe https://www.lassencollege.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:28:58.809Z",
+      "msg": "probe https://lassencollege.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:28:59.942Z",
+      "msg": "probe https://lassencollege.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:29:01.170Z",
+      "msg": "probe https://lassencollege.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:29:02.297Z",
+      "msg": "probe https://lassencollege.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:29:03.537Z",
+      "msg": "probe https://lassencollege.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:29:04.678Z",
+      "msg": "probe https://lassencollege.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:29:05.790Z",
+      "msg": "probe https://lassencollege.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:29:06.898Z",
+      "msg": "probe https://lassencollege.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:29:08.036Z",
+      "msg": "probe https://lassencollege.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T00:29:08.038Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T00:29:08.038Z",
+      "msg": "render (headless Chrome) https://susanvillestuff.com/lassen-community-college-offering-new-classes-in-administrative-medical-assisting/ …"
+    },
+    {
+      "t": "2026-06-09T00:29:13.069Z",
+      "msg": "browser https://susanvillestuff.com/lassen-community-college-offering-new-classes-in-administrative-medical-assisting/ → 0 courses [login]"
+    },
+    {
+      "t": "2026-06-09T00:29:13.071Z",
+      "msg": "render (headless Chrome) https://susanvillestuff.com/golf-added-to-lassen-colleges-spring-schedule/ …"
+    },
+    {
+      "t": "2026-06-09T00:29:17.709Z",
+      "msg": "browser https://susanvillestuff.com/golf-added-to-lassen-colleges-spring-schedule/ → 0 courses [login]"
+    },
+    {
+      "t": "2026-06-09T00:29:17.710Z",
+      "msg": "render (headless Chrome) https://susanvillestuff.com/fall-semester-begins-at-lassen-college/ …"
+    },
+    {
+      "t": "2026-06-09T00:29:22.323Z",
+      "msg": "browser https://susanvillestuff.com/fall-semester-begins-at-lassen-college/ → 0 courses [login]"
+    },
+    {
+      "t": "2026-06-09T00:29:22.324Z",
+      "msg": "render (headless Chrome) https://susanvillestuff.com/summer-semester-begins-at-lassen-college/ …"
+    },
+    {
+      "t": "2026-06-09T00:29:26.974Z",
+      "msg": "browser https://susanvillestuff.com/summer-semester-begins-at-lassen-college/ → 0 courses [login]"
+    },
+    {
+      "t": "2026-06-09T00:29:26.975Z",
+      "msg": "render (headless Chrome) https://susanvillestuff.com/community-calendar-brought-to-you-by-casa-of-lassen-family-services-august-14-august-21/ …"
+    },
+    {
+      "t": "2026-06-09T00:29:31.593Z",
+      "msg": "browser https://susanvillestuff.com/community-calendar-brought-to-you-by-casa-of-lassen-family-services-august-14-august-21/ → 0 courses [login]"
+    },
+    {
+      "t": "2026-06-09T00:29:31.594Z",
+      "msg": "render (headless Chrome) https://www.lassennews.com/spring-semester-begins-at-lassen-community-college …"
+    },
+    {
+      "t": "2026-06-09T00:29:39.923Z",
+      "msg": "browser https://www.lassennews.com/spring-semester-begins-at-lassen-community-college → 0 courses"
+    },
+    {
+      "t": "2026-06-09T00:29:39.930Z",
+      "msg": "✅ SOLVED — 18 courses ingested into the searchable DB (strategy: Explore real homepage links (HTTP))."
     }
-  ]
+  ],
+  "strategy": "Explore real homepage links (HTTP)"
 }

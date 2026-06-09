@@ -1,0 +1,40 @@
+{
+  "slug": "las-positas-college",
+  "name": "Las Positas College",
+  "url": "https://www.laspositascollege.edu/",
+  "live": true,
+  "courseCount": 2,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": null,
+  "extractUrl": "https://www.laspositascollege.edu/class-schedule/catalog.php",
+  "status": "live",
+  "lastStatus": "ok: 2 courses via college",
+  "reason": "Partial capture — only 2 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "AY 23",
+      "title": "24 Catalog Addendum - WEB | PDF",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.laspositascollege.edu/class-schedule/catalog.php"
+    },
+    {
+      "code": "AY 23",
+      "title": "24 Catalog Addendum",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.laspositascollege.edu/class-schedule/catalog.php"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "chaffey-college",
+  "name": "Chaffey College",
+  "url": "https://www.chaffey.edu/",
+  "live": true,
+  "courseCount": 8,
+  "modalityCoverage": 0,
+  "method": "browser",
+  "source": "homepage",
+  "extractUrl": "https://colss-prod.ec.chaffey.edu/Student/Courses/SearchResult",
+  "status": "live",
+  "lastStatus": "ok: 8 courses via browser (auto-learned)",
+  "reason": "Partial capture — only 8 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "ACCTG-1A",
+      "title": "Must be completed prior to taking this course.",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://colss-prod.ec.chaffey.edu/Student/Courses/SearchResult"
+    },
+    {
+      "code": "ACCTG-1A",
+      "title": "Recommended prior to taking this course, but is not required.",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://colss-prod.ec.chaffey.edu/Student/Courses/SearchResult"
+    },
+    {
+      "code": "ACCTG-1B",
+      "title": "Must be completed prior to taking this course.",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://colss-prod.ec.chaffey.edu/Student/Courses/SearchResult"
+    },
+    {
+      "code": "AI-1",
+      "title": "Must be completed prior to taking this course.",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://colss-prod.ec.chaffey.edu/Student/Courses/SearchResult"
+    },
+    {
+      "code": "AI-2",
+      "title": "Must be completed prior to taking this course.",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://colss-prod.ec.chaffey.edu/Student/Courses/SearchResult"
+    },
+    {
+      "code": "AI-4",
+      "title": "Must be completed prior to taking this course.",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://colss-prod.ec.chaffey.edu/Student/Courses/SearchResult"
+    },
+    {
+      "code": "AI-5",
+      "title": "Must be completed prior to taking this course.",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://colss-prod.ec.chaffey.edu/Student/Courses/SearchResult"
+    },
+    {
+      "code": "AMT-15A",
+      "title": "Must be taken either prior to or at the same time as this course.",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://colss-prod.ec.chaffey.edu/Student/Courses/SearchResult"
+    }
+  ]
+}

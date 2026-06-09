@@ -2,17 +2,17 @@
   "slug": "madera-community-college",
   "name": "Madera Community College",
   "url": "https://www.maderacollege.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
-  "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "status": "live",
+  "attempts": 5,
+  "courseCount": 738,
+  "modalityCoverage": 0.033,
+  "method": "auto",
+  "extractUrl": "https://www.maderacollege.edu/landing/open-class-list/fall-open-class-list-mcc.html",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:29.902Z",
-  "finishedAt": "2026-06-08T17:36:29.911Z",
-  "updatedAt": "2026-06-08T17:36:29.911Z",
+  "note": "Solved via \"Mine sitemap.xml / robots.txt\" — 738 courses from https://www.maderacollege.edu/landing/open-class-list/fall-open-class-list-mcc.html.",
+  "startedAt": "2026-06-09T01:57:03.290Z",
+  "finishedAt": "2026-06-09T01:57:16.471Z",
+  "updatedAt": "2026-06-09T01:57:16.471Z",
   "log": [
     {
       "t": "2026-06-08T17:36:29.902Z",
@@ -53,6 +53,147 @@
     {
       "t": "2026-06-08T17:36:29.910Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T01:57:03.291Z",
+      "msg": "▶ Solving Madera Community College — https://www.maderacollege.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T01:57:03.291Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T01:57:03.608Z",
+      "msg": "  explore https://www.maderacollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:03.688Z",
+      "msg": "  explore https://www.maderacollege.edu/admissions-aid/schedule-of-classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:06.250Z",
+      "msg": "  explore https://www.maderacollege.edu/_documents/academics/summ_fall2026_final.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:07.955Z",
+      "msg": "  explore https://www.maderacollege.edu/_documents/academics/spring2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:10.693Z",
+      "msg": "  explore https://www.maderacollege.edu/_documents/academics/summfall2025.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:13.334Z",
+      "msg": "  explore https://www.maderacollege.edu/_documents/academics/spring2025_accessible.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:13.588Z",
+      "msg": "  explore https://www.maderacollege.edu/admissions-aid/register-for-classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:13.653Z",
+      "msg": "  explore https://www.maderacollege.edu/admissions-aid/register-for-classes.html#navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:13.715Z",
+      "msg": "  explore https://www.maderacollege.edu/admissions-aid/register-for-classes.html#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:13.781Z",
+      "msg": "  explore https://www.maderacollege.edu/admissions-aid/register-for-classes.html#pagelinks → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:13.838Z",
+      "msg": "  explore https://www.maderacollege.edu/admissions-aid/register-for-classes.html#footermenu → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:13.895Z",
+      "msg": "  explore https://www.maderacollege.edu/admissions-aid/register-for-classes.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:13.941Z",
+      "msg": "  explore https://www.maderacollege.edu/admissions-aid/register-for-classes.html## → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:14.008Z",
+      "msg": "  explore https://www.maderacollege.edu/admissions-aid/college-catalogs.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:14.090Z",
+      "msg": "  explore https://www.maderacollege.edu/admissions-aid/college-catalogs.html#navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:14.164Z",
+      "msg": "  explore https://www.maderacollege.edu/admissions-aid/college-catalogs.html#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:14.246Z",
+      "msg": "  explore https://www.maderacollege.edu/admissions-aid/college-catalogs.html#pagelinks → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:14.317Z",
+      "msg": "  explore https://www.maderacollege.edu/admissions-aid/college-catalogs.html#footermenu → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:14.383Z",
+      "msg": "  explore https://www.maderacollege.edu/admissions-aid/college-catalogs.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:14.437Z",
+      "msg": "  explore https://www.maderacollege.edu/admissions-aid/college-catalogs.html## → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:14.573Z",
+      "msg": "  explore https://www.maderacollege.edu/_documents/admissions-and-aid/college-catalog/catalog-addendum-25-26.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:15.481Z",
+      "msg": "   strategy error: Maximum call stack size exceeded"
+    },
+    {
+      "t": "2026-06-09T01:57:15.481Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T01:57:15.592Z",
+      "msg": "  sitemap https://www.maderacollege.edu/sitemap.xml → 415 entries"
+    },
+    {
+      "t": "2026-06-09T01:57:15.639Z",
+      "msg": "  sitemap https://www.maderacollege.edu/sitemap_index.xml → 0 entries"
+    },
+    {
+      "t": "2026-06-09T01:57:15.685Z",
+      "msg": "  sitemap https://www.maderacollege.edu/sitemap-index.xml → 0 entries"
+    },
+    {
+      "t": "2026-06-09T01:57:15.686Z",
+      "msg": "  sitemap mining → 415 URL(s), 26 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T01:57:15.859Z",
+      "msg": "  sitemap probe https://www.maderacollege.edu/landing/occ-open-class-list/fall-open-class-list-oc.html → 52"
+    },
+    {
+      "t": "2026-06-09T01:57:15.991Z",
+      "msg": "  sitemap probe https://www.maderacollege.edu/landing/open-class-list/spring-open-class-list-mcc.html → 4"
+    },
+    {
+      "t": "2026-06-09T01:57:16.462Z",
+      "msg": "  sitemap probe https://www.maderacollege.edu/landing/open-class-list/fall-open-class-list-mcc.html → 738"
+    },
+    {
+      "t": "2026-06-09T01:57:16.462Z",
+      "msg": "   ✓ \"Mine sitemap.xml / robots.txt\" found 738 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:57:16.462Z",
+      "msg": "   solid haul (738 courses) — stopping strategy ladder."
+    },
+    {
+      "t": "2026-06-09T01:57:16.471Z",
+      "msg": "✅ SOLVED — 738 courses ingested into the searchable DB (strategy: Mine sitemap.xml / robots.txt)."
     }
-  ]
+  ],
+  "strategy": "Mine sitemap.xml / robots.txt"
 }

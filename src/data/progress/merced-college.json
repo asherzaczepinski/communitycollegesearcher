@@ -2,17 +2,17 @@
   "slug": "merced-college",
   "name": "Merced College",
   "url": "https://www.mccd.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
-  "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "status": "live",
+  "attempts": 4,
+  "courseCount": 3,
+  "modalityCoverage": 0.333,
+  "method": "auto",
+  "extractUrl": "https://www.mccd.edu/schools-programs/discover-your-path/honors-program/",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:29.919Z",
-  "finishedAt": "2026-06-08T17:36:29.928Z",
-  "updatedAt": "2026-06-08T17:36:29.928Z",
+  "note": "Solved via \"Explore real homepage links (HTTP)\" — 3 courses from https://www.mccd.edu/schools-programs/discover-your-path/honors-program/.",
+  "startedAt": "2026-06-08T21:51:09.099Z",
+  "finishedAt": "2026-06-08T21:51:15.634Z",
+  "updatedAt": "2026-06-08T21:51:15.634Z",
   "log": [
     {
       "t": "2026-06-08T17:36:29.919Z",
@@ -53,6 +53,111 @@
     {
       "t": "2026-06-08T17:36:29.928Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-08T21:51:09.100Z",
+      "msg": "▶ Solving Merced College — https://www.mccd.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-08T21:51:09.100Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-08T21:51:09.634Z",
+      "msg": "  explore https://www.mccd.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:09.779Z",
+      "msg": "  explore https://www.mccd.edu/schools-programs/discover-your-path/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:10.048Z",
+      "msg": "  explore https://www.mccd.edu/enroll-at-merced-college/admissions-records/campus-tour/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:10.161Z",
+      "msg": "  explore https://www.mccd.edu/schools-programs/discover-your-path/course-catalog/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:10.303Z",
+      "msg": "  explore https://www.mccd.edu/schools-programs/discover-your-path/course-catalog/#page_title → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:10.411Z",
+      "msg": "  explore https://www.mccd.edu/schools-programs/discover-your-path/course-catalog/#search → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:10.549Z",
+      "msg": "  explore https://www.mccd.edu/schools-programs/discover-your-path/course-catalog/#menu → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:10.688Z",
+      "msg": "  explore https://www.mccd.edu/enroll-at-merced-college/enroll-today/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:10.834Z",
+      "msg": "  explore https://www.mccd.edu/enroll-at-merced-college/k-12-students/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:11.008Z",
+      "msg": "  explore https://www.mccd.edu/enroll-at-merced-college/international-students/ → 2 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T21:51:11.133Z",
+      "msg": "  explore https://www.mccd.edu/enroll-at-merced-college/undocumented-students/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:11.270Z",
+      "msg": "  explore https://www.mccd.edu/enroll-at-merced-college/admissions-records/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:11.850Z",
+      "msg": "  explore https://www.mccd.edu/schools-programs/discover-your-path/honors-program/ → 3 course(s) (33% modality)"
+    },
+    {
+      "t": "2026-06-08T21:51:11.995Z",
+      "msg": "  explore https://www.mccd.edu/enroll-at-merced-college/admissions-records/#helpfuldefinitions → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:14.617Z",
+      "msg": "  explore https://catalog.mccd.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:14.767Z",
+      "msg": "  explore https://www.mccd.edu/enroll-at-merced-college/k-12-students/#page_title → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:14.909Z",
+      "msg": "  explore https://www.mccd.edu/enroll-at-merced-college/k-12-students/#search → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:15.052Z",
+      "msg": "  explore https://www.mccd.edu/enroll-at-merced-college/k-12-students/#menu → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:15.184Z",
+      "msg": "  explore https://www.mccd.edu/enroll-at-merced-college/international-students/#page_title → 2 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T21:51:15.325Z",
+      "msg": "  explore https://www.mccd.edu/enroll-at-merced-college/international-students/#search → 2 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T21:51:15.471Z",
+      "msg": "  explore https://www.mccd.edu/enroll-at-merced-college/international-students/#menu → 2 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T21:51:15.617Z",
+      "msg": "  explore https://www.mccd.edu/enroll-at-merced-college/international-students/welcome-letter/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:15.630Z",
+      "msg": "   ✓ \"Explore real homepage links (HTTP)\" found 3 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:51:15.634Z",
+      "msg": "✅ SOLVED — 3 courses ingested into the searchable DB (strategy: Explore real homepage links (HTTP))."
     }
-  ]
+  ],
+  "strategy": "Explore real homepage links (HTTP)"
 }

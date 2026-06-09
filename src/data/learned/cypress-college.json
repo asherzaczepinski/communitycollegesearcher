@@ -2,39 +2,19 @@
   "slug": "cypress-college",
   "name": "Cypress College",
   "url": "https://www.cypresscollege.edu/",
-  "source": "homepage",
-  "platform": "acalog",
-  "scheduleUrl": "https://www.cypresscollege.edu/schedule-of-classes-and-college-catalog/",
-  "catalogUrl": "https://www.cypresscollege.edu/schedule-of-classes-and-college-catalog/",
+  "source": "web-search-deep",
+  "platform": "unknown",
+  "scheduleUrl": null,
+  "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Class Schedules",
-      "href": "https://www.cypresscollege.edu/schedule-of-classes-and-college-catalog/",
-      "score": 5
-    },
-    {
-      "text": "Schedule",
-      "href": "https://www.cypresscollege.edu/schedule-of-classes-and-college-catalog/",
-      "score": 3
-    },
-    {
-      "text": "Catalog",
-      "href": "https://catalog.nocccd.edu/cypress-college/",
-      "score": 3
-    }
-  ],
-  "searchQuery": null,
+  "candidates": [],
+  "searchQuery": "Cypress College schedule of classes",
   "searchResults": [],
   "blocked": null,
-  "confidence": 0.15,
-  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "learnedAt": "2026-06-08T17:20:24.036Z",
-  "browserActions": [
-    "browser https://www.cypresscollege.edu/schedule-of-classes-and-college-catalog/ → 0 courses",
-    "browser https://catalog.nocccd.edu/cypress-college/ → 0 courses"
-  ]
+  "confidence": 0,
+  "notes": "Searched the web (0 results) but no page yielded course data — the schedule is likely a bespoke search app. Top results saved above.",
+  "learnedAt": "2026-06-08T23:18:10.266Z"
 }

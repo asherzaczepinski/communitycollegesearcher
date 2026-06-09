@@ -2,34 +2,14 @@
   "slug": "evergreen-valley-college",
   "name": "Evergreen Valley College",
   "url": "https://www.evc.edu/",
-  "source": "homepage",
+  "source": "solve",
+  "strategy": "Explore real homepage links (HTTP)",
   "platform": "unknown",
-  "scheduleUrl": "https://www.evc.edu/schedule",
-  "catalogUrl": "https://www.evc.edu/catalog",
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "extractUrl": "https://catalog.evc.edu/admissions-registration-fees-financial-aid/academic-calendar/",
+  "method": "auto",
+  "sampleCount": 9,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Schedule of Classes",
-      "href": "https://www.evc.edu/schedule",
-      "score": 5
-    },
-    {
-      "text": "College Catalog",
-      "href": "https://www.evc.edu/catalog",
-      "score": 6
-    }
-  ],
-  "searchQuery": null,
-  "searchResults": [],
-  "blocked": null,
-  "confidence": 0.15,
-  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "learnedAt": "2026-06-08T17:22:48.556Z",
-  "browserActions": [
-    "browser https://www.evc.edu/schedule → 0 courses",
-    "browser https://www.evc.edu/catalog → 0 courses"
-  ]
+  "confidence": 0.6,
+  "notes": "Solved via \"Explore real homepage links (HTTP)\" — 9 courses from https://catalog.evc.edu/admissions-registration-fees-financial-aid/academic-calendar/.",
+  "learnedAt": "2026-06-08T23:29:12.810Z"
 }

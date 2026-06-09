@@ -2,50 +2,14 @@
   "slug": "chabot-college",
   "name": "Chabot College",
   "url": "https://www.chabotcollege.edu/",
-  "source": "homepage",
+  "source": "solve",
+  "strategy": "Mine sitemap.xml / robots.txt",
   "platform": "unknown",
-  "scheduleUrl": "https://www.chabotcollege.edu/courses/index.php",
-  "catalogUrl": "https://www.chabotcollege.edu/courses/index.php#catalog",
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
-  "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Class Schedule",
-      "href": "https://www.chabotcollege.edu/courses/index.php",
-      "score": 5
-    },
-    {
-      "text": "Class Schedule",
-      "href": "https://www.chabotcollege.edu/courses",
-      "score": 5
-    },
-    {
-      "text": "College Catalog",
-      "href": "https://www.chabotcollege.edu/courses/index.php#catalog",
-      "score": 7
-    },
-    {
-      "text": "Class Schedule",
-      "href": "https://www.chabotcollege.edu/courses/index.php",
-      "score": 1
-    },
-    {
-      "text": "Class Schedule",
-      "href": "https://www.chabotcollege.edu/courses",
-      "score": 1
-    }
-  ],
-  "searchQuery": null,
-  "searchResults": [],
-  "blocked": null,
-  "confidence": 0.15,
-  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "learnedAt": "2026-06-08T17:03:39.001Z",
-  "browserActions": [
-    "browser https://www.chabotcollege.edu/courses/index.php → 0 courses",
-    "browser https://www.chabotcollege.edu/courses/index.php#catalog → 0 courses",
-    "browser https://www.chabotcollege.edu/courses → 0 courses"
-  ]
+  "extractUrl": "https://www.chabotcollege.edu/academics/applied-technology-business/business/courses.php",
+  "method": "auto",
+  "sampleCount": 56,
+  "modalityCoverage": 0.036,
+  "confidence": 0.6,
+  "notes": "Solved via \"Mine sitemap.xml / robots.txt\" — 56 courses from https://www.chabotcollege.edu/academics/applied-technology-business/business/courses.php.",
+  "learnedAt": "2026-06-08T22:04:00.515Z"
 }

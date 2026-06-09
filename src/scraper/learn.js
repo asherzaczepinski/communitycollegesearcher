@@ -115,6 +115,28 @@ function catalogGuesses(homeUrl) {
   }
 }
 
+// Common class-SCHEDULE entry points to brute-force when search/crawl come up dry.
+// CA community colleges run a small set of registration platforms (Banner SSB,
+// Ellucian Self-Service, district class-search pages), so the same host/path
+// shapes recur. Cheap to try now that fetch retries + falls back gracefully.
+function scheduleGuesses(homeUrl) {
+  try {
+    const host = new URL(homeUrl).hostname.replace(/^www\./, '');
+    const paths = [
+      'schedule', 'schedule-of-classes', 'class-schedule', 'classes', 'class-search',
+      'find-classes', 'searchable-schedule', 'academics/schedule', 'admissions/class-schedule',
+    ];
+    const subs = ['ssb', 'banner', 'selfservice', 'ssb-prod', 'my', 'webadvisor', 'reg'];
+    return [
+      ...paths.map((p) => `https://www.${host}/${p}`),
+      ...paths.map((p) => `https://${host}/${p}`),
+      ...subs.map((s) => `https://${s}.${host}/`),
+    ];
+  } catch {
+    return [];
+  }
+}
+
 // A fresh, empty recipe skeleton. `source` records how discovery was seeded:
 // 'homepage' (crawl from the college site) or 'web-search' (seed from a web search).
 function blankRecipe(college, source) {
@@ -223,7 +245,7 @@ function finishRecipe(recipe, best, college, { foundNote = '', emptyNote = '', b
 // Headless fallback: when the plain-HTTP crawl came up empty (or thin), render the
 // most promising pages in a real browser, drive the search form, and keep the best
 // haul. Stops only at a sign-in wall. Returns { best, blocked, actions }.
-async function browserRescue(recipe, httpBest, log = () => {}) {
+async function browserRescue(recipe, httpBest, log = () => {}, maxRenders = 3) {
   const targets = [recipe.scheduleUrl, httpBest?.url, recipe.catalogUrl, ...recipe.candidates.map((c) => c.href)]
     .filter(Boolean);
   const tried = new Set();
@@ -234,7 +256,7 @@ async function browserRescue(recipe, httpBest, log = () => {}) {
   for (const url of targets) {
     if (tried.has(url)) continue;
     tried.add(url);
-    if (tried.size > 3) break; // each render is slow — cap the attempts
+    if (tried.size > maxRenders) break; // each render is slow — cap the attempts
 
     log(`render (headless Chrome) ${url} …`);
     const r = await renderForCourses(url);
@@ -266,18 +288,11 @@ export async function learnCollege(college, { browser = false, onLog = null } = 
   const recipe = blankRecipe(college, 'homepage');
 
   log(`Fetching homepage ${college.url} …`);
-  let home;
-  try {
-    home = await fetchText(college.url, { timeoutMs: 20000 });
-  } catch (err) {
-    recipe.notes = `Could not fetch homepage: ${err.message}`;
-    log(`Homepage fetch failed: ${err.message}`);
-    saveRecipe(recipe);
-    return recipe;
-  }
+  const home = await fetchText(college.url, { timeoutMs: 20000, retries: 3 });
   if (!home.ok) {
-    recipe.notes = `Homepage returned HTTP ${home.status}`;
-    log(`Homepage returned HTTP ${home.status}`);
+    const why = home.status ? `HTTP ${home.status}` : home.error || 'connection failed';
+    recipe.notes = `Homepage unreachable (${why}) after retries + www/scheme fallback.`;
+    log(`Homepage unreachable: ${why} (tried retries + www/scheme variants).`);
     saveRecipe(recipe);
     return recipe;
   }
@@ -318,24 +333,38 @@ export async function learnCollege(college, { browser = false, onLog = null } = 
 // Like learnCollege, but seeds discovery from a real web search ("<college> class
 // schedule" / "<college> course catalog") instead of only the homepage. This finds
 // course systems hosted on separate domains that the homepage never links cleanly.
-export async function learnCollegeViaSearch(college, { browser = false, onLog = null } = {}) {
+export async function learnCollegeViaSearch(college, { browser = false, onLog = null, deep = false } = {}) {
   const log = (m) => { if (onLog) try { onLog(m); } catch { /* logging must never break learning */ } };
-  const recipe = blankRecipe(college, 'web-search');
-  const queries = [
-    `${college.name} class schedule`,
-    `${college.name} course catalog`,
-  ];
+  const recipe = blankRecipe(college, deep ? 'web-search-deep' : 'web-search');
+  const year = new Date().getFullYear();
+  // `deep` casts a much wider net: more query phrasings (the schedule hides behind
+  // many names) and a higher result cap, accepting more search volume to find the
+  // colleges the basic two-query pass missed.
+  const queries = deep
+    ? [
+        `${college.name} schedule of classes`,
+        `${college.name} search for classes`,
+        `${college.name} class schedule ${year}`,
+        `${college.name} class search self service`,
+        `${college.name} course catalog`,
+        `${college.name} student registration class search`,
+      ]
+    : [
+        `${college.name} class schedule`,
+        `${college.name} course catalog`,
+      ];
   recipe.searchQuery = queries[0];
 
-  // Run the schedule query first; only fall back to the catalog query if it came
-  // back thin. This halves request volume in the common case, which matters
-  // because search engines rate-limit bursts.
+  // Run the schedule query first; only fall back to later queries if results are
+  // thin. This limits request volume in the common case, which matters because
+  // search engines rate-limit bursts. Deep mode keeps going for more coverage.
+  const enough = deep ? 10 : 4;
   const seen = new Set();
   const results = [];
   for (const q of queries) {
     let hits = [];
     try {
-      hits = await webSearch(q, { limit: 6 });
+      hits = await webSearch(q, { limit: deep ? 8 : 6 });
     } catch {
       /* a single failed query shouldn't abort the others */
     }
@@ -344,17 +373,11 @@ export async function learnCollegeViaSearch(college, { browser = false, onLog = 
       seen.add(h.href);
       results.push({ ...h, query: q });
     }
-    if (results.length >= 4) break; // enough to seed a good crawl
+    log(`search "${q}" → ${hits.length} hit(s) (${results.length} unique so far)`);
+    if (results.length >= enough) break;
   }
-  recipe.searchResults = results.slice(0, 12);
+  recipe.searchResults = results.slice(0, 16);
   log(`Web search returned ${results.length} result(s).`);
-
-  if (!results.length) {
-    recipe.notes =
-      'Web search returned no results (search engine offline or blocking us). Try Re-learn (homepage crawl) instead.';
-    saveRecipe(recipe);
-    return recipe;
-  }
 
   // Score result links the same way homepage candidates are — so schedule pages
   // (which carry modality) get probed before generic catalog pages.
@@ -370,18 +393,32 @@ export async function learnCollegeViaSearch(college, { browser = false, onLog = 
   recipe.scheduleUrl = ordered.find((h) => scoreLink(h.title, h.href, SCHEDULE_HINTS) > 0)?.href || null;
   recipe.catalogUrl = ordered.find((h) => scoreLink(h.title, h.href, CATALOG_HINTS) > 0)?.href || null;
   recipe.platform = detectPlatform(ordered.map((h) => h.href));
-  log(`Top candidate: ${ordered[0]?.href || '(none)'} (platform: ${recipe.platform}).`);
 
-  // Seed the crawl from the top search hits (don't re-crawl the homepage itself).
+  // Seed the crawl from the top search hits. In deep mode (or when search came
+  // back empty), ALSO brute-force the common schedule/catalog URL shapes so a
+  // blocked/empty search engine no longer dead-ends the college.
+  const guesses = deep || !results.length
+    ? [...scheduleGuesses(college.url), ...catalogGuesses(college.url)]
+    : [];
   const visited = new Set([college.url]);
-  const frontier = ordered.slice(0, 8).map((h) => ({ href: h.href, depth: 0 }));
-  let best = await crawlForBest(frontier, visited, 12, log);
+  const frontier = [
+    ...ordered.slice(0, deep ? 10 : 8).map((h) => ({ href: h.href, depth: 0 })),
+    ...guesses.map((href) => ({ href, depth: 0 })),
+  ];
+  if (!frontier.length) {
+    recipe.notes = 'Web search returned no results and no URL guesses applied.';
+    log('No search results and no guesses — nothing to crawl.');
+    saveRecipe(recipe);
+    return recipe;
+  }
+  log(`Top candidate: ${frontier[0]?.href || '(none)'} (platform: ${recipe.platform}); ${guesses.length} URL guess(es) queued.`);
+  let best = await crawlForBest(frontier, visited, deep ? 28 : 12, log);
 
   // Plain HTTP got little/nothing — render the top hits in a real browser if asked.
   let rescue = { blocked: null, actions: [] };
   if (browser && (!best || best.count < 25)) {
     log('Plain HTTP came up thin — escalating to the headless browser…');
-    rescue = await browserRescue(recipe, best, log);
+    rescue = await browserRescue(recipe, best, log, deep ? 6 : 3);
     best = rescue.best;
   }
 

@@ -1,0 +1,40 @@
+{
+  "slug": "el-camino-college",
+  "name": "El Camino College",
+  "url": "https://www.elcamino.edu/",
+  "live": true,
+  "courseCount": 2,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": null,
+  "extractUrl": "https://www.elcamino.edu/academics/schedules-calendars/class-schedules/",
+  "status": "live",
+  "lastStatus": "ok: 2 courses via college",
+  "reason": "Partial capture — only 2 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "GYM CRT1",
+      "title": "Gymnasium Court 1",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.elcamino.edu/academics/schedules-calendars/class-schedules/"
+    },
+    {
+      "code": "GYM CRT2",
+      "title": "Gymnasium Court 2",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.elcamino.edu/academics/schedules-calendars/class-schedules/"
+    }
+  ]
+}

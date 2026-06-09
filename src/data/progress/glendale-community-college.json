@@ -2,17 +2,17 @@
   "slug": "glendale-community-college",
   "name": "Glendale Community College",
   "url": "https://www.glendale.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 1,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://www.appily.com/colleges/glendale-community-college-ca",
   "blocked": null,
-  "note": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "startedAt": "2026-06-08T17:29:09.156Z",
-  "finishedAt": "2026-06-08T17:30:55.680Z",
-  "updatedAt": "2026-06-08T17:30:55.680Z",
+  "note": "Solved via \"Exhaustive Google/DDG search sweep\" — 1 courses from https://www.appily.com/colleges/glendale-community-college-ca.",
+  "startedAt": "2026-06-08T23:40:54.897Z",
+  "finishedAt": "2026-06-08T23:47:56.189Z",
+  "updatedAt": "2026-06-08T23:47:56.189Z",
   "log": [
     {
       "t": "2026-06-08T17:29:09.156Z",
@@ -257,6 +257,487 @@
     {
       "t": "2026-06-08T17:30:55.680Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-08T23:40:54.899Z",
+      "msg": "▶ Solving Glendale Community College — https://www.glendale.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-08T23:40:54.900Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-08T23:40:55.065Z",
+      "msg": "  explore https://www.glendale.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:40:55.161Z",
+      "msg": "  explore https://www.glendale.edu/class-schedule/printed-class-schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:40:55.231Z",
+      "msg": "  explore https://www.glendale.edu/class-schedule/class-schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:40:55.297Z",
+      "msg": "  explore https://www.glendale.edu/class-schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:40:55.889Z",
+      "msg": "  explore https://psprd.glendale.edu/psc/guest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:40:55.954Z",
+      "msg": "  explore https://www.glendale.edu/class-schedule/printed-class-schedule/class-schedule-help → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:40:56.076Z",
+      "msg": "  explore https://psprd.glendale.edu/psc/guest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?& → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:40:56.537Z",
+      "msg": "  explore https://www.glendale.edu/?navid=2319 → unreachable"
+    },
+    {
+      "t": "2026-06-08T23:40:57.310Z",
+      "msg": "  explore https://www.glendale.edu/class-schedule/catalogs → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:40:57.395Z",
+      "msg": "  explore https://www.glendale.edu/academics/catalogs → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:40:57.458Z",
+      "msg": "  explore https://www.glendale.edu/academics/catalogs#sitebody → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:40:57.531Z",
+      "msg": "  explore https://www.glendale.edu/academics/catalogs/catalog-archive → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:40:57.591Z",
+      "msg": "  explore https://www.glendale.edu/academics/catalogs/catalog-archive#sitebody → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:40:57.687Z",
+      "msg": "  explore https://www.glendale.edu/students/admissions-records/registration → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:41:02.929Z",
+      "msg": "  explore https://mygcc.glendale.edu/ → unreachable"
+    },
+    {
+      "t": "2026-06-08T23:41:03.425Z",
+      "msg": "  explore https://www.glendale.edu/class-schedule/distance-education/tech-support-for-students → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:41:03.846Z",
+      "msg": "  explore https://www.glendale.edu/class-schedule/distance-education/tech-support-for-students/gcc-student-email-help → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:41:15.939Z",
+      "msg": "  explore https://www.glendale.edu/home/showpublisheddocument/66095/639045991593130000 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:41:23.276Z",
+      "msg": "  explore https://www.glendale.edu/home/showpublisheddocument/62073/638826561966100000 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:41:33.646Z",
+      "msg": "  explore https://www.glendale.edu/home/showpublisheddocument/59105/638386863167200000 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:41:37.332Z",
+      "msg": "  explore https://www.glendale.edu/home/showpublisheddocument/41003/637305138845970000 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:42:44.397Z",
+      "msg": "  explore https://www-01.glendale.edu/flipbook/catalog/2019-20 → unreachable"
+    },
+    {
+      "t": "2026-06-08T23:42:44.398Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-08T23:42:44.694Z",
+      "msg": "  sitemap https://www.glendale.edu/sitemap.xml → 3479 entries"
+    },
+    {
+      "t": "2026-06-08T23:42:44.848Z",
+      "msg": "  sitemap https://www.glendale.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-08T23:42:45.032Z",
+      "msg": "  sitemap https://www.glendale.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-08T23:42:45.036Z",
+      "msg": "  sitemap mining → 3479 URL(s), 501 course-ish to probe"
+    },
+    {
+      "t": "2026-06-08T23:42:53.146Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-08T23:42:55.157Z",
+      "msg": "  explore https://www.glendale.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:42:55.220Z",
+      "msg": "  explore https://www.glendale.edu/class-schedule/printed-class-schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:42:55.273Z",
+      "msg": "  explore https://www.glendale.edu/class-schedule/class-schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:42:55.326Z",
+      "msg": "  explore https://www.glendale.edu/class-schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:42:55.888Z",
+      "msg": "  explore https://psprd.glendale.edu/psc/guest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:42:55.949Z",
+      "msg": "  explore https://www.glendale.edu/class-schedule/printed-class-schedule/class-schedule-help → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:42:56.082Z",
+      "msg": "  explore https://psprd.glendale.edu/psc/guest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?& → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:42:56.513Z",
+      "msg": "  explore https://www.glendale.edu/?navid=2319 → unreachable"
+    },
+    {
+      "t": "2026-06-08T23:42:57.123Z",
+      "msg": "  explore https://www.glendale.edu/class-schedule/catalogs → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:42:57.177Z",
+      "msg": "  explore https://www.glendale.edu/academics/catalogs → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:42:57.233Z",
+      "msg": "  explore https://www.glendale.edu/academics/catalogs#sitebody → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:42:57.287Z",
+      "msg": "  explore https://www.glendale.edu/academics/catalogs/catalog-archive → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:42:57.339Z",
+      "msg": "  explore https://www.glendale.edu/academics/catalogs/catalog-archive#sitebody → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:42:57.392Z",
+      "msg": "  explore https://www.glendale.edu/students/admissions-records/registration → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:42:57.400Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-08T23:42:59.679Z",
+      "msg": "  google \"Glendale Community College schedule of classes\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:43:01.300Z",
+      "msg": "  google \"Glendale Community College search for classes\" → 6 hit(s) (+5 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:43:01.997Z",
+      "msg": "  google \"Glendale Community College class schedule 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:43:02.632Z",
+      "msg": "  google \"Glendale Community College class schedule spring 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:43:03.231Z",
+      "msg": "  google \"Glendale Community College class schedule fall 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:43:04.951Z",
+      "msg": "  google \"Glendale Community College public class search\" → 6 hit(s) (+3 new, 14 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:43:06.692Z",
+      "msg": "  google \"Glendale Community College self service banner class search\" → 6 hit(s) (+6 new, 20 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:43:07.994Z",
+      "msg": "  google \"Glendale Community College ellucian self service class schedule\" → 3 hit(s) (+3 new, 23 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:43:09.659Z",
+      "msg": "  google \"Glendale Community College webadvisor class schedule\" → 2 hit(s) (+2 new, 25 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:43:11.507Z",
+      "msg": "  google \"Glendale Community College courses by subject\" → 6 hit(s) (+3 new, 28 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:43:13.196Z",
+      "msg": "  google \"Glendale Community College course catalog\" → 6 hit(s) (+6 new, 34 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:43:14.838Z",
+      "msg": "  google \"site:glendale.edu schedule of classes\" → 6 hit(s) (+6 new, 40 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:43:16.212Z",
+      "msg": "  google \"site:glendale.edu class schedule\" → 6 hit(s) (+1 new, 41 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:43:17.028Z",
+      "msg": "  probe https://www.gusd.net/23784_3 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:17.401Z",
+      "msg": "  probe https://www.gusd.net/boardmeeting → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:17.738Z",
+      "msg": "  probe https://campusguides.glendale.edu/c.php?g=665683&p=5845671 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:17.852Z",
+      "msg": "  probe https://www.gccaz.edu/academics/calendar → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:18.460Z",
+      "msg": "  probe https://www.studyusa.com/en/schools/p/ca016/glendale-community-college-international-student-program → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:18.742Z",
+      "msg": "  probe https://communitycollegesusa.com/en/schools/p/ca016/glendale-community-college-international-student-program → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:18.772Z",
+      "msg": "  probe https://www.gccaz.edu/student-life/bookstore → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:18.873Z",
+      "msg": "  probe https://employees.gccaz.edu/news/2025/glendale-community-college-students-named-all-arizona-academic-team → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:19.159Z",
+      "msg": "  probe https://www.latimes.com/socal/glendale-news-press/news/story/2020-04-15/glendale-community-college-extends-campus-closure-to-end-of-semester → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:19.190Z",
+      "msg": "  probe https://www.gccaz.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:23.232Z",
+      "msg": "  probe https://www.appily.com/colleges/glendale-community-college-ca → 1 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:23.399Z",
+      "msg": "  probe https://www.appily.com/colleges/glendale-community-college-az → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:24.053Z",
+      "msg": "  probe https://www.communitycollegereview.com/glendale-community-college-profile/91208 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:24.526Z",
+      "msg": "  probe https://guides.gccaz.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:24.599Z",
+      "msg": "  probe https://employees.gccaz.edu/news/2025/glendale-community-college-public-safety-sciences-program-receives-15000-grant-award → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:24.714Z",
+      "msg": "  probe https://pulitzercenter.org/campus-consortium/glendale-community-college → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:26.600Z",
+      "msg": "  probe https://catalog.glendale.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:27.253Z",
+      "msg": "  probe https://www.gusd.net/enrollment → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:27.254Z",
+      "msg": "  render+drive https://www.gusd.net/boardmeeting …"
+    },
+    {
+      "t": "2026-06-08T23:43:39.129Z",
+      "msg": "  render https://www.gusd.net/boardmeeting → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:39.130Z",
+      "msg": "  render+drive https://campusguides.glendale.edu/c.php?g=665683&p=5845671 …"
+    },
+    {
+      "t": "2026-06-08T23:43:46.484Z",
+      "msg": "  render https://campusguides.glendale.edu/c.php?g=665683&p=5845671 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:46.485Z",
+      "msg": "   ✓ \"Exhaustive Google/DDG search sweep\" found 1 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:43:46.485Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-08T23:43:47.619Z",
+      "msg": "search \"Glendale Community College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:43:48.221Z",
+      "msg": "search \"Glendale Community College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:43:48.831Z",
+      "msg": "search \"Glendale Community College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:43:49.439Z",
+      "msg": "search \"Glendale Community College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:43:50.060Z",
+      "msg": "search \"Glendale Community College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:45:55.842Z",
+      "msg": "search \"Glendale Community College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:45:55.843Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-08T23:45:55.843Z",
+      "msg": "Top candidate: https://www.glendale.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-08T23:45:56.196Z",
+      "msg": "probe https://www.glendale.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:45:56.704Z",
+      "msg": "probe https://www.glendale.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:45:57.131Z",
+      "msg": "probe https://www.glendale.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:45:57.621Z",
+      "msg": "probe https://www.glendale.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:45:57.973Z",
+      "msg": "probe https://www.glendale.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:45:58.412Z",
+      "msg": "probe https://www.glendale.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:45:59.337Z",
+      "msg": "probe https://www.glendale.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:45:59.792Z",
+      "msg": "probe https://www.glendale.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:46:00.152Z",
+      "msg": "probe https://www.glendale.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:46:00.835Z",
+      "msg": "probe https://glendale.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:46:01.287Z",
+      "msg": "probe https://glendale.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:46:01.492Z",
+      "msg": "probe https://glendale.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:46:01.975Z",
+      "msg": "probe https://glendale.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:46:02.451Z",
+      "msg": "probe https://glendale.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:46:02.930Z",
+      "msg": "probe https://glendale.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:46:03.610Z",
+      "msg": "probe https://glendale.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:46:04.322Z",
+      "msg": "probe https://glendale.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:46:04.822Z",
+      "msg": "probe https://glendale.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:46:09.516Z",
+      "msg": "probe https://ssb.glendale.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:46:15.186Z",
+      "msg": "probe https://banner.glendale.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:46:19.653Z",
+      "msg": "probe https://selfservice.glendale.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:46:24.121Z",
+      "msg": "probe https://ssb-prod.glendale.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:47:31.994Z",
+      "msg": "probe https://my.glendale.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:47:37.916Z",
+      "msg": "probe https://webadvisor.glendale.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:47:42.740Z",
+      "msg": "probe https://reg.glendale.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:47:47.144Z",
+      "msg": "probe https://catalog.glendale.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:47:51.894Z",
+      "msg": "probe https://catalog.glendale.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:47:56.183Z",
+      "msg": "probe https://catalog.glendale.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:47:56.184Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T23:47:56.189Z",
+      "msg": "✅ SOLVED — 1 courses ingested into the searchable DB (strategy: Exhaustive Google/DDG search sweep)."
     }
-  ]
+  ],
+  "strategy": "Exhaustive Google/DDG search sweep"
 }

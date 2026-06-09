@@ -1,0 +1,64 @@
+{
+  "slug": "fullerton-college",
+  "name": "Fullerton College",
+  "url": "https://www.fullcoll.edu/",
+  "live": true,
+  "courseCount": 4,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": "Explore real homepage links (HTTP)",
+  "extractUrl": "https://dualenrollment.fullcoll.edu/apply/",
+  "status": "live",
+  "lastStatus": "ok: 4 courses via auto (solved)",
+  "reason": "Partial capture — only 4 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "STEP 1",
+      "title": "APPLY FOR ADMISSIONS",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://dualenrollment.fullcoll.edu/apply/"
+    },
+    {
+      "code": "STEP 2",
+      "title": "COMPLETE THE DUAL ENROLLMENT STUDENT FORM",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://dualenrollment.fullcoll.edu/apply/"
+    },
+    {
+      "code": "STEP 3",
+      "title": "COMPLETE THE DUAL ENROLLMENT PARENT/guardian AUTHORIZATION FORM",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://dualenrollment.fullcoll.edu/apply/"
+    },
+    {
+      "code": "STEP 4",
+      "title": "check in with the dual enrollment office for registration assistance",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://dualenrollment.fullcoll.edu/apply/"
+    }
+  ]
+}

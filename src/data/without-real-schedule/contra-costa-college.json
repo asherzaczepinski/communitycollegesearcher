@@ -1,0 +1,40 @@
+{
+  "slug": "contra-costa-college",
+  "name": "Contra Costa College",
+  "url": "https://www.contracosta.edu/",
+  "live": true,
+  "courseCount": 2,
+  "modalityCoverage": 0.5,
+  "method": "auto",
+  "source": null,
+  "extractUrl": "https://vsb.4cd.edu/criteria.jsp",
+  "status": "live",
+  "lastStatus": "ok: 2 courses via college",
+  "reason": "Partial capture — only 2 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "COMM217",
+      "title": "Select Courses Back Degree Plan Welcome to the Schedule Builder. This is the Select Courses region. To use this software, follow the steps described below. Firs",
+      "modality": "online",
+      "modalityKnown": true,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://vsb.4cd.edu/criteria.jsp"
+    },
+    {
+      "code": "COMM217",
+      "title": "Courses with this symbol must be taken together Financial Accounting Required or Recommended Walnut Creek Campus Try all classes Try specific classes... Lock th",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://vsb.4cd.edu/criteria.jsp"
+    }
+  ]
+}

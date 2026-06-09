@@ -1,0 +1,40 @@
+{
+  "slug": "southwestern-college",
+  "name": "Southwestern College",
+  "url": "https://www.swccd.edu/",
+  "live": true,
+  "courseCount": 2,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": null,
+  "extractUrl": "https://www.swccd.edu/classes-and-registration/class-schedule/index.aspx",
+  "status": "live",
+  "lastStatus": "ok: 2 courses via college",
+  "reason": "Partial capture — only 2 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "APRIL 27",
+      "title": "MAY 01",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.swccd.edu/classes-and-registration/class-schedule/index.aspx"
+    },
+    {
+      "code": "GROUP 5",
+      "title": "Registration begins for New and returning (former) students on a first come, first served basis.",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.swccd.edu/classes-and-registration/class-schedule/index.aspx"
+    }
+  ]
+}

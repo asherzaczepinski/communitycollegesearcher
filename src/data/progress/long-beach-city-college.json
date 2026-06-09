@@ -2,17 +2,17 @@
   "slug": "long-beach-city-college",
   "name": "Long Beach City College",
   "url": "https://www.lbcc.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 6,
+  "courseCount": 20,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://www.lbcc.edu/information/register-now-these-performing-arts-classes",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:29.842Z",
-  "finishedAt": "2026-06-08T17:36:29.853Z",
-  "updatedAt": "2026-06-08T17:36:29.853Z",
+  "note": "Solved via \"Mine sitemap.xml / robots.txt\" — 20 courses from https://www.lbcc.edu/information/register-now-these-performing-arts-classes.",
+  "startedAt": "2026-06-08T21:21:29.086Z",
+  "finishedAt": "2026-06-08T21:22:39.101Z",
+  "updatedAt": "2026-06-08T21:22:39.101Z",
   "log": [
     {
       "t": "2026-06-08T17:36:29.842Z",
@@ -53,6 +53,155 @@
     {
       "t": "2026-06-08T17:36:29.853Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-08T21:19:50.953Z",
+      "msg": "▶ Solving Long Beach City College — https://www.lbcc.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-08T21:19:50.953Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-08T21:19:51.022Z",
+      "msg": "  explore https://www.lbcc.edu/ → 🔒 sign-in wall"
+    },
+    {
+      "t": "2026-06-08T21:19:51.022Z",
+      "msg": "🔒 BLOCKED — the schedule sits behind a sign-in wall."
+    },
+    {
+      "t": "2026-06-08T21:21:29.088Z",
+      "msg": "▶ Solving Long Beach City College — https://www.lbcc.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-08T21:21:29.088Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-08T21:21:29.191Z",
+      "msg": "  explore https://www.lbcc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:21:29.273Z",
+      "msg": "  explore https://apps.lbcc.edu/schedule/schedule.cfm → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:21:30.037Z",
+      "msg": "  explore https://www.lbcc.edu/pathway-text-block/schedule-classes-and-college-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:21:45.329Z",
+      "msg": "  explore https://www.cs.lbcc.edu/psc/guest/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_AGSTARTPAGE_NUI.GBL?CONTEXTIDPARAMS=TEMPLATE_ID%3aPTPPNAVCOL&scname=ADMN_CLASS_AND_CATALOG_SEARCH&PanelCollapsible=Y&PTPPB_GROUPLET_ID=LBC_PUBLIC_CLASSRCH&CRefName=ADMN_NAVCOLL_2 → unreachable"
+    },
+    {
+      "t": "2026-06-08T21:21:45.455Z",
+      "msg": "  explore https://www.lbcc.edu/schedule-classes%20 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:21:45.485Z",
+      "msg": "  explore https://www.lbcc.edu/pathway-text-block/schedule-classes-and-college-catalog#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:21:45.515Z",
+      "msg": "  explore https://www.lbcc.edu/pathway-text-block/schedule-classes-and-college-catalog#navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:21:47.454Z",
+      "msg": "  explore https://www.lbcc.edu/college-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:21:49.552Z",
+      "msg": "  explore https://www.lbcc.edu/sites/main/files/file-attachments/lbcc_noncredit_catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:21:49.657Z",
+      "msg": "  explore https://www.lbcc.edu/college-catalog#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:21:49.731Z",
+      "msg": "  explore https://www.lbcc.edu/college-catalog#navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:21:51.067Z",
+      "msg": "  explore https://www.lbcc.edu/post/online-college-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:22:00.269Z",
+      "msg": "  explore https://www.lbcc.edu/sites/main/files/file-attachments/lbcc_2024-2025_catalog.pdf?1761599702 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:22:02.255Z",
+      "msg": "  explore https://www.lbcc.edu/sites/main/files/file-attachments/lbcc_2024-2025_noncredit_catalog.pdf?1761599726 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:22:21.591Z",
+      "msg": "  explore https://www.lbcc.edu/sites/main/files/file-attachments/lbcc_2023-24_catalog.pdf?1716333528 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:22:21.750Z",
+      "msg": "  explore https://www.lbcc.edu/post/online-college-catalog#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:22:21.843Z",
+      "msg": "  explore https://www.lbcc.edu/post/online-college-catalog#navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:22:21.945Z",
+      "msg": "  explore https://www.lbcc.edu/workshop/lbcc-express-days-0 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:22:22.680Z",
+      "msg": "  explore https://www.lbcc.edu/workshop/dual-enrollment-registration-labs-online-person → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:22:23.632Z",
+      "msg": "  explore https://www.lbcc.edu/event/dual-enrollment-welcome-day-2026 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:22:23.711Z",
+      "msg": "  explore https://www.lbcc.edu/schedule-classes#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:22:23.764Z",
+      "msg": "  explore https://www.lbcc.edu/schedule-classes#navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:22:23.770Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-08T21:22:24.263Z",
+      "msg": "  sitemap https://www.lbcc.edu/sitemap.xml → 7718 entries"
+    },
+    {
+      "t": "2026-06-08T21:22:24.762Z",
+      "msg": "  sitemap https://www.lbcc.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-08T21:22:25.182Z",
+      "msg": "  sitemap https://www.lbcc.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-08T21:22:25.186Z",
+      "msg": "  sitemap mining → 7328 URL(s), 214 course-ish to probe"
+    },
+    {
+      "t": "2026-06-08T21:22:37.663Z",
+      "msg": "  sitemap probe https://www.lbcc.edu/information/register-now-these-performing-arts-classes → 20"
+    },
+    {
+      "t": "2026-06-08T21:22:38.355Z",
+      "msg": "  sitemap probe https://www.lbcc.edu/information/register-now-these-visual-media-arts-classes → 18"
+    },
+    {
+      "t": "2026-06-08T21:22:39.092Z",
+      "msg": "   ✓ \"Mine sitemap.xml / robots.txt\" found 20 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:22:39.100Z",
+      "msg": "✅ SOLVED — 20 courses ingested into the searchable DB (strategy: Mine sitemap.xml / robots.txt)."
     }
-  ]
+  ],
+  "strategy": "Mine sitemap.xml / robots.txt"
 }

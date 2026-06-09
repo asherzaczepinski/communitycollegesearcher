@@ -2,17 +2,17 @@
   "slug": "chabot-college",
   "name": "Chabot College",
   "url": "https://www.chabotcollege.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
-  "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 56,
+  "modalityCoverage": 0.036,
+  "method": "auto",
+  "extractUrl": "https://www.chabotcollege.edu/academics/applied-technology-business/business/courses.php",
   "blocked": null,
-  "note": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "startedAt": "2026-06-08T17:02:56.792Z",
-  "finishedAt": "2026-06-08T17:04:05.900Z",
-  "updatedAt": "2026-06-08T17:04:05.900Z",
+  "note": "Solved via \"Mine sitemap.xml / robots.txt\" — 56 courses from https://www.chabotcollege.edu/academics/applied-technology-business/business/courses.php.",
+  "startedAt": "2026-06-08T21:57:32.229Z",
+  "finishedAt": "2026-06-08T22:04:00.522Z",
+  "updatedAt": "2026-06-08T22:04:00.522Z",
   "log": [
     {
       "t": "2026-06-08T17:02:56.792Z",
@@ -217,6 +217,563 @@
     {
       "t": "2026-06-08T17:04:05.900Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-08T21:09:39.670Z",
+      "msg": "▶ Starting Chabot College — https://www.chabotcollege.edu/  [deep retry]"
+    },
+    {
+      "t": "2026-06-08T21:09:39.671Z",
+      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+    },
+    {
+      "t": "2026-06-08T21:09:39.671Z",
+      "msg": "Fetching homepage https://www.chabotcollege.edu/ …"
+    },
+    {
+      "t": "2026-06-08T21:09:40.267Z",
+      "msg": "Homepage: 2 schedule + 3 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T21:09:40.634Z",
+      "msg": "probe https://www.chabotcollege.edu/courses/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:09:40.910Z",
+      "msg": "probe https://www.chabotcollege.edu/courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:09:41.091Z",
+      "msg": "probe https://www.chabotcollege.edu/courses/index.php#catalog → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:09:46.121Z",
+      "msg": "probe https://catalog.chabotcollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T21:09:50.774Z",
+      "msg": "probe https://catalog.chabotcollege.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T21:09:55.286Z",
+      "msg": "probe https://catalog.chabotcollege.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T21:10:00.041Z",
+      "msg": "probe https://catalog.chabotcollege.edu/coursesaz/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T21:10:04.561Z",
+      "msg": "probe https://catalog.chabotcollege.edu/course-descriptions/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T21:13:09.224Z",
+      "msg": "probe https://www.chabotcollege.edu/academics/schedule/pdfs/2026SummerFall.pdf → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T21:13:09.811Z",
+      "msg": "probe https://www.chabotcollege.edu/searchclass → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:09.812Z",
+      "msg": "Attempt 2/3 — web search (deep: wide queries + URL guesses) + headless Chrome"
+    },
+    {
+      "t": "2026-06-08T21:13:19.649Z",
+      "msg": "search \"Chabot College schedule of classes\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-08T21:13:40.353Z",
+      "msg": "search \"Chabot College search for classes\" → 8 hit(s) (15 unique so far)"
+    },
+    {
+      "t": "2026-06-08T21:13:40.354Z",
+      "msg": "Web search returned 15 result(s)."
+    },
+    {
+      "t": "2026-06-08T21:13:40.355Z",
+      "msg": "Top candidate: http://casey-digital.com/digitaleditions/210409_Chabot_41262/31/ (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-08T21:13:40.629Z",
+      "msg": "probe http://casey-digital.com/digitaleditions/210409_Chabot_41262/31/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:40.819Z",
+      "msg": "probe http://casey-digital.com/digitaleditions/210409_Chabot_41262/126/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:40.910Z",
+      "msg": "probe http://casey-digital.com/digitaleditions/210409_Chabot_41262/40/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:41.014Z",
+      "msg": "probe http://casey-digital.com/digitaleditions/210409_Chabot_41262/125/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:41.143Z",
+      "msg": "probe http://casey-digital.com/digitaleditions/210409_Chabot_41262/30/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:43.750Z",
+      "msg": "probe https://www.alookabove.net/courses/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:44.158Z",
+      "msg": "probe https://www.chabotcollege.edu/courses/archives.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:44.819Z",
+      "msg": "probe https://www.chabotfire.com/class-schedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:44.951Z",
+      "msg": "probe http://casey-digital.com/digitaleditions/210409_Chabot_41262/35/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:45.041Z",
+      "msg": "probe http://casey-digital.com/digitaleditions/210409_Chabot_41262/23/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:45.195Z",
+      "msg": "probe https://www.chabotcollege.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:45.547Z",
+      "msg": "probe https://www.chabotcollege.edu/schedule-of-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:45.687Z",
+      "msg": "probe https://www.chabotcollege.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:45.810Z",
+      "msg": "probe https://www.chabotcollege.edu/classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:45.965Z",
+      "msg": "probe https://www.chabotcollege.edu/class-search → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:46.031Z",
+      "msg": "probe https://www.chabotcollege.edu/find-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:46.184Z",
+      "msg": "probe https://www.chabotcollege.edu/searchable-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:46.258Z",
+      "msg": "probe https://www.chabotcollege.edu/academics/schedule → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-08T21:13:46.368Z",
+      "msg": "probe https://www.chabotcollege.edu/admissions/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:46.702Z",
+      "msg": "probe https://chabotcollege.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:47.037Z",
+      "msg": "probe https://chabotcollege.edu/schedule-of-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:47.149Z",
+      "msg": "probe https://chabotcollege.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:47.339Z",
+      "msg": "probe https://chabotcollege.edu/classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:47.512Z",
+      "msg": "probe https://chabotcollege.edu/class-search → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:47.702Z",
+      "msg": "probe https://chabotcollege.edu/find-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:47.858Z",
+      "msg": "probe https://chabotcollege.edu/searchable-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:47.938Z",
+      "msg": "probe https://chabotcollege.edu/academics/schedule → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-08T21:13:48.118Z",
+      "msg": "probe https://chabotcollege.edu/admissions/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:13:48.119Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T21:13:48.119Z",
+      "msg": "render (headless Chrome) http://casey-digital.com/digitaleditions/210409_Chabot_41262/31/ …"
+    },
+    {
+      "t": "2026-06-08T21:13:55.816Z",
+      "msg": "browser http://casey-digital.com/digitaleditions/210409_Chabot_41262/31/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:13:55.816Z",
+      "msg": "render (headless Chrome) https://www.alookabove.net/courses/index.php …"
+    },
+    {
+      "t": "2026-06-08T21:14:05.877Z",
+      "msg": "browser https://www.alookabove.net/courses/index.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:14:05.877Z",
+      "msg": "render (headless Chrome) http://casey-digital.com/digitaleditions/210409_Chabot_41262/126/ …"
+    },
+    {
+      "t": "2026-06-08T21:14:12.912Z",
+      "msg": "browser http://casey-digital.com/digitaleditions/210409_Chabot_41262/126/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:14:12.913Z",
+      "msg": "render (headless Chrome) http://casey-digital.com/digitaleditions/210409_Chabot_41262/40/ …"
+    },
+    {
+      "t": "2026-06-08T21:14:25.039Z",
+      "msg": "browser http://casey-digital.com/digitaleditions/210409_Chabot_41262/40/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:14:25.039Z",
+      "msg": "render (headless Chrome) http://casey-digital.com/digitaleditions/210409_Chabot_41262/125/ …"
+    },
+    {
+      "t": "2026-06-08T21:14:32.037Z",
+      "msg": "browser http://casey-digital.com/digitaleditions/210409_Chabot_41262/125/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:14:32.037Z",
+      "msg": "render (headless Chrome) http://casey-digital.com/digitaleditions/210409_Chabot_41262/30/ …"
+    },
+    {
+      "t": "2026-06-08T21:14:38.943Z",
+      "msg": "browser http://casey-digital.com/digitaleditions/210409_Chabot_41262/30/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:14:38.943Z",
+      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+    },
+    {
+      "t": "2026-06-08T21:14:38.943Z",
+      "msg": "Fetching homepage https://www.chabotcollege.edu/ …"
+    },
+    {
+      "t": "2026-06-08T21:14:39.383Z",
+      "msg": "Homepage: 2 schedule + 3 catalog link(s); platform unknown."
+    },
+    {
+      "t": "2026-06-08T21:14:39.700Z",
+      "msg": "probe https://www.chabotcollege.edu/courses/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:14:39.902Z",
+      "msg": "probe https://www.chabotcollege.edu/courses → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:14:40.099Z",
+      "msg": "probe https://www.chabotcollege.edu/courses/index.php#catalog → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:14:44.457Z",
+      "msg": "probe https://catalog.chabotcollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T21:14:48.593Z",
+      "msg": "probe https://catalog.chabotcollege.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T21:14:53.211Z",
+      "msg": "probe https://catalog.chabotcollege.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T21:14:57.900Z",
+      "msg": "probe https://catalog.chabotcollege.edu/coursesaz/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T21:15:02.586Z",
+      "msg": "probe https://catalog.chabotcollege.edu/course-descriptions/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T21:17:57.363Z",
+      "msg": "probe https://www.chabotcollege.edu/academics/schedule/pdfs/2026SummerFall.pdf → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T21:18:01.667Z",
+      "msg": "probe https://www.chabotcollege.edu/searchclass → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T21:18:01.669Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T21:18:01.670Z",
+      "msg": "render (headless Chrome) https://www.chabotcollege.edu/courses/index.php …"
+    },
+    {
+      "t": "2026-06-08T21:18:08.468Z",
+      "msg": "browser https://www.chabotcollege.edu/courses/index.php → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:18:08.469Z",
+      "msg": "render (headless Chrome) https://www.chabotcollege.edu/courses/index.php#catalog …"
+    },
+    {
+      "t": "2026-06-08T21:18:15.203Z",
+      "msg": "browser https://www.chabotcollege.edu/courses/index.php#catalog → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:18:15.203Z",
+      "msg": "render (headless Chrome) https://www.chabotcollege.edu/courses …"
+    },
+    {
+      "t": "2026-06-08T21:18:28.245Z",
+      "msg": "browser https://www.chabotcollege.edu/courses → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:18:28.247Z",
+      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-08T21:25:11.382Z",
+      "msg": "▶ Solving Chabot College — https://www.chabotcollege.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-08T21:25:11.382Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-08T21:25:11.691Z",
+      "msg": "  explore https://www.chabotcollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:25:11.953Z",
+      "msg": "  explore https://www.chabotcollege.edu/courses/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:25:12.093Z",
+      "msg": "  explore https://www.chabotcollege.edu/courses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:28:16.600Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/docs/catalogs/2025-2026%20Catalog.pdf → unreachable"
+    },
+    {
+      "t": "2026-06-08T21:28:17.286Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/docs/catalogs/2025-2026%20Catalog%20Revision%20Notice.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:28:17.619Z",
+      "msg": "  explore https://www.chabotcollege.edu/redirect/clpccd-student-registration.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:28:17.987Z",
+      "msg": "  explore https://www.chabotcollege.edu/courses/index.php#catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:28:18.375Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/featured-classes.php?t=202601&dc=atb&status=f&utm_campaign=2026_summer_app_tech_business_featured_classes_20260603_hp_slider&utm_medium=web&utm_source=cc_hp&utm_content=banner_slider → 6 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T21:28:19.359Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/featured-classes.php?t=202601&dc=sm&status=f&utm_campaign=2026_summer_science_math_featured_classes_20260501_hp_slider&utm_medium=web&utm_source=cc_hp&utm_content=banner_slider → 19 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T21:28:19.847Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/featured-classes.php?t=202601&dc=ss&status=f&utm_campaign=2026_summer_social_sciences_featured_classes_20260524_hp_slider&utm_medium=web&utm_source=cc_hp&utm_content=banner_slider → 5 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T21:28:20.160Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/language-arts/esl/#register → 2 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T21:28:20.745Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/language-arts/esl/#accordion1-div-3 → 2 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T21:57:32.230Z",
+      "msg": "▶ Solving Chabot College — https://www.chabotcollege.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-08T21:57:32.230Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-08T21:57:32.572Z",
+      "msg": "  explore https://www.chabotcollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:57:33.037Z",
+      "msg": "  explore https://www.chabotcollege.edu/courses/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:57:33.321Z",
+      "msg": "  explore https://www.chabotcollege.edu/courses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:00:38.253Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/docs/catalogs/2025-2026%20Catalog.pdf → unreachable"
+    },
+    {
+      "t": "2026-06-08T22:00:38.778Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/docs/catalogs/2025-2026%20Catalog%20Revision%20Notice.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:00:38.951Z",
+      "msg": "  explore https://www.chabotcollege.edu/redirect/clpccd-student-registration.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:00:39.231Z",
+      "msg": "  explore https://www.chabotcollege.edu/courses/index.php#catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:00:39.541Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/featured-classes.php?t=202601&dc=sm&status=f&utm_campaign=2026_summer_science_math_featured_classes_20260501_hp_slider&utm_medium=web&utm_source=cc_hp&utm_content=banner_slider → 19 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T22:00:39.828Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/featured-classes.php?t=202601&dc=atb&status=f&utm_campaign=2026_summer_app_tech_business_featured_classes_20260603_hp_slider&utm_medium=web&utm_source=cc_hp&utm_content=banner_slider → 6 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T22:00:40.156Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/featured-classes.php?t=202601&dc=ss&status=f&utm_campaign=2026_summer_social_sciences_featured_classes_20260524_hp_slider&utm_medium=web&utm_source=cc_hp&utm_content=banner_slider → 5 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T22:00:40.424Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/language-arts/esl/#register → 2 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T22:00:40.695Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/language-arts/esl/#accordion1-div-3 → 2 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T22:03:44.725Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/schedule/pdfs/2026SummerFall.pdf → unreachable"
+    },
+    {
+      "t": "2026-06-08T22:03:45.150Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/featured-classes.php?t=202601&dc=sm&status=f&sc=CSCI&st=Computer%20Science → 4 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T22:03:45.467Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/featured-classes.php?t=202601&dc=sm&status=f&sc=ENGR&st=Engineering → 1 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T22:03:45.827Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/featured-classes.php?t=202601&dc=sm&status=f&sc=ENSC&st=Environmental%20Science → 1 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T22:03:46.282Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/featured-classes.php?t=202601&dc=sm&status=f&sc=GEOS&st=Geological%20Sciences → 2 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T22:03:46.903Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/featured-classes.php?t=202601&dc=atb&status=f&sc=BUS&st=Business → 1 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T22:03:47.360Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/featured-classes.php?t=202601&dc=atb&status=f&sc=ENTR&st=Entrepeneurship → 1 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T22:03:47.639Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/featured-classes.php?t=202601&dc=atb&status=f&sc=MTT&st=Machine%20Tool%20Technology → 1 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T22:03:47.955Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/featured-classes.php?t=202601&dc=atb&status=f&sc=PLGL&st=Paralegal%20Studies → 3 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T22:03:48.214Z",
+      "msg": "  explore https://www.chabotcollege.edu/academics/featured-classes.php?t=202601&dc=ss&status=f&sc=GEO&st=Geography → 2 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T22:03:48.224Z",
+      "msg": "   ✓ \"Explore real homepage links (HTTP)\" found 19 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:03:48.225Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-08T22:03:52.622Z",
+      "msg": "  sitemap https://www.chabotcollege.edu/sitemap.xml → 10360 entries"
+    },
+    {
+      "t": "2026-06-08T22:03:52.899Z",
+      "msg": "  sitemap https://www.chabotcollege.edu/sitemap_index.xml → 0 entries"
+    },
+    {
+      "t": "2026-06-08T22:03:53.055Z",
+      "msg": "  sitemap https://www.chabotcollege.edu/sitemap-index.xml → 0 entries"
+    },
+    {
+      "t": "2026-06-08T22:03:53.062Z",
+      "msg": "  sitemap mining → 10360 URL(s), 894 course-ish to probe"
+    },
+    {
+      "t": "2026-06-08T22:03:55.428Z",
+      "msg": "  sitemap probe http://www.chabotcollege.edu/academics/applied-technology-business/automotive-technology/courses.php → 44"
+    },
+    {
+      "t": "2026-06-08T22:03:56.195Z",
+      "msg": "  sitemap probe http://www.chabotcollege.edu/academics/applied-technology-business/business/courses.php → 56"
+    },
+    {
+      "t": "2026-06-08T22:03:57.160Z",
+      "msg": "  sitemap probe http://www.chabotcollege.edu/academics/applied-technology-business/computer-application-systems/courses.php → 16"
+    },
+    {
+      "t": "2026-06-08T22:03:57.702Z",
+      "msg": "  sitemap probe http://www.chabotcollege.edu/academics/applied-technology-business/electronic-systems-technology/courses.php → 18"
+    },
+    {
+      "t": "2026-06-08T22:03:58.155Z",
+      "msg": "  sitemap probe http://www.chabotcollege.edu/academics/applied-technology-business/entrepreneurship/courses.php → 5"
+    },
+    {
+      "t": "2026-06-08T22:03:58.649Z",
+      "msg": "  sitemap probe http://www.chabotcollege.edu/academics/applied-technology-business/fire-technology/courses.php → 15"
+    },
+    {
+      "t": "2026-06-08T22:03:59.146Z",
+      "msg": "  sitemap probe http://www.chabotcollege.edu/academics/applied-technology-business/machine-tool-technology/courses.php → 18"
+    },
+    {
+      "t": "2026-06-08T22:03:59.538Z",
+      "msg": "  sitemap probe http://www.chabotcollege.edu/academics/applied-technology-business/paralegal/courses.php → 9"
+    },
+    {
+      "t": "2026-06-08T22:03:59.847Z",
+      "msg": "  sitemap probe http://www.chabotcollege.edu/academics/applied-technology-business/paralegal/curriculum.php → 9"
+    },
+    {
+      "t": "2026-06-08T22:04:00.139Z",
+      "msg": "  sitemap probe http://www.chabotcollege.edu/academics/applied-technology-business/real-estate/courses.php → 7"
+    },
+    {
+      "t": "2026-06-08T22:04:00.513Z",
+      "msg": "  sitemap probe http://www.chabotcollege.edu/academics/applied-technology-business/welding/courses.php → 13"
+    },
+    {
+      "t": "2026-06-08T22:04:00.514Z",
+      "msg": "   ✓ \"Mine sitemap.xml / robots.txt\" found 56 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:04:00.515Z",
+      "msg": "   solid haul (56 courses) — stopping strategy ladder."
+    },
+    {
+      "t": "2026-06-08T22:04:00.522Z",
+      "msg": "✅ SOLVED — 56 courses ingested into the searchable DB (strategy: Mine sitemap.xml / robots.txt)."
     }
-  ]
+  ],
+  "strategy": "Mine sitemap.xml / robots.txt"
 }

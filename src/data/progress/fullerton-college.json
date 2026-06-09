@@ -2,17 +2,17 @@
   "slug": "fullerton-college",
   "name": "Fullerton College",
   "url": "https://www.fullcoll.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 4,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://dualenrollment.fullcoll.edu/apply/",
   "blocked": null,
-  "note": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "startedAt": "2026-06-08T17:25:44.162Z",
-  "finishedAt": "2026-06-08T17:28:04.280Z",
-  "updatedAt": "2026-06-08T17:28:04.280Z",
+  "note": "Solved via \"Explore real homepage links (HTTP)\" — 4 courses from https://dualenrollment.fullcoll.edu/apply/.",
+  "startedAt": "2026-06-08T23:33:53.903Z",
+  "finishedAt": "2026-06-08T23:36:53.209Z",
+  "updatedAt": "2026-06-08T23:36:53.209Z",
   "log": [
     {
       "t": "2026-06-08T17:25:44.162Z",
@@ -241,6 +241,495 @@
     {
       "t": "2026-06-08T17:28:04.279Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-08T23:33:53.904Z",
+      "msg": "▶ Solving Fullerton College — https://www.fullcoll.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-08T23:33:53.904Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-08T23:33:54.443Z",
+      "msg": "  explore https://www.fullcoll.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:33:54.583Z",
+      "msg": "  explore https://www.fullcoll.edu/schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:33:55.127Z",
+      "msg": "  explore http://www.fullcoll.edu/admissions → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:33:57.941Z",
+      "msg": "  explore https://promise.fullcoll.edu/registration/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:33:58.163Z",
+      "msg": "  explore https://www.fullcoll.edu/schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:01.022Z",
+      "msg": "  explore https://promise.fullcoll.edu/registration#register → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:02.699Z",
+      "msg": "  explore https://admissions.fullcoll.edu/how-to-register-new/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:06.364Z",
+      "msg": "  explore https://promise.fullcoll.edu/registration#sepp → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:06.677Z",
+      "msg": "  explore https://www.fullcoll.edu/admissions/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:06.787Z",
+      "msg": "  explore https://www.fullcoll.edu/academics/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:06.896Z",
+      "msg": "  explore https://www.fullcoll.edu/students/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:10.896Z",
+      "msg": "  explore https://admissions.fullcoll.edu/how-to-register/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:12.536Z",
+      "msg": "  explore https://admissions.fullcoll.edu/steps-to-enroll/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:13.955Z",
+      "msg": "  explore https://admissions.fullcoll.edu/registration/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:15.483Z",
+      "msg": "  explore https://admissions.fullcoll.edu/priority-reg-petition/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:17.117Z",
+      "msg": "  explore https://admissions.fullcoll.edu/cross-enrollment/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:23.362Z",
+      "msg": "  explore https://outreach.fullcoll.edu/dual-enrollment/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:24.501Z",
+      "msg": "  explore https://dualenrollment.fullcoll.edu/fsd/ → 2 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T23:34:26.029Z",
+      "msg": "  explore https://dualenrollment.fullcoll.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:27.154Z",
+      "msg": "  explore https://dualenrollment.fullcoll.edu/apply/ → 4 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T23:34:28.225Z",
+      "msg": "  explore https://dualenrollment.fullcoll.edu/auhsd/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:29.834Z",
+      "msg": "  explore http://admissions.fullcoll.edu/online-application/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:29.848Z",
+      "msg": "   ✓ \"Explore real homepage links (HTTP)\" found 4 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:29.849Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-08T23:34:30.753Z",
+      "msg": "  sitemap https://www.fullcoll.edu/sitemap.xml → 4 entries"
+    },
+    {
+      "t": "2026-06-08T23:34:43.983Z",
+      "msg": "  sitemap https://www.fullcoll.edu/sitemap_index.xml → 4 entries"
+    },
+    {
+      "t": "2026-06-08T23:34:45.224Z",
+      "msg": "  sitemap https://www.fullcoll.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-08T23:34:45.225Z",
+      "msg": "  sitemap mining → 340 URL(s), 10 course-ish to probe"
+    },
+    {
+      "t": "2026-06-08T23:34:52.715Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-08T23:34:55.091Z",
+      "msg": "  explore https://www.fullcoll.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:55.206Z",
+      "msg": "  explore https://www.fullcoll.edu/schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:55.763Z",
+      "msg": "  explore http://www.fullcoll.edu/admissions → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:57.588Z",
+      "msg": "  explore https://promise.fullcoll.edu/registration/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:34:57.833Z",
+      "msg": "  explore https://www.fullcoll.edu/schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:00.445Z",
+      "msg": "  explore https://promise.fullcoll.edu/registration#register → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:02.038Z",
+      "msg": "  explore https://admissions.fullcoll.edu/how-to-register-new/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:04.716Z",
+      "msg": "  explore https://promise.fullcoll.edu/registration#sepp → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:05.470Z",
+      "msg": "  explore https://www.fullcoll.edu/admissions/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:05.577Z",
+      "msg": "  explore https://www.fullcoll.edu/academics/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:05.686Z",
+      "msg": "  explore https://www.fullcoll.edu/students/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:09.521Z",
+      "msg": "  explore https://admissions.fullcoll.edu/how-to-register/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:11.137Z",
+      "msg": "  explore https://admissions.fullcoll.edu/steps-to-enroll/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:12.714Z",
+      "msg": "  explore https://admissions.fullcoll.edu/registration/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:12.715Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-08T23:35:15.009Z",
+      "msg": "  google \"Fullerton College schedule of classes\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:35:16.905Z",
+      "msg": "  google \"Fullerton College search for classes\" → 6 hit(s) (+4 new, 10 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:35:18.669Z",
+      "msg": "  google \"Fullerton College class schedule 2026\" → 6 hit(s) (+2 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:35:19.433Z",
+      "msg": "  google \"Fullerton College class schedule spring 2026\" → 0 hit(s) (+0 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:35:20.021Z",
+      "msg": "  google \"Fullerton College class schedule fall 2026\" → 0 hit(s) (+0 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:35:21.781Z",
+      "msg": "  google \"Fullerton College public class search\" → 6 hit(s) (+6 new, 18 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:35:23.474Z",
+      "msg": "  google \"Fullerton College self service banner class search\" → 6 hit(s) (+5 new, 23 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:35:25.218Z",
+      "msg": "  google \"Fullerton College ellucian self service class schedule\" → 6 hit(s) (+6 new, 29 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:35:27.217Z",
+      "msg": "  google \"Fullerton College webadvisor class schedule\" → 6 hit(s) (+6 new, 35 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:35:29.291Z",
+      "msg": "  google \"Fullerton College courses by subject\" → 6 hit(s) (+6 new, 41 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:35:31.193Z",
+      "msg": "  google \"Fullerton College course catalog\" → 6 hit(s) (+5 new, 46 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:35:32.440Z",
+      "msg": "  google \"site:fullcoll.edu schedule of classes\" → 6 hit(s) (+5 new, 51 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:35:33.084Z",
+      "msg": "  google \"site:fullcoll.edu class schedule\" → 0 hit(s) (+0 new, 51 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:35:33.483Z",
+      "msg": "  probe https://www.fullcoll.edu/schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:33.831Z",
+      "msg": "  probe https://catalog.nocccd.edu/fullerton-college/support-programs-services/bookstore/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:34.146Z",
+      "msg": "  probe https://catalog.nocccd.edu/fullerton-college/support-programs-services/admissions-records/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:34.565Z",
+      "msg": "  probe https://news.fullcoll.edu/fullerton-college-launches-a-simpler-way-to-register-for-classes/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:35.440Z",
+      "msg": "  probe https://fchornetmedia.com/34514/news/fullerton-college-hopes-to-prepare-students-by-offering-registration-dates-months-in-advance/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:37.505Z",
+      "msg": "  probe https://photography.fullcoll.edu/all-courses/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:37.941Z",
+      "msg": "  probe https://fchornetmedia.com/35822/showcase/new-course-numbers-same-classes-what-fullerton-college-students-need-to-know-for-fall-2025/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:38.243Z",
+      "msg": "  probe https://catalog.nocccd.edu/fullerton-college/academic-information/credit-examination/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:38.556Z",
+      "msg": "  probe https://catalog.nocccd.edu/fullerton-college/catalog-archives/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:38.637Z",
+      "msg": "  probe https://catalog.nocccd.edu/fullerton-college/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:38.873Z",
+      "msg": "  probe https://catalog.nocccd.edu/fullerton-college/updates-to-the-catalog/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:40.482Z",
+      "msg": "  probe https://admissions.fullcoll.edu/registration/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:42.065Z",
+      "msg": "  probe https://admissions.fullcoll.edu/steps-to-enroll/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:42.712Z",
+      "msg": "  probe https://fchornetmedia.com/25253/news/winter-classes-will-arrive-at-fullerton-college-this-year/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:43.278Z",
+      "msg": "  probe https://www.norcocollege.edu/academicaffairs/ep/hse/dual.html → 4 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:43.699Z",
+      "msg": "  probe https://www.fullcoll.edu/admissions/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:44.158Z",
+      "msg": "  probe https://catalog.fullcoll.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:44.260Z",
+      "msg": "  probe https://schedule.nocccd.edu/?college=2 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:50.552Z",
+      "msg": "  probe https://fcwp84c4ac8dab.blob.core.windows.net/blobfcwp84c4ac8dab/wp-content/uploads/2024/05/FullertonCollegeScheduleFall2024web.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:50.868Z",
+      "msg": "  probe https://catalog.nocccd.edu/fullerton-college/admissions-records-registration/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:51.171Z",
+      "msg": "  probe https://catalog.nocccd.edu/fullerton-college/support-programs-services/bookstore/#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:51.492Z",
+      "msg": "  probe https://catalog.nocccd.edu/fullerton-college/support-programs-services/admissions-records/#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:51.493Z",
+      "msg": "  render+drive https://www.fullcoll.edu/schedule/ …"
+    },
+    {
+      "t": "2026-06-08T23:35:58.432Z",
+      "msg": "  render https://www.fullcoll.edu/schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:35:58.432Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-08T23:36:00.099Z",
+      "msg": "search \"Fullerton College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:36:01.712Z",
+      "msg": "search \"Fullerton College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:36:03.212Z",
+      "msg": "search \"Fullerton College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:36:04.828Z",
+      "msg": "search \"Fullerton College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:36:06.465Z",
+      "msg": "search \"Fullerton College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:36:08.002Z",
+      "msg": "search \"Fullerton College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:36:08.003Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-08T23:36:08.003Z",
+      "msg": "Top candidate: https://www.fullcoll.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-08T23:36:08.655Z",
+      "msg": "probe https://www.fullcoll.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:36:09.500Z",
+      "msg": "probe https://www.fullcoll.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:36:10.257Z",
+      "msg": "probe https://www.fullcoll.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:36:11.038Z",
+      "msg": "probe https://www.fullcoll.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:36:11.868Z",
+      "msg": "probe https://www.fullcoll.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:36:12.763Z",
+      "msg": "probe https://www.fullcoll.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:36:13.504Z",
+      "msg": "probe https://www.fullcoll.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:36:14.609Z",
+      "msg": "probe https://www.fullcoll.edu/academics/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:36:15.345Z",
+      "msg": "probe https://www.fullcoll.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:36:16.251Z",
+      "msg": "probe https://fullcoll.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:36:16.851Z",
+      "msg": "probe https://fullcoll.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:36:17.390Z",
+      "msg": "probe https://fullcoll.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:36:17.999Z",
+      "msg": "probe https://fullcoll.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:36:18.598Z",
+      "msg": "probe https://fullcoll.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:36:19.213Z",
+      "msg": "probe https://fullcoll.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:36:19.706Z",
+      "msg": "probe https://fullcoll.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:36:20.572Z",
+      "msg": "probe https://fullcoll.edu/academics/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:36:21.159Z",
+      "msg": "probe https://fullcoll.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:36:25.530Z",
+      "msg": "probe https://ssb.fullcoll.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:36:29.852Z",
+      "msg": "probe https://banner.fullcoll.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:36:34.213Z",
+      "msg": "probe https://selfservice.fullcoll.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:36:39.080Z",
+      "msg": "probe https://ssb-prod.fullcoll.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:36:43.571Z",
+      "msg": "probe https://my.fullcoll.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:36:48.044Z",
+      "msg": "probe https://webadvisor.fullcoll.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:36:52.490Z",
+      "msg": "probe https://reg.fullcoll.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:36:52.924Z",
+      "msg": "probe https://catalog.fullcoll.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:36:53.072Z",
+      "msg": "probe https://catalog.fullcoll.edu/course-outlines/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:36:53.201Z",
+      "msg": "probe https://catalog.fullcoll.edu/courses/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:36:53.202Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T23:36:53.208Z",
+      "msg": "✅ SOLVED — 4 courses ingested into the searchable DB (strategy: Explore real homepage links (HTTP))."
     }
-  ]
+  ],
+  "strategy": "Explore real homepage links (HTTP)"
 }

@@ -1,0 +1,100 @@
+{
+  "slug": "college-of-san-mateo",
+  "name": "College of San Mateo",
+  "url": "https://www.collegeofsanmateo.edu/",
+  "live": true,
+  "courseCount": 7,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": "web-search",
+  "extractUrl": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp",
+  "status": "live",
+  "lastStatus": "ok: 7 courses via auto (auto-learned)",
+  "reason": "Partial capture — only 7 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "May 15",
+      "title": "MTWTh, MWF, MW, Daily",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp"
+    },
+    {
+      "code": "May 21",
+      "title": "TTh, T, Th",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp"
+    },
+    {
+      "code": "May 18",
+      "title": "MWF, MW, Daily",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp"
+    },
+    {
+      "code": "May 19",
+      "title": "TTh, T, Th",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp"
+    },
+    {
+      "code": "May 20",
+      "title": "MWF, MW, Daily",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp"
+    },
+    {
+      "code": "May 18",
+      "title": "MTWTh, MWF, MW, Daily",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp"
+    },
+    {
+      "code": "May 15",
+      "title": "All Others",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp"
+    }
+  ]
+}

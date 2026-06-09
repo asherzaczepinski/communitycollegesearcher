@@ -3,244 +3,1216 @@
   "name": "Compton College",
   "url": "https://www.compton.edu/",
   "status": "impossible",
-  "attempts": 3,
+  "attempts": 18,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
   "blocked": null,
-  "note": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "startedAt": "2026-06-08T17:12:27.888Z",
-  "finishedAt": "2026-06-08T17:13:26.532Z",
-  "updatedAt": "2026-06-08T17:13:26.532Z",
+  "note": "No login wall found, but no public schedule surfaced through 5 strategies incl. an exhaustive search sweep. Retryable.",
+  "startedAt": "2026-06-09T03:55:22.354Z",
+  "finishedAt": "2026-06-09T04:00:07.019Z",
+  "updatedAt": "2026-06-09T04:05:07.921Z",
   "log": [
     {
-      "t": "2026-06-08T17:12:27.888Z",
-      "msg": "▶ Starting Compton College — https://www.compton.edu/"
+      "t": "2026-06-08T22:29:04.963Z",
+      "msg": "  sitemap https://www.compton.edu/sitemap.xml → 17130 entries"
     },
     {
-      "t": "2026-06-08T17:12:27.888Z",
-      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
+      "t": "2026-06-08T22:29:05.057Z",
+      "msg": "  sitemap https://www.compton.edu/sitemap_index.xml → none"
     },
     {
-      "t": "2026-06-08T17:12:27.888Z",
-      "msg": "Fetching homepage https://www.compton.edu/ …"
+      "t": "2026-06-08T22:29:05.066Z",
+      "msg": "  sitemap https://www.compton.edu/sitemap-index.xml → none"
     },
     {
-      "t": "2026-06-08T17:12:28.167Z",
-      "msg": "Homepage: 1 schedule + 2 catalog link(s); platform unknown."
+      "t": "2026-06-08T22:29:05.074Z",
+      "msg": "  sitemap mining → 17002 URL(s), 1030 course-ish to probe"
     },
     {
-      "t": "2026-06-08T17:12:28.239Z",
+      "t": "2026-06-08T22:29:12.774Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-08T22:29:14.545Z",
+      "msg": "  explore https://www.compton.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:29:14.608Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:29:19.891Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/docs/Summer-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:29:26.852Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/docs/Fall-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:29:27.216Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/how-to-register.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:29:27.318Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:29:33.676Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/docs/Summer-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:29:39.927Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/docs/Fall-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:29:40.062Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/how-to-register.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:29:40.151Z",
+      "msg": "  explore https://www.compton.edu/academics/catalog.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:29:40.221Z",
+      "msg": "  explore http://www.compton.edu/academics/catalog.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:29:40.242Z",
+      "msg": "  explore https://www.compton.edu/academics/catalog.aspx# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:30:00.070Z",
+      "msg": "  explore https://www.compton.edu/academics/docs/2025-2026_Compton-College-Catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:30:00.829Z",
+      "msg": "  explore https://www.compton.edu/academics/docs/Spring26-Catalog-Addendum_5Jan26.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:30:00.836Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-08T22:30:09.443Z",
+      "msg": "  google \"Compton College schedule of classes\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:30:48.864Z",
+      "msg": "  google \"Compton College search for classes\" → 6 hit(s) (+6 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:30:57.190Z",
+      "msg": "  google \"Compton College class schedule 2026\" → 6 hit(s) (+3 new, 15 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:31:26.471Z",
+      "msg": "  google \"Compton College class schedule spring 2026\" → 0 hit(s) (+0 new, 15 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:31:34.710Z",
+      "msg": "  google \"Compton College class schedule fall 2026\" → 6 hit(s) (+1 new, 16 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:31:43.911Z",
+      "msg": "  google \"Compton College public class search\" → 6 hit(s) (+1 new, 17 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:31:52.356Z",
+      "msg": "  google \"Compton College self service banner class search\" → 6 hit(s) (+6 new, 23 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:32:00.901Z",
+      "msg": "  google \"Compton College ellucian self service class schedule\" → 1 hit(s) (+1 new, 24 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:32:09.814Z",
+      "msg": "  google \"Compton College webadvisor class schedule\" → 6 hit(s) (+6 new, 30 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:32:28.957Z",
+      "msg": "  google \"Compton College courses by subject\" → 6 hit(s) (+4 new, 34 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:32:37.713Z",
+      "msg": "  google \"Compton College course catalog\" → 6 hit(s) (+3 new, 37 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:32:56.246Z",
+      "msg": "  google \"site:compton.edu schedule of classes\" → 6 hit(s) (+5 new, 42 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:33:04.330Z",
+      "msg": "  google \"site:compton.edu class schedule\" → 6 hit(s) (+1 new, 43 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:33:04.475Z",
+      "msg": "  probe https://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:04.611Z",
+      "msg": "  probe https://www.compton.edu/academics/catalog.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:05.260Z",
+      "msg": "  probe https://2urbangirls.com/2022/09/2022-09-enroll-register-now-for-fall-2022-midterm-classes-at-compton-college/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:05.919Z",
+      "msg": "  probe https://2urbangirls.com/2023/09/enroll-register-now-for-fall-2023-midterm-classes-at-compton-college/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:06.561Z",
+      "msg": "  probe https://2urbangirls.com/2022/05/2022-05-register-for-summer-2022-classes-at-compton-college/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:06.628Z",
+      "msg": "  probe https://www.compton.edu/admissions-aid/how-to-register.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:07.213Z",
+      "msg": "  probe https://2urbangirls.com/2024/08/register-now-for-compton-colleges-fall-2024-semester/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:07.802Z",
+      "msg": "  probe https://2urbangirls.com/2022/11/registration-open-for-compton-college-winter-spring-2023/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:11.044Z",
+      "msg": "  probe https://www.compton.k12.ca.us/news-releases/2024/march/compton-unified-k-7-summer-academy-registration-open-now → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:11.082Z",
+      "msg": "  probe https://www.compton.edu/admissions-aid/fees-nav/index.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:11.625Z",
+      "msg": "  probe https://2urbangirls.com/2022/10/2022-10-compton-college-encourages-local-high-school-seniors-college-bound-students-to-apply-for-2023-24-financial-aid/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:12.499Z",
+      "msg": "  probe http://www.systemicimpactgrid.com/4c8we4d/college-of-the-canyons-admissions-and-records → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:12.718Z",
+      "msg": "  probe https://www.compton.edu/Academics/Majors/index.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:12.809Z",
+      "msg": "  probe https://www.compton.edu/academics/calendar.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:12.996Z",
+      "msg": "  probe https://www.compton.edu/admissions-aid/fees.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:13.082Z",
+      "msg": "  probe https://www.compton.edu/student-success-center/index.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:15.031Z",
+      "msg": "  probe https://catalog.compton.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:21.067Z",
+      "msg": "  probe https://www.compton.edu/admissions-aid/docs/Summer-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:21.595Z",
+      "msg": "  probe https://2urbangirls.com/2022/09/2022-09-enroll-register-now-for-fall-2022-midterm-classes-at-compton-college/#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:22.164Z",
+      "msg": "  probe https://2urbangirls.com/2022/09/2022-09-enroll-register-now-for-fall-2022-midterm-classes-at-compton-college/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:22.789Z",
+      "msg": "  probe https://2urbangirls.com/2023/09/enroll-register-now-for-fall-2023-midterm-classes-at-compton-college/#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:23.307Z",
+      "msg": "  probe https://2urbangirls.com/2023/09/enroll-register-now-for-fall-2023-midterm-classes-at-compton-college/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:23.308Z",
+      "msg": "  render+drive https://www.compton.edu/admissions-aid/ClassSchedule.aspx …"
+    },
+    {
+      "t": "2026-06-08T22:33:32.036Z",
+      "msg": "  render https://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:33:32.037Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-08T22:33:50.757Z",
+      "msg": "search \"Compton College schedule of classes\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-08T22:34:09.661Z",
+      "msg": "search \"Compton College search for classes\" → 8 hit(s) (15 unique so far)"
+    },
+    {
+      "t": "2026-06-08T22:34:09.662Z",
+      "msg": "Web search returned 15 result(s)."
+    },
+    {
+      "t": "2026-06-08T22:34:09.663Z",
+      "msg": "Top candidate: https://www.compton.edu/admissions-aid/ClassSchedule.aspx (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-08T22:34:09.747Z",
       "msg": "probe https://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 (no courses)"
     },
     {
-      "t": "2026-06-08T17:12:28.294Z",
-      "msg": "probe https://www.compton.edu/academics/catalog.aspx → 0 (no courses)"
-    },
-    {
-      "t": "2026-06-08T17:12:28.584Z",
-      "msg": "probe https://programmap.compton.edu/academics → 0 (no courses)"
-    },
-    {
-      "t": "2026-06-08T17:12:28.613Z",
-      "msg": "probe https://catalog.compton.edu/ → 0 (fetch failed)"
-    },
-    {
-      "t": "2026-06-08T17:12:28.617Z",
-      "msg": "probe https://catalog.compton.edu/course-outlines/ → 0 (fetch failed)"
-    },
-    {
-      "t": "2026-06-08T17:12:28.621Z",
-      "msg": "probe https://catalog.compton.edu/courses/ → 0 (fetch failed)"
-    },
-    {
-      "t": "2026-06-08T17:12:28.623Z",
-      "msg": "probe https://catalog.compton.edu/coursesaz/ → 0 (fetch failed)"
-    },
-    {
-      "t": "2026-06-08T17:12:28.626Z",
-      "msg": "probe https://catalog.compton.edu/course-descriptions/ → 0 (fetch failed)"
-    },
-    {
-      "t": "2026-06-08T17:12:28.987Z",
-      "msg": "probe https://cmptn-prod-pxes02.banner.elluciancloud.com:8090/StudentRegistrationSsb/ssb/term/termSelection?mode=search → 0 (no courses)"
-    },
-    {
-      "t": "2026-06-08T17:12:29.011Z",
-      "msg": "probe https://www.compton.edu/admissions-aid/docs/Summer-2026-Class-Schedule.pdf → 0 (HTTP 406)"
-    },
-    {
-      "t": "2026-06-08T17:12:29.041Z",
-      "msg": "probe https://www.compton.edu/admissions-aid/docs/Fall-2026-Class-Schedule.pdf → 0 (HTTP 406)"
-    },
-    {
-      "t": "2026-06-08T17:12:29.043Z",
-      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
-    },
-    {
-      "t": "2026-06-08T17:12:31.522Z",
-      "msg": "Web search returned 6 result(s)."
-    },
-    {
-      "t": "2026-06-08T17:12:31.523Z",
-      "msg": "Top candidate: https://www.compton.edu/admissions-aid/ClassSchedule.aspx (platform: unknown)."
-    },
-    {
-      "t": "2026-06-08T17:12:31.583Z",
-      "msg": "probe https://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 (no courses)"
-    },
-    {
-      "t": "2026-06-08T17:12:31.635Z",
+      "t": "2026-06-08T22:34:09.853Z",
       "msg": "probe https://www.compton.edu/about/presidentceo/index.aspx → 0 (no courses)"
     },
     {
-      "t": "2026-06-08T17:12:31.662Z",
+      "t": "2026-06-08T22:34:10.014Z",
       "msg": "probe https://www.compton.edu/district/ → 0 (no courses)"
     },
     {
-      "t": "2026-06-08T17:12:31.670Z",
+      "t": "2026-06-08T22:34:10.049Z",
       "msg": "probe https://www.compton.edu/admissions-aid/fees-nav/index.aspx → 0 (HTTP 404)"
     },
     {
-      "t": "2026-06-08T17:12:31.820Z",
-      "msg": "probe https://www.compton.edu/cchpp/index.aspx → 0 (no courses)"
+      "t": "2026-06-08T22:34:10.182Z",
+      "msg": "probe https://www.compton.edu/college-promise/index.aspx → 0 (no courses)"
     },
     {
-      "t": "2026-06-08T17:12:32.441Z",
+      "t": "2026-06-08T22:34:10.778Z",
+      "msg": "probe https://2urbangirls.com/2022/09/2022-09-enroll-register-now-for-fall-2022-midterm-classes-at-compton-college/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T22:34:11.367Z",
       "msg": "probe https://2urbangirls.com/2024/08/register-now-for-compton-colleges-fall-2024-semester/ → 0 (no courses)"
     },
     {
-      "t": "2026-06-08T17:12:32.638Z",
-      "msg": "probe https://cmptn-prod-pxes02.banner.elluciancloud.com:8090/StudentRegistrationSsb/ssb/term/termSelection?mode=search → 0 (no courses)"
+      "t": "2026-06-08T22:34:11.576Z",
+      "msg": "probe https://citypridemagazine.com/compton-college-honors-spring-2024-nursing-graduates-at-pinning-ceremony/ → 0 (no courses)"
     },
     {
-      "t": "2026-06-08T17:12:32.647Z",
-      "msg": "probe https://www.compton.edu/admissions-aid/docs/Summer-2026-Class-Schedule.pdf → 0 (HTTP 406)"
+      "t": "2026-06-08T22:34:11.961Z",
+      "msg": "probe https://wavepublication.com/tag/compton-college-class-of-2024/ → 0 (no courses)"
     },
     {
-      "t": "2026-06-08T17:12:32.655Z",
-      "msg": "probe https://www.compton.edu/admissions-aid/docs/Fall-2026-Class-Schedule.pdf → 0 (HTTP 406)"
+      "t": "2026-06-08T22:34:12.361Z",
+      "msg": "probe https://wavepublication.com/compton-college-grad-is-dedicated-to-serving-underserved/ → 0 (no courses)"
     },
     {
-      "t": "2026-06-08T17:12:32.755Z",
-      "msg": "probe https://www.compton.edu/district/board-of-trustees/meetings.aspx → 0 (no courses)"
+      "t": "2026-06-08T22:34:12.370Z",
+      "msg": "probe https://www.compton.edu/schedule → 0 (HTTP 404)"
     },
     {
-      "t": "2026-06-08T17:12:32.756Z",
+      "t": "2026-06-08T22:34:12.379Z",
+      "msg": "probe https://www.compton.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:34:12.387Z",
+      "msg": "probe https://www.compton.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:34:12.396Z",
+      "msg": "probe https://www.compton.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:34:12.404Z",
+      "msg": "probe https://www.compton.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:34:12.414Z",
+      "msg": "probe https://www.compton.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:34:12.423Z",
+      "msg": "probe https://www.compton.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:34:12.432Z",
+      "msg": "probe https://www.compton.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:34:12.441Z",
+      "msg": "probe https://www.compton.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:34:14.039Z",
+      "msg": "probe https://compton.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:34:15.487Z",
+      "msg": "probe https://compton.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:34:17.041Z",
+      "msg": "probe https://compton.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:34:18.544Z",
+      "msg": "probe https://compton.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:34:20.066Z",
+      "msg": "probe https://compton.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:34:21.854Z",
+      "msg": "probe https://compton.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:34:23.734Z",
+      "msg": "probe https://compton.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:34:25.593Z",
+      "msg": "probe https://compton.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:34:27.198Z",
+      "msg": "probe https://compton.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:34:27.200Z",
       "msg": "Plain HTTP came up thin — escalating to the headless browser…"
     },
     {
-      "t": "2026-06-08T17:12:32.756Z",
+      "t": "2026-06-08T22:34:27.200Z",
       "msg": "render (headless Chrome) https://www.compton.edu/admissions-aid/ClassSchedule.aspx …"
     },
     {
-      "t": "2026-06-08T17:12:41.451Z",
+      "t": "2026-06-08T22:34:35.805Z",
       "msg": "browser https://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 courses"
     },
     {
-      "t": "2026-06-08T17:12:41.452Z",
+      "t": "2026-06-08T22:34:35.805Z",
       "msg": "render (headless Chrome) https://www.compton.edu/about/presidentceo/index.aspx …"
     },
     {
-      "t": "2026-06-08T17:12:49.751Z",
+      "t": "2026-06-08T22:34:45.303Z",
       "msg": "browser https://www.compton.edu/about/presidentceo/index.aspx → 0 courses"
     },
     {
-      "t": "2026-06-08T17:12:49.752Z",
+      "t": "2026-06-08T22:34:45.304Z",
       "msg": "render (headless Chrome) https://www.compton.edu/district/ …"
     },
     {
-      "t": "2026-06-08T17:12:59.073Z",
+      "t": "2026-06-08T22:34:53.909Z",
       "msg": "browser https://www.compton.edu/district/ → 0 courses"
     },
     {
-      "t": "2026-06-08T17:12:59.074Z",
-      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+      "t": "2026-06-08T22:34:53.909Z",
+      "msg": "render (headless Chrome) https://www.compton.edu/admissions-aid/fees-nav/index.aspx …"
     },
     {
-      "t": "2026-06-08T17:12:59.074Z",
-      "msg": "Fetching homepage https://www.compton.edu/ …"
+      "t": "2026-06-08T22:35:00.597Z",
+      "msg": "browser https://www.compton.edu/admissions-aid/fees-nav/index.aspx → 0 courses"
     },
     {
-      "t": "2026-06-08T17:12:59.172Z",
-      "msg": "Homepage: 1 schedule + 2 catalog link(s); platform unknown."
+      "t": "2026-06-08T22:35:00.598Z",
+      "msg": "render (headless Chrome) https://www.compton.edu/college-promise/index.aspx …"
     },
     {
-      "t": "2026-06-08T17:12:59.303Z",
+      "t": "2026-06-08T22:35:09.150Z",
+      "msg": "browser https://www.compton.edu/college-promise/index.aspx → 0 courses"
+    },
+    {
+      "t": "2026-06-08T22:35:09.150Z",
+      "msg": "render (headless Chrome) https://2urbangirls.com/2022/09/2022-09-enroll-register-now-for-fall-2022-midterm-classes-at-compton-college/ …"
+    },
+    {
+      "t": "2026-06-08T22:35:22.164Z",
+      "msg": "browser https://2urbangirls.com/2022/09/2022-09-enroll-register-now-for-fall-2022-midterm-classes-at-compton-college/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T22:35:22.167Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T03:39:31.363Z",
+      "msg": "▶ Solving Compton College — https://www.compton.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T03:39:31.364Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T03:39:31.522Z",
+      "msg": "  explore https://www.compton.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:31.677Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:32.578Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/docs/Summer-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:34.227Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/docs/Fall-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:34.521Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/how-to-register.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:34.651Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:35.614Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/docs/Summer-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:37.033Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/docs/Fall-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:37.067Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/how-to-register.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:37.107Z",
+      "msg": "  explore https://www.compton.edu/academics/catalog.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:37.183Z",
+      "msg": "  explore http://www.compton.edu/academics/catalog.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:37.221Z",
+      "msg": "  explore https://www.compton.edu/academics/catalog.aspx# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:43.118Z",
+      "msg": "  explore https://www.compton.edu/academics/docs/2025-2026_Compton-College-Catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:43.844Z",
+      "msg": "  explore https://www.compton.edu/academics/docs/Spring26-Catalog-Addendum_5Jan26.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:44.224Z",
+      "msg": "  explore https://www.compton.edu/academics/docs/2024-2025_Compton-College-Catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:44.415Z",
+      "msg": "  explore https://www.compton.edu/academics/docs/Jan25-Catalog-Addendum.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:44.444Z",
+      "msg": "  explore https://www.compton.edu/academics/health-public-services/nursing/index.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:44.476Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/how-to-register.aspx# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:44.927Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/RegisterwithAddCode.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:44.970Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/how-to-register.aspx#collapse_d8e107 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:45.022Z",
+      "msg": "  explore https://www.compton.edu/start-here/high-school-students.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:45.052Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/admissions-records/high-school-students.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:45.053Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T03:39:45.226Z",
+      "msg": "  sitemap https://www.compton.edu/sitemap.xml → 17130 entries"
+    },
+    {
+      "t": "2026-06-09T03:39:45.434Z",
+      "msg": "  sitemap https://www.compton.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T03:39:45.457Z",
+      "msg": "  sitemap https://www.compton.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T03:39:45.459Z",
+      "msg": "  sitemap mining → 17002 URL(s), 1030 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T03:39:47.403Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T03:39:50.417Z",
+      "msg": "  explore https://www.compton.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:50.447Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:51.198Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/docs/Summer-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:52.825Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/docs/Fall-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:53.096Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/how-to-register.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:53.204Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:54.174Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/docs/Summer-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:55.596Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/docs/Fall-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:55.631Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/how-to-register.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:55.660Z",
+      "msg": "  explore https://www.compton.edu/academics/catalog.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:55.690Z",
+      "msg": "  explore http://www.compton.edu/academics/catalog.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:39:55.714Z",
+      "msg": "  explore https://www.compton.edu/academics/catalog.aspx# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:40:01.429Z",
+      "msg": "  explore https://www.compton.edu/academics/docs/2025-2026_Compton-College-Catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:40:02.110Z",
+      "msg": "  explore https://www.compton.edu/academics/docs/Spring26-Catalog-Addendum_5Jan26.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:40:02.115Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T03:42:02.119Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T03:42:02.180Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T03:42:17.233Z",
+      "msg": "  google \"Compton College schedule of classes\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:44:02.183Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T03:44:02.236Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T03:44:19.004Z",
+      "msg": "search \"Compton College schedule of classes\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-09T03:44:35.628Z",
+      "msg": "  google \"Compton College search for classes\" → 6 hit(s) (+6 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:46:33.759Z",
+      "msg": "search \"Compton College search for classes\" → 8 hit(s) (15 unique so far)"
+    },
+    {
+      "t": "2026-06-09T03:46:33.760Z",
+      "msg": "Web search returned 15 result(s)."
+    },
+    {
+      "t": "2026-06-09T03:46:33.761Z",
+      "msg": "Top candidate: https://www.compton.edu/admissions-aid/ClassSchedule.aspx (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T03:46:33.924Z",
       "msg": "probe https://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 (no courses)"
     },
     {
-      "t": "2026-06-08T17:12:59.338Z",
-      "msg": "probe https://www.compton.edu/academics/catalog.aspx → 0 (no courses)"
+      "t": "2026-06-09T03:46:34.082Z",
+      "msg": "probe https://www.compton.edu/about/presidentceo/index.aspx → 0 (no courses)"
     },
     {
-      "t": "2026-06-08T17:12:59.489Z",
-      "msg": "probe https://programmap.compton.edu/academics → 0 (no courses)"
+      "t": "2026-06-09T03:46:34.143Z",
+      "msg": "probe https://www.compton.edu/district/ → 0 (no courses)"
     },
     {
-      "t": "2026-06-08T17:12:59.495Z",
-      "msg": "probe https://catalog.compton.edu/ → 0 (fetch failed)"
+      "t": "2026-06-09T03:46:34.163Z",
+      "msg": "probe https://www.compton.edu/admissions-aid/fees-nav/index.aspx → 0 (HTTP 404)"
     },
     {
-      "t": "2026-06-08T17:12:59.498Z",
-      "msg": "probe https://catalog.compton.edu/course-outlines/ → 0 (fetch failed)"
+      "t": "2026-06-09T03:46:34.203Z",
+      "msg": "probe https://www.compton.edu/college-promise/index.aspx → 0 (no courses)"
     },
     {
-      "t": "2026-06-08T17:12:59.501Z",
-      "msg": "probe https://catalog.compton.edu/courses/ → 0 (fetch failed)"
+      "t": "2026-06-09T03:46:34.846Z",
+      "msg": "probe https://2urbangirls.com/2022/09/2022-09-enroll-register-now-for-fall-2022-midterm-classes-at-compton-college/ → 0 (no courses)"
     },
     {
-      "t": "2026-06-08T17:12:59.503Z",
-      "msg": "probe https://catalog.compton.edu/coursesaz/ → 0 (fetch failed)"
+      "t": "2026-06-09T03:46:35.543Z",
+      "msg": "probe https://2urbangirls.com/2024/08/register-now-for-compton-colleges-fall-2024-semester/ → 0 (no courses)"
     },
     {
-      "t": "2026-06-08T17:12:59.505Z",
-      "msg": "probe https://catalog.compton.edu/course-descriptions/ → 0 (fetch failed)"
+      "t": "2026-06-09T03:46:36.608Z",
+      "msg": "probe https://citypridemagazine.com/compton-college-honors-spring-2024-nursing-graduates-at-pinning-ceremony/ → 0 (no courses)"
     },
     {
-      "t": "2026-06-08T17:12:59.855Z",
-      "msg": "probe https://cmptn-prod-pxes02.banner.elluciancloud.com:8090/StudentRegistrationSsb/ssb/term/termSelection?mode=search → 0 (no courses)"
+      "t": "2026-06-09T03:46:37.141Z",
+      "msg": "probe https://wavepublication.com/tag/compton-college-class-of-2024/ → 0 (no courses)"
     },
     {
-      "t": "2026-06-08T17:12:59.865Z",
-      "msg": "probe https://www.compton.edu/admissions-aid/docs/Summer-2026-Class-Schedule.pdf → 0 (HTTP 406)"
+      "t": "2026-06-09T03:46:37.566Z",
+      "msg": "probe https://wavepublication.com/compton-college-grad-is-dedicated-to-serving-underserved/ → 0 (no courses)"
     },
     {
-      "t": "2026-06-08T17:12:59.876Z",
-      "msg": "probe https://www.compton.edu/admissions-aid/docs/Fall-2026-Class-Schedule.pdf → 0 (HTTP 406)"
+      "t": "2026-06-09T03:46:37.586Z",
+      "msg": "probe https://www.compton.edu/schedule → 0 (HTTP 404)"
     },
     {
-      "t": "2026-06-08T17:12:59.877Z",
+      "t": "2026-06-09T03:46:37.608Z",
+      "msg": "probe https://www.compton.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:46:37.629Z",
+      "msg": "probe https://www.compton.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:46:37.654Z",
+      "msg": "probe https://www.compton.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:46:37.680Z",
+      "msg": "probe https://www.compton.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:46:37.702Z",
+      "msg": "probe https://www.compton.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:46:37.724Z",
+      "msg": "probe https://www.compton.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:46:37.747Z",
+      "msg": "probe https://www.compton.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:46:37.771Z",
+      "msg": "probe https://www.compton.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:46:39.577Z",
+      "msg": "probe https://compton.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:46:41.183Z",
+      "msg": "probe https://compton.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:46:42.669Z",
+      "msg": "probe https://compton.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:46:44.338Z",
+      "msg": "probe https://compton.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:46:46.075Z",
+      "msg": "probe https://compton.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:46:47.652Z",
+      "msg": "probe https://compton.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:46:49.153Z",
+      "msg": "probe https://compton.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:46:50.101Z",
+      "msg": "  google \"Compton College class schedule 2026\" → 6 hit(s) (+3 new, 15 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:46:50.690Z",
+      "msg": "probe https://compton.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:46:52.443Z",
+      "msg": "probe https://compton.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:46:52.444Z",
       "msg": "Plain HTTP came up thin — escalating to the headless browser…"
     },
     {
-      "t": "2026-06-08T17:12:59.878Z",
+      "t": "2026-06-09T03:46:52.445Z",
       "msg": "render (headless Chrome) https://www.compton.edu/admissions-aid/ClassSchedule.aspx …"
     },
     {
-      "t": "2026-06-08T17:13:08.477Z",
+      "t": "2026-06-09T03:47:02.426Z",
       "msg": "browser https://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 courses"
     },
     {
-      "t": "2026-06-08T17:13:08.478Z",
-      "msg": "render (headless Chrome) https://www.compton.edu/academics/catalog.aspx …"
+      "t": "2026-06-09T03:47:02.426Z",
+      "msg": "render (headless Chrome) https://www.compton.edu/about/presidentceo/index.aspx …"
     },
     {
-      "t": "2026-06-08T17:13:17.048Z",
-      "msg": "browser https://www.compton.edu/academics/catalog.aspx → 0 courses"
+      "t": "2026-06-09T03:47:11.845Z",
+      "msg": "browser https://www.compton.edu/about/presidentceo/index.aspx → 0 courses"
     },
     {
-      "t": "2026-06-08T17:13:17.049Z",
-      "msg": "render (headless Chrome) https://programmap.compton.edu/academics …"
+      "t": "2026-06-09T03:47:11.846Z",
+      "msg": "render (headless Chrome) https://www.compton.edu/district/ …"
     },
     {
-      "t": "2026-06-08T17:13:26.531Z",
-      "msg": "browser https://programmap.compton.edu/academics → 0 courses"
+      "t": "2026-06-09T03:47:20.421Z",
+      "msg": "browser https://www.compton.edu/district/ → 0 courses"
     },
     {
-      "t": "2026-06-08T17:13:26.532Z",
-      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+      "t": "2026-06-09T03:47:20.421Z",
+      "msg": "render (headless Chrome) https://www.compton.edu/admissions-aid/fees-nav/index.aspx …"
+    },
+    {
+      "t": "2026-06-09T03:47:27.102Z",
+      "msg": "browser https://www.compton.edu/admissions-aid/fees-nav/index.aspx → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:47:27.103Z",
+      "msg": "render (headless Chrome) https://www.compton.edu/college-promise/index.aspx …"
+    },
+    {
+      "t": "2026-06-09T03:47:35.672Z",
+      "msg": "browser https://www.compton.edu/college-promise/index.aspx → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:47:35.673Z",
+      "msg": "render (headless Chrome) https://2urbangirls.com/2022/09/2022-09-enroll-register-now-for-fall-2022-midterm-classes-at-compton-college/ …"
+    },
+    {
+      "t": "2026-06-09T03:47:51.513Z",
+      "msg": "browser https://2urbangirls.com/2022/09/2022-09-enroll-register-now-for-fall-2022-midterm-classes-at-compton-college/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:49:02.714Z",
+      "msg": "  google \"Compton College class schedule spring 2026\" → 0 hit(s) (+0 new, 15 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:55:22.354Z",
+      "msg": "▶ Solving Compton College — https://www.compton.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T03:55:22.354Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T03:55:22.479Z",
+      "msg": "  explore https://www.compton.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:22.603Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:23.980Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/docs/Summer-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:26.004Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/docs/Fall-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:26.306Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/how-to-register.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:26.402Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:27.605Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/docs/Summer-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:29.226Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/docs/Fall-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:29.266Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/how-to-register.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:29.287Z",
+      "msg": "  explore https://www.compton.edu/academics/catalog.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:29.320Z",
+      "msg": "  explore http://www.compton.edu/academics/catalog.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:29.345Z",
+      "msg": "  explore https://www.compton.edu/academics/catalog.aspx# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:39.787Z",
+      "msg": "  explore https://www.compton.edu/academics/docs/2025-2026_Compton-College-Catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:40.550Z",
+      "msg": "  explore https://www.compton.edu/academics/docs/Spring26-Catalog-Addendum_5Jan26.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:41.031Z",
+      "msg": "  explore https://www.compton.edu/academics/docs/2024-2025_Compton-College-Catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:41.234Z",
+      "msg": "  explore https://www.compton.edu/academics/docs/Jan25-Catalog-Addendum.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:41.259Z",
+      "msg": "  explore https://www.compton.edu/academics/health-public-services/nursing/index.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:41.292Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/how-to-register.aspx# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:41.869Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/RegisterwithAddCode.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:41.905Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/how-to-register.aspx#collapse_d8e107 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:41.934Z",
+      "msg": "  explore https://www.compton.edu/start-here/high-school-students.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:41.969Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/admissions-records/high-school-students.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:41.969Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T03:55:42.092Z",
+      "msg": "  sitemap https://www.compton.edu/sitemap.xml → 17130 entries"
+    },
+    {
+      "t": "2026-06-09T03:55:42.285Z",
+      "msg": "  sitemap https://www.compton.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T03:55:42.309Z",
+      "msg": "  sitemap https://www.compton.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T03:55:42.315Z",
+      "msg": "  sitemap mining → 17002 URL(s), 1030 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T03:55:44.952Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T03:55:47.912Z",
+      "msg": "  explore https://www.compton.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:47.955Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:49.054Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/docs/Summer-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:50.960Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/docs/Fall-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:51.246Z",
+      "msg": "  explore https://www.compton.edu/admissions-aid/how-to-register.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:51.359Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:52.686Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/docs/Summer-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:54.441Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/docs/Fall-2026-Class-Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:54.471Z",
+      "msg": "  explore http://www.compton.edu/admissions-aid/how-to-register.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:54.498Z",
+      "msg": "  explore https://www.compton.edu/academics/catalog.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:54.530Z",
+      "msg": "  explore http://www.compton.edu/academics/catalog.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:55:54.555Z",
+      "msg": "  explore https://www.compton.edu/academics/catalog.aspx# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:56:06.150Z",
+      "msg": "  explore https://www.compton.edu/academics/docs/2025-2026_Compton-College-Catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:56:06.893Z",
+      "msg": "  explore https://www.compton.edu/academics/docs/Spring26-Catalog-Addendum_5Jan26.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:56:06.900Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T03:58:06.903Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T03:58:06.959Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T03:58:22.742Z",
+      "msg": "  google \"Compton College schedule of classes\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:00:06.962Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T04:00:07.019Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T04:00:25.636Z",
+      "msg": "search \"Compton College schedule of classes\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:00:42.134Z",
+      "msg": "  google \"Compton College search for classes\" → 6 hit(s) (+6 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:02:38.391Z",
+      "msg": "search \"Compton College search for classes\" → 8 hit(s) (15 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:02:38.392Z",
+      "msg": "Web search returned 15 result(s)."
+    },
+    {
+      "t": "2026-06-09T04:02:38.393Z",
+      "msg": "Top candidate: https://www.compton.edu/admissions-aid/ClassSchedule.aspx (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T04:02:38.537Z",
+      "msg": "probe https://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:02:38.686Z",
+      "msg": "probe https://www.compton.edu/about/presidentceo/index.aspx → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:02:38.740Z",
+      "msg": "probe https://www.compton.edu/district/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:02:38.757Z",
+      "msg": "probe https://www.compton.edu/admissions-aid/fees-nav/index.aspx → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:38.800Z",
+      "msg": "probe https://www.compton.edu/college-promise/index.aspx → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:02:39.819Z",
+      "msg": "probe https://2urbangirls.com/2022/09/2022-09-enroll-register-now-for-fall-2022-midterm-classes-at-compton-college/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:02:40.386Z",
+      "msg": "probe https://2urbangirls.com/2024/08/register-now-for-compton-colleges-fall-2024-semester/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:02:40.583Z",
+      "msg": "probe https://citypridemagazine.com/compton-college-honors-spring-2024-nursing-graduates-at-pinning-ceremony/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:02:40.952Z",
+      "msg": "probe https://wavepublication.com/tag/compton-college-class-of-2024/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:02:41.359Z",
+      "msg": "probe https://wavepublication.com/compton-college-grad-is-dedicated-to-serving-underserved/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:02:41.381Z",
+      "msg": "probe https://www.compton.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:41.398Z",
+      "msg": "probe https://www.compton.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:41.417Z",
+      "msg": "probe https://www.compton.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:41.440Z",
+      "msg": "probe https://www.compton.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:41.461Z",
+      "msg": "probe https://www.compton.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:41.479Z",
+      "msg": "probe https://www.compton.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:41.501Z",
+      "msg": "probe https://www.compton.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:41.522Z",
+      "msg": "probe https://www.compton.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:41.544Z",
+      "msg": "probe https://www.compton.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:43.438Z",
+      "msg": "probe https://compton.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:45.149Z",
+      "msg": "probe https://compton.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:46.879Z",
+      "msg": "probe https://compton.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:48.936Z",
+      "msg": "probe https://compton.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:50.775Z",
+      "msg": "probe https://compton.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:52.387Z",
+      "msg": "probe https://compton.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:54.155Z",
+      "msg": "probe https://compton.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:55.269Z",
+      "msg": "  google \"Compton College class schedule 2026\" → 0 hit(s) (+0 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:02:55.618Z",
+      "msg": "probe https://compton.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:57.247Z",
+      "msg": "probe https://compton.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:02:57.248Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T04:02:57.248Z",
+      "msg": "render (headless Chrome) https://www.compton.edu/admissions-aid/ClassSchedule.aspx …"
+    },
+    {
+      "t": "2026-06-09T04:03:06.973Z",
+      "msg": "browser https://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 courses"
+    },
+    {
+      "t": "2026-06-09T04:03:06.974Z",
+      "msg": "render (headless Chrome) https://www.compton.edu/about/presidentceo/index.aspx …"
+    },
+    {
+      "t": "2026-06-09T04:03:16.449Z",
+      "msg": "browser https://www.compton.edu/about/presidentceo/index.aspx → 0 courses"
+    },
+    {
+      "t": "2026-06-09T04:03:16.449Z",
+      "msg": "render (headless Chrome) https://www.compton.edu/district/ …"
+    },
+    {
+      "t": "2026-06-09T04:03:24.975Z",
+      "msg": "browser https://www.compton.edu/district/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T04:03:24.975Z",
+      "msg": "render (headless Chrome) https://www.compton.edu/admissions-aid/fees-nav/index.aspx …"
+    },
+    {
+      "t": "2026-06-09T04:03:31.654Z",
+      "msg": "browser https://www.compton.edu/admissions-aid/fees-nav/index.aspx → 0 courses"
+    },
+    {
+      "t": "2026-06-09T04:03:31.655Z",
+      "msg": "render (headless Chrome) https://www.compton.edu/college-promise/index.aspx …"
+    },
+    {
+      "t": "2026-06-09T04:03:40.172Z",
+      "msg": "browser https://www.compton.edu/college-promise/index.aspx → 0 courses"
+    },
+    {
+      "t": "2026-06-09T04:03:40.172Z",
+      "msg": "render (headless Chrome) https://2urbangirls.com/2022/09/2022-09-enroll-register-now-for-fall-2022-midterm-classes-at-compton-college/ …"
+    },
+    {
+      "t": "2026-06-09T04:03:53.011Z",
+      "msg": "browser https://2urbangirls.com/2022/09/2022-09-enroll-register-now-for-fall-2022-midterm-classes-at-compton-college/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T04:05:07.921Z",
+      "msg": "  google \"Compton College class schedule spring 2026\" → 0 hit(s) (+0 new, 12 pooled)"
     }
   ]
 }

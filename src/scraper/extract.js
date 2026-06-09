@@ -17,12 +17,37 @@ const MODALITY_WORD = /online|hybrid|in[- ]?person|on[- ]?campus|distance|async|
 
 const clean = (s) => String(s || '').replace(/\s+/g, ' ').trim();
 
+// Subjects that look like codes but aren't courses (times, common abbreviations).
+const NON_COURSE_SUBJ = /^(COVID|ZTC|ADA|FAQ|PDF|GTM|AM|PM|AB|SB|ACA|FERPA|EOPS|TTY|TBA|MW|TTH|MWF)$/i;
+
+// A PARENTHESIZED code immediately followed by its title in one element, e.g.
+//   "(KINES-001-C01) Introduction to Kinesiology".
+// This is the distinctive Ellucian / Banner Self-Service schedule signature. The
+// required parentheses keep it from matching "CODE Instructor" / "CODE CRN" cells
+// in other layouts (which would mis-pair code with the wrong text).
+const EMBEDDED_RE =
+  /^\(\s*([A-Z]{2,5})[ ./-](\d{1,3}[A-Z]{0,2})(?:-[A-Z0-9]+)?\s*\)\s*[:–—-]?\s*([A-Za-z][A-Za-z0-9 ,&'’/().:+-]{3,120})$/;
+
 function isCode(s) {
   const t = clean(s).toUpperCase();
   return CODE_ANCHORED.test(t) && /\d/.test(t) && t.length <= 12;
 }
 
-// Strategy 1: table rows.
+function embeddedCourse(text, modalityCtx) {
+  const m = clean(text).match(EMBEDDED_RE);
+  if (!m || NON_COURSE_SUBJ.test(m[1])) return null;
+  const title = clean(m[3]).replace(/\(\s*[\d.]+\s*units?\s*\)/i, '').trim();
+  if (title.length < 3 || /^\d+$/.test(title)) return null; // reject CRN-only "titles"
+  const modalityHit = MODALITY_WORD.test(modalityCtx) ? modalityCtx : '';
+  return {
+    code: `${m[1].toUpperCase()} ${m[2].toUpperCase()}`,
+    title: title.slice(0, 160),
+    modality: modalityHit ? normalizeModality(modalityHit) : null,
+  };
+}
+
+// Strategy 1: table rows. (Original, conservative: a cell that is exactly a code,
+// title = the longest other plain cell.)
 function fromTables($) {
   const out = [];
   $('table tr').each((_, tr) => {
@@ -31,7 +56,6 @@ function fromTables($) {
     const codeCell = cells.find(isCode);
     if (!codeCell) return;
     const rowText = cells.join(' | ');
-    // Title = the longest non-code, non-modality, non-numeric cell.
     const title = cells
       .filter((c) => c !== codeCell && !isCode(c) && c.length > 4 && !/^\d/.test(c))
       .sort((a, b) => b.length - a.length)[0];
@@ -42,6 +66,28 @@ function fromTables($) {
       title: clean(title).slice(0, 160),
       modality: modalityHit ? normalizeModality(modalityHit) : null,
     });
+  });
+  return out;
+}
+
+// Strategy 1b: rows/elements where one cell or link holds "(CODE-SEC) Title". The
+// modality comes from the surrounding row's text. Catches Ellucian-style schedules
+// the bare-code table strategy misses, without cross-cell mis-pairing.
+function fromEmbeddedRows($) {
+  const out = [];
+  $('table tr').each((_, tr) => {
+    const cells = $(tr).find('td, th').map((__, c) => clean($(c).text())).get();
+    if (!cells.length) return;
+    const rowText = cells.join(' | ');
+    for (const cell of cells) {
+      const c = embeddedCourse(cell, rowText);
+      if (c) { out.push(c); break; } // one course per row
+    }
+  });
+  // Non-table layouts: links / list items that read "(CODE) Title".
+  $('a, li, dt, h3, h4, h5').each((_, el) => {
+    const c = embeddedCourse(clean($(el).text()), clean($(el).text()));
+    if (c) out.push(c);
   });
   return out;
 }
@@ -76,7 +122,7 @@ export function extractCourses(html, { pageUrl = null } = {}) {
   // Drop obvious nav/script noise.
   $('script,style,nav,footer,header').remove();
 
-  const merged = [...fromTables($), ...fromTextBlocks($)];
+  const merged = [...fromTables($), ...fromEmbeddedRows($), ...fromTextBlocks($)];
 
   // Dedupe by code+title.
   const seen = new Map();

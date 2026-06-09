@@ -1,0 +1,52 @@
+{
+  "slug": "merced-college",
+  "name": "Merced College",
+  "url": "https://www.mccd.edu/",
+  "live": true,
+  "courseCount": 3,
+  "modalityCoverage": 0.333,
+  "method": "auto",
+  "source": "Explore real homepage links (HTTP)",
+  "extractUrl": "https://www.mccd.edu/schools-programs/discover-your-path/honors-program/",
+  "status": "live",
+  "lastStatus": "ok: 3 courses via auto (solved)",
+  "reason": "Partial capture — only 3 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "HNRS-40B",
+      "title": "21407: Honors Native American Philosophy (W, 1:00PM-3:05PM in IAC 146) Professor Andrew Winters",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.mccd.edu/schools-programs/discover-your-path/honors-program/"
+    },
+    {
+      "code": "HUM-01H",
+      "title": "21408: Honors Studies in Humanities: Ancient Through Renaissance (TTH, 9:20AM-10:45AM in B&E-125) Professor Andrew Winters",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.mccd.edu/schools-programs/discover-your-path/honors-program/"
+    },
+    {
+      "code": "HNRS-40B",
+      "title": "21407: Honors Native American Philosophy (online) Professor Andrew Winters",
+      "modality": "online",
+      "modalityKnown": true,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.mccd.edu/schools-programs/discover-your-path/honors-program/"
+    }
+  ]
+}

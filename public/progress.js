@@ -127,6 +127,7 @@ function applyRun(run) {
   state.run = { ...state.run, ...run };
   const running = !!run.running;
   $('#run-all').disabled = running;
+  $('#retry-impossible').disabled = running;
   $('#stop').disabled = !running;
   const ind = $('#run-indicator');
   if (running) {
@@ -173,6 +174,7 @@ async function loadLog(slug) {
 
 function init() {
   $('#run-all').addEventListener('click', () => fetch('/api/progress/run-all', { method: 'POST' }));
+  $('#retry-impossible').addEventListener('click', () => fetch('/api/progress/retry-impossible', { method: 'POST' }));
   $('#stop').addEventListener('click', () => fetch('/api/progress/stop', { method: 'POST' }));
   $('#clear-log').addEventListener('click', () => ($('#console').innerHTML = ''));
   $('#filter').addEventListener('input', (e) => { state.filter = e.target.value; render(); });

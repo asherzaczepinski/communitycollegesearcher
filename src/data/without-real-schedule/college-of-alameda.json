@@ -1,0 +1,100 @@
+{
+  "slug": "college-of-alameda",
+  "name": "College of Alameda",
+  "url": "https://alameda.edu/",
+  "live": true,
+  "courseCount": 7,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": "homepage",
+  "extractUrl": "https://alameda.edu/coa-online-schedule",
+  "status": "live",
+  "lastStatus": "ok: 7 courses via auto (auto-learned)",
+  "reason": "Partial capture — only 7 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "COMM 45",
+      "title": "Introduction to Public Speaking",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://alameda.edu/coa-online-schedule"
+    },
+    {
+      "code": "ENGL 1A",
+      "title": "Academic Reading and Writing",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://alameda.edu/coa-online-schedule"
+    },
+    {
+      "code": "ENGL 1AS",
+      "title": "Composition and Reading with Support",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://alameda.edu/coa-online-schedule"
+    },
+    {
+      "code": "ENGL 5",
+      "title": "Critical Thinking in Reading and Writing",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://alameda.edu/coa-online-schedule"
+    },
+    {
+      "code": "MATH 13",
+      "title": "Introduction to Statistics",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://alameda.edu/coa-online-schedule"
+    },
+    {
+      "code": "POSCI 1",
+      "title": "Government and Politics in the United States",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://alameda.edu/coa-online-schedule"
+    },
+    {
+      "code": "PSYCH 1A",
+      "title": "Introduction to General Psychology",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://alameda.edu/coa-online-schedule"
+    }
+  ]
+}

@@ -2,17 +2,17 @@
   "slug": "moreno-valley-college",
   "name": "Moreno Valley College",
   "url": "https://www.mvc.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 11,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://www.mvc.edu/admin/governance/academic-senate/curriculum.php",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:29.952Z",
-  "finishedAt": "2026-06-08T17:36:29.985Z",
-  "updatedAt": "2026-06-08T17:36:29.985Z",
+  "note": "Solved via \"Mine sitemap.xml / robots.txt\" — 11 courses from https://www.mvc.edu/admin/governance/academic-senate/curriculum.php.",
+  "startedAt": "2026-06-09T02:41:42.405Z",
+  "finishedAt": "2026-06-09T03:19:00.952Z",
+  "updatedAt": "2026-06-09T03:19:00.952Z",
   "log": [
     {
       "t": "2026-06-08T17:36:29.952Z",
@@ -53,6 +53,527 @@
     {
       "t": "2026-06-08T17:36:29.985Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T02:41:42.405Z",
+      "msg": "▶ Solving Moreno Valley College — https://www.mvc.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T02:41:42.405Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T02:41:43.791Z",
+      "msg": "  explore https://www.mvc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:44.417Z",
+      "msg": "  explore https://www.mvc.edu/academics/schedule/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:45.029Z",
+      "msg": "  explore https://www.mvc.edu/academics/schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:45.187Z",
+      "msg": "  explore https://www.mvc.edu/admissions-aid/how-to-enroll.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:45.316Z",
+      "msg": "  explore https://www.mvc.edu/academics/catalog/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:45.443Z",
+      "msg": "  explore https://www.mvc.edu/academics/catalog/index.php#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:45.555Z",
+      "msg": "  explore https://www.mvc.edu/academics/catalog/archive.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:45.704Z",
+      "msg": "  explore https://www.mvc.edu/academics/catalog/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:45.831Z",
+      "msg": "  explore https://www.mvc.edu/academics/catalog/archive.php#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:45.937Z",
+      "msg": "  explore https://www.mvc.edu/academics/catalog/#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:46.460Z",
+      "msg": "  explore https://www.mvc.edu/academics/schedule/index.php#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:46.972Z",
+      "msg": "  explore https://www.mvc.edu/academics/schedule/#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:47.099Z",
+      "msg": "  explore https://www.mvc.edu/admissions-aid/priority-registration.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:47.220Z",
+      "msg": "  explore https://www.mvc.edu/admissions-aid/how-to-enroll.php#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:47.352Z",
+      "msg": "  explore https://www.mvc.edu/admissions-aid/how-to-enroll.php#edunav → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:47.473Z",
+      "msg": "  explore https://www.mvc.edu/admissions-aid/how-to-enroll.php#registration → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:50.668Z",
+      "msg": "  explore https://www.mvc.edu/_resources/files/catalogs/Catalog-2023-24.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:51.585Z",
+      "msg": "  explore https://www.mvc.edu/_resources/files/catalogs/Catalog-2023-24-Addendum-1.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:51.692Z",
+      "msg": "  explore https://www.mvc.edu/academics/schedule/archive.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:51.790Z",
+      "msg": "  explore https://www.mvc.edu/academics/schedule/zero-and-low-cost-textbooks.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:51.909Z",
+      "msg": "  explore https://www.mvc.edu/student-support/academic-support/online-resources.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:52.032Z",
+      "msg": "  explore https://www.mvc.edu/admin/departments/safety-police/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:52.037Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T02:41:52.219Z",
+      "msg": "  sitemap https://www.mvc.edu/sitemap.xml → 1586 entries"
+    },
+    {
+      "t": "2026-06-09T02:41:53.139Z",
+      "msg": "  sitemap https://www.mvc.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T02:41:53.227Z",
+      "msg": "  sitemap https://www.mvc.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T02:41:53.651Z",
+      "msg": "  sitemap https://mvc.edu/sitemap.xml → 1586 entries"
+    },
+    {
+      "t": "2026-06-09T02:41:53.653Z",
+      "msg": "  sitemap mining → 1045 URL(s), 20 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T02:41:54.974Z",
+      "msg": "  sitemap probe https://www.mvc.edu/academics/schools/bhhs/dental-hygiene/course-transfer.php → 7"
+    },
+    {
+      "t": "2026-06-09T02:41:55.681Z",
+      "msg": "  sitemap probe https://www.mvc.edu/admin/governance/academic-senate/course-materials.php → 3"
+    },
+    {
+      "t": "2026-06-09T02:41:55.824Z",
+      "msg": "  sitemap probe https://www.mvc.edu/admin/governance/academic-senate/curriculum.php → 11"
+    },
+    {
+      "t": "2026-06-09T02:41:56.730Z",
+      "msg": "   ✓ \"Mine sitemap.xml / robots.txt\" found 11 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:41:56.731Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T02:42:00.142Z",
+      "msg": "  explore https://www.mvc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:42:00.740Z",
+      "msg": "  explore https://www.mvc.edu/academics/schedule/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:42:01.260Z",
+      "msg": "  explore https://www.mvc.edu/academics/schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:42:01.461Z",
+      "msg": "  explore https://www.mvc.edu/admissions-aid/how-to-enroll.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:42:01.594Z",
+      "msg": "  explore https://www.mvc.edu/academics/catalog/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:42:01.782Z",
+      "msg": "  explore https://www.mvc.edu/academics/catalog/index.php#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:42:01.976Z",
+      "msg": "  explore https://www.mvc.edu/academics/catalog/archive.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:42:02.096Z",
+      "msg": "  explore https://www.mvc.edu/academics/catalog/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:42:02.297Z",
+      "msg": "  explore https://www.mvc.edu/academics/catalog/archive.php#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:42:02.500Z",
+      "msg": "  explore https://www.mvc.edu/academics/catalog/#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:42:03.032Z",
+      "msg": "  explore https://www.mvc.edu/academics/schedule/index.php#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:42:03.554Z",
+      "msg": "  explore https://www.mvc.edu/academics/schedule/#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:42:03.677Z",
+      "msg": "  explore https://www.mvc.edu/admissions-aid/priority-registration.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:42:03.795Z",
+      "msg": "  explore https://www.mvc.edu/admissions-aid/how-to-enroll.php#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:42:03.797Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T02:44:20.118Z",
+      "msg": "  google \"Moreno Valley College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:46:36.135Z",
+      "msg": "  google \"Moreno Valley College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:48:51.660Z",
+      "msg": "  google \"Moreno Valley College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:51:07.499Z",
+      "msg": "  google \"Moreno Valley College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:53:22.925Z",
+      "msg": "  google \"Moreno Valley College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:55:39.793Z",
+      "msg": "  google \"Moreno Valley College public class search\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:57:56.511Z",
+      "msg": "  google \"Moreno Valley College self service banner class search\" → 6 hit(s) (+6 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:00:13.103Z",
+      "msg": "  google \"Moreno Valley College ellucian self service class schedule\" → 1 hit(s) (+1 new, 13 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:02:29.707Z",
+      "msg": "  google \"Moreno Valley College webadvisor class schedule\" → 6 hit(s) (+6 new, 19 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:04:46.818Z",
+      "msg": "  google \"Moreno Valley College courses by subject\" → 6 hit(s) (+6 new, 25 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:07:03.309Z",
+      "msg": "  google \"Moreno Valley College course catalog\" → 6 hit(s) (+2 new, 27 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:09:20.386Z",
+      "msg": "  google \"site:mvc.edu schedule of classes\" → 6 hit(s) (+5 new, 32 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:11:37.290Z",
+      "msg": "  google \"site:mvc.edu class schedule\" → 6 hit(s) (+0 new, 32 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:11:38.095Z",
+      "msg": "  probe https://www.mvc.edu/academics/schedule/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:38.255Z",
+      "msg": "  probe https://www.mvc.edu/admissions-aid/how-to-enroll.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:38.390Z",
+      "msg": "  probe https://www.mvc.edu/academics/catalog/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:39.009Z",
+      "msg": "  probe https://www.mvc.edu/academics/schools/vpa/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:39.138Z",
+      "msg": "  probe https://www.mvc.edu/admissions-aid/apply/returning-student.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:39.269Z",
+      "msg": "  probe https://www.mvc.edu/admissions-aid/apply/new-student.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:40.039Z",
+      "msg": "  probe https://www.mvc.edu/admissions-aid/apply/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:40.216Z",
+      "msg": "  probe https://www.mvc.edu/admissions-aid/apply/transfer-student.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:40.345Z",
+      "msg": "  probe https://www.mvc.edu/admin/departments/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:40.474Z",
+      "msg": "  probe https://www.mvc.edu/academics/programs/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:40.607Z",
+      "msg": "  probe https://www.mvc.edu/student-support/special-programs/honors/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:41.632Z",
+      "msg": "  probe https://www.mvc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:41.798Z",
+      "msg": "  probe https://www.mvc.edu/news/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:41.945Z",
+      "msg": "  probe https://www.mvc.edu/about/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:42.079Z",
+      "msg": "  probe https://www.mvc.edu/about/why-mvc.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:42.186Z",
+      "msg": "  probe https://www.mvc.edu/news/20231010-rccd-mvc-sponsor-state-of-black-ie-symposium.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:44.155Z",
+      "msg": "  probe https://catalog.mvc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:44.382Z",
+      "msg": "  probe https://www.mvc.edu/student-support/special-programs/honors/honors-classes.php → 4 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:11:44.382Z",
+      "msg": "  render+drive https://www.mvc.edu/academics/schedule/index.php …"
+    },
+    {
+      "t": "2026-06-09T03:12:05.635Z",
+      "msg": "  render https://www.mvc.edu/academics/schedule/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:12:05.636Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T03:14:22.998Z",
+      "msg": "search \"Moreno Valley College schedule of classes\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-09T03:16:39.727Z",
+      "msg": "search \"Moreno Valley College search for classes\" → 8 hit(s) (13 unique so far)"
+    },
+    {
+      "t": "2026-06-09T03:16:39.728Z",
+      "msg": "Web search returned 13 result(s)."
+    },
+    {
+      "t": "2026-06-09T03:16:39.729Z",
+      "msg": "Top candidate: https://www.mvc.edu/academics/schedule/index.php (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T03:16:40.526Z",
+      "msg": "probe https://www.mvc.edu/academics/schedule/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:16:40.674Z",
+      "msg": "probe https://www.mvc.edu/academics/catalog/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:16:40.807Z",
+      "msg": "probe https://www.mvc.edu/admissions-aid/apply/new-student.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:16:40.937Z",
+      "msg": "probe https://www.mvc.edu/admissions-aid/apply/returning-student.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:16:41.063Z",
+      "msg": "probe https://www.mvc.edu/about/index.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:16:41.220Z",
+      "msg": "probe https://www.pressenterprise.com/2022/06/10/moreno-valley-norco-riverside-city-colleges-graduate-in-person-again/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:16:43.675Z",
+      "msg": "probe https://best-universities.net/colleges/moreno-valley/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:16:44.675Z",
+      "msg": "probe https://sonyachristianblog.com/tag/moreno-valley-college/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:16:44.798Z",
+      "msg": "probe https://www.mvc.edu/news/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:16:45.646Z",
+      "msg": "probe https://www.mvc.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:16:45.735Z",
+      "msg": "probe https://www.mvc.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:16:45.827Z",
+      "msg": "probe https://www.mvc.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:16:45.915Z",
+      "msg": "probe https://www.mvc.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:16:46.012Z",
+      "msg": "probe https://www.mvc.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:16:46.108Z",
+      "msg": "probe https://www.mvc.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:16:46.204Z",
+      "msg": "probe https://www.mvc.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:16:46.871Z",
+      "msg": "probe https://www.mvc.edu/academics/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:16:47.046Z",
+      "msg": "probe https://www.mvc.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:16:48.199Z",
+      "msg": "probe https://mvc.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:16:48.292Z",
+      "msg": "probe https://mvc.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:16:48.382Z",
+      "msg": "probe https://mvc.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:16:48.469Z",
+      "msg": "probe https://mvc.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:16:48.559Z",
+      "msg": "probe https://mvc.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:16:48.645Z",
+      "msg": "probe https://mvc.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:16:48.735Z",
+      "msg": "probe https://mvc.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:16:49.347Z",
+      "msg": "probe https://mvc.edu/academics/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:16:49.517Z",
+      "msg": "probe https://mvc.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:16:54.188Z",
+      "msg": "probe https://ssb.mvc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T03:16:54.189Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T03:16:54.189Z",
+      "msg": "render (headless Chrome) https://www.mvc.edu/academics/schedule/index.php …"
+    },
+    {
+      "t": "2026-06-09T03:17:15.422Z",
+      "msg": "browser https://www.mvc.edu/academics/schedule/index.php → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:17:15.423Z",
+      "msg": "render (headless Chrome) https://www.mvc.edu/academics/catalog/index.php …"
+    },
+    {
+      "t": "2026-06-09T03:17:36.083Z",
+      "msg": "browser https://www.mvc.edu/academics/catalog/index.php → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:17:36.084Z",
+      "msg": "render (headless Chrome) https://www.mvc.edu/admissions-aid/apply/new-student.php …"
+    },
+    {
+      "t": "2026-06-09T03:17:56.740Z",
+      "msg": "browser https://www.mvc.edu/admissions-aid/apply/new-student.php → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:17:56.741Z",
+      "msg": "render (headless Chrome) https://www.mvc.edu/ …"
+    },
+    {
+      "t": "2026-06-09T03:18:19.471Z",
+      "msg": "browser https://www.mvc.edu/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:18:19.472Z",
+      "msg": "render (headless Chrome) https://www.mvc.edu/admissions-aid/apply/returning-student.php …"
+    },
+    {
+      "t": "2026-06-09T03:18:40.125Z",
+      "msg": "browser https://www.mvc.edu/admissions-aid/apply/returning-student.php → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:18:40.126Z",
+      "msg": "render (headless Chrome) https://www.mvc.edu/about/index.php …"
+    },
+    {
+      "t": "2026-06-09T03:19:00.923Z",
+      "msg": "browser https://www.mvc.edu/about/index.php → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:19:00.952Z",
+      "msg": "✅ SOLVED — 11 courses ingested into the searchable DB (strategy: Mine sitemap.xml / robots.txt)."
     }
-  ]
+  ],
+  "strategy": "Mine sitemap.xml / robots.txt"
 }

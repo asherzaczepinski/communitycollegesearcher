@@ -2,17 +2,17 @@
   "slug": "evergreen-valley-college",
   "name": "Evergreen Valley College",
   "url": "https://www.evc.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 9,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://catalog.evc.edu/admissions-registration-fees-financial-aid/academic-calendar/",
   "blocked": null,
-  "note": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "startedAt": "2026-06-08T17:22:01.117Z",
-  "finishedAt": "2026-06-08T17:23:08.436Z",
-  "updatedAt": "2026-06-08T17:23:08.436Z",
+  "note": "Solved via \"Explore real homepage links (HTTP)\" — 9 courses from https://catalog.evc.edu/admissions-registration-fees-financial-aid/academic-calendar/.",
+  "startedAt": "2026-06-08T23:26:00.910Z",
+  "finishedAt": "2026-06-08T23:29:12.813Z",
+  "updatedAt": "2026-06-08T23:29:12.813Z",
   "log": [
     {
       "t": "2026-06-08T17:22:01.118Z",
@@ -249,6 +249,543 @@
     {
       "t": "2026-06-08T17:23:08.435Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-08T23:26:00.911Z",
+      "msg": "▶ Solving Evergreen Valley College — https://www.evc.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-08T23:26:00.911Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-08T23:26:01.067Z",
+      "msg": "  explore https://www.evc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:01.116Z",
+      "msg": "  explore https://www.evc.edu/schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:01.148Z",
+      "msg": "  explore https://www.evc.edu/catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:01.570Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:01.977Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/adding-classes/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:02.380Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/dropping-classes/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:02.773Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:03.160Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/academic-calendar/ → 9 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T23:26:03.548Z",
+      "msg": "  explore https://catalog.evc.edu/student-life-student-success-student-services-special-academic-programs/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:03.941Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/eligibility-admission/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:04.357Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/application-admission/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:04.751Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/residency-requirements/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:05.149Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/international-students/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:05.181Z",
+      "msg": "  explore https://www.evc.edu/catalog#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:05.211Z",
+      "msg": "  explore https://www.evc.edu/catalog# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:05.604Z",
+      "msg": "  explore https://catalog.evc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:05.996Z",
+      "msg": "  explore https://catalog.evc.edu/introduction/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:06.383Z",
+      "msg": "  explore https://catalog.evc.edu/college-profile/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:06.778Z",
+      "msg": "  explore https://catalog.evc.edu/graduation-transfer-general-education/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:06.866Z",
+      "msg": "  explore https://www.evc.edu/events/last-day-drop-summer-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:06.955Z",
+      "msg": "  explore https://www.evc.edu/events/last-day-drop-summer-classes-without-receiving-w-grade-most-sections-10-pm → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:07.053Z",
+      "msg": "  explore https://www.evc.edu/events/first-day-withdrawal-w-period-summer-classes-most-sections → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:07.060Z",
+      "msg": "   ✓ \"Explore real homepage links (HTTP)\" found 9 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:07.061Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-08T23:26:07.211Z",
+      "msg": "  sitemap https://www.evc.edu/sitemap.xml → 2 entries"
+    },
+    {
+      "t": "2026-06-08T23:26:07.397Z",
+      "msg": "  sitemap https://www.evc.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-08T23:26:07.483Z",
+      "msg": "  sitemap https://www.evc.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-08T23:26:07.484Z",
+      "msg": "  sitemap mining → 2 URL(s), 0 course-ish to probe"
+    },
+    {
+      "t": "2026-06-08T23:26:07.485Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-08T23:26:09.370Z",
+      "msg": "  explore https://www.evc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:09.403Z",
+      "msg": "  explore https://www.evc.edu/schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:09.436Z",
+      "msg": "  explore https://www.evc.edu/catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:09.845Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:10.233Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/adding-classes/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:10.404Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/dropping-classes/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:10.563Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:10.981Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/academic-calendar/ → 9 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-08T23:26:11.372Z",
+      "msg": "  explore https://catalog.evc.edu/student-life-student-success-student-services-special-academic-programs/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:11.788Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/eligibility-admission/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:12.185Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/application-admission/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:12.583Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/residency-requirements/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:12.975Z",
+      "msg": "  explore https://catalog.evc.edu/admissions-registration-fees-financial-aid/international-students/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:13.003Z",
+      "msg": "  explore https://www.evc.edu/catalog#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:13.008Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-08T23:26:15.375Z",
+      "msg": "  google \"Evergreen Valley College schedule of classes\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:26:17.143Z",
+      "msg": "  google \"Evergreen Valley College search for classes\" → 6 hit(s) (+5 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:26:17.840Z",
+      "msg": "  google \"Evergreen Valley College class schedule 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:26:18.423Z",
+      "msg": "  google \"Evergreen Valley College class schedule spring 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:26:19.012Z",
+      "msg": "  google \"Evergreen Valley College class schedule fall 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:26:20.686Z",
+      "msg": "  google \"Evergreen Valley College public class search\" → 6 hit(s) (+2 new, 13 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:26:22.543Z",
+      "msg": "  google \"Evergreen Valley College self service banner class search\" → 6 hit(s) (+6 new, 19 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:26:24.382Z",
+      "msg": "  google \"Evergreen Valley College ellucian self service class schedule\" → 6 hit(s) (+6 new, 25 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:26:26.237Z",
+      "msg": "  google \"Evergreen Valley College webadvisor class schedule\" → 6 hit(s) (+6 new, 31 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:26:27.904Z",
+      "msg": "  google \"Evergreen Valley College courses by subject\" → 6 hit(s) (+4 new, 35 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:26:29.917Z",
+      "msg": "  google \"Evergreen Valley College course catalog\" → 6 hit(s) (+2 new, 37 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:26:31.246Z",
+      "msg": "  google \"site:evc.edu schedule of classes\" → 6 hit(s) (+5 new, 42 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:26:32.679Z",
+      "msg": "  google \"site:evc.edu class schedule\" → 6 hit(s) (+0 new, 42 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:26:33.112Z",
+      "msg": "  probe https://catalog.evc.edu/admissions-registration-fees-financial-aid/credit-prior-learning/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:33.214Z",
+      "msg": "  probe https://www.evc.edu/schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:33.247Z",
+      "msg": "  probe https://www.evc.edu/attend-evc/admissions-records/register-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:33.643Z",
+      "msg": "  probe https://catalog.evc.edu/college-profile/course-program-offerings/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:34.043Z",
+      "msg": "  probe https://catalog.evc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:34.429Z",
+      "msg": "  probe https://catalog.evc.edu/introduction/about-college/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:34.840Z",
+      "msg": "  probe https://catalog.evc.edu/introduction/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:36.244Z",
+      "msg": "  probe https://pressbanner.com/technical-education-classes-prep-students-for-changing-work-world/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:36.646Z",
+      "msg": "  probe https://catalog.evc.edu/graduation-transfer-general-education/transferring-four-year-college-university/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:37.045Z",
+      "msg": "  probe https://catalog.evc.edu/graduation-transfer-general-education/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:37.455Z",
+      "msg": "  probe https://catalog.evc.edu/college-profile/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:37.614Z",
+      "msg": "  probe https://www.evc.edu/classes-consider → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:38.040Z",
+      "msg": "  probe https://www.evc.edu/events/english-final-exams-no-regular-day-classes-meet-friday-evening-classes-will-meet-scheduled → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:38.261Z",
+      "msg": "  probe https://www.evc.edu/events/last-day-add-winter-intersession-classes-add-code → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:38.356Z",
+      "msg": "  probe https://www.evc.edu/events/last-day-drop-spring-regular-classes-without-receiving-w → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:38.833Z",
+      "msg": "  probe https://www.evc.edu/events/last-day-drop-spring-regular-classes-receive-refund → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:39.241Z",
+      "msg": "  probe https://catalog.evc.edu/admissions-registration-fees-financial-aid/adding-classes/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:39.612Z",
+      "msg": "  probe https://catalog.evc.edu/admissions-registration-fees-financial-aid/dropping-classes/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:40.142Z",
+      "msg": "  probe https://colss-prod.ec.sjeccd.edu/Student/Student/Courses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:40.271Z",
+      "msg": "  probe https://www.evc.edu/programs-academics/schedule-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:43.413Z",
+      "msg": "  probe https://pressbanner.com/technical-education-classes-prep-students-for-changing-work-world/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:43.439Z",
+      "msg": "  probe https://www.evc.edu/catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:43.439Z",
+      "msg": "  render+drive https://www.evc.edu/schedule …"
+    },
+    {
+      "t": "2026-06-08T23:26:51.111Z",
+      "msg": "  render https://www.evc.edu/schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:51.112Z",
+      "msg": "  render+drive https://pressbanner.com/technical-education-classes-prep-students-for-changing-work-world/ …"
+    },
+    {
+      "t": "2026-06-08T23:27:15.842Z",
+      "msg": "  render https://pressbanner.com/technical-education-classes-prep-students-for-changing-work-world/ → 9 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:27:15.842Z",
+      "msg": "  render+drive https://www.evc.edu/events/english-final-exams-no-regular-day-classes-meet-friday-evening-classes-will-meet-scheduled …"
+    },
+    {
+      "t": "2026-06-08T23:27:23.663Z",
+      "msg": "  render https://www.evc.edu/events/english-final-exams-no-regular-day-classes-meet-friday-evening-classes-will-meet-scheduled → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:27:23.663Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-08T23:27:25.830Z",
+      "msg": "search \"Evergreen Valley College schedule of classes\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:27:27.980Z",
+      "msg": "search \"Evergreen Valley College search for classes\" → 8 hit(s) (14 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:27:27.981Z",
+      "msg": "Web search returned 14 result(s)."
+    },
+    {
+      "t": "2026-06-08T23:27:27.982Z",
+      "msg": "Top candidate: https://www.evc.edu/schedule (platform: acalog); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-08T23:27:28.074Z",
+      "msg": "probe https://www.evc.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:27:28.480Z",
+      "msg": "probe https://catalog.evc.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:27:28.879Z",
+      "msg": "probe https://catalog.evc.edu/college-profile/course-program-offerings/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:27:29.061Z",
+      "msg": "probe https://catalog.evc.edu/admissions-registration-fees-financial-aid/adding-classes/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:27:29.232Z",
+      "msg": "probe https://catalog.evc.edu/introduction/about-college/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:27:29.327Z",
+      "msg": "probe https://www.evc.edu/events/weekly-wellness-activity → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:27:29.423Z",
+      "msg": "probe https://www.evc.edu/events/evergreen-winters-speaking-event → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:27:29.519Z",
+      "msg": "probe https://www.evc.edu/attend-evc/begin-your-journey/student-success/work-experience → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:27:29.923Z",
+      "msg": "probe https://www.evc.edu/events/translation-interpreting-graduation-1 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:27:30.188Z",
+      "msg": "probe https://printables.assurances.gov.gh/calendar/evergreen-valley-college-calendar.html → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:27:30.462Z",
+      "msg": "probe https://www.evc.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:27:30.839Z",
+      "msg": "probe https://www.evc.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:27:31.120Z",
+      "msg": "probe https://www.evc.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:27:31.453Z",
+      "msg": "probe https://www.evc.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:27:31.761Z",
+      "msg": "probe https://www.evc.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:27:32.035Z",
+      "msg": "probe https://www.evc.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:27:32.374Z",
+      "msg": "probe https://www.evc.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:27:32.681Z",
+      "msg": "probe https://www.evc.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:27:32.841Z",
+      "msg": "probe https://evc.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:27:32.948Z",
+      "msg": "probe https://evc.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:27:33.046Z",
+      "msg": "probe https://evc.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:27:33.216Z",
+      "msg": "probe https://evc.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:27:33.315Z",
+      "msg": "probe https://evc.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:27:33.417Z",
+      "msg": "probe https://evc.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:27:33.521Z",
+      "msg": "probe https://evc.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:27:33.618Z",
+      "msg": "probe https://evc.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:27:33.715Z",
+      "msg": "probe https://evc.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:27:38.416Z",
+      "msg": "probe https://ssb.evc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:27:38.417Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T23:27:38.418Z",
+      "msg": "render (headless Chrome) https://www.evc.edu/schedule …"
+    },
+    {
+      "t": "2026-06-08T23:27:46.045Z",
+      "msg": "browser https://www.evc.edu/schedule → 0 courses"
+    },
+    {
+      "t": "2026-06-08T23:27:46.046Z",
+      "msg": "render (headless Chrome) https://catalog.evc.edu/ …"
+    },
+    {
+      "t": "2026-06-08T23:28:06.291Z",
+      "msg": "browser https://catalog.evc.edu/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T23:28:06.292Z",
+      "msg": "render (headless Chrome) https://catalog.evc.edu/college-profile/course-program-offerings/ …"
+    },
+    {
+      "t": "2026-06-08T23:28:26.030Z",
+      "msg": "browser https://catalog.evc.edu/college-profile/course-program-offerings/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T23:28:26.032Z",
+      "msg": "render (headless Chrome) https://catalog.evc.edu/admissions-registration-fees-financial-aid/adding-classes/ …"
+    },
+    {
+      "t": "2026-06-08T23:28:45.761Z",
+      "msg": "browser https://catalog.evc.edu/admissions-registration-fees-financial-aid/adding-classes/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T23:28:45.762Z",
+      "msg": "render (headless Chrome) https://catalog.evc.edu/introduction/about-college/ …"
+    },
+    {
+      "t": "2026-06-08T23:29:05.198Z",
+      "msg": "browser https://catalog.evc.edu/introduction/about-college/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T23:29:05.199Z",
+      "msg": "render (headless Chrome) https://www.evc.edu/events/weekly-wellness-activity …"
+    },
+    {
+      "t": "2026-06-08T23:29:12.808Z",
+      "msg": "browser https://www.evc.edu/events/weekly-wellness-activity → 0 courses"
+    },
+    {
+      "t": "2026-06-08T23:29:12.812Z",
+      "msg": "✅ SOLVED — 9 courses ingested into the searchable DB (strategy: Explore real homepage links (HTTP))."
     }
-  ]
+  ],
+  "strategy": "Explore real homepage links (HTTP)"
 }

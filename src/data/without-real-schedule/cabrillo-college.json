@@ -1,0 +1,52 @@
+{
+  "slug": "cabrillo-college",
+  "name": "Cabrillo College",
+  "url": "https://www.cabrillo.edu/",
+  "live": true,
+  "courseCount": 3,
+  "modalityCoverage": 0,
+  "method": "browser",
+  "source": "homepage",
+  "extractUrl": "https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search?searchResultsView=SectionListing&terms=2026SP",
+  "status": "live",
+  "lastStatus": "ok: 3 courses via browser (auto-learned)",
+  "reason": "Partial capture — only 3 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "ACCT-1A",
+      "title": "LS03",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search?searchResultsView=SectionListing&terms=2026SP"
+    },
+    {
+      "code": "ACCT-1B",
+      "title": "ABP1",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search?searchResultsView=SectionListing&terms=2026SP"
+    },
+    {
+      "code": "ACCT-1B",
+      "title": "LS02",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://cabrillo-ss.colleague.elluciancloud.com/Student/Courses/Search?searchResultsView=SectionListing&terms=2026SP"
+    }
+  ]
+}

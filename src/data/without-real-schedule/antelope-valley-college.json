@@ -1,0 +1,28 @@
+{
+  "slug": "antelope-valley-college",
+  "name": "Antelope Valley College",
+  "url": "https://www.avc.edu/",
+  "live": true,
+  "courseCount": 1,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": "homepage",
+  "extractUrl": "https://www.avc.edu/2yearschedule",
+  "status": "live",
+  "lastStatus": "ok: 1 courses via auto (auto-learned)",
+  "reason": "Partial capture — only 1 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "SU26",
+      "title": "CAL GETC (CSU/UC)",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.avc.edu/2yearschedule"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "allan-hancock-college",
+  "name": "Allan Hancock College",
+  "url": "https://www.hancockcollege.edu/",
+  "live": true,
+  "courseCount": 1275,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": "web-search",
+  "extractUrl": "https://en.wikipedia.org/wiki/Allan_Hancock_College",
+  "status": "live",
+  "lastStatus": "ok: 1316 courses via college",
+  "courses": [
+    {
+      "code": "CS1",
+      "title": "unfit URL",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://en.wikipedia.org/wiki/Allan_Hancock_College"
+    }
+  ]
+}

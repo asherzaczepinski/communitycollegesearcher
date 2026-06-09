@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Solving Impossibles · CCC Mainframe</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <nav class="topnav">
+    <a class="brand" href="/">▣ CCC Mainframe</a>
+    <div class="links">
+      <a href="/search.html">Search</a>
+      <a href="/colleges.html">Colleges &amp; Scrapers</a>
+      <a href="/progress.html">Progress</a>
+      <a href="/impossibles.html" class="active">Impossibles</a>
+    </div>
+  </nav>
+
+  <header>
+    <h1>Solving Impossibles</h1>
+    <p class="tagline">The colleges the normal pass couldn’t crack. This solver doesn’t guess URLs — it
+      <b>visits the real homepage, sees the links that are actually there, and explores them</b>, then tries
+      several different approaches until something works.</p>
+    <p class="stats" id="summary"></p>
+  </header>
+
+  <main>
+    <div class="prog-controls">
+      <button class="btn" id="solve-all">🧠 Solve all impossibles</button>
+      <button class="btn ghost" id="stop" disabled>■ Stop</button>
+      <span class="run-indicator" id="run-indicator">idle</span>
+      <input id="filter" type="search" placeholder="Filter…" />
+    </div>
+
+    <div class="prog-bar" id="prog-bar-wrap" hidden>
+      <div class="prog-bar-fill" id="prog-bar-fill"></div>
+      <span class="prog-bar-label" id="prog-bar-label"></span>
+    </div>
+
+    <p class="hint">Each college is tried with 4 distinct strategies, in order, stopping at the first that finds real courses:
+      <b>1.</b> explore real homepage links (HTTP) ·
+      <b>2.</b> mine sitemap.xml / robots.txt ·
+      <b>3.</b> render the homepage &amp; explore its JS menu links ·
+      <b>4.</b> deep web search + headless form-driving.</p>
+
+    <section class="console-wrap">
+      <div class="console-head">
+        <h2>📡 Live log <span class="result-meta" id="console-meta">connecting…</span></h2>
+        <div class="console-actions">
+          <label class="chk"><input type="checkbox" id="autoscroll" checked /> auto-scroll</label>
+          <button class="btn ghost small" id="clear-log">clear</button>
+        </div>
+      </div>
+      <div class="console" id="console"></div>
+    </section>
+
+    <div class="status-tiles" id="status-tiles"></div>
+
+    <section class="college-group">
+      <h2>The impossible list <span class="result-meta" id="grid-count"></span></h2>
+      <div id="grid" class="prog-rows"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Solved colleges flip <b>live</b> and become searchable; the winning strategy is recorded per college in
+      <code>src/data/progress/&lt;slug&gt;.json</code>.</p>
+  </footer>
+
+  <script src="/impossibles.js"></script>
+</body>
+</html>

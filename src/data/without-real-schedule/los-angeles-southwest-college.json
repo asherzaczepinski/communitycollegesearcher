@@ -1,0 +1,100 @@
+{
+  "slug": "los-angeles-southwest-college",
+  "name": "Los Angeles Southwest College",
+  "url": "https://www.lasc.edu/",
+  "live": true,
+  "courseCount": 7,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": "Explore real homepage links (HTTP)",
+  "extractUrl": "https://www.lasc.edu/admissions/first-time-students",
+  "status": "live",
+  "lastStatus": "ok: 7 courses via auto (solved)",
+  "reason": "Partial capture — only 7 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "STEP 1",
+      "title": "Submit Your Application",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.lasc.edu/admissions/first-time-students"
+    },
+    {
+      "code": "STEP 2",
+      "title": "Attend An Orientation",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.lasc.edu/admissions/first-time-students"
+    },
+    {
+      "code": "STEP 3",
+      "title": "Meet with a Counselor",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.lasc.edu/admissions/first-time-students"
+    },
+    {
+      "code": "STEP 4",
+      "title": "Register for Classes",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.lasc.edu/admissions/first-time-students"
+    },
+    {
+      "code": "STEP 5",
+      "title": "Apply for Financial Aid",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.lasc.edu/admissions/first-time-students"
+    },
+    {
+      "code": "STEP 6",
+      "title": "Pay your health fee, purchase a permit, and pick-up your fee receipt",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.lasc.edu/admissions/first-time-students"
+    },
+    {
+      "code": "STEP 7",
+      "title": "Obtain Your Free Student I.D Card",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.lasc.edu/admissions/first-time-students"
+    }
+  ]
+}

@@ -2,40 +2,19 @@
   "slug": "fresno-city-college",
   "name": "Fresno City College",
   "url": "https://www.fresnocitycollege.edu/",
-  "source": "homepage",
+  "source": "web-search-deep",
   "platform": "unknown",
-  "scheduleUrl": "https://www.fresnocitycollege.edu/admissions-aid/schedules.html",
-  "catalogUrl": "https://www.fresnocitycollege.edu/admissions-aid/catalog.html",
+  "scheduleUrl": null,
+  "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Class Schedules",
-      "href": "https://www.fresnocitycollege.edu/admissions-aid/schedules.html",
-      "score": 5
-    },
-    {
-      "text": "Final Exam Schedule",
-      "href": "https://www.fresnocitycollege.edu/academics/finals.html",
-      "score": 2
-    },
-    {
-      "text": "Catalogs",
-      "href": "https://www.fresnocitycollege.edu/admissions-aid/catalog.html",
-      "score": 3
-    }
-  ],
-  "searchQuery": null,
+  "candidates": [],
+  "searchQuery": "Fresno City College schedule of classes",
   "searchResults": [],
   "blocked": null,
-  "confidence": 0.15,
-  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "learnedAt": "2026-06-08T17:25:19.999Z",
-  "browserActions": [
-    "browser https://www.fresnocitycollege.edu/admissions-aid/schedules.html → 0 courses",
-    "browser https://www.fresnocitycollege.edu/admissions-aid/catalog.html → 0 courses",
-    "browser https://www.fresnocitycollege.edu/academics/finals.html → 0 courses"
-  ]
+  "confidence": 0,
+  "notes": "Searched the web (0 results) but no page yielded course data — the schedule is likely a bespoke search app. Top results saved above.",
+  "learnedAt": "2026-06-08T23:32:57.377Z"
 }

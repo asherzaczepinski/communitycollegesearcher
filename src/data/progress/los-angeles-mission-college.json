@@ -2,17 +2,17 @@
   "slug": "los-angeles-mission-college",
   "name": "Los Angeles Mission College",
   "url": "https://www.lamission.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 8,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://catalog.valleycollege.edu/degree-certificate-program-index/welding-technology/welding-job-readiness-certificate-completion/",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:29.871Z",
-  "finishedAt": "2026-06-08T17:36:29.878Z",
-  "updatedAt": "2026-06-08T17:36:29.878Z",
+  "note": "Solved via \"Exhaustive Google/DDG search sweep\" — 8 courses from https://catalog.valleycollege.edu/degree-certificate-program-index/welding-technology/welding-job-readiness-certificate-completion/.",
+  "startedAt": "2026-06-09T01:48:03.293Z",
+  "finishedAt": "2026-06-09T01:51:09.613Z",
+  "updatedAt": "2026-06-09T01:51:09.614Z",
   "log": [
     {
       "t": "2026-06-08T17:36:29.871Z",
@@ -53,6 +53,535 @@
     {
       "t": "2026-06-08T17:36:29.878Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T01:48:03.293Z",
+      "msg": "▶ Solving Los Angeles Mission College — https://www.lamission.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T01:48:03.293Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T01:48:03.574Z",
+      "msg": "  explore https://www.lamission.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:03.651Z",
+      "msg": "  explore https://www.lamission.edu/academics/calendar-schedules/schedules-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:03.887Z",
+      "msg": "  explore https://www.lamission.edu/sites/lamc.edu/files/2026-04/2026%20Summer%20Schedule_0.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:04.327Z",
+      "msg": "  explore https://www.lamission.edu/sites/lamc.edu/files/2026-04/2026%20Fall%20Schedule_0.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:04.504Z",
+      "msg": "  explore https://www.lamission.edu/sites/lamc.edu/files/2025-12/2026%20Winter%20Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:04.676Z",
+      "msg": "  explore https://www.lamission.edu/sites/lamc.edu/files/2025-12/2026%20Spring%20Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:04.751Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:04.815Z",
+      "msg": "  explore https://www.lamission.edu/admissions/how-to-apply → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:04.881Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:04.946Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment/enrollment-steps → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:05.008Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment/forms → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:06.141Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment/important-dates → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:06.203Z",
+      "msg": "  explore https://www.lamission.edu/admissions/steps-to-enroll → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:07.359Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment/pathways → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:07.459Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment/enrollment-steps#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:08.799Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment/enrollment-steps/parent-FAQs → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:10.189Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment/enrollment-steps/student-FAQs → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:10.257Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment/forms#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:10.324Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment/video-resources → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:10.406Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment/important-dates#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:10.483Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment/important-dates# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:10.557Z",
+      "msg": "  explore https://www.lamission.edu/admissions/steps-to-enroll#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:10.557Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T01:48:11.293Z",
+      "msg": "  sitemap https://www.lamission.edu/sitemap.xml → 1809 entries"
+    },
+    {
+      "t": "2026-06-09T01:48:12.098Z",
+      "msg": "  sitemap https://www.lamission.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T01:48:12.895Z",
+      "msg": "  sitemap https://www.lamission.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T01:48:12.897Z",
+      "msg": "  sitemap mining → 1809 URL(s), 4 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T01:48:16.637Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T01:48:18.718Z",
+      "msg": "  explore https://www.lamission.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:18.817Z",
+      "msg": "  explore https://www.lamission.edu/academics/calendar-schedules/schedules-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:18.980Z",
+      "msg": "  explore https://www.lamission.edu/sites/lamc.edu/files/2026-04/2026%20Summer%20Schedule_0.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:19.370Z",
+      "msg": "  explore https://www.lamission.edu/sites/lamc.edu/files/2026-04/2026%20Fall%20Schedule_0.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:19.505Z",
+      "msg": "  explore https://www.lamission.edu/sites/lamc.edu/files/2025-12/2026%20Winter%20Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:19.791Z",
+      "msg": "  explore https://www.lamission.edu/sites/lamc.edu/files/2025-12/2026%20Spring%20Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:19.866Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:19.949Z",
+      "msg": "  explore https://www.lamission.edu/admissions/how-to-apply → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:20.018Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:20.089Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment/enrollment-steps → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:20.160Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment/forms → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:20.226Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment/important-dates → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:20.302Z",
+      "msg": "  explore https://www.lamission.edu/admissions/steps-to-enroll → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:20.364Z",
+      "msg": "  explore https://www.lamission.edu/admissions/dual-enrollment/pathways → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:20.364Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T01:48:22.167Z",
+      "msg": "  google \"Los Angeles Mission College schedule of classes\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:48:23.824Z",
+      "msg": "  google \"Los Angeles Mission College search for classes\" → 6 hit(s) (+5 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:48:24.545Z",
+      "msg": "  google \"Los Angeles Mission College class schedule 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:48:25.157Z",
+      "msg": "  google \"Los Angeles Mission College class schedule spring 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:48:25.744Z",
+      "msg": "  google \"Los Angeles Mission College class schedule fall 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:48:27.344Z",
+      "msg": "  google \"Los Angeles Mission College public class search\" → 6 hit(s) (+2 new, 13 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:48:28.958Z",
+      "msg": "  google \"Los Angeles Mission College self service banner class search\" → 6 hit(s) (+6 new, 19 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:48:30.273Z",
+      "msg": "  google \"Los Angeles Mission College ellucian self service class schedule\" → 6 hit(s) (+6 new, 25 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:48:31.576Z",
+      "msg": "  google \"Los Angeles Mission College webadvisor class schedule\" → 6 hit(s) (+6 new, 31 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:48:33.246Z",
+      "msg": "  google \"Los Angeles Mission College courses by subject\" → 6 hit(s) (+5 new, 36 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:48:35.017Z",
+      "msg": "  google \"Los Angeles Mission College course catalog\" → 6 hit(s) (+4 new, 40 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:48:36.446Z",
+      "msg": "  google \"site:lamission.edu schedule of classes\" → 6 hit(s) (+6 new, 46 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:48:38.291Z",
+      "msg": "  google \"site:lamission.edu class schedule\" → 6 hit(s) (+3 new, 49 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:48:38.570Z",
+      "msg": "  probe https://www.lapc.edu/academic-resources/schedule-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:39.473Z",
+      "msg": "  probe https://www.loyolahs.edu/academics/course-catalogue/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:40.028Z",
+      "msg": "  probe https://catalog.valleycollege.edu/degree-certificate-program-index/welding-technology/welding-job-readiness-certificate-completion/ → 8 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:40.439Z",
+      "msg": "  probe https://catalog.valleycollege.edu/degree-certificate-program-index/ftvm/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:40.837Z",
+      "msg": "  probe https://www.asiansinacademia.com/jobdetail-310187-jkc-enrollment-advisor-community-outreach-specialist → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:41.216Z",
+      "msg": "  probe https://libguides.lamission.edu/c.php?g=1394071&p=10316144 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:42.708Z",
+      "msg": "  probe https://sanfernandosun.com/2025/08/13/los-angeles-mission-college-launches-an-inclusive-fall-choir-for-all-students-and-the-community-at-large/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:43.640Z",
+      "msg": "  probe https://www.angelescollege.edu/academics/calendar/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:44.283Z",
+      "msg": "  probe https://www.loyolahs.edu/academics/departments/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:44.529Z",
+      "msg": "  probe https://www.lamission.edu/academics/pathways/shf/health-occupations/employment-opportunities → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:44.626Z",
+      "msg": "  probe https://www.lamission.edu/academics/aos/Bachelor-Science-Biomanufacturing → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:45.520Z",
+      "msg": "  probe https://sonyachristianblog.com/tag/los-angeles-mission-college/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:46.127Z",
+      "msg": "  probe https://www.documentine.com/los-angeles-mission-college-canvas.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:46.570Z",
+      "msg": "  probe https://tecupdate.com/mission-college-canvas/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:46.694Z",
+      "msg": "  probe https://www.2adays.com/blog/daily-grind-of-a-los-angeles-mission-college-volleyball-player/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:47.312Z",
+      "msg": "  probe https://www.studyusa.com/en/schools/los-angeles-mission-college → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:49.118Z",
+      "msg": "  probe https://catalog.lamission.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:49.375Z",
+      "msg": "  probe https://www.lapc.edu/academic-resources/schedule-catalog#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:50.150Z",
+      "msg": "  probe https://www.laccd.edu/students/class-search-lapc → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:50.678Z",
+      "msg": "  probe https://www.loyolahs.edu/academics/course-catalogue/#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:51.063Z",
+      "msg": "  probe https://www.valleycollege.edu/academic-career-programs/class-schedule/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:51.712Z",
+      "msg": "  probe https://www.asiansinacademia.com/search.php?category_id=248 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:48:51.712Z",
+      "msg": "  render+drive https://www.lapc.edu/academic-resources/schedule-catalog …"
+    },
+    {
+      "t": "2026-06-09T01:49:11.216Z",
+      "msg": "  render https://www.lapc.edu/academic-resources/schedule-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:49:11.217Z",
+      "msg": "  render+drive https://libguides.lamission.edu/c.php?g=1394071&p=10316144 …"
+    },
+    {
+      "t": "2026-06-09T01:49:30.057Z",
+      "msg": "  render https://libguides.lamission.edu/c.php?g=1394071&p=10316144 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:49:30.058Z",
+      "msg": "   ✓ \"Exhaustive Google/DDG search sweep\" found 8 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:49:30.058Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T01:49:32.824Z",
+      "msg": "search \"Los Angeles Mission College schedule of classes\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-09T01:49:35.535Z",
+      "msg": "search \"Los Angeles Mission College search for classes\" → 8 hit(s) (15 unique so far)"
+    },
+    {
+      "t": "2026-06-09T01:49:35.537Z",
+      "msg": "Web search returned 15 result(s)."
+    },
+    {
+      "t": "2026-06-09T01:49:35.538Z",
+      "msg": "Top candidate: https://cal.lmu.edu/event/fall_2021_schedule_of_classes_available (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T01:49:36.269Z",
+      "msg": "probe https://cal.lmu.edu/event/fall_2021_schedule_of_classes_available → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:49:36.480Z",
+      "msg": "probe https://registrar.lmu.edu/scheduleofclasses/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:49:36.627Z",
+      "msg": "probe https://sonyachristianblog.com/tag/los-angeles-mission-college/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:49:36.758Z",
+      "msg": "probe https://sanfernandosun.com/2025/08/13/los-angeles-mission-college-launches-an-inclusive-fall-choir-for-all-students-and-the-community-at-large/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:49:37.296Z",
+      "msg": "probe https://www.documentine.com/los-angeles-mission-college-canvas.html → 0 (HTTP 437)"
+    },
+    {
+      "t": "2026-06-09T01:49:37.678Z",
+      "msg": "probe https://tecupdate.com/mission-college-canvas/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:49:38.632Z",
+      "msg": "probe https://www.angelescollege.edu/academics/calendar/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:38.770Z",
+      "msg": "probe https://www.2adays.com/blog/daily-grind-of-a-los-angeles-mission-college-volleyball-player/ → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-09T01:49:39.281Z",
+      "msg": "probe https://www.studyusa.com/en/schools/los-angeles-mission-college → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:49:39.847Z",
+      "msg": "probe https://www.communitycollegereview.com/los-angeles-mission-college-profile → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:49:40.770Z",
+      "msg": "probe https://www.lamission.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:41.651Z",
+      "msg": "probe https://www.lamission.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:42.491Z",
+      "msg": "probe https://www.lamission.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:43.317Z",
+      "msg": "probe https://www.lamission.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:44.044Z",
+      "msg": "probe https://www.lamission.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:44.847Z",
+      "msg": "probe https://www.lamission.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:45.672Z",
+      "msg": "probe https://www.lamission.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:46.485Z",
+      "msg": "probe https://www.lamission.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:47.204Z",
+      "msg": "probe https://www.lamission.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:47.719Z",
+      "msg": "probe https://lamission.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:47.978Z",
+      "msg": "probe https://lamission.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:48.176Z",
+      "msg": "probe https://lamission.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:48.355Z",
+      "msg": "probe https://lamission.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:48.570Z",
+      "msg": "probe https://lamission.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:48.736Z",
+      "msg": "probe https://lamission.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:48.903Z",
+      "msg": "probe https://lamission.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:48.991Z",
+      "msg": "probe https://lamission.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:49.078Z",
+      "msg": "probe https://lamission.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:49:49.079Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T01:49:49.080Z",
+      "msg": "render (headless Chrome) https://cal.lmu.edu/event/fall_2021_schedule_of_classes_available …"
+    },
+    {
+      "t": "2026-06-09T01:49:56.952Z",
+      "msg": "browser https://cal.lmu.edu/event/fall_2021_schedule_of_classes_available → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:49:56.953Z",
+      "msg": "render (headless Chrome) https://registrar.lmu.edu/scheduleofclasses/ …"
+    },
+    {
+      "t": "2026-06-09T01:50:04.989Z",
+      "msg": "browser https://registrar.lmu.edu/scheduleofclasses/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:50:04.990Z",
+      "msg": "render (headless Chrome) https://sonyachristianblog.com/tag/los-angeles-mission-college/ …"
+    },
+    {
+      "t": "2026-06-09T01:50:27.992Z",
+      "msg": "browser https://sonyachristianblog.com/tag/los-angeles-mission-college/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:50:27.993Z",
+      "msg": "render (headless Chrome) https://sanfernandosun.com/2025/08/13/los-angeles-mission-college-launches-an-inclusive-fall-choir-for-all-students-and-the-community-at-large/ …"
+    },
+    {
+      "t": "2026-06-09T01:50:49.881Z",
+      "msg": "browser https://sanfernandosun.com/2025/08/13/los-angeles-mission-college-launches-an-inclusive-fall-choir-for-all-students-and-the-community-at-large/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:50:49.881Z",
+      "msg": "render (headless Chrome) https://www.documentine.com/los-angeles-mission-college-canvas.html …"
+    },
+    {
+      "t": "2026-06-09T01:50:57.217Z",
+      "msg": "browser https://www.documentine.com/los-angeles-mission-college-canvas.html → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:50:57.218Z",
+      "msg": "render (headless Chrome) https://tecupdate.com/mission-college-canvas/ …"
+    },
+    {
+      "t": "2026-06-09T01:51:09.608Z",
+      "msg": "browser https://tecupdate.com/mission-college-canvas/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:51:09.613Z",
+      "msg": "✅ SOLVED — 8 courses ingested into the searchable DB (strategy: Exhaustive Google/DDG search sweep)."
     }
-  ]
+  ],
+  "strategy": "Exhaustive Google/DDG search sweep"
 }

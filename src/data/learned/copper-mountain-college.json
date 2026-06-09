@@ -2,40 +2,14 @@
   "slug": "copper-mountain-college",
   "name": "Copper Mountain College",
   "url": "https://www.cmccd.edu/",
-  "source": "homepage",
+  "source": "solve",
+  "strategy": "Mine sitemap.xml / robots.txt",
   "platform": "unknown",
-  "scheduleUrl": "https://www.cmccd.edu/class-schedule/",
-  "catalogUrl": "https://www.cmccd.edu/academic-catalogs/",
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "extractUrl": "https://www.cmccd.edu/academic-catalogs/common-course-numbering/",
+  "method": "auto",
+  "sampleCount": 22,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Schedules",
-      "href": "https://www.cmccd.edu/class-schedule/",
-      "score": 2
-    },
-    {
-      "text": "Catalogs",
-      "href": "https://www.cmccd.edu/academic-catalogs/",
-      "score": 3
-    },
-    {
-      "text": "Online Courses",
-      "href": "https://www.cmccd.edu/academics/online-courses/",
-      "score": 1
-    }
-  ],
-  "searchQuery": null,
-  "searchResults": [],
-  "blocked": null,
-  "confidence": 0.15,
-  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "learnedAt": "2026-06-08T17:15:16.961Z",
-  "browserActions": [
-    "browser https://www.cmccd.edu/class-schedule/ → 0 courses",
-    "browser https://www.cmccd.edu/academic-catalogs/ → 0 courses",
-    "browser https://www.cmccd.edu/academics/online-courses/ → 0 courses"
-  ]
+  "confidence": 0.6,
+  "notes": "Solved via \"Mine sitemap.xml / robots.txt\" — 22 courses from https://www.cmccd.edu/academic-catalogs/common-course-numbering/.",
+  "learnedAt": "2026-06-08T22:52:44.834Z"
 }

@@ -2,50 +2,19 @@
   "slug": "crafton-hills-college",
   "name": "Crafton Hills College",
   "url": "https://www.craftonhills.edu/",
-  "source": "homepage",
+  "source": "web-search-deep",
   "platform": "unknown",
-  "scheduleUrl": "https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/index.php",
-  "catalogUrl": "https://www.craftonhills.edu/academic-and-career-programs/college-catalog/index.php",
+  "scheduleUrl": null,
+  "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Class Schedule",
-      "href": "https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/index.php",
-      "score": 5
-    },
-    {
-      "text": "Find Classes",
-      "href": "https://www.craftonhills.edu/eschedule",
-      "score": 5
-    },
-    {
-      "text": "College Catalog",
-      "href": "https://www.craftonhills.edu/academic-and-career-programs/college-catalog/index.php",
-      "score": 6
-    },
-    {
-      "text": "Catalog",
-      "href": "https://www.craftonhills.edu/catalog",
-      "score": 3
-    },
-    {
-      "text": "Register for Courses",
-      "href": "https://www.craftonhills.edu/admissions-and-records/enroll/index.php",
-      "score": 1
-    }
-  ],
-  "searchQuery": null,
+  "candidates": [],
+  "searchQuery": "Crafton Hills College schedule of classes",
   "searchResults": [],
   "blocked": null,
-  "confidence": 0.15,
-  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "learnedAt": "2026-06-08T17:18:04.723Z",
-  "browserActions": [
-    "browser https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/index.php → 0 courses",
-    "browser https://www.craftonhills.edu/academic-and-career-programs/college-catalog/index.php → 0 courses",
-    "browser https://www.craftonhills.edu/eschedule → 0 courses"
-  ]
+  "confidence": 0,
+  "notes": "Searched the web (0 results) but no page yielded course data — the schedule is likely a bespoke search app. Top results saved above.",
+  "learnedAt": "2026-06-08T23:10:08.146Z"
 }

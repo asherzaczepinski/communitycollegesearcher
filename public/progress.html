@@ -13,6 +13,7 @@
       <a href="/search.html">Search</a>
       <a href="/colleges.html">Colleges &amp; Scrapers</a>
       <a href="/progress.html" class="active">Progress</a>
+      <a href="/impossibles.html">Impossibles</a>
     </div>
   </nav>
 
@@ -26,6 +27,7 @@
   <main>
     <div class="prog-controls">
       <button class="btn" id="run-all">▶ Auto-scrape all not-live</button>
+      <button class="btn" id="retry-impossible" title="Deep-retry every impossible/error college: wider search, brute-forced schedule URLs, more headless renders, and the now-robust fetcher.">↻ Retry impossible</button>
       <button class="btn ghost" id="stop" disabled>■ Stop</button>
       <span class="run-indicator" id="run-indicator">idle</span>
       <input id="filter" type="search" placeholder="Filter colleges…" />

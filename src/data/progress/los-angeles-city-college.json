@@ -2,17 +2,17 @@
   "slug": "los-angeles-city-college",
   "name": "Los Angeles City College",
   "url": "https://www.lacitycollege.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 8,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://catalog.valleycollege.edu/degree-certificate-program-index/welding-technology/welding-job-readiness-certificate-completion/",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:29.854Z",
-  "finishedAt": "2026-06-08T17:36:29.863Z",
-  "updatedAt": "2026-06-08T17:36:29.863Z",
+  "note": "Solved via \"Exhaustive Google/DDG search sweep\" — 8 courses from https://catalog.valleycollege.edu/degree-certificate-program-index/welding-technology/welding-job-readiness-certificate-completion/.",
+  "startedAt": "2026-06-09T01:05:44.948Z",
+  "finishedAt": "2026-06-09T01:42:08.484Z",
+  "updatedAt": "2026-06-09T01:42:08.484Z",
   "log": [
     {
       "t": "2026-06-08T17:36:29.854Z",
@@ -53,6 +53,435 @@
     {
       "t": "2026-06-08T17:36:29.863Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T01:05:44.949Z",
+      "msg": "▶ Solving Los Angeles City College — https://www.lacitycollege.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T01:05:44.949Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T01:05:45.441Z",
+      "msg": "  explore https://www.lacitycollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:05:45.455Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T01:05:45.772Z",
+      "msg": "  sitemap https://www.lacitycollege.edu/sitemap.xml → 1879 entries"
+    },
+    {
+      "t": "2026-06-09T01:05:46.541Z",
+      "msg": "  sitemap https://www.lacitycollege.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T01:05:47.306Z",
+      "msg": "  sitemap https://www.lacitycollege.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T01:05:47.308Z",
+      "msg": "  sitemap mining → 1879 URL(s), 35 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T01:06:04.832Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T01:06:07.253Z",
+      "msg": "  explore https://www.lacitycollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:06:07.490Z",
+      "msg": "  explore https://www.lacitycollege.edu/academics/class-schedules → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:06:07.631Z",
+      "msg": "  explore https://www.lacitycollege.edu/admissions/registration-portal → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:06:07.768Z",
+      "msg": "  explore https://www.lacitycollege.edu/admissions/dual-enrollment → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:06:07.883Z",
+      "msg": "  explore https://www.lacitycollege.edu/academics/class-schedules/short-term-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:06:07.996Z",
+      "msg": "  explore https://www.lacitycollege.edu/academics/class-schedules/final-exam-schedules → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:06:08.187Z",
+      "msg": "  explore https://www.lacitycollege.edu/academic-resources/college-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:06:08.300Z",
+      "msg": "  explore https://www.lacitycollege.edu/admissions/student-checklist/new-students → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:06:08.441Z",
+      "msg": "  explore https://www.lacitycollege.edu/academics/online → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:06:08.677Z",
+      "msg": "  explore https://programmap.lacitycollege.edu/academics → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:06:08.808Z",
+      "msg": "  explore https://www.lacitycollege.edu/admissions → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:06:11.179Z",
+      "msg": "  explore https://www.lacitycollege.edu/student-services/spr/calworks → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:06:11.385Z",
+      "msg": "  explore https://www.lacitycollege.edu/student-services/ecs/career-center → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:06:13.016Z",
+      "msg": "  explore https://www.lacitycollege.edu/student-services/ecs/career-center/resources/self-exploration → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:06:13.016Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T01:08:29.740Z",
+      "msg": "  google \"Los Angeles City College schedule of classes\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:10:46.747Z",
+      "msg": "  google \"Los Angeles City College search for classes\" → 6 hit(s) (+5 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:13:02.807Z",
+      "msg": "  google \"Los Angeles City College class schedule 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:15:19.114Z",
+      "msg": "  google \"Los Angeles City College class schedule spring 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:17:34.668Z",
+      "msg": "  google \"Los Angeles City College class schedule fall 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:19:50.893Z",
+      "msg": "  google \"Los Angeles City College public class search\" → 6 hit(s) (+3 new, 14 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:22:07.391Z",
+      "msg": "  google \"Los Angeles City College self service banner class search\" → 6 hit(s) (+6 new, 20 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:24:23.790Z",
+      "msg": "  google \"Los Angeles City College ellucian self service class schedule\" → 6 hit(s) (+6 new, 26 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:26:40.295Z",
+      "msg": "  google \"Los Angeles City College webadvisor class schedule\" → 6 hit(s) (+6 new, 32 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:28:57.508Z",
+      "msg": "  google \"Los Angeles City College courses by subject\" → 6 hit(s) (+4 new, 36 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:31:14.928Z",
+      "msg": "  google \"Los Angeles City College course catalog\" → 6 hit(s) (+5 new, 41 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:33:31.745Z",
+      "msg": "  google \"site:lacitycollege.edu schedule of classes\" → 0 hit(s) (+0 new, 41 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:35:48.479Z",
+      "msg": "  google \"site:lacitycollege.edu class schedule\" → 0 hit(s) (+0 new, 41 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:35:49.066Z",
+      "msg": "  probe https://catalog.valleycollege.edu/degree-certificate-program-index/welding-technology/welding-job-readiness-certificate-completion/ → 8 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:35:50.104Z",
+      "msg": "  probe https://smapse.com/catalog/los-angeles-california/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:35:50.823Z",
+      "msg": "  probe https://cnaclassesinlosangeles.com/west-los-angeles-college/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:35:51.416Z",
+      "msg": "  probe https://www.asiansinacademia.com/jobdetail-310187-jkc-enrollment-advisor-community-outreach-specialist → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:35:52.073Z",
+      "msg": "  probe https://freecnatrainingclasses.org/where-can-i-take-cna-classes-in-los-angeles/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:35:53.179Z",
+      "msg": "  probe https://www.angelescollege.edu/academics/calendar/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:35:53.624Z",
+      "msg": "  probe https://www.angelescollege.edu/academics/programs/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:35:54.435Z",
+      "msg": "  probe https://www.ed2go.com/lacc/help.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:35:54.771Z",
+      "msg": "  probe https://www.lahigh.org/apps/news/article/1303964 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:35:54.946Z",
+      "msg": "  probe https://www.lahigh.org/apps/news/article/1386910 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:35:55.154Z",
+      "msg": "  probe https://en.wikipedia.org/wiki/Los_Angeles_Valley_College → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:35:55.531Z",
+      "msg": "  probe https://www.communitycollegereview.com/los-angeles-city-college-profile → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:35:55.642Z",
+      "msg": "  probe https://www.monsterpreps.com/colleges/los-angeles-city-college.htm → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:35:56.814Z",
+      "msg": "  probe https://www.dreamstudiesabroad.com/schools/losangelescc → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:35:58.902Z",
+      "msg": "  probe https://www.cityprofile.com/forum/los-angeles/los-angeles-city-college-2162/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:36:00.997Z",
+      "msg": "  probe https://cprnearme.com/location/los-angeles-city-college-ca-los-angeles/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:36:03.108Z",
+      "msg": "  probe https://catalog.lacitycollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:36:03.514Z",
+      "msg": "  probe https://www.valleycollege.edu/academic-career-programs/class-schedule/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:36:04.526Z",
+      "msg": "  probe https://smapse.com/catalog/los-angeles-california/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:36:04.816Z",
+      "msg": "  probe https://smapse.com/catalog/los-angeles-california/#bb_1 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:36:05.675Z",
+      "msg": "  probe https://www.asiansinacademia.com/search.php?category_id=248 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:36:05.869Z",
+      "msg": "  probe https://www.asiansinacademia.com/jobdetail-422950-student-services-specialist-enrollment-and-retention-specialist-0096596 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:36:05.870Z",
+      "msg": "   ✓ \"Exhaustive Google/DDG search sweep\" found 8 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:36:05.871Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T01:38:22.453Z",
+      "msg": "search \"Los Angeles City College schedule of classes\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-09T01:40:39.363Z",
+      "msg": "search \"Los Angeles City College search for classes\" → 8 hit(s) (15 unique so far)"
+    },
+    {
+      "t": "2026-06-09T01:40:39.365Z",
+      "msg": "Web search returned 15 result(s)."
+    },
+    {
+      "t": "2026-06-09T01:40:39.367Z",
+      "msg": "Top candidate: https://www.fearlesspresentations.com/los-angeles-california-public-speaking-class/ (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T01:40:39.612Z",
+      "msg": "probe https://www.fearlesspresentations.com/los-angeles-california-public-speaking-class/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:40:40.812Z",
+      "msg": "probe https://ghanadmission.com/los-angeles-city-college-admission-acceptance-rate-courses-scholarships-fees-2/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:40:41.691Z",
+      "msg": "probe https://www.ed2go.com/lacc/help.html → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:40:42.666Z",
+      "msg": "probe https://www.angelescollege.edu/academics/calendar/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:42.966Z",
+      "msg": "probe https://www.lahigh.org/apps/news/article/1303964 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:40:43.138Z",
+      "msg": "probe https://www.lahigh.org/apps/news/article/1386910 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:40:43.691Z",
+      "msg": "probe https://cnaclassesinlosangeles.com/west-los-angeles-college/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:40:43.896Z",
+      "msg": "probe https://en.wikipedia.org/wiki/Los_Angeles_Valley_College → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:40:44.841Z",
+      "msg": "probe https://freecnatrainingclasses.org/cna-evening-classes-in-los-angeles/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:40:45.461Z",
+      "msg": "probe https://www.communitycollegereview.com/los-angeles-city-college-profile → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:40:46.788Z",
+      "msg": "probe https://www.lacitycollege.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:47.678Z",
+      "msg": "probe https://www.lacitycollege.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:48.600Z",
+      "msg": "probe https://www.lacitycollege.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:49.405Z",
+      "msg": "probe https://www.lacitycollege.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:50.229Z",
+      "msg": "probe https://www.lacitycollege.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:51.147Z",
+      "msg": "probe https://www.lacitycollege.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:52.266Z",
+      "msg": "probe https://www.lacitycollege.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:53.089Z",
+      "msg": "probe https://www.lacitycollege.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:53.898Z",
+      "msg": "probe https://www.lacitycollege.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:54.343Z",
+      "msg": "probe https://lacitycollege.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:54.515Z",
+      "msg": "probe https://lacitycollege.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:54.792Z",
+      "msg": "probe https://lacitycollege.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:55.012Z",
+      "msg": "probe https://lacitycollege.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:55.160Z",
+      "msg": "probe https://lacitycollege.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:55.402Z",
+      "msg": "probe https://lacitycollege.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:55.554Z",
+      "msg": "probe https://lacitycollege.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:55.747Z",
+      "msg": "probe https://lacitycollege.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:55.964Z",
+      "msg": "probe https://lacitycollege.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:40:55.965Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T01:40:55.966Z",
+      "msg": "render (headless Chrome) https://www.fearlesspresentations.com/los-angeles-california-public-speaking-class/ …"
+    },
+    {
+      "t": "2026-06-09T01:41:02.986Z",
+      "msg": "browser https://www.fearlesspresentations.com/los-angeles-california-public-speaking-class/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:41:02.986Z",
+      "msg": "render (headless Chrome) https://ghanadmission.com/los-angeles-city-college-admission-acceptance-rate-courses-scholarships-fees-2/ …"
+    },
+    {
+      "t": "2026-06-09T01:41:15.687Z",
+      "msg": "browser https://ghanadmission.com/los-angeles-city-college-admission-acceptance-rate-courses-scholarships-fees-2/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:41:15.688Z",
+      "msg": "render (headless Chrome) https://www.ed2go.com/lacc/help.html …"
+    },
+    {
+      "t": "2026-06-09T01:41:28.928Z",
+      "msg": "browser https://www.ed2go.com/lacc/help.html → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:41:28.929Z",
+      "msg": "render (headless Chrome) https://www.angelescollege.edu/academics/calendar/ …"
+    },
+    {
+      "t": "2026-06-09T01:41:51.152Z",
+      "msg": "browser https://www.angelescollege.edu/academics/calendar/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:41:51.153Z",
+      "msg": "render (headless Chrome) https://www.lahigh.org/apps/news/article/1303964 …"
+    },
+    {
+      "t": "2026-06-09T01:41:59.853Z",
+      "msg": "browser https://www.lahigh.org/apps/news/article/1303964 → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:41:59.854Z",
+      "msg": "render (headless Chrome) https://www.lahigh.org/apps/news/article/1386910 …"
+    },
+    {
+      "t": "2026-06-09T01:42:08.478Z",
+      "msg": "browser https://www.lahigh.org/apps/news/article/1386910 → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:42:08.484Z",
+      "msg": "✅ SOLVED — 8 courses ingested into the searchable DB (strategy: Exhaustive Google/DDG search sweep)."
     }
-  ]
+  ],
+  "strategy": "Exhaustive Google/DDG search sweep"
 }

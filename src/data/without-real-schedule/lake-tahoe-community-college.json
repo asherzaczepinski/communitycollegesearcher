@@ -1,0 +1,28 @@
+{
+  "slug": "lake-tahoe-community-college",
+  "name": "Lake Tahoe Community College",
+  "url": "https://www.ltcc.edu/",
+  "live": true,
+  "courseCount": 1,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": "web-search",
+  "extractUrl": "https://southtahoenow.com/05/19/2012/lake-tahoe-community-college-ramps-summer-connect-programs",
+  "status": "live",
+  "lastStatus": "ok: 1 courses via auto (auto-learned)",
+  "reason": "Partial capture — only 1 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "NEW DAY 2",
+      "title": "BEACH BODY:",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://southtahoenow.com/05/19/2012/lake-tahoe-community-college-ramps-summer-connect-programs"
+    }
+  ]
+}

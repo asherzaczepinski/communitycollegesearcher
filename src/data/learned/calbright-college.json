@@ -2,28 +2,139 @@
   "slug": "calbright-college",
   "name": "Calbright College",
   "url": "https://www.calbright.org/",
-  "source": "homepage",
+  "source": "web-search-deep",
   "platform": "unknown",
   "scheduleUrl": null,
-  "catalogUrl": "https://www.calbright.edu/academic-catalogs/",
+  "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
   "candidates": [
     {
-      "text": "Academic Catalogs",
-      "href": "https://www.calbright.edu/academic-catalogs/",
-      "score": 3
+      "text": "Learning at Calbright | Calbright College",
+      "href": "https://www.calbright.edu/programs/learning/",
+      "score": 0
+    },
+    {
+      "text": "History | Calbright College",
+      "href": "https://www.calbright.edu/about/history/",
+      "score": 0
+    },
+    {
+      "text": "Program Information Session | Calbright College",
+      "href": "https://www.calbright.edu/info-session",
+      "score": 0
+    },
+    {
+      "text": "Calbright Is Reinventing Best Practices For Online Higher",
+      "href": "https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/",
+      "score": 0
+    },
+    {
+      "text": "About Calbright | Calbright College",
+      "href": "https://www.calbright.edu/about/",
+      "score": 0
+    },
+    {
+      "text": "Calbright takes small, positive steps - CalMatters",
+      "href": "https://calmatters.org/education/2023/04/calbright-community-college/",
+      "score": 0
+    },
+    {
+      "text": "Hundreds sign up for the new Calbright College | EdSource",
+      "href": "https://edsource.org/2019/hundreds-sign-up-for-the-new-calbright-college/618055",
+      "score": 0
+    },
+    {
+      "text": "Calbright College once again faces opposition that seeks to",
+      "href": "https://edsource.org/2021/calbright-college-once-again-faces-opposition-that-seeks-to-shut-it-down/653708",
+      "score": 0
+    },
+    {
+      "text": "Calbright College Connects Adult Learners with Work-Based",
+      "href": "https://www.calbright.edu/newsroom/news/calbright-college-connects-adult-learners-with-work-based-learning-in-high-growth-tech-and-hr-careers/",
+      "score": 0
+    },
+    {
+      "text": "Free Online College Programs | Calbright College",
+      "href": "https://www.calbright.edu/programs/",
+      "score": 0
     }
   ],
-  "searchQuery": null,
-  "searchResults": [],
+  "searchQuery": "Calbright College schedule of classes",
+  "searchResults": [
+    {
+      "title": "Learning at Calbright | Calbright College",
+      "href": "https://www.calbright.edu/programs/learning/",
+      "query": "Calbright College schedule of classes"
+    },
+    {
+      "title": "History | Calbright College",
+      "href": "https://www.calbright.edu/about/history/",
+      "query": "Calbright College schedule of classes"
+    },
+    {
+      "title": "Program Information Session | Calbright College",
+      "href": "https://www.calbright.edu/info-session",
+      "query": "Calbright College schedule of classes"
+    },
+    {
+      "title": "Calbright Is Reinventing Best Practices For Online Higher",
+      "href": "https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/",
+      "query": "Calbright College schedule of classes"
+    },
+    {
+      "title": "About Calbright | Calbright College",
+      "href": "https://www.calbright.edu/about/",
+      "query": "Calbright College schedule of classes"
+    },
+    {
+      "title": "Calbright takes small, positive steps - CalMatters",
+      "href": "https://calmatters.org/education/2023/04/calbright-community-college/",
+      "query": "Calbright College schedule of classes"
+    },
+    {
+      "title": "Hundreds sign up for the new Calbright College | EdSource",
+      "href": "https://edsource.org/2019/hundreds-sign-up-for-the-new-calbright-college/618055",
+      "query": "Calbright College schedule of classes"
+    },
+    {
+      "title": "Calbright College once again faces opposition that seeks to",
+      "href": "https://edsource.org/2021/calbright-college-once-again-faces-opposition-that-seeks-to-shut-it-down/653708",
+      "query": "Calbright College schedule of classes"
+    },
+    {
+      "title": "Calbright College Connects Adult Learners with Work-Based",
+      "href": "https://www.calbright.edu/newsroom/news/calbright-college-connects-adult-learners-with-work-based-learning-in-high-growth-tech-and-hr-careers/",
+      "query": "Calbright College search for classes"
+    },
+    {
+      "title": "Free Online College Programs | Calbright College",
+      "href": "https://www.calbright.edu/programs/",
+      "query": "Calbright College search for classes"
+    },
+    {
+      "title": "How Calbright College Is Re-Imagining College",
+      "href": "https://www.calbright.edu/newsroom/blog/when-people-understand-how-were-re-imagining-college-they-want-to-be-part-of-it/",
+      "query": "Calbright College search for classes"
+    },
+    {
+      "title": "After more than a year of enrolling students, Calbright College",
+      "href": "https://edsource.org/2020/after-one-year-calbright-college-makes-significant-changes-and-learns-from-mistakes/643815",
+      "query": "Calbright College search for classes"
+    }
+  ],
   "blocked": null,
   "confidence": 0.15,
-  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "learnedAt": "2026-06-08T17:02:11.826Z",
+  "notes": "Searched the web (12 results) but no page yielded course data — the schedule is likely a bespoke search app. Top results saved above.",
+  "learnedAt": "2026-06-09T03:53:21.248Z",
   "browserActions": [
-    "browser https://www.calbright.edu/academic-catalogs/ → 0 courses"
+    "browser https://www.calbright.edu/programs/learning/ → 0 courses",
+    "browser https://www.calbright.edu/about/history/ → 0 courses",
+    "browser https://www.calbright.edu/info-session → 0 courses",
+    "browser https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ → 0 courses",
+    "browser https://www.calbright.edu/about/ → 0 courses",
+    "browser https://calmatters.org/education/2023/04/calbright-community-college/ → 0 courses"
   ]
 }

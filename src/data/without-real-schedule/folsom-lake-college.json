@@ -1,0 +1,28 @@
+{
+  "slug": "folsom-lake-college",
+  "name": "Folsom Lake College",
+  "url": "https://www.flc.losrios.edu/",
+  "live": true,
+  "courseCount": 1,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": "web-search",
+  "extractUrl": "https://folsomlakesurf.org/competitive-club-season-schedule/",
+  "status": "live",
+  "lastStatus": "ok: 1 courses via auto (auto-learned)",
+  "reason": "Partial capture — only 1 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "U14",
+      "title": "June 15th – December 18th",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://folsomlakesurf.org/competitive-club-season-schedule/"
+    }
+  ]
+}

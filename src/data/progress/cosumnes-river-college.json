@@ -2,17 +2,17 @@
   "slug": "cosumnes-river-college",
   "name": "Cosumnes River College",
   "url": "https://www.crc.losrios.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 39,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://crc.losrios.edu/admissions/placement/math-and-statistics-course-sequence",
   "blocked": null,
-  "note": "Homepage returned HTTP 404",
-  "startedAt": "2026-06-08T17:16:21.163Z",
-  "finishedAt": "2026-06-08T17:17:25.543Z",
-  "updatedAt": "2026-06-08T17:17:25.543Z",
+  "note": "Solved via \"Mine sitemap.xml / robots.txt\" — 39 courses from https://crc.losrios.edu/admissions/placement/math-and-statistics-course-sequence.",
+  "startedAt": "2026-06-08T22:52:44.837Z",
+  "finishedAt": "2026-06-08T23:05:59.768Z",
+  "updatedAt": "2026-06-08T23:05:59.768Z",
   "log": [
     {
       "t": "2026-06-08T17:16:21.163Z",
@@ -109,6 +109,395 @@
     {
       "t": "2026-06-08T17:17:25.543Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-08T22:52:44.837Z",
+      "msg": "▶ Solving Cosumnes River College — https://www.crc.losrios.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-08T22:52:44.837Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-08T22:52:47.506Z",
+      "msg": "  explore https://www.crc.losrios.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:47.837Z",
+      "msg": "  explore https://crc.losrios.edu/admissions/enroll-in-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:48.194Z",
+      "msg": "  explore https://crc.losrios.edu/academics/search-class-schedules → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:48.480Z",
+      "msg": "  explore https://crc.losrios.edu/admissions/enroll-in-classes/waitlist-information#permission-number → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:48.542Z",
+      "msg": "  explore https://crc.losrios.edu/admissions/enroll-in-classes#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:48.884Z",
+      "msg": "  explore https://crc.losrios.edu/admissions/enroll-in-classes# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:49.194Z",
+      "msg": "  explore https://crc.losrios.edu/admissions/enroll-in-classes/priority-registration-and-enrollment-dates → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:49.422Z",
+      "msg": "  explore https://crc.losrios.edu/admissions/enroll-in-classes/waitlist-information#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:49.525Z",
+      "msg": "  explore https://crc.losrios.edu/admissions/enroll-in-classes/waitlist-information# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:49.763Z",
+      "msg": "  explore https://crc.losrios.edu/admissions/enroll-in-classes/loss-of-priority-registration → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:50.135Z",
+      "msg": "  explore https://crc.losrios.edu/admissions/enroll-in-classes/waitlist-information → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:50.970Z",
+      "msg": "  explore https://crc.losrios.edu/admissions/enroll-in-classes/zero-textbook-costs → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:51.310Z",
+      "msg": "  explore https://crc.losrios.edu/admissions/enroll-in-classes/priority-registration-and-enrollment-dates#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:51.965Z",
+      "msg": "  explore https://crc.losrios.edu/admissions/enroll-in-classes/priority-registration-and-enrollment-dates# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:52.792Z",
+      "msg": "  explore https://crc.losrios.edu/admissions/enroll-in-classes/admissions/financial-aid-and-fees/financial-aid-policies/course-applicability → unreachable"
+    },
+    {
+      "t": "2026-06-08T22:52:53.283Z",
+      "msg": "  explore https://crc.losrios.edu/admissions/enroll-in-classes/loss-of-priority-registration#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:53.369Z",
+      "msg": "  explore https://crc.losrios.edu/admissions/enroll-in-classes/loss-of-priority-registration# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:53.884Z",
+      "msg": "  explore https://crc.losrios.edu/admissions/enroll-in-classes/shared/doc/admissions-records/forms/loss-priority-registration-appeal-form.pdf → unreachable"
+    },
+    {
+      "t": "2026-06-08T22:52:54.186Z",
+      "msg": "  explore https://crc.losrios.edu/2026-2027-unofficial-catalog-preview → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:54.700Z",
+      "msg": "  explore https://crc.losrios.edu/2026-2027-unofficial-catalog-preview/getting-started/how-to-enroll → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:55.186Z",
+      "msg": "  explore https://crc.losrios.edu/2026-2027-unofficial-catalog-preview/getting-started/how-to-enroll# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:55.342Z",
+      "msg": "  explore https://crc.losrios.edu/2026-2027-unofficial-catalog-preview# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:52:55.353Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-08T22:52:58.462Z",
+      "msg": "  sitemap https://www.crc.losrios.edu/sitemap.xml → 1164 entries"
+    },
+    {
+      "t": "2026-06-08T22:52:58.869Z",
+      "msg": "  sitemap https://www.crc.losrios.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-08T22:52:59.231Z",
+      "msg": "  sitemap https://www.crc.losrios.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-08T22:52:59.233Z",
+      "msg": "  sitemap mining → 1164 URL(s), 224 course-ish to probe"
+    },
+    {
+      "t": "2026-06-08T22:53:01.052Z",
+      "msg": "  sitemap probe http://crc.losrios.edu/admissions/placement/english-course-sequence → 6"
+    },
+    {
+      "t": "2026-06-08T22:53:01.966Z",
+      "msg": "  sitemap probe http://crc.losrios.edu/admissions/placement/math-and-statistics-course-sequence → 39"
+    },
+    {
+      "t": "2026-06-08T22:53:02.598Z",
+      "msg": "  sitemap probe http://crc.losrios.edu/admissions/placement/how-to-pick-a-math-course → 11"
+    },
+    {
+      "t": "2026-06-08T22:53:07.860Z",
+      "msg": "   ✓ \"Mine sitemap.xml / robots.txt\" found 39 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:53:07.861Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-08T22:53:11.959Z",
+      "msg": "  explore https://www.crc.losrios.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:53:37.372Z",
+      "msg": "  explore https://www.crc.losrios.edu/admissions/enroll-in-classes → unreachable"
+    },
+    {
+      "t": "2026-06-08T22:53:41.931Z",
+      "msg": "  explore https://www.crc.losrios.edu/academics/search-class-schedules → unreachable"
+    },
+    {
+      "t": "2026-06-08T22:53:46.357Z",
+      "msg": "  explore https://crc.losrios.edu/admissions/enroll-in-classes/waitlist-information#permission-number → unreachable"
+    },
+    {
+      "t": "2026-06-08T22:53:50.859Z",
+      "msg": "  explore https://www.crc.losrios.edu/2026-2027-unofficial-catalog-preview → unreachable"
+    },
+    {
+      "t": "2026-06-08T22:53:55.107Z",
+      "msg": "  explore https://crc.losrios.edu/academics/search-class-schedules?openFilter=true&waitlistFilter=true&strm=1266,Summer%202026&link=true → unreachable"
+    },
+    {
+      "t": "2026-06-08T22:53:59.597Z",
+      "msg": "  explore https://crc.losrios.edu/academics/search-class-schedules?openFilter=true&waitlistFilter=true&strm=1269,Fall%202026&link=true → unreachable"
+    },
+    {
+      "t": "2026-06-08T22:54:04.120Z",
+      "msg": "  explore https://www.crc.losrios.edu/admissions/get-started-and-apply/dual-enrollment-admission-and-enrollment-steps → unreachable"
+    },
+    {
+      "t": "2026-06-08T22:54:08.756Z",
+      "msg": "  explore https://www.crc.losrios.edu/about-us/our-values/protecting-student-data/website-privacy-policy → unreachable"
+    },
+    {
+      "t": "2026-06-08T22:54:08.757Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-08T22:54:26.545Z",
+      "msg": "  google \"Cosumnes River College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:54:44.038Z",
+      "msg": "  google \"Cosumnes River College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:55:17.779Z",
+      "msg": "  google \"Cosumnes River College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:55:50.757Z",
+      "msg": "  google \"Cosumnes River College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:58:05.940Z",
+      "msg": "  google \"Cosumnes River College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:59:58.605Z",
+      "msg": "  google \"Cosumnes River College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:00:16.428Z",
+      "msg": "  google \"Cosumnes River College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:00:34.676Z",
+      "msg": "  google \"Cosumnes River College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:00:52.223Z",
+      "msg": "  google \"Cosumnes River College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:01:10.342Z",
+      "msg": "  google \"Cosumnes River College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:01:28.806Z",
+      "msg": "  google \"Cosumnes River College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:01:47.048Z",
+      "msg": "  google \"site:crc.losrios.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:02:04.484Z",
+      "msg": "  google \"site:crc.losrios.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:02:04.486Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
+    },
+    {
+      "t": "2026-06-08T23:02:04.486Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-08T23:02:22.708Z",
+      "msg": "search \"Cosumnes River College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:02:41.277Z",
+      "msg": "search \"Cosumnes River College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:02:58.913Z",
+      "msg": "search \"Cosumnes River College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:03:16.486Z",
+      "msg": "search \"Cosumnes River College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:03:34.660Z",
+      "msg": "search \"Cosumnes River College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:03:53.158Z",
+      "msg": "search \"Cosumnes River College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:03:53.159Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-08T23:03:53.161Z",
+      "msg": "Top candidate: https://www.crc.losrios.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-08T23:03:57.720Z",
+      "msg": "probe https://www.crc.losrios.edu/schedule → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:04:02.410Z",
+      "msg": "probe https://www.crc.losrios.edu/schedule-of-classes → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:04:06.854Z",
+      "msg": "probe https://www.crc.losrios.edu/class-schedule → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:04:11.345Z",
+      "msg": "probe https://www.crc.losrios.edu/classes → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:04:15.737Z",
+      "msg": "probe https://www.crc.losrios.edu/class-search → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:04:20.217Z",
+      "msg": "probe https://www.crc.losrios.edu/find-classes → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:04:24.870Z",
+      "msg": "probe https://www.crc.losrios.edu/searchable-schedule → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:04:29.344Z",
+      "msg": "probe https://www.crc.losrios.edu/academics/schedule → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:04:34.181Z",
+      "msg": "probe https://www.crc.losrios.edu/admissions/class-schedule → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:04:38.901Z",
+      "msg": "probe https://crc.losrios.edu/schedule → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:04:43.882Z",
+      "msg": "probe https://crc.losrios.edu/schedule-of-classes → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:04:48.272Z",
+      "msg": "probe https://crc.losrios.edu/class-schedule → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:04:53.070Z",
+      "msg": "probe https://crc.losrios.edu/classes → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:04:57.533Z",
+      "msg": "probe https://crc.losrios.edu/class-search → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:05:02.194Z",
+      "msg": "probe https://crc.losrios.edu/find-classes → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:05:06.923Z",
+      "msg": "probe https://crc.losrios.edu/searchable-schedule → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:05:11.341Z",
+      "msg": "probe https://crc.losrios.edu/academics/schedule → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:05:15.795Z",
+      "msg": "probe https://crc.losrios.edu/admissions/class-schedule → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:05:20.074Z",
+      "msg": "probe https://ssb.crc.losrios.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:05:24.401Z",
+      "msg": "probe https://banner.crc.losrios.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:05:28.977Z",
+      "msg": "probe https://selfservice.crc.losrios.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:05:33.532Z",
+      "msg": "probe https://ssb-prod.crc.losrios.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:05:37.892Z",
+      "msg": "probe https://my.crc.losrios.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:05:42.363Z",
+      "msg": "probe https://webadvisor.crc.losrios.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:05:46.935Z",
+      "msg": "probe https://reg.crc.losrios.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:05:51.257Z",
+      "msg": "probe https://catalog.crc.losrios.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:05:55.381Z",
+      "msg": "probe https://catalog.crc.losrios.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:05:59.757Z",
+      "msg": "probe https://catalog.crc.losrios.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-08T23:05:59.759Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T23:05:59.767Z",
+      "msg": "✅ SOLVED — 39 courses ingested into the searchable DB (strategy: Mine sitemap.xml / robots.txt)."
     }
-  ]
+  ],
+  "strategy": "Mine sitemap.xml / robots.txt"
 }

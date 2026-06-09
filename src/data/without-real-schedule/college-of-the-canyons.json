@@ -1,0 +1,28 @@
+{
+  "slug": "college-of-the-canyons",
+  "name": "College of the Canyons",
+  "url": "https://www.canyons.edu/",
+  "live": true,
+  "courseCount": 1,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": "web-search",
+  "extractUrl": "https://www.hometownstation.com/on-air-features/program-schedule",
+  "status": "live",
+  "lastStatus": "ok: 1 courses via auto (auto-learned)",
+  "reason": "Partial capture — only 1 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "KHTS FM 98",
+      "title": "1 & AM 1220 Weekly Radio Program Schedule",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.hometownstation.com/on-air-features/program-schedule"
+    }
+  ]
+}

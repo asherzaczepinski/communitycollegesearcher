@@ -1,0 +1,27 @@
+{
+  "slug": "foothill-college",
+  "name": "Foothill College",
+  "url": "https://www.foothill.edu/",
+  "live": true,
+  "courseCount": 1823,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": "web-search",
+  "extractUrl": "https://foothill.edu/schedule/index.html?Quarter=2025S&srchcrn=41479",
+  "status": "live",
+  "lastStatus": "ok: 1823 courses via college",
+  "courses": [
+    {
+      "code": "ETHN-001",
+      "title": "-3AZ",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://foothill.edu/schedule/index.html?Quarter=2025S&srchcrn=41479"
+    }
+  ]
+}

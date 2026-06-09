@@ -1,0 +1,28 @@
+{
+  "slug": "los-angeles-valley-college",
+  "name": "Los Angeles Valley College",
+  "url": "https://www.lavc.edu/",
+  "live": true,
+  "courseCount": 1,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": null,
+  "extractUrl": "https://www.lavc.edu/academics/catalogs",
+  "status": "live",
+  "lastStatus": "ok: 1 courses via college",
+  "reason": "Partial capture — only 1 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "KIN 317",
+      "title": "1 and 317-2",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.lavc.edu/academics/catalogs"
+    }
+  ]
+}

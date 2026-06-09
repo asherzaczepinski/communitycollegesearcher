@@ -1,0 +1,40 @@
+{
+  "slug": "irvine-valley-college",
+  "name": "Irvine Valley College",
+  "url": "https://www.ivc.edu/",
+  "live": true,
+  "courseCount": 2,
+  "modalityCoverage": 0,
+  "method": "browser",
+  "source": "homepage",
+  "extractUrl": "https://classes.socccd.edu/smartscheduleweb/list/1/I/202670/search",
+  "status": "live",
+  "lastStatus": "ok: 2 courses via browser (auto-learned)",
+  "reason": "Partial capture — only 2 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "ACCT 1AH",
+      "title": "Financial Accounting Honors",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://classes.socccd.edu/smartscheduleweb/list/1/I/202670/search"
+    },
+    {
+      "code": "ACCT 1A",
+      "title": "Financial Accounting",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://classes.socccd.edu/smartscheduleweb/list/1/I/202670/search"
+    }
+  ]
+}

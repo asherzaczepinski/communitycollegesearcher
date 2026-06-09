@@ -2,33 +2,14 @@
   "slug": "fullerton-college",
   "name": "Fullerton College",
   "url": "https://www.fullcoll.edu/",
-  "source": "homepage",
+  "source": "solve",
+  "strategy": "Explore real homepage links (HTTP)",
   "platform": "unknown",
-  "scheduleUrl": "https://www.fullcoll.edu/schedule/",
-  "catalogUrl": "https://www.fullcoll.edu/schedule/",
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "extractUrl": "https://dualenrollment.fullcoll.edu/apply/",
+  "method": "auto",
+  "sampleCount": 4,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Schedule and Catalog",
-      "href": "https://www.fullcoll.edu/schedule/",
-      "score": 2
-    },
-    {
-      "text": "Schedule and Catalog",
-      "href": "https://www.fullcoll.edu/schedule/",
-      "score": 3
-    }
-  ],
-  "searchQuery": null,
-  "searchResults": [],
-  "blocked": null,
-  "confidence": 0.15,
-  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "learnedAt": "2026-06-08T17:27:34.118Z",
-  "browserActions": [
-    "browser https://www.fullcoll.edu/schedule/ → 0 courses"
-  ]
+  "confidence": 0.6,
+  "notes": "Solved via \"Explore real homepage links (HTTP)\" — 4 courses from https://dualenrollment.fullcoll.edu/apply/.",
+  "learnedAt": "2026-06-08T23:36:53.205Z"
 }

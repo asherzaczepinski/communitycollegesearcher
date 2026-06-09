@@ -3,172 +3,1216 @@
   "name": "Calbright College",
   "url": "https://www.calbright.org/",
   "status": "impossible",
-  "attempts": 3,
+  "attempts": 29,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
   "blocked": null,
-  "note": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "startedAt": "2026-06-08T17:01:21.602Z",
-  "finishedAt": "2026-06-08T17:02:21.124Z",
-  "updatedAt": "2026-06-08T17:02:21.124Z",
+  "note": "No login wall found, but no public schedule surfaced through 5 strategies incl. an exhaustive search sweep. Retryable.",
+  "startedAt": "2026-06-09T03:51:12.011Z",
+  "finishedAt": "2026-06-09T03:55:21.252Z",
+  "updatedAt": "2026-06-09T04:05:17.886Z",
   "log": [
     {
-      "t": "2026-06-08T17:01:21.602Z",
-      "msg": "▶ Starting Calbright College — https://www.calbright.org/"
-    },
-    {
-      "t": "2026-06-08T17:01:21.602Z",
-      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
-    },
-    {
-      "t": "2026-06-08T17:01:21.602Z",
-      "msg": "Fetching homepage https://www.calbright.org/ …"
-    },
-    {
-      "t": "2026-06-08T17:01:22.220Z",
-      "msg": "Homepage: 0 schedule + 1 catalog link(s); platform unknown."
-    },
-    {
-      "t": "2026-06-08T17:01:23.665Z",
-      "msg": "probe https://www.calbright.edu/academic-catalogs/ → 0 (no courses)"
-    },
-    {
-      "t": "2026-06-08T17:01:23.717Z",
-      "msg": "probe https://catalog.calbright.edu/ → 0 (fetch failed)"
-    },
-    {
-      "t": "2026-06-08T17:01:23.719Z",
-      "msg": "probe https://catalog.calbright.edu/course-outlines/ → 0 (fetch failed)"
-    },
-    {
-      "t": "2026-06-08T17:01:23.721Z",
-      "msg": "probe https://catalog.calbright.edu/courses/ → 0 (fetch failed)"
-    },
-    {
-      "t": "2026-06-08T17:01:23.723Z",
-      "msg": "probe https://catalog.calbright.edu/coursesaz/ → 0 (fetch failed)"
-    },
-    {
-      "t": "2026-06-08T17:01:23.724Z",
-      "msg": "probe https://catalog.calbright.edu/course-descriptions/ → 0 (fetch failed)"
-    },
-    {
-      "t": "2026-06-08T17:01:23.725Z",
-      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
-    },
-    {
-      "t": "2026-06-08T17:01:25.940Z",
-      "msg": "Web search returned 6 result(s)."
-    },
-    {
-      "t": "2026-06-08T17:01:25.941Z",
-      "msg": "Top candidate: https://www.calbright.edu/programs/learning/ (platform: unknown)."
-    },
-    {
-      "t": "2026-06-08T17:01:26.125Z",
-      "msg": "probe https://www.calbright.edu/programs/learning/ → 0 (no courses)"
-    },
-    {
-      "t": "2026-06-08T17:01:26.319Z",
-      "msg": "probe https://www.calbright.edu/about/history/ → 0 (no courses)"
-    },
-    {
-      "t": "2026-06-08T17:01:27.726Z",
-      "msg": "probe https://www.calbright.edu/info-session → 0 (no courses)"
-    },
-    {
-      "t": "2026-06-08T17:01:28.799Z",
-      "msg": "probe https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ → 0 (no courses)"
-    },
-    {
-      "t": "2026-06-08T17:01:28.962Z",
-      "msg": "probe https://www.calbright.edu/about/ → 0 (no courses)"
-    },
-    {
-      "t": "2026-06-08T17:01:44.580Z",
-      "msg": "probe https://calmatters.org/education/2023/04/calbright-community-college/ → 0 (HTTP 429)"
-    },
-    {
-      "t": "2026-06-08T17:01:44.581Z",
-      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
-    },
-    {
-      "t": "2026-06-08T17:01:44.582Z",
-      "msg": "render (headless Chrome) https://www.calbright.edu/programs/learning/ …"
-    },
-    {
-      "t": "2026-06-08T17:01:54.299Z",
+      "t": "2026-06-08T21:24:27.953Z",
       "msg": "browser https://www.calbright.edu/programs/learning/ → 0 courses"
     },
     {
-      "t": "2026-06-08T17:01:54.299Z",
+      "t": "2026-06-08T21:24:27.953Z",
       "msg": "render (headless Chrome) https://www.calbright.edu/about/history/ …"
     },
     {
-      "t": "2026-06-08T17:02:03.037Z",
+      "t": "2026-06-08T21:24:36.631Z",
       "msg": "browser https://www.calbright.edu/about/history/ → 0 courses"
     },
     {
-      "t": "2026-06-08T17:02:03.038Z",
+      "t": "2026-06-08T21:24:36.632Z",
       "msg": "render (headless Chrome) https://www.calbright.edu/info-session …"
     },
     {
-      "t": "2026-06-08T17:02:11.825Z",
+      "t": "2026-06-08T21:24:45.320Z",
       "msg": "browser https://www.calbright.edu/info-session → 0 courses"
     },
     {
-      "t": "2026-06-08T17:02:11.826Z",
-      "msg": "Attempt 3/3 — homepage rendered in headless Chrome"
+      "t": "2026-06-08T21:24:45.321Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ …"
     },
     {
-      "t": "2026-06-08T17:02:11.826Z",
-      "msg": "Fetching homepage https://www.calbright.org/ …"
+      "t": "2026-06-08T21:24:53.937Z",
+      "msg": "browser https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ → 0 courses"
     },
     {
-      "t": "2026-06-08T17:02:12.197Z",
-      "msg": "Homepage: 0 schedule + 1 catalog link(s); platform unknown."
+      "t": "2026-06-08T21:24:53.937Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/about/ …"
     },
     {
-      "t": "2026-06-08T17:02:12.329Z",
-      "msg": "probe https://www.calbright.edu/academic-catalogs/ → 0 (no courses)"
+      "t": "2026-06-08T21:25:02.611Z",
+      "msg": "browser https://www.calbright.edu/about/ → 0 courses"
     },
     {
-      "t": "2026-06-08T17:02:12.332Z",
-      "msg": "probe https://catalog.calbright.edu/ → 0 (fetch failed)"
+      "t": "2026-06-08T21:25:02.612Z",
+      "msg": "render (headless Chrome) https://calmatters.org/education/2023/04/calbright-community-college/ …"
     },
     {
-      "t": "2026-06-08T17:02:12.334Z",
-      "msg": "probe https://catalog.calbright.edu/course-outlines/ → 0 (fetch failed)"
+      "t": "2026-06-08T21:25:11.379Z",
+      "msg": "browser https://calmatters.org/education/2023/04/calbright-community-college/ → 0 courses"
     },
     {
-      "t": "2026-06-08T17:02:12.336Z",
-      "msg": "probe https://catalog.calbright.edu/courses/ → 0 (fetch failed)"
+      "t": "2026-06-08T21:25:11.382Z",
+      "msg": "🚫 Still impossible — explored real links, mined the sitemap, rendered the menus, and deep-searched. No public, login-free course data."
     },
     {
-      "t": "2026-06-08T17:02:12.337Z",
-      "msg": "probe https://catalog.calbright.edu/coursesaz/ → 0 (fetch failed)"
+      "t": "2026-06-08T21:29:27.577Z",
+      "msg": "▶ Solving Calbright College — https://www.calbright.org/  [smart multi-strategy]"
     },
     {
-      "t": "2026-06-08T17:02:12.338Z",
-      "msg": "probe https://catalog.calbright.edu/course-descriptions/ → 0 (fetch failed)"
+      "t": "2026-06-08T21:29:27.577Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
     },
     {
-      "t": "2026-06-08T17:02:12.338Z",
+      "t": "2026-06-08T21:29:27.993Z",
+      "msg": "  explore https://www.calbright.org/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:29:28.010Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-08T21:29:28.827Z",
+      "msg": "  sitemap https://www.calbright.org/sitemap.xml → 7 entries"
+    },
+    {
+      "t": "2026-06-08T21:29:30.044Z",
+      "msg": "  sitemap https://www.calbright.org/sitemap_index.xml → 7 entries"
+    },
+    {
+      "t": "2026-06-08T21:29:31.329Z",
+      "msg": "  sitemap https://www.calbright.org/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-08T21:29:31.402Z",
+      "msg": "  sitemap https://www.calbright.edu/sitemaps.xml → 7 entries"
+    },
+    {
+      "t": "2026-06-08T21:29:31.405Z",
+      "msg": "  sitemap mining → 751 URL(s), 14 course-ish to probe"
+    },
+    {
+      "t": "2026-06-08T21:29:33.597Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-08T21:29:37.422Z",
+      "msg": "  explore https://www.calbright.org/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:29:37.443Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-08T21:29:46.905Z",
+      "msg": "search \"Calbright College schedule of classes\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-08T21:30:37.243Z",
+      "msg": "search \"Calbright College search for classes\" → 8 hit(s) (12 unique so far)"
+    },
+    {
+      "t": "2026-06-08T21:30:37.244Z",
+      "msg": "Web search returned 12 result(s)."
+    },
+    {
+      "t": "2026-06-08T21:30:37.246Z",
+      "msg": "Top candidate: https://www.calbright.edu/programs/learning/ (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-08T21:30:37.495Z",
+      "msg": "probe https://www.calbright.edu/programs/learning/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:30:37.668Z",
+      "msg": "probe https://www.calbright.edu/about/history/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:30:37.861Z",
+      "msg": "probe https://www.calbright.edu/info-session → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:30:38.012Z",
+      "msg": "probe https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:30:38.182Z",
+      "msg": "probe https://www.calbright.edu/about/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:30:38.353Z",
+      "msg": "probe https://calmatters.org/education/2023/04/calbright-community-college/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:30:38.560Z",
+      "msg": "probe https://edsource.org/2019/hundreds-sign-up-for-the-new-calbright-college/618055 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:30:38.647Z",
+      "msg": "probe https://edsource.org/2021/calbright-college-once-again-faces-opposition-that-seeks-to-shut-it-down/653708 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:30:38.789Z",
+      "msg": "probe https://www.calbright.edu/newsroom/news/calbright-college-connects-adult-learners-with-work-based-learning-in-high-growth-tech-and-hr-careers/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:30:38.918Z",
+      "msg": "probe https://www.calbright.edu/programs/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:30:40.253Z",
+      "msg": "probe https://www.calbright.org/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:41.944Z",
+      "msg": "probe https://www.calbright.org/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:42.920Z",
+      "msg": "probe https://www.calbright.org/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:44.211Z",
+      "msg": "probe https://www.calbright.org/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:45.595Z",
+      "msg": "probe https://www.calbright.org/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:46.766Z",
+      "msg": "probe https://www.calbright.org/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:47.652Z",
+      "msg": "probe https://www.calbright.org/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:48.589Z",
+      "msg": "probe https://www.calbright.org/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:49.628Z",
+      "msg": "probe https://www.calbright.org/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:50.653Z",
+      "msg": "probe https://calbright.org/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:51.563Z",
+      "msg": "probe https://calbright.org/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:52.893Z",
+      "msg": "probe https://calbright.org/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:53.932Z",
+      "msg": "probe https://calbright.org/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:55.004Z",
+      "msg": "probe https://calbright.org/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:56.112Z",
+      "msg": "probe https://calbright.org/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:57.103Z",
+      "msg": "probe https://calbright.org/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:58.035Z",
+      "msg": "probe https://calbright.org/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:59.372Z",
+      "msg": "probe https://calbright.org/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:30:59.373Z",
       "msg": "Plain HTTP came up thin — escalating to the headless browser…"
     },
     {
-      "t": "2026-06-08T17:02:12.339Z",
-      "msg": "render (headless Chrome) https://www.calbright.edu/academic-catalogs/ …"
+      "t": "2026-06-08T21:30:59.374Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/programs/learning/ …"
     },
     {
-      "t": "2026-06-08T17:02:21.123Z",
-      "msg": "browser https://www.calbright.edu/academic-catalogs/ → 0 courses"
+      "t": "2026-06-08T21:31:08.154Z",
+      "msg": "browser https://www.calbright.edu/programs/learning/ → 0 courses"
     },
     {
-      "t": "2026-06-08T17:02:21.124Z",
-      "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+      "t": "2026-06-08T21:31:08.155Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/about/history/ …"
+    },
+    {
+      "t": "2026-06-08T21:31:16.813Z",
+      "msg": "browser https://www.calbright.edu/about/history/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:31:16.814Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/info-session …"
+    },
+    {
+      "t": "2026-06-08T21:31:25.496Z",
+      "msg": "browser https://www.calbright.edu/info-session → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:31:25.496Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ …"
+    },
+    {
+      "t": "2026-06-08T21:31:34.176Z",
+      "msg": "browser https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:31:34.177Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/about/ …"
+    },
+    {
+      "t": "2026-06-08T21:31:42.896Z",
+      "msg": "browser https://www.calbright.edu/about/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:31:42.897Z",
+      "msg": "render (headless Chrome) https://calmatters.org/education/2023/04/calbright-community-college/ …"
+    },
+    {
+      "t": "2026-06-08T21:31:51.772Z",
+      "msg": "browser https://calmatters.org/education/2023/04/calbright-community-college/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:31:51.774Z",
+      "msg": "🚫 Still impossible — explored real links, mined the sitemap, rendered the menus, and deep-searched. No public, login-free course data."
+    },
+    {
+      "t": "2026-06-08T21:52:16.787Z",
+      "msg": "▶ Solving Calbright College — https://www.calbright.org/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-08T21:52:16.787Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-08T21:52:17.230Z",
+      "msg": "  explore https://www.calbright.org/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:52:17.248Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-08T21:52:17.875Z",
+      "msg": "  sitemap https://www.calbright.org/sitemap.xml → 7 entries"
+    },
+    {
+      "t": "2026-06-08T21:52:19.098Z",
+      "msg": "  sitemap https://www.calbright.org/sitemap_index.xml → 7 entries"
+    },
+    {
+      "t": "2026-06-08T21:52:20.266Z",
+      "msg": "  sitemap https://www.calbright.org/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-08T21:52:20.341Z",
+      "msg": "  sitemap https://www.calbright.edu/sitemaps.xml → 7 entries"
+    },
+    {
+      "t": "2026-06-08T21:52:20.344Z",
+      "msg": "  sitemap mining → 751 URL(s), 14 course-ish to probe"
+    },
+    {
+      "t": "2026-06-08T21:52:22.166Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-08T21:52:25.467Z",
+      "msg": "  explore https://www.calbright.org/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:52:25.479Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-08T21:52:33.425Z",
+      "msg": "  google \"Calbright College schedule of classes\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-08T21:52:42.069Z",
+      "msg": "  google \"Calbright College search for classes\" → 6 hit(s) (+4 new, 10 pooled)"
+    },
+    {
+      "t": "2026-06-08T21:53:11.714Z",
+      "msg": "  google \"Calbright College class schedule 2026\" → 6 hit(s) (+2 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-08T21:53:29.583Z",
+      "msg": "  google \"Calbright College class schedule spring 2026\" → 0 hit(s) (+0 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-08T21:53:37.010Z",
+      "msg": "  google \"Calbright College class schedule fall 2026\" → 0 hit(s) (+0 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-08T21:53:45.614Z",
+      "msg": "  google \"Calbright College public class search\" → 6 hit(s) (+3 new, 15 pooled)"
+    },
+    {
+      "t": "2026-06-08T21:54:14.549Z",
+      "msg": "  google \"Calbright College self service banner class search\" → 5 hit(s) (+5 new, 20 pooled)"
+    },
+    {
+      "t": "2026-06-08T21:54:32.706Z",
+      "msg": "  google \"Calbright College ellucian self service class schedule\" → 1 hit(s) (+1 new, 21 pooled)"
+    },
+    {
+      "t": "2026-06-08T21:55:02.751Z",
+      "msg": "  google \"Calbright College webadvisor class schedule\" → 0 hit(s) (+0 new, 21 pooled)"
+    },
+    {
+      "t": "2026-06-08T21:55:21.334Z",
+      "msg": "  google \"Calbright College courses by subject\" → 6 hit(s) (+3 new, 24 pooled)"
+    },
+    {
+      "t": "2026-06-08T21:55:29.778Z",
+      "msg": "  google \"Calbright College course catalog\" → 6 hit(s) (+4 new, 28 pooled)"
+    },
+    {
+      "t": "2026-06-08T21:55:38.438Z",
+      "msg": "  google \"site:calbright.org schedule of classes\" → 0 hit(s) (+0 new, 28 pooled)"
+    },
+    {
+      "t": "2026-06-08T21:55:46.400Z",
+      "msg": "  google \"site:calbright.org class schedule\" → 0 hit(s) (+0 new, 28 pooled)"
+    },
+    {
+      "t": "2026-06-08T21:55:47.107Z",
+      "msg": "  probe https://edsource.org/2020/after-one-year-calbright-college-makes-significant-changes-and-learns-from-mistakes/643815 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:47.276Z",
+      "msg": "  probe https://www.calbright.edu/programs/learning/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:47.459Z",
+      "msg": "  probe https://www.calbright.edu/programs/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:47.650Z",
+      "msg": "  probe https://www.calbright.edu/programs/learning/library-services/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:47.804Z",
+      "msg": "  probe https://www.calbright.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:47.957Z",
+      "msg": "  probe https://www.calbright.edu/programs/hr-learning-development → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:48.122Z",
+      "msg": "  probe https://www.calbright.edu/about/history/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:48.301Z",
+      "msg": "  probe https://www.calbright.edu/info-session → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:48.471Z",
+      "msg": "  probe https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:48.636Z",
+      "msg": "  probe https://www.calbright.edu/about/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:48.800Z",
+      "msg": "  probe https://calmatters.org/education/2023/04/calbright-community-college/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:48.956Z",
+      "msg": "  probe https://www.calbright.edu/newsroom/news/calbright-college-connects-adult-learners-with-work-based-learning-in-high-growth-tech-and-hr-careers/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:50.131Z",
+      "msg": "  probe https://www.calbright.edu/newsroom/blog/when-people-understand-how-were-re-imagining-college-they-want-to-be-part-of-it/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:51.173Z",
+      "msg": "  probe https://www.calbright.edu/newsroom/blog/calbright-celebrates-seven-years-a-bold-successful-experiment/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:52.347Z",
+      "msg": "  probe https://www.calbright.edu/newsroom/blog/five-years-of-reimagining-college-happy-anniversary-calbright/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:52.596Z",
+      "msg": "  probe https://edsource.org/2019/hundreds-sign-up-for-the-new-calbright-college/618055 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:54.262Z",
+      "msg": "  probe https://catalog.calbright.org/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:55.288Z",
+      "msg": "  probe https://twitter.com/share?url=http%3A%2F%2Fedsource.org%2F%3Fpage_id=643815&via=edsource&text=After+more+than+a+year+of+enrolling+students%2C+Calbright+College+makes+significant+changes+and+learns+from+mistakes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:55.583Z",
+      "msg": "  probe https://bsky.app/intent/compose?text=After+more+than+a+year+of+enrolling+students%2C+Calbright+College+makes+significant+changes+and+learns+from+mistakes+http%3A%2F%2Fedsource.org%2F%3Fpage_id=643815 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:55.883Z",
+      "msg": "  probe https://www.calbright.edu/academic-catalogs/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:56.460Z",
+      "msg": "  probe https://www.calbright.edu/programs/cybersecurity → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:57.048Z",
+      "msg": "  probe https://www.cccco.edu/-/media/CCCCO-Website/docs/memo/fall-2022-student-headcount-update-memo.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T21:55:57.049Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-08T21:56:05.186Z",
+      "msg": "search \"Calbright College schedule of classes\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-08T21:56:13.608Z",
+      "msg": "search \"Calbright College search for classes\" → 8 hit(s) (12 unique so far)"
+    },
+    {
+      "t": "2026-06-08T21:56:13.610Z",
+      "msg": "Web search returned 12 result(s)."
+    },
+    {
+      "t": "2026-06-08T21:56:13.613Z",
+      "msg": "Top candidate: https://www.calbright.edu/programs/learning/ (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-08T21:56:13.777Z",
+      "msg": "probe https://www.calbright.edu/programs/learning/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:56:13.909Z",
+      "msg": "probe https://www.calbright.edu/about/history/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:56:14.079Z",
+      "msg": "probe https://www.calbright.edu/info-session → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:56:14.191Z",
+      "msg": "probe https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:56:14.321Z",
+      "msg": "probe https://www.calbright.edu/about/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:56:14.437Z",
+      "msg": "probe https://calmatters.org/education/2023/04/calbright-community-college/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:56:14.660Z",
+      "msg": "probe https://edsource.org/2019/hundreds-sign-up-for-the-new-calbright-college/618055 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:56:14.835Z",
+      "msg": "probe https://edsource.org/2021/calbright-college-once-again-faces-opposition-that-seeks-to-shut-it-down/653708 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:56:14.978Z",
+      "msg": "probe https://www.calbright.edu/newsroom/news/calbright-college-connects-adult-learners-with-work-based-learning-in-high-growth-tech-and-hr-careers/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:56:15.182Z",
+      "msg": "probe https://www.calbright.edu/programs/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T21:56:16.222Z",
+      "msg": "probe https://www.calbright.org/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:17.545Z",
+      "msg": "probe https://www.calbright.org/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:19.226Z",
+      "msg": "probe https://www.calbright.org/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:22.245Z",
+      "msg": "probe https://www.calbright.org/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:23.466Z",
+      "msg": "probe https://www.calbright.org/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:24.606Z",
+      "msg": "probe https://www.calbright.org/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:25.708Z",
+      "msg": "probe https://www.calbright.org/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:26.855Z",
+      "msg": "probe https://www.calbright.org/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:28.288Z",
+      "msg": "probe https://www.calbright.org/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:29.410Z",
+      "msg": "probe https://calbright.org/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:30.739Z",
+      "msg": "probe https://calbright.org/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:32.383Z",
+      "msg": "probe https://calbright.org/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:33.627Z",
+      "msg": "probe https://calbright.org/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:35.126Z",
+      "msg": "probe https://calbright.org/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:36.219Z",
+      "msg": "probe https://calbright.org/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:37.310Z",
+      "msg": "probe https://calbright.org/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:38.759Z",
+      "msg": "probe https://calbright.org/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:39.768Z",
+      "msg": "probe https://calbright.org/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T21:56:39.770Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T21:56:39.771Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/programs/learning/ …"
+    },
+    {
+      "t": "2026-06-08T21:56:48.505Z",
+      "msg": "browser https://www.calbright.edu/programs/learning/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:56:48.506Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/about/history/ …"
+    },
+    {
+      "t": "2026-06-08T21:56:57.164Z",
+      "msg": "browser https://www.calbright.edu/about/history/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:56:57.165Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/info-session …"
+    },
+    {
+      "t": "2026-06-08T21:57:05.823Z",
+      "msg": "browser https://www.calbright.edu/info-session → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:57:05.824Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ …"
+    },
+    {
+      "t": "2026-06-08T21:57:14.521Z",
+      "msg": "browser https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:57:14.522Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/about/ …"
+    },
+    {
+      "t": "2026-06-08T21:57:23.247Z",
+      "msg": "browser https://www.calbright.edu/about/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:57:23.248Z",
+      "msg": "render (headless Chrome) https://calmatters.org/education/2023/04/calbright-community-college/ …"
+    },
+    {
+      "t": "2026-06-08T21:57:32.227Z",
+      "msg": "browser https://calmatters.org/education/2023/04/calbright-community-college/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T21:57:32.229Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T03:30:58.483Z",
+      "msg": "▶ Solving Calbright College — https://www.calbright.org/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T03:30:58.483Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T03:30:59.118Z",
+      "msg": "  explore https://www.calbright.org/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:30:59.136Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T03:30:59.838Z",
+      "msg": "  sitemap https://www.calbright.org/sitemap.xml → 7 entries"
+    },
+    {
+      "t": "2026-06-09T03:31:02.720Z",
+      "msg": "  sitemap https://www.calbright.org/sitemap_index.xml → 7 entries"
+    },
+    {
+      "t": "2026-06-09T03:31:03.923Z",
+      "msg": "  sitemap https://www.calbright.org/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T03:31:04.120Z",
+      "msg": "  sitemap https://www.calbright.edu/sitemaps.xml → 7 entries"
+    },
+    {
+      "t": "2026-06-09T03:31:04.121Z",
+      "msg": "  sitemap mining → 751 URL(s), 14 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T03:31:16.549Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T03:31:20.863Z",
+      "msg": "  explore https://www.calbright.org/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:31:20.883Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T03:33:20.885Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T03:33:20.944Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T03:33:37.283Z",
+      "msg": "  google \"Calbright College schedule of classes\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:35:20.950Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T03:35:20.952Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T03:35:34.912Z",
+      "msg": "search \"Calbright College schedule of classes\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-09T03:35:50.861Z",
+      "msg": "  google \"Calbright College search for classes\" → 6 hit(s) (+4 new, 10 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:37:49.570Z",
+      "msg": "search \"Calbright College search for classes\" → 8 hit(s) (12 unique so far)"
+    },
+    {
+      "t": "2026-06-09T03:37:49.571Z",
+      "msg": "Web search returned 12 result(s)."
+    },
+    {
+      "t": "2026-06-09T03:37:49.574Z",
+      "msg": "Top candidate: https://www.calbright.edu/programs/learning/ (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T03:37:49.902Z",
+      "msg": "probe https://www.calbright.edu/programs/learning/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:37:50.173Z",
+      "msg": "probe https://www.calbright.edu/about/history/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:37:50.394Z",
+      "msg": "probe https://www.calbright.edu/info-session → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:37:51.547Z",
+      "msg": "probe https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:37:51.730Z",
+      "msg": "probe https://www.calbright.edu/about/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:37:52.853Z",
+      "msg": "probe https://calmatters.org/education/2023/04/calbright-community-college/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:37:53.662Z",
+      "msg": "probe https://edsource.org/2019/hundreds-sign-up-for-the-new-calbright-college/618055 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:37:54.280Z",
+      "msg": "probe https://edsource.org/2021/calbright-college-once-again-faces-opposition-that-seeks-to-shut-it-down/653708 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:37:55.736Z",
+      "msg": "probe https://www.calbright.edu/newsroom/news/calbright-college-connects-adult-learners-with-work-based-learning-in-high-growth-tech-and-hr-careers/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:37:55.882Z",
+      "msg": "probe https://www.calbright.edu/programs/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:37:56.942Z",
+      "msg": "probe https://www.calbright.org/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:37:57.950Z",
+      "msg": "probe https://www.calbright.org/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:37:58.969Z",
+      "msg": "probe https://www.calbright.org/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:38:00.341Z",
+      "msg": "probe https://www.calbright.org/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:38:01.897Z",
+      "msg": "probe https://www.calbright.org/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:38:03.352Z",
+      "msg": "probe https://www.calbright.org/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:38:04.613Z",
+      "msg": "probe https://www.calbright.org/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:38:05.605Z",
+      "msg": "probe https://www.calbright.org/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:38:05.904Z",
+      "msg": "  google \"Calbright College class schedule 2026\" → 6 hit(s) (+2 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:38:06.534Z",
+      "msg": "probe https://www.calbright.org/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:38:07.627Z",
+      "msg": "probe https://calbright.org/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:38:08.678Z",
+      "msg": "probe https://calbright.org/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:38:09.647Z",
+      "msg": "probe https://calbright.org/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:38:10.867Z",
+      "msg": "probe https://calbright.org/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:38:12.120Z",
+      "msg": "probe https://calbright.org/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:38:13.074Z",
+      "msg": "probe https://calbright.org/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:38:13.901Z",
+      "msg": "probe https://calbright.org/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:38:14.783Z",
+      "msg": "probe https://calbright.org/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:38:15.674Z",
+      "msg": "probe https://calbright.org/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:38:15.675Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T03:38:15.675Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/programs/learning/ …"
+    },
+    {
+      "t": "2026-06-09T03:38:26.475Z",
+      "msg": "browser https://www.calbright.edu/programs/learning/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:38:26.475Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/about/history/ …"
+    },
+    {
+      "t": "2026-06-09T03:38:35.499Z",
+      "msg": "browser https://www.calbright.edu/about/history/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:38:35.500Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/info-session …"
+    },
+    {
+      "t": "2026-06-09T03:38:44.183Z",
+      "msg": "browser https://www.calbright.edu/info-session → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:38:44.183Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ …"
+    },
+    {
+      "t": "2026-06-09T03:38:52.851Z",
+      "msg": "browser https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:38:52.852Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/about/ …"
+    },
+    {
+      "t": "2026-06-09T03:39:01.521Z",
+      "msg": "browser https://www.calbright.edu/about/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:39:01.521Z",
+      "msg": "render (headless Chrome) https://calmatters.org/education/2023/04/calbright-community-college/ …"
+    },
+    {
+      "t": "2026-06-09T03:39:10.304Z",
+      "msg": "browser https://calmatters.org/education/2023/04/calbright-community-college/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:40:35.831Z",
+      "msg": "  google \"Calbright College class schedule spring 2026\" → 0 hit(s) (+0 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:42:48.840Z",
+      "msg": "  google \"Calbright College class schedule fall 2026\" → 0 hit(s) (+0 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:45:06.575Z",
+      "msg": "  google \"Calbright College public class search\" → 6 hit(s) (+3 new, 15 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:47:19.092Z",
+      "msg": "  google \"Calbright College self service banner class search\" → 5 hit(s) (+5 new, 20 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:49:32.784Z",
+      "msg": "  google \"Calbright College ellucian self service class schedule\" → 1 hit(s) (+1 new, 21 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:51:12.011Z",
+      "msg": "▶ Solving Calbright College — https://www.calbright.org/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T03:51:12.012Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T03:51:12.532Z",
+      "msg": "  explore https://www.calbright.org/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:51:12.550Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T03:51:13.168Z",
+      "msg": "  sitemap https://www.calbright.org/sitemap.xml → 7 entries"
+    },
+    {
+      "t": "2026-06-09T03:51:14.501Z",
+      "msg": "  sitemap https://www.calbright.org/sitemap_index.xml → 7 entries"
+    },
+    {
+      "t": "2026-06-09T03:51:15.663Z",
+      "msg": "  sitemap https://www.calbright.org/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T03:51:15.749Z",
+      "msg": "  sitemap https://www.calbright.edu/sitemaps.xml → 7 entries"
+    },
+    {
+      "t": "2026-06-09T03:51:15.752Z",
+      "msg": "  sitemap mining → 751 URL(s), 14 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T03:51:17.668Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T03:51:21.173Z",
+      "msg": "  explore https://www.calbright.org/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T03:51:21.186Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T03:53:21.188Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T03:53:21.247Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T03:53:37.460Z",
+      "msg": "  google \"Calbright College schedule of classes\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:55:21.251Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T03:55:21.252Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T03:55:46.094Z",
+      "msg": "search \"Calbright College schedule of classes\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-09T03:56:19.537Z",
+      "msg": "  google \"Calbright College search for classes\" → 6 hit(s) (+4 new, 10 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:58:11.241Z",
+      "msg": "search \"Calbright College search for classes\" → 8 hit(s) (12 unique so far)"
+    },
+    {
+      "t": "2026-06-09T03:58:11.242Z",
+      "msg": "Web search returned 12 result(s)."
+    },
+    {
+      "t": "2026-06-09T03:58:11.243Z",
+      "msg": "Top candidate: https://www.calbright.edu/programs/learning/ (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T03:58:11.525Z",
+      "msg": "probe https://www.calbright.edu/programs/learning/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:58:11.693Z",
+      "msg": "probe https://www.calbright.edu/about/history/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:58:11.874Z",
+      "msg": "probe https://www.calbright.edu/info-session → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:58:12.053Z",
+      "msg": "probe https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:58:12.213Z",
+      "msg": "probe https://www.calbright.edu/about/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:58:12.363Z",
+      "msg": "probe https://calmatters.org/education/2023/04/calbright-community-college/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:58:12.566Z",
+      "msg": "probe https://edsource.org/2019/hundreds-sign-up-for-the-new-calbright-college/618055 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:58:12.704Z",
+      "msg": "probe https://edsource.org/2021/calbright-college-once-again-faces-opposition-that-seeks-to-shut-it-down/653708 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:58:12.874Z",
+      "msg": "probe https://www.calbright.edu/newsroom/news/calbright-college-connects-adult-learners-with-work-based-learning-in-high-growth-tech-and-hr-careers/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:58:13.045Z",
+      "msg": "probe https://www.calbright.edu/programs/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T03:58:15.269Z",
+      "msg": "probe https://www.calbright.org/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:16.338Z",
+      "msg": "probe https://www.calbright.org/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:17.546Z",
+      "msg": "probe https://www.calbright.org/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:18.619Z",
+      "msg": "probe https://www.calbright.org/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:19.702Z",
+      "msg": "probe https://www.calbright.org/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:21.079Z",
+      "msg": "probe https://www.calbright.org/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:22.154Z",
+      "msg": "probe https://www.calbright.org/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:23.389Z",
+      "msg": "probe https://www.calbright.org/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:24.442Z",
+      "msg": "probe https://www.calbright.org/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:25.978Z",
+      "msg": "probe https://calbright.org/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:27.044Z",
+      "msg": "probe https://calbright.org/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:27.934Z",
+      "msg": "probe https://calbright.org/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:28.914Z",
+      "msg": "probe https://calbright.org/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:29.814Z",
+      "msg": "probe https://calbright.org/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:31.451Z",
+      "msg": "probe https://calbright.org/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:32.872Z",
+      "msg": "probe https://calbright.org/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:33.242Z",
+      "msg": "  google \"Calbright College class schedule 2026\" → 6 hit(s) (+2 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-09T03:58:33.825Z",
+      "msg": "probe https://calbright.org/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:34.797Z",
+      "msg": "probe https://calbright.org/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T03:58:34.797Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T03:58:34.798Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/programs/learning/ …"
+    },
+    {
+      "t": "2026-06-09T03:58:45.604Z",
+      "msg": "browser https://www.calbright.edu/programs/learning/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:58:45.604Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/about/history/ …"
+    },
+    {
+      "t": "2026-06-09T03:58:54.302Z",
+      "msg": "browser https://www.calbright.edu/about/history/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:58:54.302Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/info-session …"
+    },
+    {
+      "t": "2026-06-09T03:59:03.070Z",
+      "msg": "browser https://www.calbright.edu/info-session → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:59:03.071Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ …"
+    },
+    {
+      "t": "2026-06-09T03:59:11.830Z",
+      "msg": "browser https://www.calbright.edu/newsroom/blog/calbright-is-reinventing-best-practices-for-online-higher-education/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:59:11.831Z",
+      "msg": "render (headless Chrome) https://www.calbright.edu/about/ …"
+    },
+    {
+      "t": "2026-06-09T03:59:20.593Z",
+      "msg": "browser https://www.calbright.edu/about/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T03:59:20.594Z",
+      "msg": "render (headless Chrome) https://calmatters.org/education/2023/04/calbright-community-college/ …"
+    },
+    {
+      "t": "2026-06-09T03:59:29.394Z",
+      "msg": "browser https://calmatters.org/education/2023/04/calbright-community-college/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T04:00:52.219Z",
+      "msg": "  google \"Calbright College class schedule spring 2026\" → 0 hit(s) (+0 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:03:04.769Z",
+      "msg": "  google \"Calbright College class schedule fall 2026\" → 0 hit(s) (+0 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:05:17.886Z",
+      "msg": "  google \"Calbright College public class search\" → 0 hit(s) (+0 new, 12 pooled)"
     }
   ]
 }

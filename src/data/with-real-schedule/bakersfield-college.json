@@ -1,0 +1,27 @@
+{
+  "slug": "bakersfield-college",
+  "name": "Bakersfield College",
+  "url": "https://www.bakersfieldcollege.edu/",
+  "live": true,
+  "courseCount": 3610,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": "web-search",
+  "extractUrl": "https://online.flippingbook.com/view/29298325/",
+  "status": "live",
+  "lastStatus": "ok: 3611 courses via college",
+  "courses": [
+    {
+      "code": "HIST B17A",
+      "title": "US History to 1877 3 units HIST B17B- US History from 1865 3 units",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://online.flippingbook.com/view/29298325/"
+    }
+  ]
+}

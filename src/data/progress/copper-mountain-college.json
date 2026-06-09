@@ -2,17 +2,17 @@
   "slug": "copper-mountain-college",
   "name": "Copper Mountain College",
   "url": "https://www.cmccd.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 22,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://www.cmccd.edu/academic-catalogs/common-course-numbering/",
   "blocked": null,
-  "note": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "startedAt": "2026-06-08T17:13:26.533Z",
-  "finishedAt": "2026-06-08T17:16:21.161Z",
-  "updatedAt": "2026-06-08T17:16:21.161Z",
+  "note": "Solved via \"Mine sitemap.xml / robots.txt\" — 22 courses from https://www.cmccd.edu/academic-catalogs/common-course-numbering/.",
+  "startedAt": "2026-06-08T22:35:22.169Z",
+  "finishedAt": "2026-06-08T22:52:44.837Z",
+  "updatedAt": "2026-06-08T22:52:44.837Z",
   "log": [
     {
       "t": "2026-06-08T17:13:26.533Z",
@@ -257,6 +257,539 @@
     {
       "t": "2026-06-08T17:16:21.161Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-08T22:35:22.169Z",
+      "msg": "▶ Solving Copper Mountain College — https://www.cmccd.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-08T22:35:22.170Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-08T22:35:22.567Z",
+      "msg": "  explore https://www.cmccd.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:35:22.707Z",
+      "msg": "  explore https://www.cmccd.edu/academics/dualenrollment/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:35:22.865Z",
+      "msg": "  explore https://www.cmccd.edu/academics/dualenrollment/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:35:23.177Z",
+      "msg": "  explore https://www.cmccd.edu/admissions/enroll/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:35:23.380Z",
+      "msg": "  explore https://www.cmccd.edu/admissions/enroll/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:35:23.583Z",
+      "msg": "  explore https://www.cmccd.edu/admissions/register/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:35:24.100Z",
+      "msg": "  explore https://www.cmccd.edu/class-schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:35:24.291Z",
+      "msg": "  explore https://www.cmccd.edu/class-schedule/class-schedule-archive/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:38:28.673Z",
+      "msg": "  explore https://www.cmccd.edu/wp-content/uploads/2026/06/Final-Winter-Spring-Summer-2026-06.04.26.pdf → unreachable"
+    },
+    {
+      "t": "2026-06-08T22:41:33.173Z",
+      "msg": "  explore https://www.cmccd.edu/wp-content/uploads/2026/06/Final-Fall-2026-06.08.26.pdf → unreachable"
+    },
+    {
+      "t": "2026-06-08T22:41:33.522Z",
+      "msg": "  explore https://www.cmccd.edu/admissions/register/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:33.744Z",
+      "msg": "  explore https://www.cmccd.edu/academic-catalogs/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:34.014Z",
+      "msg": "  explore https://www.cmccd.edu/academics/dualenrollment/#page-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:34.270Z",
+      "msg": "  explore https://www.cmccd.edu/academics/dualenrollment/#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:34.563Z",
+      "msg": "  explore https://www.cmccd.edu/admissions/enroll/#page-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:34.886Z",
+      "msg": "  explore https://www.cmccd.edu/admissions/enroll/#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:35.219Z",
+      "msg": "  explore https://www.cmccd.edu/admissions/register/#page-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:35.581Z",
+      "msg": "  explore https://www.cmccd.edu/admissions/register/#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:36.142Z",
+      "msg": "  explore https://www.cmccd.edu/admissions/enroll/mycmc → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:36.388Z",
+      "msg": "  explore https://www.cmccd.edu/academic-catalogs/#page-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:36.728Z",
+      "msg": "  explore https://www.cmccd.edu/academic-catalogs/#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:37.196Z",
+      "msg": "  explore https://www.cmccd.edu/academic-catalogs/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:37.207Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-08T22:41:37.676Z",
+      "msg": "  sitemap https://www.cmccd.edu/sitemap.xml → 6 entries"
+    },
+    {
+      "t": "2026-06-08T22:41:40.908Z",
+      "msg": "  sitemap https://www.cmccd.edu/sitemap_index.xml → 6 entries"
+    },
+    {
+      "t": "2026-06-08T22:41:41.605Z",
+      "msg": "  sitemap https://www.cmccd.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-08T22:41:41.607Z",
+      "msg": "  sitemap mining → 984 URL(s), 32 course-ish to probe"
+    },
+    {
+      "t": "2026-06-08T22:41:42.825Z",
+      "msg": "  sitemap probe https://www.cmccd.edu/news/copper-mountain-college-has-real-estate-classes/ → 6"
+    },
+    {
+      "t": "2026-06-08T22:41:45.594Z",
+      "msg": "  sitemap probe https://www.cmccd.edu/academic-catalogs/common-course-numbering/ → 22"
+    },
+    {
+      "t": "2026-06-08T22:41:46.348Z",
+      "msg": "   ✓ \"Mine sitemap.xml / robots.txt\" found 22 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:46.349Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-08T22:41:49.019Z",
+      "msg": "  explore https://www.cmccd.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:49.308Z",
+      "msg": "  explore https://www.cmccd.edu/academics/dualenrollment/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:49.674Z",
+      "msg": "  explore https://www.cmccd.edu/academics/dualenrollment/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:50.053Z",
+      "msg": "  explore https://www.cmccd.edu/admissions/enroll/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:50.365Z",
+      "msg": "  explore https://www.cmccd.edu/admissions/enroll/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:50.955Z",
+      "msg": "  explore https://www.cmccd.edu/admissions/register/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:51.150Z",
+      "msg": "  explore https://www.cmccd.edu/class-schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:41:51.520Z",
+      "msg": "  explore https://www.cmccd.edu/class-schedule/class-schedule-archive/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:44:56.247Z",
+      "msg": "  explore https://www.cmccd.edu/wp-content/uploads/2026/06/Final-Winter-Spring-Summer-2026-06.04.26.pdf → unreachable"
+    },
+    {
+      "t": "2026-06-08T22:48:00.803Z",
+      "msg": "  explore https://www.cmccd.edu/wp-content/uploads/2026/06/Final-Fall-2026-06.08.26.pdf → unreachable"
+    },
+    {
+      "t": "2026-06-08T22:48:01.155Z",
+      "msg": "  explore https://www.cmccd.edu/admissions/register/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:48:01.381Z",
+      "msg": "  explore https://www.cmccd.edu/academic-catalogs/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:48:01.542Z",
+      "msg": "  explore https://www.cmccd.edu/academics/dualenrollment/#page-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:48:01.682Z",
+      "msg": "  explore https://www.cmccd.edu/academics/dualenrollment/#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:48:01.693Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-08T22:48:10.434Z",
+      "msg": "  google \"Copper Mountain College schedule of classes\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:48:28.952Z",
+      "msg": "  google \"Copper Mountain College search for classes\" → 6 hit(s) (+5 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:48:36.130Z",
+      "msg": "  google \"Copper Mountain College class schedule 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:48:53.941Z",
+      "msg": "  google \"Copper Mountain College class schedule spring 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:49:00.761Z",
+      "msg": "  google \"Copper Mountain College class schedule fall 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:49:10.109Z",
+      "msg": "  google \"Copper Mountain College public class search\" → 6 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:49:18.634Z",
+      "msg": "  google \"Copper Mountain College self service banner class search\" → 6 hit(s) (+6 new, 17 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:49:47.888Z",
+      "msg": "  google \"Copper Mountain College ellucian self service class schedule\" → 1 hit(s) (+1 new, 18 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:49:56.304Z",
+      "msg": "  google \"Copper Mountain College webadvisor class schedule\" → 0 hit(s) (+0 new, 18 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:50:04.759Z",
+      "msg": "  google \"Copper Mountain College courses by subject\" → 6 hit(s) (+5 new, 23 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:50:23.629Z",
+      "msg": "  google \"Copper Mountain College course catalog\" → 6 hit(s) (+4 new, 27 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:50:31.528Z",
+      "msg": "  google \"site:cmccd.edu schedule of classes\" → 6 hit(s) (+5 new, 32 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:50:49.578Z",
+      "msg": "  google \"site:cmccd.edu class schedule\" → 6 hit(s) (+0 new, 32 pooled)"
+    },
+    {
+      "t": "2026-06-08T22:50:49.909Z",
+      "msg": "  probe https://www.cmccd.edu/admissions/register/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:50:52.222Z",
+      "msg": "  probe https://z1077fm.com/copper-mountain-college-making-changes-to-support-students-enrolling-and-staying-in-college/ → 1 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:50:52.428Z",
+      "msg": "  probe https://www.cmccd.edu/academic-catalogs/catalog-archives/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:50:52.629Z",
+      "msg": "  probe https://www.cmccd.edu/current-students/cancelled-classes/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:50:52.826Z",
+      "msg": "  probe https://www.cmccd.edu/academics/dualenrollment/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:50:53.238Z",
+      "msg": "  probe https://www.cmccd.edu/class-schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:50:55.221Z",
+      "msg": "  probe https://z1077fm.com/copper-mountain-college-moving-many-classes-to-online/ → 3 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:50:57.401Z",
+      "msg": "  probe https://z1077fm.com/copper-mountain-college-to-hold-mental-health-first-aid-classes/ → 3 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:50:57.675Z",
+      "msg": "  probe https://www.cmccd.edu/academics/2-year-course-cycle/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:50:58.019Z",
+      "msg": "  probe https://www.cmccd.edu/academics/online-courses/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:50:58.328Z",
+      "msg": "  probe https://www.cmccd.edu/academics/community-education/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:50:58.805Z",
+      "msg": "  probe https://www.cmccd.edu/admissions/military-base/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:50:59.260Z",
+      "msg": "  probe https://www.cmccd.edu/current-students/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:50:59.950Z",
+      "msg": "  probe https://www.cmccd.edu/admissions/tuition/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:51:00.306Z",
+      "msg": "  probe https://www.cmccd.edu/campus/history/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:51:00.482Z",
+      "msg": "  probe https://cccata.org/2017/08/23/copper-mountain-college-part-time-atc/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:51:02.586Z",
+      "msg": "  probe https://catalog.cmccd.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:51:03.243Z",
+      "msg": "  probe https://www.cmccd.edu/class-schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:51:03.553Z",
+      "msg": "  probe https://www.cmccd.edu/admissions/register/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:51:05.814Z",
+      "msg": "  probe https://z1077fm.com/copper-mountain-college-making-changes-to-support-students-enrolling-and-staying-in-college/# → 1 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:51:06.066Z",
+      "msg": "  probe https://www.cmccd.edu/academic-catalogs/catalog-archives/#page-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:51:06.242Z",
+      "msg": "  probe https://www.cmccd.edu/academic-catalogs/catalog-archives/#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:51:06.242Z",
+      "msg": "  render+drive https://www.cmccd.edu/class-schedule/ …"
+    },
+    {
+      "t": "2026-06-08T22:51:16.695Z",
+      "msg": "  render https://www.cmccd.edu/class-schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T22:51:16.696Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-08T22:51:26.312Z",
+      "msg": "search \"Copper Mountain College schedule of classes\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-08T22:51:34.790Z",
+      "msg": "search \"Copper Mountain College search for classes\" → 8 hit(s) (14 unique so far)"
+    },
+    {
+      "t": "2026-06-08T22:51:34.791Z",
+      "msg": "Web search returned 14 result(s)."
+    },
+    {
+      "t": "2026-06-08T22:51:34.793Z",
+      "msg": "Top candidate: https://www.cmccd.edu/class-schedule/ (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-08T22:51:35.103Z",
+      "msg": "probe https://www.cmccd.edu/class-schedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T22:51:35.301Z",
+      "msg": "probe https://www.cmccd.edu/academics/online-courses/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T22:51:35.479Z",
+      "msg": "probe https://www.cmccd.edu/academics/2-year-course-cycle/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T22:51:35.611Z",
+      "msg": "probe https://www.cmccd.edu/campus/history/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T22:51:35.796Z",
+      "msg": "probe https://www.cmccd.edu/admissions/register/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T22:51:35.913Z",
+      "msg": "probe https://cccata.org/2017/08/23/copper-mountain-college-part-time-atc/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T22:51:36.868Z",
+      "msg": "probe https://sonyachristianblog.com/tag/copper-mountain-college/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T22:51:37.598Z",
+      "msg": "probe https://sonyachristianblog.com/tag/copper-mountain-college/page/2/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T22:51:40.728Z",
+      "msg": "probe https://z1077fm.com/copper-mountain-community-college-accepting-class-proposals-for-their-community-education-program/ → 3 courses"
+    },
+    {
+      "t": "2026-06-08T22:51:40.729Z",
+      "msg": "  ↑ new best: 3 courses, modality 0%"
+    },
+    {
+      "t": "2026-06-08T22:51:43.271Z",
+      "msg": "probe https://z1077fm.com/copper-mountain-college-moving-many-classes-to-online/ → 3 courses"
+    },
+    {
+      "t": "2026-06-08T22:51:43.701Z",
+      "msg": "probe https://www.cmccd.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:51:44.211Z",
+      "msg": "probe https://www.cmccd.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:51:44.523Z",
+      "msg": "probe https://www.cmccd.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T22:51:44.962Z",
+      "msg": "probe https://www.cmccd.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:51:45.354Z",
+      "msg": "probe https://www.cmccd.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:51:45.865Z",
+      "msg": "probe https://www.cmccd.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:51:46.380Z",
+      "msg": "probe https://www.cmccd.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:51:46.875Z",
+      "msg": "probe https://www.cmccd.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:51:47.363Z",
+      "msg": "probe https://www.cmccd.edu/admissions/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T22:51:48.415Z",
+      "msg": "probe https://cmccd.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:51:49.070Z",
+      "msg": "probe https://cmccd.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:51:49.513Z",
+      "msg": "probe https://cmccd.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T22:51:50.200Z",
+      "msg": "probe https://cmccd.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:51:50.977Z",
+      "msg": "probe https://cmccd.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:51:51.636Z",
+      "msg": "probe https://cmccd.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:51:52.319Z",
+      "msg": "probe https://cmccd.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:51:52.985Z",
+      "msg": "probe https://cmccd.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T22:51:53.389Z",
+      "msg": "probe https://cmccd.edu/admissions/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T22:51:53.390Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T22:51:53.391Z",
+      "msg": "render (headless Chrome) https://z1077fm.com/copper-mountain-community-college-accepting-class-proposals-for-their-community-education-program/ …"
+    },
+    {
+      "t": "2026-06-08T22:52:06.605Z",
+      "msg": "browser https://z1077fm.com/copper-mountain-community-college-accepting-class-proposals-for-their-community-education-program/ → 3 courses"
+    },
+    {
+      "t": "2026-06-08T22:52:06.605Z",
+      "msg": "render (headless Chrome) https://www.cmccd.edu/academics/online-courses/ …"
+    },
+    {
+      "t": "2026-06-08T22:52:13.615Z",
+      "msg": "browser https://www.cmccd.edu/academics/online-courses/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T22:52:13.616Z",
+      "msg": "render (headless Chrome) https://www.cmccd.edu/class-schedule/ …"
+    },
+    {
+      "t": "2026-06-08T22:52:23.822Z",
+      "msg": "browser https://www.cmccd.edu/class-schedule/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T22:52:23.823Z",
+      "msg": "render (headless Chrome) https://www.cmccd.edu/academics/2-year-course-cycle/ …"
+    },
+    {
+      "t": "2026-06-08T22:52:30.826Z",
+      "msg": "browser https://www.cmccd.edu/academics/2-year-course-cycle/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T22:52:30.827Z",
+      "msg": "render (headless Chrome) https://www.cmccd.edu/campus/history/ …"
+    },
+    {
+      "t": "2026-06-08T22:52:37.820Z",
+      "msg": "browser https://www.cmccd.edu/campus/history/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T22:52:37.820Z",
+      "msg": "render (headless Chrome) https://www.cmccd.edu/admissions/register/ …"
+    },
+    {
+      "t": "2026-06-08T22:52:44.831Z",
+      "msg": "browser https://www.cmccd.edu/admissions/register/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T22:52:44.836Z",
+      "msg": "✅ SOLVED — 22 courses ingested into the searchable DB (strategy: Mine sitemap.xml / robots.txt)."
     }
-  ]
+  ],
+  "strategy": "Mine sitemap.xml / robots.txt"
 }

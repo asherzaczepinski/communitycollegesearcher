@@ -1,0 +1,112 @@
+{
+  "slug": "los-angeles-city-college",
+  "name": "Los Angeles City College",
+  "url": "https://www.lacitycollege.edu/",
+  "live": true,
+  "courseCount": 8,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": "Exhaustive Google/DDG search sweep",
+  "extractUrl": "https://catalog.valleycollege.edu/degree-certificate-program-index/welding-technology/welding-job-readiness-certificate-completion/",
+  "status": "live",
+  "lastStatus": "ok: 8 courses via auto (solved)",
+  "reason": "Partial capture — only 8 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "WELD 645",
+      "title": "Shielded Metal Arc Welding - Beginning",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://catalog.valleycollege.edu/degree-certificate-program-index/welding-technology/welding-job-readiness-certificate-completion/"
+    },
+    {
+      "code": "WELD 646",
+      "title": "Shielded Metal Arc Welding - Intermediate",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://catalog.valleycollege.edu/degree-certificate-program-index/welding-technology/welding-job-readiness-certificate-completion/"
+    },
+    {
+      "code": "WELD 660",
+      "title": "Fabrication and Layout - Beginning",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://catalog.valleycollege.edu/degree-certificate-program-index/welding-technology/welding-job-readiness-certificate-completion/"
+    },
+    {
+      "code": "WELD 666",
+      "title": "Preparation for Los Angeles City Welding Certification - Structural (AWS D1.1)",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://catalog.valleycollege.edu/degree-certificate-program-index/welding-technology/welding-job-readiness-certificate-completion/"
+    },
+    {
+      "code": "WELD 680",
+      "title": "Gas Metal Arc Welding - Beginning",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://catalog.valleycollege.edu/degree-certificate-program-index/welding-technology/welding-job-readiness-certificate-completion/"
+    },
+    {
+      "code": "WELD 681",
+      "title": "Gas Metal Arc Welding - Intermediate",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://catalog.valleycollege.edu/degree-certificate-program-index/welding-technology/welding-job-readiness-certificate-completion/"
+    },
+    {
+      "code": "WELD 690",
+      "title": "Flux Cored Arc Welding - Gas Shielded",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://catalog.valleycollege.edu/degree-certificate-program-index/welding-technology/welding-job-readiness-certificate-completion/"
+    },
+    {
+      "code": "WELD 691",
+      "title": "Flux Cored Arc Welding - Self Shielded",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://catalog.valleycollege.edu/degree-certificate-program-index/welding-technology/welding-job-readiness-certificate-completion/"
+    }
+  ]
+}

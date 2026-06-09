@@ -2,10 +2,10 @@
   "slug": "compton-college",
   "name": "Compton College",
   "url": "https://www.compton.edu/",
-  "source": "homepage",
+  "source": "web-search-deep",
   "platform": "unknown",
   "scheduleUrl": "https://www.compton.edu/admissions-aid/ClassSchedule.aspx",
-  "catalogUrl": "https://www.compton.edu/academics/catalog.aspx",
+  "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
@@ -14,28 +14,142 @@
     {
       "text": "Class Schedule",
       "href": "https://www.compton.edu/admissions-aid/ClassSchedule.aspx",
-      "score": 5
+      "score": 10
     },
     {
-      "text": "Catalog",
-      "href": "https://www.compton.edu/academics/catalog.aspx",
-      "score": 3
+      "text": "President/CEO, Compton College",
+      "href": "https://www.compton.edu/about/presidentceo/index.aspx",
+      "score": 0
     },
     {
-      "text": "Non-Credit Courses",
-      "href": "https://programmap.compton.edu/academics",
-      "score": 1
+      "text": "Compton Community College District",
+      "href": "https://www.compton.edu/district/",
+      "score": 0
+    },
+    {
+      "text": "Fees, Payment Methods, Deadlines & Refunds",
+      "href": "https://www.compton.edu/admissions-aid/fees-nav/index.aspx",
+      "score": 0
+    },
+    {
+      "text": "Compton College Promise",
+      "href": "https://www.compton.edu/college-promise/index.aspx",
+      "score": 0
+    },
+    {
+      "text": "Enroll/Register now for Fall 2022 midterm classes at Compton",
+      "href": "https://2urbangirls.com/2022/09/2022-09-enroll-register-now-for-fall-2022-midterm-classes-at-compton-college/",
+      "score": 0
+    },
+    {
+      "text": "Register Now for Compton College's Fall 2024 Semester | 2",
+      "href": "https://2urbangirls.com/2024/08/register-now-for-compton-colleges-fall-2024-semester/",
+      "score": 0
+    },
+    {
+      "text": "Compton College Honors Spring 2024 Nursing Graduates at Pinning",
+      "href": "https://citypridemagazine.com/compton-college-honors-spring-2024-nursing-graduates-at-pinning-ceremony/",
+      "score": 0
+    },
+    {
+      "text": "Compton College class of 2024 – Los Angeles Wave",
+      "href": "https://wavepublication.com/tag/compton-college-class-of-2024/",
+      "score": 0
+    },
+    {
+      "text": "Compton College grad is dedicated to serving underserved",
+      "href": "https://wavepublication.com/compton-college-grad-is-dedicated-to-serving-underserved/",
+      "score": 0
     }
   ],
-  "searchQuery": null,
-  "searchResults": [],
+  "searchQuery": "Compton College schedule of classes",
+  "searchResults": [
+    {
+      "title": "Class Schedule",
+      "href": "https://www.compton.edu/admissions-aid/ClassSchedule.aspx",
+      "query": "Compton College schedule of classes"
+    },
+    {
+      "title": "President/CEO, Compton College",
+      "href": "https://www.compton.edu/about/presidentceo/index.aspx",
+      "query": "Compton College schedule of classes"
+    },
+    {
+      "title": "Compton Community College District",
+      "href": "https://www.compton.edu/district/",
+      "query": "Compton College schedule of classes"
+    },
+    {
+      "title": "Fees, Payment Methods, Deadlines & Refunds",
+      "href": "https://www.compton.edu/admissions-aid/fees-nav/index.aspx",
+      "query": "Compton College schedule of classes"
+    },
+    {
+      "title": "Compton College Promise",
+      "href": "https://www.compton.edu/college-promise/index.aspx",
+      "query": "Compton College schedule of classes"
+    },
+    {
+      "title": "Enroll/Register now for Fall 2022 midterm classes at Compton",
+      "href": "https://2urbangirls.com/2022/09/2022-09-enroll-register-now-for-fall-2022-midterm-classes-at-compton-college/",
+      "query": "Compton College schedule of classes"
+    },
+    {
+      "title": "Register Now for Compton College's Fall 2024 Semester | 2",
+      "href": "https://2urbangirls.com/2024/08/register-now-for-compton-colleges-fall-2024-semester/",
+      "query": "Compton College schedule of classes"
+    },
+    {
+      "title": "Compton College Honors Spring 2024 Nursing Graduates at Pinning",
+      "href": "https://citypridemagazine.com/compton-college-honors-spring-2024-nursing-graduates-at-pinning-ceremony/",
+      "query": "Compton College schedule of classes"
+    },
+    {
+      "title": "Compton College class of 2024 – Los Angeles Wave",
+      "href": "https://wavepublication.com/tag/compton-college-class-of-2024/",
+      "query": "Compton College search for classes"
+    },
+    {
+      "title": "Compton College grad is dedicated to serving underserved",
+      "href": "https://wavepublication.com/compton-college-grad-is-dedicated-to-serving-underserved/",
+      "query": "Compton College search for classes"
+    },
+    {
+      "title": "Compton College honors top scholars at awards ceremony –",
+      "href": "https://wavepublication.com/compton-college-honors-top-scholars-at-awards-ceremony/",
+      "query": "Compton College search for classes"
+    },
+    {
+      "title": "Enroll/Register Now for Fall 2023 Midterm Classes at Compton",
+      "href": "https://2urbangirls.com/2023/09/enroll-register-now-for-fall-2023-midterm-classes-at-compton-college/",
+      "query": "Compton College search for classes"
+    },
+    {
+      "title": "Register for Summer 2022 Classes at Compton College -",
+      "href": "https://2urbangirls.com/2022/05/2022-05-register-for-summer-2022-classes-at-compton-college/",
+      "query": "Compton College search for classes"
+    },
+    {
+      "title": "Compton College (Top-Ranked Community College for 2026) -",
+      "href": "https://www.communitycollegereview.com/compton-college-profile",
+      "query": "Compton College search for classes"
+    },
+    {
+      "title": "Majors Available at Compton College",
+      "href": "https://www.compton.edu/Academics/Majors/index.aspx",
+      "query": "Compton College search for classes"
+    }
+  ],
   "blocked": null,
   "confidence": 0.15,
-  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "learnedAt": "2026-06-08T17:12:59.074Z",
+  "notes": "Searched the web (15 results) but no page yielded course data — the schedule is likely a bespoke search app. Top results saved above.",
+  "learnedAt": "2026-06-09T03:58:06.960Z",
   "browserActions": [
     "browser https://www.compton.edu/admissions-aid/ClassSchedule.aspx → 0 courses",
-    "browser https://www.compton.edu/academics/catalog.aspx → 0 courses",
-    "browser https://programmap.compton.edu/academics → 0 courses"
+    "browser https://www.compton.edu/about/presidentceo/index.aspx → 0 courses",
+    "browser https://www.compton.edu/district/ → 0 courses",
+    "browser https://www.compton.edu/admissions-aid/fees-nav/index.aspx → 0 courses",
+    "browser https://www.compton.edu/college-promise/index.aspx → 0 courses",
+    "browser https://2urbangirls.com/2022/09/2022-09-enroll-register-now-for-fall-2022-midterm-classes-at-compton-college/ → 0 courses"
   ]
 }

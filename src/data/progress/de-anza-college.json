@@ -2,17 +2,17 @@
   "slug": "de-anza-college",
   "name": "De Anza College",
   "url": "https://www.deanza.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 1,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://en.wikipedia.org/wiki/De_Anza_College",
   "blocked": null,
-  "note": "Homepage returned HTTP 403",
-  "startedAt": "2026-06-08T17:20:58.148Z",
-  "finishedAt": "2026-06-08T17:21:53.246Z",
-  "updatedAt": "2026-06-08T17:21:53.246Z",
+  "note": "Solved via \"Deep web search + headless form-driving\" — 1 courses from https://en.wikipedia.org/wiki/De_Anza_College.",
+  "startedAt": "2026-06-08T23:22:06.089Z",
+  "finishedAt": "2026-06-08T23:26:00.910Z",
+  "updatedAt": "2026-06-08T23:26:00.910Z",
   "log": [
     {
       "t": "2026-06-08T17:20:58.148Z",
@@ -133,6 +133,419 @@
     {
       "t": "2026-06-08T17:21:53.246Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-08T23:22:06.091Z",
+      "msg": "▶ Solving De Anza College — https://www.deanza.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-08T23:22:06.091Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-08T23:22:10.747Z",
+      "msg": "  explore https://www.deanza.edu/ → unreachable"
+    },
+    {
+      "t": "2026-06-08T23:22:10.748Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-08T23:22:14.182Z",
+      "msg": "  sitemap https://www.deanza.edu/sitemap.xml → none"
+    },
+    {
+      "t": "2026-06-08T23:22:15.910Z",
+      "msg": "  sitemap https://www.deanza.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-08T23:22:17.535Z",
+      "msg": "  sitemap https://www.deanza.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-08T23:22:17.536Z",
+      "msg": "  sitemap mining → 0 URL(s), 0 course-ish to probe"
+    },
+    {
+      "t": "2026-06-08T23:22:17.537Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-08T23:22:19.132Z",
+      "msg": "  explore https://www.deanza.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:22:19.145Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-08T23:22:36.900Z",
+      "msg": "  google \"De Anza College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:22:43.589Z",
+      "msg": "  google \"De Anza College search for classes\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:22:44.720Z",
+      "msg": "  google \"De Anza College class schedule 2026\" → 6 hit(s) (+4 new, 10 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:22:46.359Z",
+      "msg": "  google \"De Anza College class schedule spring 2026\" → 0 hit(s) (+0 new, 10 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:22:47.254Z",
+      "msg": "  google \"De Anza College class schedule fall 2026\" → 0 hit(s) (+0 new, 10 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:22:48.983Z",
+      "msg": "  google \"De Anza College public class search\" → 6 hit(s) (+6 new, 16 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:22:50.782Z",
+      "msg": "  google \"De Anza College self service banner class search\" → 6 hit(s) (+6 new, 22 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:22:52.482Z",
+      "msg": "  google \"De Anza College ellucian self service class schedule\" → 1 hit(s) (+1 new, 23 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:22:54.584Z",
+      "msg": "  google \"De Anza College webadvisor class schedule\" → 0 hit(s) (+0 new, 23 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:22:56.304Z",
+      "msg": "  google \"De Anza College courses by subject\" → 6 hit(s) (+6 new, 29 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:22:58.151Z",
+      "msg": "  google \"De Anza College course catalog\" → 6 hit(s) (+3 new, 32 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:22:59.515Z",
+      "msg": "  google \"site:deanza.edu schedule of classes\" → 6 hit(s) (+5 new, 37 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:23:01.170Z",
+      "msg": "  google \"site:deanza.edu class schedule\" → 6 hit(s) (+1 new, 38 pooled)"
+    },
+    {
+      "t": "2026-06-08T23:23:01.422Z",
+      "msg": "  probe https://www.deanza.edu/schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:01.941Z",
+      "msg": "  probe https://kirschcenter.deanza.edu/schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:02.401Z",
+      "msg": "  probe https://communityeducation.deanza.edu/schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:03.172Z",
+      "msg": "  probe https://deanza.elumenapp.com/catalog/2025-2026/course-listings → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:04.734Z",
+      "msg": "  probe https://lavozdeanza.com/features/2020/10/21/new-de-anza-college-students-adapt-to-online-classes-miss-traditional-experience/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:04.763Z",
+      "msg": "  probe https://www.deanza.edu/policies/catalog-rights.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:04.805Z",
+      "msg": "  probe https://www.deanza.edu/schedule/online-classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:04.842Z",
+      "msg": "  probe https://www.deanza.edu/academy/middleschool/middleschool-test.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:04.874Z",
+      "msg": "  probe https://www.deanza.edu/academy/highschool-test.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:06.089Z",
+      "msg": "  probe https://www.coursicle.com/deanza/courses/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:06.241Z",
+      "msg": "  probe https://assist.org/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:07.723Z",
+      "msg": "  probe https://www.ed2go.com/deanza/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:07.754Z",
+      "msg": "  probe https://www.deanza.edu/calendar/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:08.662Z",
+      "msg": "  probe https://academiccalendar.us.com/de-anza-academic-calendar-2026-2027/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:10.155Z",
+      "msg": "  probe https://wwwdeanza.fhda.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:10.834Z",
+      "msg": "  probe https://fafhda.org/wp-content/uploads/2025/09/Appendix-H1-2025-26.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:12.676Z",
+      "msg": "  probe https://catalog.deanza.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:12.964Z",
+      "msg": "  probe https://kirschcenter.deanza.edu/catalog/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:13.140Z",
+      "msg": "  probe https://communityeducation.deanza.edu/catalog/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:13.170Z",
+      "msg": "  probe https://www.deanza.edu/schedule/listings.html?dept=JOUR&t=F2026 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:14.289Z",
+      "msg": "  probe https://lavozdeanza.com/features/2020/10/21/new-de-anza-college-students-adapt-to-online-classes-miss-traditional-experience/#sno-sites-main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:16.178Z",
+      "msg": "  probe https://www.ed2go.com/deanza/SearchResults.aspx?CategoryId=1376%2c1377%2c1378%2c1380%2c1375&Sort=Relevance&CurrPage=1 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:16.178Z",
+      "msg": "  render+drive https://www.deanza.edu/schedule/ …"
+    },
+    {
+      "t": "2026-06-08T23:23:37.976Z",
+      "msg": "  render https://www.deanza.edu/schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:37.977Z",
+      "msg": "  render+drive https://kirschcenter.deanza.edu/schedule/ …"
+    },
+    {
+      "t": "2026-06-08T23:23:58.900Z",
+      "msg": "  render https://kirschcenter.deanza.edu/schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:23:58.901Z",
+      "msg": "  render+drive https://communityeducation.deanza.edu/schedule/ …"
+    },
+    {
+      "t": "2026-06-08T23:24:19.790Z",
+      "msg": "  render https://communityeducation.deanza.edu/schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:24:19.790Z",
+      "msg": "  render+drive https://www.deanza.edu/schedule/online-classes.html …"
+    },
+    {
+      "t": "2026-06-08T23:24:26.542Z",
+      "msg": "  render https://www.deanza.edu/schedule/online-classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:24:26.543Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-08T23:24:28.878Z",
+      "msg": "search \"De Anza College schedule of classes\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:24:30.721Z",
+      "msg": "search \"De Anza College search for classes\" → 8 hit(s) (14 unique so far)"
+    },
+    {
+      "t": "2026-06-08T23:24:30.722Z",
+      "msg": "Web search returned 14 result(s)."
+    },
+    {
+      "t": "2026-06-08T23:24:30.723Z",
+      "msg": "Top candidate: https://lavozdeanza.com/news/2019/11/20/de-anza-college-to-offer-new-courses-in-the-2020-21-school-year/ (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-08T23:24:31.789Z",
+      "msg": "probe https://lavozdeanza.com/news/2019/11/20/de-anza-college-to-offer-new-courses-in-the-2020-21-school-year/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:24:32.503Z",
+      "msg": "probe https://lavozdeanza.com/news/2020/11/23/de-anza-college-expands-non-credit-courses-for-upcoming-winter-quarter/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:24:33.272Z",
+      "msg": "probe https://www.ed2go.com/deanza/help.html → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:24:33.359Z",
+      "msg": "probe https://www.deanza.edu/promise/index.html → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-08T23:24:33.385Z",
+      "msg": "probe https://www.deanza.edu/outreach/faqs.html → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-08T23:24:33.885Z",
+      "msg": "probe https://en.wikipedia.org/wiki/De_Anza_College → 1 courses"
+    },
+    {
+      "t": "2026-06-08T23:24:33.886Z",
+      "msg": "  ↑ new best: 1 courses, modality 0%"
+    },
+    {
+      "t": "2026-06-08T23:24:34.547Z",
+      "msg": "probe https://elestoque.org/2008/10/22/news/de-anza-opening-new-doors/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:24:35.773Z",
+      "msg": "probe https://elestoque.org/2008/11/05/news/de-anza-opening-new-doors-ii/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:24:35.934Z",
+      "msg": "probe https://communityeducation.deanza.edu/academy/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:24:36.068Z",
+      "msg": "probe https://communityeducation.deanza.edu/academics/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:24:36.098Z",
+      "msg": "probe https://www.deanza.edu/schedule → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-08T23:24:36.126Z",
+      "msg": "probe https://www.deanza.edu/schedule-of-classes → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-08T23:24:36.153Z",
+      "msg": "probe https://www.deanza.edu/class-schedule → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-08T23:24:36.183Z",
+      "msg": "probe https://www.deanza.edu/classes → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-08T23:24:36.212Z",
+      "msg": "probe https://www.deanza.edu/class-search → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-08T23:24:36.258Z",
+      "msg": "probe https://www.deanza.edu/find-classes → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-08T23:24:36.288Z",
+      "msg": "probe https://www.deanza.edu/searchable-schedule → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-08T23:24:36.329Z",
+      "msg": "probe https://www.deanza.edu/academics/schedule → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-08T23:24:36.372Z",
+      "msg": "probe https://www.deanza.edu/admissions/class-schedule → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-08T23:24:36.744Z",
+      "msg": "probe https://deanza.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-08T23:24:36.810Z",
+      "msg": "probe https://deanza.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:24:36.842Z",
+      "msg": "probe https://deanza.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:24:36.873Z",
+      "msg": "probe https://deanza.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:24:36.905Z",
+      "msg": "probe https://deanza.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:24:36.936Z",
+      "msg": "probe https://deanza.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:24:36.968Z",
+      "msg": "probe https://deanza.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:24:37.003Z",
+      "msg": "probe https://deanza.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:24:37.034Z",
+      "msg": "probe https://deanza.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-08T23:24:37.035Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-08T23:24:37.036Z",
+      "msg": "render (headless Chrome) https://en.wikipedia.org/wiki/De_Anza_College …"
+    },
+    {
+      "t": "2026-06-08T23:24:44.673Z",
+      "msg": "browser https://en.wikipedia.org/wiki/De_Anza_College → 1 courses"
+    },
+    {
+      "t": "2026-06-08T23:24:44.673Z",
+      "msg": "render (headless Chrome) https://lavozdeanza.com/news/2019/11/20/de-anza-college-to-offer-new-courses-in-the-2020-21-school-year/ …"
+    },
+    {
+      "t": "2026-06-08T23:25:10.073Z",
+      "msg": "browser https://lavozdeanza.com/news/2019/11/20/de-anza-college-to-offer-new-courses-in-the-2020-21-school-year/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T23:25:10.073Z",
+      "msg": "render (headless Chrome) https://lavozdeanza.com/news/2020/11/23/de-anza-college-expands-non-credit-courses-for-upcoming-winter-quarter/ …"
+    },
+    {
+      "t": "2026-06-08T23:25:34.157Z",
+      "msg": "browser https://lavozdeanza.com/news/2020/11/23/de-anza-college-expands-non-credit-courses-for-upcoming-winter-quarter/ → 0 courses"
+    },
+    {
+      "t": "2026-06-08T23:25:34.158Z",
+      "msg": "render (headless Chrome) https://www.ed2go.com/deanza/help.html …"
+    },
+    {
+      "t": "2026-06-08T23:25:47.435Z",
+      "msg": "browser https://www.ed2go.com/deanza/help.html → 0 courses"
+    },
+    {
+      "t": "2026-06-08T23:25:47.436Z",
+      "msg": "render (headless Chrome) https://www.deanza.edu/promise/index.html …"
+    },
+    {
+      "t": "2026-06-08T23:25:54.185Z",
+      "msg": "browser https://www.deanza.edu/promise/index.html → 0 courses"
+    },
+    {
+      "t": "2026-06-08T23:25:54.185Z",
+      "msg": "render (headless Chrome) https://www.deanza.edu/outreach/faqs.html …"
+    },
+    {
+      "t": "2026-06-08T23:26:00.905Z",
+      "msg": "browser https://www.deanza.edu/outreach/faqs.html → 0 courses"
+    },
+    {
+      "t": "2026-06-08T23:26:00.909Z",
+      "msg": "   ✓ \"Deep web search + headless form-driving\" found 1 course(s)"
+    },
+    {
+      "t": "2026-06-08T23:26:00.910Z",
+      "msg": "✅ SOLVED — 1 courses ingested into the searchable DB (strategy: Deep web search + headless form-driving)."
     }
-  ]
+  ],
+  "strategy": "Deep web search + headless form-driving"
 }

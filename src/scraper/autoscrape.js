@@ -12,9 +12,10 @@
 //
 // When courses are found they're ingested straight into the searchable SQLite DB,
 // flipping the college "live". Every step is logged live through progress.js.
-import { replaceCourses, setScrapeConfig, markScraped } from '../db.js';
 import { loadSnapshot } from './kb.js';
 import { learnCollege, learnCollegeViaSearch } from './learn.js';
+import { solveImpossible } from './solve.js';
+import { ingestCourses } from './ingest.js';
 import { closeDriver } from './browser.js';
 import * as progress from './progress.js';
 
@@ -24,24 +25,20 @@ const iso = () => new Date().toISOString();
 // live and its courses become searchable. Returns the number of rows ingested.
 function ingest(college, recipe) {
   const snap = loadSnapshot(college.slug);
-  const courses = snap?.courses || [];
-  if (!courses.length) return 0;
-  const type = recipe.method === 'browser' ? 'browser' : 'auto';
-  const n = replaceCourses(college.id, courses);
-  setScrapeConfig(college.slug, type, recipe);
-  markScraped(college.id, `ok: ${n} courses via ${type} (auto-learned)`);
-  return n;
+  return ingestCourses(college, snap?.courses || [], { method: recipe.method, recipe });
 }
 
 // Attempt one college through the full escalation ladder. Always resolves; records
 // the outcome on the progress record. `college` must include the DB `id`.
-export async function runCollege(college) {
+// `deep` widens the web-search pass (more query phrasings + brute-forced schedule
+// URL guesses + more headless renders) — used when retrying the stubborn ones.
+export async function runCollege(college, { deep = false } = {}) {
   const slug = college.slug;
   progress.ensure(college);
   let attempts = (progress.get(slug)?.attempts || 0);
   progress.update(slug, { status: 'running', startedAt: iso(), finishedAt: null, blocked: null, note: '' });
   const onLog = (m) => progress.log(slug, m);
-  onLog(`▶ Starting ${college.name} — ${college.url}`);
+  onLog(`▶ Starting ${college.name} — ${college.url}${deep ? '  [deep retry]' : ''}`);
 
   let recipe = null;
   let blocked = null;
@@ -55,8 +52,8 @@ export async function runCollege(college) {
     // 2 — web search + headless browser (the thorough one)
     if (recipe.sampleCount === 0 && recipe.blocked !== 'login') {
       attempts++;
-      onLog('Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)');
-      recipe = await learnCollegeViaSearch(college, { browser: true, onLog });
+      onLog(`Attempt 2/3 — web search${deep ? ' (deep: wide queries + URL guesses)' : ''} + headless Chrome`);
+      recipe = await learnCollegeViaSearch(college, { browser: true, onLog, deep });
       blocked = recipe.blocked || blocked;
     }
 
@@ -126,12 +123,14 @@ export function requestStop() {
 
 // Process colleges sequentially. `colleges` rows must include `id` and `live`.
 // Skips already-live colleges by default (so it's resumable). Returns a summary.
-export async function runAll(colleges, { skipLive = true, onlySlugs = null } = {}) {
+export async function runAll(colleges, { skipLive = true, onlySlugs = null, deep = false, runner = null } = {}) {
   if (state.running) return { error: 'a run is already in progress' };
 
   let queue = colleges;
   if (onlySlugs) queue = queue.filter((c) => onlySlugs.includes(c.slug));
   if (skipLive) queue = queue.filter((c) => !c.live);
+
+  const run = runner || ((c) => runCollege(c, { deep }));
 
   state.running = true;
   state.stop = false;
@@ -147,7 +146,7 @@ export async function runAll(colleges, { skipLive = true, onlySlugs = null } = {
       state.currentSlug = college.slug;
       state.currentName = college.name;
       emitRun();
-      await runCollege(college);
+      await run(college);
       state.done++;
       emitRun();
     }
@@ -161,3 +160,28 @@ export async function runAll(colleges, { skipLive = true, onlySlugs = null } = {
   }
   return { ok: true, processed: state.done, total: state.total };
 }
+
+// Re-attempt every college that previously came up `impossible` or `error`, in
+// DEEP mode (wider search + URL guesses + more renders + the now-robust fetcher).
+// `colleges` is the full DB list; the stuck set is read from the progress records.
+export async function retryStuck(colleges) {
+  const stuck = new Set(
+    progress.all().filter((r) => r.status === 'impossible' || r.status === 'error').map((r) => r.slug)
+  );
+  if (!stuck.size) return { ok: true, processed: 0, total: 0, note: 'nothing stuck' };
+  return runAll(colleges, { skipLive: false, onlySlugs: [...stuck], deep: true });
+}
+
+// The "Solving Impossibles" batch: run the smart multi-strategy solver over every
+// college currently impossible/error/blocked, one at a time.
+export async function solveAllImpossible(colleges) {
+  // impossible/error/blocked are the stuck set; 'running' here means a prior batch
+  // was killed mid-college (stale) — those need retrying too.
+  const RETRYABLE = new Set(['impossible', 'error', 'blocked', 'running']);
+  const stuck = new Set(progress.all().filter((r) => RETRYABLE.has(r.status)).map((r) => r.slug));
+  if (!stuck.size) return { ok: true, processed: 0, total: 0, note: 'nothing impossible' };
+  return runAll(colleges, { skipLive: false, onlySlugs: [...stuck], runner: (c) => solveImpossible(c) });
+}
+
+// Solve a single college with the smart solver (used by the per-row button).
+export { solveImpossible };

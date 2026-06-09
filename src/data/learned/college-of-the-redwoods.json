@@ -2,34 +2,14 @@
   "slug": "college-of-the-redwoods",
   "name": "College of the Redwoods",
   "url": "https://www.redwoods.edu/",
-  "source": "homepage",
+  "source": "solve",
+  "strategy": "Exhaustive Google/DDG search sweep",
   "platform": "unknown",
-  "scheduleUrl": "https://www.redwoods.edu/students/finals.php",
-  "catalogUrl": "https://www.redwoods.edu/academics/catalog.php",
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
+  "extractUrl": "https://redwood.vusd.org/",
+  "method": "auto",
+  "sampleCount": 2,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Finals Schedule",
-      "href": "https://www.redwoods.edu/students/finals.php",
-      "score": 2
-    },
-    {
-      "text": "College Catalog",
-      "href": "https://www.redwoods.edu/academics/catalog.php",
-      "score": 6
-    }
-  ],
-  "searchQuery": null,
-  "searchResults": [],
-  "blocked": null,
-  "confidence": 0.15,
-  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "learnedAt": "2026-06-08T17:11:50.865Z",
-  "browserActions": [
-    "browser https://www.redwoods.edu/students/finals.php → 0 courses",
-    "browser https://www.redwoods.edu/academics/catalog.php → 0 courses"
-  ]
+  "confidence": 0.6,
+  "notes": "Solved via \"Exhaustive Google/DDG search sweep\" — 2 courses from https://redwood.vusd.org/.",
+  "learnedAt": "2026-06-08T22:28:11.574Z"
 }

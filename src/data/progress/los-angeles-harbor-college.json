@@ -3,16 +3,16 @@
   "name": "Los Angeles Harbor College",
   "url": "https://www.lahc.edu/",
   "status": "impossible",
-  "attempts": 3,
+  "attempts": 8,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:29.863Z",
-  "finishedAt": "2026-06-08T17:36:29.870Z",
-  "updatedAt": "2026-06-08T17:36:29.870Z",
+  "note": "No login wall found, but no public schedule surfaced through 5 strategies incl. an exhaustive search sweep. Retryable.",
+  "startedAt": "2026-06-09T01:42:08.485Z",
+  "finishedAt": "2026-06-09T01:48:03.293Z",
+  "updatedAt": "2026-06-09T01:48:03.293Z",
   "log": [
     {
       "t": "2026-06-08T17:36:29.863Z",
@@ -53,6 +53,546 @@
     {
       "t": "2026-06-08T17:36:29.870Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T01:42:08.485Z",
+      "msg": "▶ Solving Los Angeles Harbor College — https://www.lahc.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T01:42:08.485Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T01:42:08.766Z",
+      "msg": "  explore https://www.lahc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:08.850Z",
+      "msg": "  explore https://www.lahc.edu/academics/schedules-catalogs → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:09.662Z",
+      "msg": "  explore https://www.lahc.edu/sites/lahc.edu/files/2026-03/Summer%202026%20Classes%20and%20Info%20together_1.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:11.252Z",
+      "msg": "  explore https://www.lahc.edu/sites/lahc.edu/files/2026-04/FALL%202026%20CLASS%20SCHEDULE.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:12.075Z",
+      "msg": "  explore https://www.lahc.edu/sites/lahc.edu/files/2026-01/WINTER%202026%20SCHEDULE%201.2.2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:12.928Z",
+      "msg": "  explore https://www.lahc.edu/sites/lahc.edu/files/2026-02/LAHC%20SPRING%202026%20SCHEDULE%202-6-2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:13.162Z",
+      "msg": "  explore https://www.lahc.edu/admissions/dual-enrollment → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:13.221Z",
+      "msg": "  explore https://www.lahc.edu/admissions/how-to-apply → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:13.357Z",
+      "msg": "  explore https://www.lahc.edu/admissions/dual-enrollment#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:14.589Z",
+      "msg": "  explore https://www.lahc.edu/admissions/dual-enrollment/comparison → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:14.764Z",
+      "msg": "  explore https://www.lahc.edu/admissions/dual-enrollment/FAQs → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:14.903Z",
+      "msg": "  explore https://www.lahc.edu/admissions/dual-enrollment/process-and-forms → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:16.039Z",
+      "msg": "  explore https://www.lahc.edu/admissions/enrollment-verification → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:16.118Z",
+      "msg": "  explore https://www.lahc.edu/admissions/dual-enrollment/additional-resources → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:16.207Z",
+      "msg": "  explore https://www.lahc.edu/admissions/dual-enrollment/comparison#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:16.280Z",
+      "msg": "  explore https://www.lahc.edu/admissions/dual-enrollment/FAQs#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:17.291Z",
+      "msg": "  explore https://www.lahc.edu/admissions/dual-enrollment/partners → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:17.380Z",
+      "msg": "  explore https://www.lahc.edu/admissions/dual-enrollment/process-and-forms#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:17.458Z",
+      "msg": "  explore https://www.lahc.edu/admissions/dual-enrollment/sum26-lausd-laccd-harbor → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:17.527Z",
+      "msg": "  explore https://www.lahc.edu/admissions/enrollment-verification#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:17.595Z",
+      "msg": "  explore https://www.lahc.edu/admissions/enrollment-verification# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:17.664Z",
+      "msg": "  explore https://www.lahc.edu/news/open-classes-spring-2026 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:17.673Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T01:42:17.963Z",
+      "msg": "  sitemap https://www.lahc.edu/sitemap.xml → 2 entries"
+    },
+    {
+      "t": "2026-06-09T01:42:18.687Z",
+      "msg": "  sitemap https://www.lahc.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T01:42:19.457Z",
+      "msg": "  sitemap https://www.lahc.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T01:42:19.458Z",
+      "msg": "  sitemap mining → 2 URL(s), 0 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T01:42:19.459Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T01:42:21.704Z",
+      "msg": "  explore https://www.lahc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:21.800Z",
+      "msg": "  explore https://www.lahc.edu/academics/schedules-catalogs → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:22.490Z",
+      "msg": "  explore https://www.lahc.edu/sites/lahc.edu/files/2026-03/Summer%202026%20Classes%20and%20Info%20together_1.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:23.920Z",
+      "msg": "  explore https://www.lahc.edu/sites/lahc.edu/files/2026-04/FALL%202026%20CLASS%20SCHEDULE.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:24.713Z",
+      "msg": "  explore https://www.lahc.edu/sites/lahc.edu/files/2026-01/WINTER%202026%20SCHEDULE%201.2.2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:25.613Z",
+      "msg": "  explore https://www.lahc.edu/sites/lahc.edu/files/2026-02/LAHC%20SPRING%202026%20SCHEDULE%202-6-2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:25.864Z",
+      "msg": "  explore https://www.lahc.edu/admissions/dual-enrollment → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:25.925Z",
+      "msg": "  explore https://www.lahc.edu/admissions/how-to-apply → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:25.993Z",
+      "msg": "  explore https://www.lahc.edu/admissions/dual-enrollment#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:26.052Z",
+      "msg": "  explore https://www.lahc.edu/admissions/dual-enrollment/comparison → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:26.129Z",
+      "msg": "  explore https://www.lahc.edu/admissions/dual-enrollment/FAQs → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:26.190Z",
+      "msg": "  explore https://www.lahc.edu/admissions/dual-enrollment/process-and-forms → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:26.250Z",
+      "msg": "  explore https://www.lahc.edu/admissions/enrollment-verification → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:26.312Z",
+      "msg": "  explore https://www.lahc.edu/admissions/dual-enrollment/additional-resources → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:42:26.313Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T01:44:31.232Z",
+      "msg": "  google \"Los Angeles Harbor College schedule of classes\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:44:32.080Z",
+      "msg": "  google \"Los Angeles Harbor College search for classes\" → 6 hit(s) (+1 new, 7 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:44:33.216Z",
+      "msg": "  google \"Los Angeles Harbor College class schedule 2026\" → 0 hit(s) (+0 new, 7 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:44:34.168Z",
+      "msg": "  google \"Los Angeles Harbor College class schedule spring 2026\" → 0 hit(s) (+0 new, 7 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:44:35.062Z",
+      "msg": "  google \"Los Angeles Harbor College class schedule fall 2026\" → 0 hit(s) (+0 new, 7 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:44:36.840Z",
+      "msg": "  google \"Los Angeles Harbor College public class search\" → 6 hit(s) (+6 new, 13 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:44:38.573Z",
+      "msg": "  google \"Los Angeles Harbor College self service banner class search\" → 6 hit(s) (+6 new, 19 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:44:39.831Z",
+      "msg": "  google \"Los Angeles Harbor College ellucian self service class schedule\" → 2 hit(s) (+2 new, 21 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:44:41.798Z",
+      "msg": "  google \"Los Angeles Harbor College webadvisor class schedule\" → 0 hit(s) (+0 new, 21 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:44:43.486Z",
+      "msg": "  google \"Los Angeles Harbor College courses by subject\" → 6 hit(s) (+5 new, 26 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:44:45.235Z",
+      "msg": "  google \"Los Angeles Harbor College course catalog\" → 6 hit(s) (+4 new, 30 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:44:46.563Z",
+      "msg": "  google \"site:lahc.edu schedule of classes\" → 6 hit(s) (+6 new, 36 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:44:47.997Z",
+      "msg": "  google \"site:lahc.edu class schedule\" → 6 hit(s) (+0 new, 36 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:44:48.267Z",
+      "msg": "  probe https://www.lacc.edu/academics/class-schedules → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:48.491Z",
+      "msg": "  probe https://mycollege-guest.laccd.edu/psc/classsearchguest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?Campus=LAHC&strm=2236 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:48.575Z",
+      "msg": "  probe https://mycollege-guest.laccd.edu/psc/classsearchguest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?Campus=LAHC&strm=2240 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:48.809Z",
+      "msg": "  probe https://www.lahc.edu/academics/schedules-catalogs → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:49.136Z",
+      "msg": "  probe https://libguides.lahc.edu/studentguidezclc → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:49.274Z",
+      "msg": "  probe https://libguides.lahc.edu/studentguidezclc/howto → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:49.403Z",
+      "msg": "  probe https://libguides.lahc.edu/ltechclasses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:50.681Z",
+      "msg": "  probe https://www.lasc.edu/colleges/los-angeles-harbor-college → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:50.838Z",
+      "msg": "  probe https://info.sjsu.edu/web-dbgen/artic/LAHARBOR/ge.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:52.167Z",
+      "msg": "  probe https://www.ed2go.com/lahc/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:52.381Z",
+      "msg": "  probe https://www.monsterpreps.com/colleges/los-angeles-harbor-college.htm → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:52.798Z",
+      "msg": "  probe https://www.collegetuitioncompare.com/edu/117690/los-angeles-harbor-college/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:52.984Z",
+      "msg": "  probe https://libguides.lahc.edu/library/info → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:53.146Z",
+      "msg": "  probe https://libguides.lahc.edu/english → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:54.224Z",
+      "msg": "  probe https://sonyachristianblog.com/tag/los-angeles-harbor-college/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:54.701Z",
+      "msg": "  probe https://alumnius.net/los_angeles_harbor_c-22023 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:56.694Z",
+      "msg": "  probe https://catalog.lahc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:56.936Z",
+      "msg": "  probe https://www.lacc.edu/academics/class-schedules/archives → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:57.089Z",
+      "msg": "  probe https://mycollege-guest.laccd.edu/psc/classsearchguest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?& → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:58.163Z",
+      "msg": "  probe https://www.lahc.edu/sites/lahc.edu/files/2026-03/Summer%202026%20Classes%20and%20Info%20together_1.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:58.396Z",
+      "msg": "  probe https://www.lahc.edu/student-services/spr/adult-community-education/enroll → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:58.847Z",
+      "msg": "  probe https://www.lasc.edu/academics/schedule-of-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:44:58.848Z",
+      "msg": "  render+drive https://www.lacc.edu/academics/class-schedules …"
+    },
+    {
+      "t": "2026-06-09T01:45:19.963Z",
+      "msg": "  render https://www.lacc.edu/academics/class-schedules → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:45:19.964Z",
+      "msg": "  render+drive https://mycollege-guest.laccd.edu/psc/classsearchguest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?Campus=LAHC&strm=2236 …"
+    },
+    {
+      "t": "2026-06-09T01:45:39.460Z",
+      "msg": "  render https://mycollege-guest.laccd.edu/psc/classsearchguest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?Campus=LAHC&strm=2236 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:45:39.461Z",
+      "msg": "  render+drive https://mycollege-guest.laccd.edu/psc/classsearchguest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?Campus=LAHC&strm=2240 …"
+    },
+    {
+      "t": "2026-06-09T01:45:58.477Z",
+      "msg": "  render https://mycollege-guest.laccd.edu/psc/classsearchguest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?Campus=LAHC&strm=2240 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:45:58.478Z",
+      "msg": "  render+drive https://www.lahc.edu/academics/schedules-catalogs …"
+    },
+    {
+      "t": "2026-06-09T01:46:19.592Z",
+      "msg": "  render https://www.lahc.edu/academics/schedules-catalogs → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:46:19.593Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T01:46:21.314Z",
+      "msg": "search \"Los Angeles Harbor College schedule of classes\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-09T01:46:22.713Z",
+      "msg": "search \"Los Angeles Harbor College search for classes\" → 8 hit(s) (16 unique so far)"
+    },
+    {
+      "t": "2026-06-09T01:46:22.714Z",
+      "msg": "Web search returned 16 result(s)."
+    },
+    {
+      "t": "2026-06-09T01:46:22.715Z",
+      "msg": "Top candidate: https://laserviceacademy.org/apply/past-schedules/ (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T01:46:27.555Z",
+      "msg": "probe https://laserviceacademy.org/apply/past-schedules/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T01:46:27.895Z",
+      "msg": "probe https://hmcarchitects.com/portfolio/higher-education/los-angeles-harbor-college-student-union/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:46:28.750Z",
+      "msg": "probe https://www.legalstudies.com/product/los-angeles-harbor-college-extension-legal-secretary-certificate-course/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:46:29.284Z",
+      "msg": "probe https://www.legalstudies.com/product/los-angeles-harbor-college-extension-legal-nurse-consultant-training-course/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:46:29.550Z",
+      "msg": "probe https://www.lahc.edu/campus-life/resources/food-services → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:46:29.797Z",
+      "msg": "probe https://www.lahc.edu/news/cares → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:46:30.138Z",
+      "msg": "probe https://libguides.lahc.edu/library/faculty → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:46:30.750Z",
+      "msg": "probe https://www.ncsasports.org/athletic-scholarships/womens-basketball/california/los-angeles-harbor-college → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:46:30.850Z",
+      "msg": "probe https://www.monsterpreps.com/colleges/los-angeles-harbor-college.htm → 0 (HTTP 403)"
+    },
+    {
+      "t": "2026-06-09T01:46:31.099Z",
+      "msg": "probe https://www.collegetuitioncompare.com/edu/117690/los-angeles-harbor-college/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:46:31.942Z",
+      "msg": "probe https://www.lahc.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:32.895Z",
+      "msg": "probe https://www.lahc.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:33.683Z",
+      "msg": "probe https://www.lahc.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:34.513Z",
+      "msg": "probe https://www.lahc.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:35.303Z",
+      "msg": "probe https://www.lahc.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:36.136Z",
+      "msg": "probe https://www.lahc.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:36.957Z",
+      "msg": "probe https://www.lahc.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:37.762Z",
+      "msg": "probe https://www.lahc.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:38.481Z",
+      "msg": "probe https://www.lahc.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:38.894Z",
+      "msg": "probe https://lahc.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:39.034Z",
+      "msg": "probe https://lahc.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:39.135Z",
+      "msg": "probe https://lahc.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:39.302Z",
+      "msg": "probe https://lahc.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:39.435Z",
+      "msg": "probe https://lahc.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:39.594Z",
+      "msg": "probe https://lahc.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:39.705Z",
+      "msg": "probe https://lahc.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:39.852Z",
+      "msg": "probe https://lahc.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:39.936Z",
+      "msg": "probe https://lahc.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:46:39.937Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T01:46:39.938Z",
+      "msg": "render (headless Chrome) https://laserviceacademy.org/apply/past-schedules/ …"
+    },
+    {
+      "t": "2026-06-09T01:46:46.770Z",
+      "msg": "browser https://laserviceacademy.org/apply/past-schedules/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:46:46.770Z",
+      "msg": "render (headless Chrome) https://hmcarchitects.com/portfolio/higher-education/los-angeles-harbor-college-student-union/ …"
+    },
+    {
+      "t": "2026-06-09T01:46:56.594Z",
+      "msg": "browser https://hmcarchitects.com/portfolio/higher-education/los-angeles-harbor-college-student-union/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:46:56.595Z",
+      "msg": "render (headless Chrome) https://www.legalstudies.com/product/los-angeles-harbor-college-extension-legal-secretary-certificate-course/ …"
+    },
+    {
+      "t": "2026-06-09T01:47:09.343Z",
+      "msg": "browser https://www.legalstudies.com/product/los-angeles-harbor-college-extension-legal-secretary-certificate-course/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:47:09.343Z",
+      "msg": "render (headless Chrome) https://www.legalstudies.com/product/los-angeles-harbor-college-extension-legal-nurse-consultant-training-course/ …"
+    },
+    {
+      "t": "2026-06-09T01:47:21.672Z",
+      "msg": "browser https://www.legalstudies.com/product/los-angeles-harbor-college-extension-legal-nurse-consultant-training-course/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:47:21.673Z",
+      "msg": "render (headless Chrome) https://www.lahc.edu/campus-life/resources/food-services …"
+    },
+    {
+      "t": "2026-06-09T01:47:42.508Z",
+      "msg": "browser https://www.lahc.edu/campus-life/resources/food-services → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:47:42.509Z",
+      "msg": "render (headless Chrome) https://www.lahc.edu/news/cares …"
+    },
+    {
+      "t": "2026-06-09T01:48:03.291Z",
+      "msg": "browser https://www.lahc.edu/news/cares → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:48:03.292Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
     }
   ]
 }

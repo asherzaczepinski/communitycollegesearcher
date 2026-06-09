@@ -1,0 +1,40 @@
+{
+  "slug": "college-of-the-redwoods",
+  "name": "College of the Redwoods",
+  "url": "https://www.redwoods.edu/",
+  "live": true,
+  "courseCount": 2,
+  "modalityCoverage": 0,
+  "method": "auto",
+  "source": "Exhaustive Google/DDG search sweep",
+  "extractUrl": "https://redwood.vusd.org/",
+  "status": "live",
+  "lastStatus": "ok: 2 courses via auto (solved)",
+  "reason": "Partial capture — only 2 course(s) scraped, not the full schedule.",
+  "courses": [
+    {
+      "code": "B1",
+      "title": "1 Fillable Form (Work Permit Application)",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://redwood.vusd.org/"
+    },
+    {
+      "code": "B1",
+      "title": "1 Form (Work Permit Application)",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://redwood.vusd.org/"
+    }
+  ]
+}

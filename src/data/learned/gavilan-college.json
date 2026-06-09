@@ -2,50 +2,19 @@
   "slug": "gavilan-college",
   "name": "Gavilan College",
   "url": "https://www.gavilan.edu/",
-  "source": "homepage",
+  "source": "web-search-deep",
   "platform": "unknown",
-  "scheduleUrl": "https://www.gavilan.edu/admit/schedule/index.php",
-  "catalogUrl": "https://www.gavilan.edu/catalog/index.php",
+  "scheduleUrl": null,
+  "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [
-    {
-      "text": "Schedule of Classes, Dates and Deadlines",
-      "href": "https://www.gavilan.edu/admit/schedule/index.php",
-      "score": 5
-    },
-    {
-      "text": "Read more about Summer/Fall Class Schedule",
-      "href": "https://www.gavilan.edu/admit/schedule/2026_summer_fall/index.php",
-      "score": 5
-    },
-    {
-      "text": "Calendar and Deadlines",
-      "href": "https://www.gavilan.edu/admit/schedule/calendar.php",
-      "score": 2
-    },
-    {
-      "text": "College Catalog",
-      "href": "https://www.gavilan.edu/catalog/index.php",
-      "score": 6
-    },
-    {
-      "text": "Books",
-      "href": "https://caccl-gavilan.primo.exlibrisgroup.com/discovery/search?tab=LibraryCatalog&search_scope=MyInstitution&vid=01CACCL_GAVILAN:GAVILAN&lang=en",
-      "score": 3
-    }
-  ],
-  "searchQuery": null,
+  "candidates": [],
+  "searchQuery": "Gavilan College schedule of classes",
   "searchResults": [],
   "blocked": null,
-  "confidence": 0.15,
-  "notes": "Found entry links but no course data — likely a JavaScript app or a bespoke search form. Try \"Deep learn (browser)\".",
-  "learnedAt": "2026-06-08T17:28:42.919Z",
-  "browserActions": [
-    "browser https://www.gavilan.edu/admit/schedule/index.php → 0 courses",
-    "browser https://www.gavilan.edu/catalog/index.php → 0 courses",
-    "browser https://www.gavilan.edu/admit/schedule/2026_summer_fall/index.php → 0 courses"
-  ]
+  "confidence": 0,
+  "notes": "Searched the web (0 results) but no page yielded course data — the schedule is likely a bespoke search app. Top results saved above.",
+  "learnedAt": "2026-06-08T23:38:54.772Z"
 }

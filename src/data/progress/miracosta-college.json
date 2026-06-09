@@ -2,17 +2,17 @@
   "slug": "miracosta-college",
   "name": "MiraCosta College",
   "url": "https://www.miracosta.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
-  "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "status": "live",
+  "attempts": 7,
+  "courseCount": 223,
+  "modalityCoverage": 0.004,
+  "method": "auto",
+  "extractUrl": "https://catalog.miracosta.edu/degreecertificatetransferinfo/generaleducationplans/plana/",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:29.928Z",
-  "finishedAt": "2026-06-08T17:36:29.937Z",
-  "updatedAt": "2026-06-08T17:36:29.937Z",
+  "note": "Solved via \"Exhaustive Google/DDG search sweep\" — 223 courses from https://catalog.miracosta.edu/degreecertificatetransferinfo/generaleducationplans/plana/.",
+  "startedAt": "2026-06-09T01:59:27.026Z",
+  "finishedAt": "2026-06-09T02:04:49.210Z",
+  "updatedAt": "2026-06-09T02:04:49.210Z",
   "log": [
     {
       "t": "2026-06-08T17:36:29.928Z",
@@ -53,6 +53,323 @@
     {
       "t": "2026-06-08T17:36:29.937Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T01:59:27.026Z",
+      "msg": "▶ Solving MiraCosta College — https://www.miracosta.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T01:59:27.027Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T01:59:27.319Z",
+      "msg": "  explore https://www.miracosta.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:59:27.402Z",
+      "msg": "  explore https://www.miracosta.edu/academics/class-schedules-catalog/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:59:27.484Z",
+      "msg": "  explore https://www.miracosta.edu/academics/class-schedules-catalog/archived-class-schedules-and-catalogs.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:59:27.566Z",
+      "msg": "  explore https://www.miracosta.edu/academics/class-schedules-catalog/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:59:31.183Z",
+      "msg": "  explore https://www.miracosta.edu/academics/class-schedules-catalog/_docs/creditschedule_fall2025.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:59:32.982Z",
+      "msg": "  explore https://www.miracosta.edu/academics/class-schedules-catalog/_docs/creditschedule_summer2025.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:59:49.386Z",
+      "msg": "  explore https://www.miracosta.edu/academics/class-schedules-catalog/_docs/creditschedule_summer_2020.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:00:13.147Z",
+      "msg": "  explore https://www.miracosta.edu/academics/class-schedules-catalog/_docs/schedule_spring_2020.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:01:17.050Z",
+      "msg": "  explore https://www.miracosta.edu/academics/class-schedules-catalog/_docs/creditschedule_fall2019.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:01:17.474Z",
+      "msg": "  explore http://publication.miracosta.edu/books/zign → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:01:17.563Z",
+      "msg": "  explore https://www.miracosta.edu/admissions-and-aid/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:01:17.838Z",
+      "msg": "  explore https://surf.miracosta.edu/psc/ps/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:01:17.917Z",
+      "msg": "  explore https://www.miracosta.edu/admissions-and-aid/returning-students.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:01:18.004Z",
+      "msg": "  explore https://www.miracosta.edu/admissions-and-aid/high-school-students/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:01:18.096Z",
+      "msg": "  explore https://www.miracosta.edu/admissions-and-aid/high-school-students/concurrent-enrollment/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:01:18.179Z",
+      "msg": "  explore https://www.miracosta.edu/admissions-and-aid/high-school-students/dual-enrollment/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:01:18.254Z",
+      "msg": "  explore https://www.miracosta.edu/admissions-and-aid/high-school-students/index.html#collapse1 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:01:18.336Z",
+      "msg": "  explore https://www.miracosta.edu/admissions-and-aid/high-school-students/index.html#collapse3 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:01:18.424Z",
+      "msg": "  explore https://www.miracosta.edu/current-students/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:01:18.473Z",
+      "msg": "  explore https://surf.miracosta.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:01:18.557Z",
+      "msg": "  explore https://www.miracosta.edu/future-students/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:01:18.663Z",
+      "msg": "  explore https://www.miracosta.edu/student-services/financial-aid/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:01:18.674Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T02:01:18.937Z",
+      "msg": "  sitemap https://www.miracosta.edu/sitemap.xml → 6892 entries"
+    },
+    {
+      "t": "2026-06-09T02:01:19.252Z",
+      "msg": "  sitemap https://www.miracosta.edu/sitemap_index.xml → 0 entries"
+    },
+    {
+      "t": "2026-06-09T02:01:19.368Z",
+      "msg": "  sitemap https://www.miracosta.edu/sitemap-index.xml → 0 entries"
+    },
+    {
+      "t": "2026-06-09T02:01:19.373Z",
+      "msg": "  sitemap mining → 6890 URL(s), 267 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T02:01:59.721Z",
+      "msg": "   strategy error: Maximum call stack size exceeded"
+    },
+    {
+      "t": "2026-06-09T02:01:59.721Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T02:02:01.938Z",
+      "msg": "  explore https://www.miracosta.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:02:02.013Z",
+      "msg": "  explore https://www.miracosta.edu/academics/class-schedules-catalog/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:02:02.082Z",
+      "msg": "  explore https://www.miracosta.edu/academics/class-schedules-catalog/archived-class-schedules-and-catalogs.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:02:02.164Z",
+      "msg": "  explore https://www.miracosta.edu/academics/class-schedules-catalog/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:02:03.742Z",
+      "msg": "  explore https://www.miracosta.edu/academics/class-schedules-catalog/_docs/creditschedule_fall2025.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:02:05.572Z",
+      "msg": "  explore https://www.miracosta.edu/academics/class-schedules-catalog/_docs/creditschedule_summer2025.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:02:17.421Z",
+      "msg": "  explore https://www.miracosta.edu/academics/class-schedules-catalog/_docs/creditschedule_summer_2020.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:02.277Z",
+      "msg": "  explore https://www.miracosta.edu/academics/class-schedules-catalog/_docs/schedule_spring_2020.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:23.373Z",
+      "msg": "  explore https://www.miracosta.edu/academics/class-schedules-catalog/_docs/creditschedule_fall2019.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:23.862Z",
+      "msg": "  explore http://publication.miracosta.edu/books/zign → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:23.941Z",
+      "msg": "  explore https://www.miracosta.edu/admissions-and-aid/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:24.198Z",
+      "msg": "  explore https://surf.miracosta.edu/psc/ps/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:24.270Z",
+      "msg": "  explore https://www.miracosta.edu/admissions-and-aid/returning-students.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:24.350Z",
+      "msg": "  explore https://www.miracosta.edu/admissions-and-aid/high-school-students/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:24.360Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T02:04:26.492Z",
+      "msg": "  google \"MiraCosta College schedule of classes\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:04:27.859Z",
+      "msg": "  google \"MiraCosta College search for classes\" → 6 hit(s) (+4 new, 10 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:04:29.560Z",
+      "msg": "  google \"MiraCosta College class schedule 2026\" → 6 hit(s) (+4 new, 14 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:04:30.295Z",
+      "msg": "  google \"MiraCosta College class schedule spring 2026\" → 0 hit(s) (+0 new, 14 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:04:30.891Z",
+      "msg": "  google \"MiraCosta College class schedule fall 2026\" → 0 hit(s) (+0 new, 14 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:04:32.568Z",
+      "msg": "  google \"MiraCosta College public class search\" → 6 hit(s) (+5 new, 19 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:04:34.309Z",
+      "msg": "  google \"MiraCosta College self service banner class search\" → 6 hit(s) (+6 new, 25 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:04:36.164Z",
+      "msg": "  google \"MiraCosta College ellucian self service class schedule\" → 0 hit(s) (+0 new, 25 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:04:37.746Z",
+      "msg": "  google \"MiraCosta College webadvisor class schedule\" → 0 hit(s) (+0 new, 25 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:04:39.123Z",
+      "msg": "  google \"MiraCosta College courses by subject\" → 6 hit(s) (+6 new, 31 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:04:40.859Z",
+      "msg": "  google \"MiraCosta College course catalog\" → 6 hit(s) (+2 new, 33 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:04:42.131Z",
+      "msg": "  google \"site:miracosta.edu schedule of classes\" → 6 hit(s) (+2 new, 35 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:04:42.925Z",
+      "msg": "  google \"site:miracosta.edu class schedule\" → 0 hit(s) (+0 new, 35 pooled)"
+    },
+    {
+      "t": "2026-06-09T02:04:43.166Z",
+      "msg": "  probe https://www.miracosta.edu/academics/class-schedules-catalog/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:44.159Z",
+      "msg": "  probe https://www.baumloser-sattel.net/academics/class-schedules-catalog/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:44.235Z",
+      "msg": "  probe https://www.miracosta.edu/academics/class-schedules-catalog/archived-class-schedules-and-catalogs.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:44.709Z",
+      "msg": "  probe https://catalog.miracosta.edu/admissionsenrollment/creditfromothercolleges/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:45.098Z",
+      "msg": "  probe https://catalog.miracosta.edu/admissionsenrollment/enrollingincourses/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:45.187Z",
+      "msg": "  probe https://www.miracosta.edu/academics/class-schedules-catalog/final-exam-schedules.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:45.435Z",
+      "msg": "  probe https://miracosta.edu/student-services/student-help-desk/tutorials-surf/how-to-class-search-and-enroll.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:45.511Z",
+      "msg": "  probe https://www.miracosta.edu/academics/continuing-education/other-noncredit-classes/adults-with-disabilities.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:45.908Z",
+      "msg": "  probe https://catalog.miracosta.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:46.298Z",
+      "msg": "  probe https://catalog.miracosta.edu/disciplines/education/ → 2 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:47.351Z",
+      "msg": "  probe https://catalog.miracosta.edu/degreecertificatetransferinfo/generaleducationplans/plana/ → 223 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:47.834Z",
+      "msg": "  probe https://catalog.miracosta.edu/disciplines/art/ → 72 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:48.245Z",
+      "msg": "  probe https://catalog.miracosta.edu/disciplines/chemistry/ → 10 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:48.635Z",
+      "msg": "  probe https://catalog.miracosta.edu/disciplines/economics/ → 2 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:48.719Z",
+      "msg": "  probe https://miracosta.edu/office-of-the-president/public-information-office/landing/late.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:49.112Z",
+      "msg": "  probe https://libanswers.miracosta.edu/faq/35514 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:49.194Z",
+      "msg": "  probe https://miracosta.edu/academics/class-schedules-catalog/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:49.195Z",
+      "msg": "   ✓ \"Exhaustive Google/DDG search sweep\" found 223 course(s)"
+    },
+    {
+      "t": "2026-06-09T02:04:49.195Z",
+      "msg": "   solid haul (223 courses) — stopping strategy ladder."
+    },
+    {
+      "t": "2026-06-09T02:04:49.210Z",
+      "msg": "✅ SOLVED — 223 courses ingested into the searchable DB (strategy: Exhaustive Google/DDG search sweep)."
     }
-  ]
+  ],
+  "strategy": "Exhaustive Google/DDG search sweep"
 }

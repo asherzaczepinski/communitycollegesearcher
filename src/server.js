@@ -6,7 +6,7 @@ import { dirname, join, extname } from 'node:path';
 import { getColleges, getCollegeBySlug, searchCourses, stats } from './db.js';
 import { scrapeCollege } from './scraper/index.js';
 import { learnCollege, learnCollegeViaSearch } from './scraper/learn.js';
-import { runCollege, runAll, requestStop, runState } from './scraper/autoscrape.js';
+import { runCollege, runAll, retryStuck, solveAllImpossible, solveImpossible, requestStop, runState } from './scraper/autoscrape.js';
 import * as progress from './scraper/progress.js';
 import { closeDriver } from './scraper/browser.js';
 
@@ -163,6 +163,33 @@ const server = createServer(async (req, res) => {
       if (runState().running) return sendJson(res, 409, { error: 'a run is already in progress', run: runState() });
       runAll(getColleges(), { skipLive: true }).catch(() => {}); // background; watch via SSE
       return sendJson(res, 202, { started: true });
+    }
+
+    // POST /api/progress/retry-impossible  -> deep-retry every impossible/error college.
+    if (pathname === '/api/progress/retry-impossible' && req.method === 'POST') {
+      if (runState().running) return sendJson(res, 409, { error: 'a run is already in progress', run: runState() });
+      retryStuck(getColleges()).catch(() => {}); // background; watch via SSE
+      return sendJson(res, 202, { started: true });
+    }
+
+    // --- Solving Impossibles (smart multi-strategy) ---------------------
+    // POST /api/impossibles/solve-all  -> smart-solve every impossible/error/blocked college.
+    if (pathname === '/api/impossibles/solve-all' && req.method === 'POST') {
+      if (runState().running) return sendJson(res, 409, { error: 'a run is already in progress', run: runState() });
+      solveAllImpossible(getColleges()).catch(() => {}); // background; watch via SSE
+      return sendJson(res, 202, { started: true });
+    }
+
+    // POST /api/impossibles/solve/:slug  -> smart-solve ONE college (fire-and-forget).
+    if (pathname.startsWith('/api/impossibles/solve/') && req.method === 'POST') {
+      const slug = decodeURIComponent(pathname.split('/').pop());
+      const college = getCollegeBySlug(slug);
+      if (!college) return sendJson(res, 404, { error: 'unknown college' });
+      if (runState().running) return sendJson(res, 409, { error: 'a run is already in progress' });
+      solveImpossible(college)
+        .catch((err) => progress.log(slug, `fatal: ${err.message}`))
+        .finally(() => closeDriver());
+      return sendJson(res, 202, { started: true, slug });
     }
 
     // POST /api/progress/stop  -> ask the in-flight run-all to stop after the current college.

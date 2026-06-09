@@ -2,17 +2,17 @@
   "slug": "los-angeles-southwest-college",
   "name": "Los Angeles Southwest College",
   "url": "https://www.lasc.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 7,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://www.lasc.edu/admissions/first-time-students",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:29.878Z",
-  "finishedAt": "2026-06-08T17:36:29.886Z",
-  "updatedAt": "2026-06-08T17:36:29.886Z",
+  "note": "Solved via \"Explore real homepage links (HTTP)\" — 7 courses from https://www.lasc.edu/admissions/first-time-students.",
+  "startedAt": "2026-06-09T01:51:09.614Z",
+  "finishedAt": "2026-06-09T01:55:03.495Z",
+  "updatedAt": "2026-06-09T01:55:03.495Z",
   "log": [
     {
       "t": "2026-06-08T17:36:29.878Z",
@@ -53,6 +53,519 @@
     {
       "t": "2026-06-08T17:36:29.886Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T01:51:09.614Z",
+      "msg": "▶ Solving Los Angeles Southwest College — https://www.lasc.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T01:51:09.615Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T01:51:09.908Z",
+      "msg": "  explore https://www.lasc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:10.264Z",
+      "msg": "  explore https://www.lasc.edu/academics/schedule-of-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:10.555Z",
+      "msg": "  explore https://www.lasc.edu/sites/lasc.edu/files/2025-10/Spring%202026%20Dual%20Enrollment%2010-21-2025.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:10.809Z",
+      "msg": "  explore https://www.lasc.edu/sites/lasc.edu/files/2025-10/Winter%202026%20Dual%20Enrollment%2010-21-2025.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:10.886Z",
+      "msg": "  explore https://www.lasc.edu/academics/schedules → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:11.231Z",
+      "msg": "  explore https://www.lasc.edu/sites/lasc.edu/files/2026-05/LASC%20Fall%202026%20Class%20Schedule%205-12-2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:11.487Z",
+      "msg": "  explore https://www.lasc.edu/sites/lasc.edu/files/2026-03/Summer%202026%20Class%20Schedule%201st%20Summer%20Session%203-30-2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:11.736Z",
+      "msg": "  explore https://www.lasc.edu/sites/lasc.edu/files/2026-03/Summer%202026%20Class%20Schedule%202nd%20Summer%20Session%203-30-2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:12.013Z",
+      "msg": "  explore https://www.lasc.edu/sites/lasc.edu/files/2025-11/Spring%202026%20Class%20Schedule%20-%20Final%20Draft%2011-18-2025.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:12.122Z",
+      "msg": "  explore https://www.lasc.edu/admissions/dual-enrollment → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:12.502Z",
+      "msg": "  explore https://www.lasc.edu/programs/college-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:12.664Z",
+      "msg": "  explore https://www.lasc.edu/admissions/dual-enrollment/k-12-students → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:12.909Z",
+      "msg": "  explore https://www.lasc.edu/academics/2-year-planner → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:13.086Z",
+      "msg": "  explore https://www.lasc.edu/academic-resources/catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:13.259Z",
+      "msg": "  explore https://www.lasc.edu/admissions/first-time-students → 7 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-09T01:51:13.465Z",
+      "msg": "  explore https://www.lasc.edu/academics/resources/course-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:13.792Z",
+      "msg": "  explore https://www.lasc.edu/sites/lasc.edu/files/2022-07/lasc-class-registration.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:13.926Z",
+      "msg": "  explore https://www.lasc.edu/admissions/dual-enrollment#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:13.986Z",
+      "msg": "  explore https://www.lasc.edu/academic-resources/catalog#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:14.046Z",
+      "msg": "  explore https://www.lasc.edu/admissions/dual-enrollment/k-12-students#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:14.129Z",
+      "msg": "  explore https://www.lasc.edu/admissions/dual-enrollment/k-12-students# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:15.538Z",
+      "msg": "  explore https://www.lasc.edu/sites/lasc.edu/files/2024-08/LASC%202024-25%20College%20Catalog%20080824.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:15.808Z",
+      "msg": "   ✓ \"Explore real homepage links (HTTP)\" found 7 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:15.808Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T01:51:16.395Z",
+      "msg": "  sitemap https://www.lasc.edu/sitemap.xml → 760 entries"
+    },
+    {
+      "t": "2026-06-09T01:51:17.112Z",
+      "msg": "  sitemap https://www.lasc.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T01:51:17.830Z",
+      "msg": "  sitemap https://www.lasc.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T01:51:17.831Z",
+      "msg": "  sitemap mining → 760 URL(s), 19 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T01:51:36.302Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T01:51:38.365Z",
+      "msg": "  explore https://www.lasc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:38.663Z",
+      "msg": "  explore https://www.lasc.edu/academics/schedule-of-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:38.872Z",
+      "msg": "  explore https://www.lasc.edu/sites/lasc.edu/files/2025-10/Spring%202026%20Dual%20Enrollment%2010-21-2025.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:39.076Z",
+      "msg": "  explore https://www.lasc.edu/sites/lasc.edu/files/2025-10/Winter%202026%20Dual%20Enrollment%2010-21-2025.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:39.169Z",
+      "msg": "  explore https://www.lasc.edu/academics/schedules → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:39.453Z",
+      "msg": "  explore https://www.lasc.edu/sites/lasc.edu/files/2026-05/LASC%20Fall%202026%20Class%20Schedule%205-12-2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:39.736Z",
+      "msg": "  explore https://www.lasc.edu/sites/lasc.edu/files/2026-03/Summer%202026%20Class%20Schedule%201st%20Summer%20Session%203-30-2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:39.945Z",
+      "msg": "  explore https://www.lasc.edu/sites/lasc.edu/files/2026-03/Summer%202026%20Class%20Schedule%202nd%20Summer%20Session%203-30-2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:40.243Z",
+      "msg": "  explore https://www.lasc.edu/sites/lasc.edu/files/2025-11/Spring%202026%20Class%20Schedule%20-%20Final%20Draft%2011-18-2025.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:40.321Z",
+      "msg": "  explore https://www.lasc.edu/admissions/dual-enrollment → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:40.431Z",
+      "msg": "  explore https://www.lasc.edu/programs/college-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:40.492Z",
+      "msg": "  explore https://www.lasc.edu/admissions/dual-enrollment/k-12-students → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:40.552Z",
+      "msg": "  explore https://www.lasc.edu/academics/2-year-planner → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:40.614Z",
+      "msg": "  explore https://www.lasc.edu/academic-resources/catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:51:40.621Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T01:51:43.497Z",
+      "msg": "  google \"Los Angeles Southwest College schedule of classes\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:51:46.097Z",
+      "msg": "  google \"Los Angeles Southwest College search for classes\" → 6 hit(s) (+5 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:51:47.700Z",
+      "msg": "  google \"Los Angeles Southwest College class schedule 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:51:49.338Z",
+      "msg": "  google \"Los Angeles Southwest College class schedule spring 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:51:50.919Z",
+      "msg": "  google \"Los Angeles Southwest College class schedule fall 2026\" → 0 hit(s) (+0 new, 11 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:51:53.542Z",
+      "msg": "  google \"Los Angeles Southwest College public class search\" → 6 hit(s) (+1 new, 12 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:51:55.780Z",
+      "msg": "  google \"Los Angeles Southwest College self service banner class search\" → 6 hit(s) (+6 new, 18 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:51:58.280Z",
+      "msg": "  google \"Los Angeles Southwest College ellucian self service class schedule\" → 5 hit(s) (+5 new, 23 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:52:00.982Z",
+      "msg": "  google \"Los Angeles Southwest College webadvisor class schedule\" → 0 hit(s) (+0 new, 23 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:52:03.670Z",
+      "msg": "  google \"Los Angeles Southwest College courses by subject\" → 6 hit(s) (+5 new, 28 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:52:06.375Z",
+      "msg": "  google \"Los Angeles Southwest College course catalog\" → 6 hit(s) (+5 new, 33 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:52:08.609Z",
+      "msg": "  google \"site:lasc.edu schedule of classes\" → 6 hit(s) (+4 new, 37 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:52:10.980Z",
+      "msg": "  google \"site:lasc.edu class schedule\" → 6 hit(s) (+1 new, 38 pooled)"
+    },
+    {
+      "t": "2026-06-09T01:52:11.519Z",
+      "msg": "  probe https://cnaclassesinlosangeles.com/los-angeles-southwest-college/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:52:11.688Z",
+      "msg": "  probe https://www.seiu721.org/2018/12/los-angeles-county-university-writing-and-math-programs-relaunched.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:52:12.129Z",
+      "msg": "  probe https://www.culvercityobserver.com/story/2020/04/02/covid-19/its-back-to-class-for-west-la-college-students/8923.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:52:12.714Z",
+      "msg": "  probe https://www.thecollegemonk.com/colleges/los-angeles-southwest-college/admissions → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:52:12.850Z",
+      "msg": "  probe https://librarysciencedegreesonline.org/california/los-angeles/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:52:13.146Z",
+      "msg": "  probe https://www.lasc.edu/student-services/fys/new-student-videos → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:52:13.301Z",
+      "msg": "  probe https://www.lasc.edu/admissions/outreach → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:52:13.390Z",
+      "msg": "  probe https://www.lasc.edu/academics/aos/electronics-technology → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:52:14.327Z",
+      "msg": "  probe https://sonyachristianblog.com/tag/los-angeles-southwest-college/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:52:15.261Z",
+      "msg": "  probe https://www.bestinhood.com/los-angeles/academic-institutions/best-colleges-in-los-angeles/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:52:15.835Z",
+      "msg": "  probe https://www.ncsasports.org/athletic-scholarships/womens-basketball/california/los-angeles-southwest-college → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:52:16.169Z",
+      "msg": "  probe https://www.communitycollegereview.com/los-angeles-southwest-college-profile → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:52:19.869Z",
+      "msg": "  probe https://www.appily.com/colleges/los-angeles-southwest-college → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:52:22.542Z",
+      "msg": "  probe https://cprnearme.com/location/los-angeles-southwest-college-ca-los-angeles/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:52:23.002Z",
+      "msg": "  probe https://www.thecollegemonk.com/colleges/los-angeles-southwest-college → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:52:23.374Z",
+      "msg": "  probe https://en.wikipedia.org/wiki/Southwestern_College_(California) → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:52:25.214Z",
+      "msg": "  probe https://catalog.lasc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:52:56.032Z",
+      "msg": "  probe https://learningnet.lacounty.gov/Saba/Web/Cloud/goto/RegisterCatalog?offeringId=class000000000404390&oneClickLearningON=true → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:53:26.682Z",
+      "msg": "  probe https://learningnet.lacounty.gov/Saba/Web/Cloud/goto/RegisterCatalog?offeringId=class000000000404425&oneClickLearningON=true → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:53:27.168Z",
+      "msg": "  probe https://www.lasc.edu/academics/schedule-of-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:53:27.608Z",
+      "msg": "  probe https://www.laccd.edu/students/class-search-lasc → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:53:27.712Z",
+      "msg": "  probe https://www.chronicle.com/article/nonwhite-students-now-represent-the-largest-share-of-u-s-college-enrollment → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T01:53:27.713Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T01:53:30.907Z",
+      "msg": "search \"Los Angeles Southwest College schedule of classes\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-09T01:53:33.413Z",
+      "msg": "search \"Los Angeles Southwest College search for classes\" → 8 hit(s) (14 unique so far)"
+    },
+    {
+      "t": "2026-06-09T01:53:33.414Z",
+      "msg": "Web search returned 14 result(s)."
+    },
+    {
+      "t": "2026-06-09T01:53:33.416Z",
+      "msg": "Top candidate: https://cnaclassesinlosangeles.com/los-angeles-southwest-college/ (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T01:53:33.815Z",
+      "msg": "probe https://cnaclassesinlosangeles.com/los-angeles-southwest-college/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:53:33.964Z",
+      "msg": "probe https://sonyachristianblog.com/tag/los-angeles-southwest-college/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:53:34.215Z",
+      "msg": "probe https://www.bestinhood.com/los-angeles/academic-institutions/best-colleges-in-los-angeles/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:53:34.345Z",
+      "msg": "probe https://www.seiu721.org/2018/12/los-angeles-county-university-writing-and-math-programs-relaunched.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:53:50.339Z",
+      "msg": "probe https://www.culvercityobserver.com/story/2020/04/02/covid-19/its-back-to-class-for-west-la-college-students/8923.html → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:53:50.871Z",
+      "msg": "probe https://www.ncsasports.org/athletic-scholarships/womens-basketball/california/los-angeles-southwest-college → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:53:51.186Z",
+      "msg": "probe https://www.lasc.edu/about/why-LASC → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:53:51.881Z",
+      "msg": "probe https://www.collegeraptor.com/find-colleges/articles/2019-university-rankings/top-25-best-colleges-in-the-southwest-2019-rankings/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:53:52.231Z",
+      "msg": "probe https://www.communitycollegereview.com/los-angeles-southwest-college-profile → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:53:52.453Z",
+      "msg": "probe https://www.appily.com/colleges/los-angeles-southwest-college → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T01:53:53.218Z",
+      "msg": "probe https://www.lasc.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:53:54.248Z",
+      "msg": "probe https://www.lasc.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:53:55.001Z",
+      "msg": "probe https://www.lasc.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:53:55.832Z",
+      "msg": "probe https://www.lasc.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:53:56.594Z",
+      "msg": "probe https://www.lasc.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:53:57.281Z",
+      "msg": "probe https://www.lasc.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:53:58.050Z",
+      "msg": "probe https://www.lasc.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:53:58.904Z",
+      "msg": "probe https://www.lasc.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:53:59.725Z",
+      "msg": "probe https://www.lasc.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:53:59.979Z",
+      "msg": "probe https://lasc.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:54:00.126Z",
+      "msg": "probe https://lasc.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:54:00.274Z",
+      "msg": "probe https://lasc.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:54:00.417Z",
+      "msg": "probe https://lasc.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:54:00.558Z",
+      "msg": "probe https://lasc.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:54:00.727Z",
+      "msg": "probe https://lasc.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:54:00.887Z",
+      "msg": "probe https://lasc.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:54:00.987Z",
+      "msg": "probe https://lasc.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:54:01.146Z",
+      "msg": "probe https://lasc.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T01:54:01.147Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T01:54:01.148Z",
+      "msg": "render (headless Chrome) https://cnaclassesinlosangeles.com/los-angeles-southwest-college/ …"
+    },
+    {
+      "t": "2026-06-09T01:54:09.345Z",
+      "msg": "browser https://cnaclassesinlosangeles.com/los-angeles-southwest-college/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:54:09.346Z",
+      "msg": "render (headless Chrome) https://sonyachristianblog.com/tag/los-angeles-southwest-college/ …"
+    },
+    {
+      "t": "2026-06-09T01:54:31.175Z",
+      "msg": "browser https://sonyachristianblog.com/tag/los-angeles-southwest-college/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:54:31.176Z",
+      "msg": "render (headless Chrome) https://www.bestinhood.com/los-angeles/academic-institutions/best-colleges-in-los-angeles/ …"
+    },
+    {
+      "t": "2026-06-09T01:54:38.350Z",
+      "msg": "browser https://www.bestinhood.com/los-angeles/academic-institutions/best-colleges-in-los-angeles/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:54:38.351Z",
+      "msg": "render (headless Chrome) https://www.seiu721.org/2018/12/los-angeles-county-university-writing-and-math-programs-relaunched.php …"
+    },
+    {
+      "t": "2026-06-09T01:54:43.218Z",
+      "msg": "browser https://www.seiu721.org/2018/12/los-angeles-county-university-writing-and-math-programs-relaunched.php → 0 courses [login]"
+    },
+    {
+      "t": "2026-06-09T01:54:43.219Z",
+      "msg": "render (headless Chrome) https://www.culvercityobserver.com/story/2020/04/02/covid-19/its-back-to-class-for-west-la-college-students/8923.html …"
+    },
+    {
+      "t": "2026-06-09T01:54:55.861Z",
+      "msg": "browser https://www.culvercityobserver.com/story/2020/04/02/covid-19/its-back-to-class-for-west-la-college-students/8923.html → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:54:55.862Z",
+      "msg": "render (headless Chrome) https://www.ncsasports.org/athletic-scholarships/womens-basketball/california/los-angeles-southwest-college …"
+    },
+    {
+      "t": "2026-06-09T01:55:03.491Z",
+      "msg": "browser https://www.ncsasports.org/athletic-scholarships/womens-basketball/california/los-angeles-southwest-college → 0 courses"
+    },
+    {
+      "t": "2026-06-09T01:55:03.494Z",
+      "msg": "✅ SOLVED — 7 courses ingested into the searchable DB (strategy: Explore real homepage links (HTTP))."
     }
-  ]
+  ],
+  "strategy": "Explore real homepage links (HTTP)"
 }
