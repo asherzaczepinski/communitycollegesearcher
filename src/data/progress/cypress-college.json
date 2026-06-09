@@ -2,17 +2,17 @@
   "slug": "cypress-college",
   "name": "Cypress College",
   "url": "https://www.cypresscollege.edu/",
-  "status": "running",
-  "attempts": 8,
+  "status": "blocked",
+  "attempts": 13,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
-  "blocked": null,
-  "note": "",
+  "blocked": "login",
+  "note": "Class schedule requires sign-in (the only acceptable hard stop).",
   "startedAt": "2026-06-09T04:04:25.748Z",
-  "finishedAt": null,
-  "updatedAt": "2026-06-09T04:04:55.125Z",
+  "finishedAt": "2026-06-09T04:08:29.744Z",
+  "updatedAt": "2026-06-09T04:08:29.745Z",
   "log": [
     {
       "t": "2026-06-08T17:19:36.030Z",
@@ -893,6 +893,222 @@
     {
       "t": "2026-06-09T04:04:55.125Z",
       "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T04:06:55.128Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T04:06:55.186Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T04:07:07.534Z",
+      "msg": "  google \"Cypress College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:18.929Z",
+      "msg": "search \"Cypress College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:07:19.118Z",
+      "msg": "  google \"Cypress College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:19.585Z",
+      "msg": "search \"Cypress College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:07:19.707Z",
+      "msg": "  google \"Cypress College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:20.080Z",
+      "msg": "search \"Cypress College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:07:20.595Z",
+      "msg": "search \"Cypress College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:07:31.358Z",
+      "msg": "  google \"Cypress College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:31.792Z",
+      "msg": "search \"Cypress College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:07:32.790Z",
+      "msg": "  google \"Cypress College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:33.271Z",
+      "msg": "search \"Cypress College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:07:33.272Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T04:07:33.272Z",
+      "msg": "Top candidate: https://www.cypresscollege.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T04:07:33.643Z",
+      "msg": "probe https://www.cypresscollege.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:33.970Z",
+      "msg": "probe https://www.cypresscollege.edu/schedule-of-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:34.278Z",
+      "msg": "  google \"Cypress College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:34.643Z",
+      "msg": "probe https://www.cypresscollege.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:35.186Z",
+      "msg": "probe https://www.cypresscollege.edu/classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:35.464Z",
+      "msg": "probe https://www.cypresscollege.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:35.740Z",
+      "msg": "  google \"Cypress College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:35.840Z",
+      "msg": "probe https://www.cypresscollege.edu/find-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:36.150Z",
+      "msg": "probe https://www.cypresscollege.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:36.965Z",
+      "msg": "probe https://www.cypresscollege.edu/academics/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:37.203Z",
+      "msg": "probe https://www.cypresscollege.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:37.234Z",
+      "msg": "  google \"Cypress College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:37.534Z",
+      "msg": "probe https://cypresscollege.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:37.906Z",
+      "msg": "probe https://cypresscollege.edu/schedule-of-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:38.100Z",
+      "msg": "probe https://cypresscollege.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:38.419Z",
+      "msg": "probe https://cypresscollege.edu/classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:39.624Z",
+      "msg": "probe https://cypresscollege.edu/class-search → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:39.766Z",
+      "msg": "  google \"Cypress College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:40.614Z",
+      "msg": "probe https://cypresscollege.edu/find-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:40.767Z",
+      "msg": "probe https://cypresscollege.edu/searchable-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:41.181Z",
+      "msg": "probe https://cypresscollege.edu/academics/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:41.214Z",
+      "msg": "  google \"Cypress College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:41.322Z",
+      "msg": "probe https://cypresscollege.edu/admissions/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:42.703Z",
+      "msg": "  google \"Cypress College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:44.157Z",
+      "msg": "  google \"site:cypresscollege.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:45.602Z",
+      "msg": "  google \"site:cypresscollege.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:45.603Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
+    },
+    {
+      "t": "2026-06-09T04:07:46.300Z",
+      "msg": "probe https://ssb.cypresscollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:07:51.226Z",
+      "msg": "probe https://banner.cypresscollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:07:56.167Z",
+      "msg": "probe https://selfservice.cypresscollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:08:01.008Z",
+      "msg": "probe https://ssb-prod.cypresscollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:08:05.603Z",
+      "msg": "probe https://my.cypresscollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:08:10.739Z",
+      "msg": "probe https://webadvisor.cypresscollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:08:15.701Z",
+      "msg": "probe https://reg.cypresscollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:08:20.553Z",
+      "msg": "probe https://catalog.cypresscollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:08:25.297Z",
+      "msg": "probe https://catalog.cypresscollege.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:08:29.737Z",
+      "msg": "probe https://catalog.cypresscollege.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:08:29.738Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T04:08:29.744Z",
+      "msg": "🔒 BLOCKED — the class schedule is gated behind a sign-in page. That is the one legitimate stop."
     }
   ]
 }

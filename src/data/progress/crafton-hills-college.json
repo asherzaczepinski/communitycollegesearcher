@@ -12,84 +12,8 @@
   "note": "No login wall found, but no public schedule surfaced through 5 strategies incl. an exhaustive search sweep. Retryable.",
   "startedAt": "2026-06-09T04:00:07.020Z",
   "finishedAt": "2026-06-09T04:04:25.747Z",
-  "updatedAt": "2026-06-09T04:04:51.357Z",
+  "updatedAt": "2026-06-09T04:08:34.701Z",
   "log": [
-    {
-      "t": "2026-06-08T17:17:25.544Z",
-      "msg": "▶ Starting Crafton Hills College — https://www.craftonhills.edu/"
-    },
-    {
-      "t": "2026-06-08T17:17:25.544Z",
-      "msg": "Attempt 1/3 — homepage HTTP crawl (no browser)"
-    },
-    {
-      "t": "2026-06-08T17:17:25.545Z",
-      "msg": "Fetching homepage https://www.craftonhills.edu/ …"
-    },
-    {
-      "t": "2026-06-08T17:17:26.761Z",
-      "msg": "Homepage: 2 schedule + 3 catalog link(s); platform unknown."
-    },
-    {
-      "t": "2026-06-08T17:17:27.238Z",
-      "msg": "probe https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/index.php → 0 (no courses)"
-    },
-    {
-      "t": "2026-06-08T17:17:27.341Z",
-      "msg": "probe https://www.craftonhills.edu/eschedule → 0 (no courses)"
-    },
-    {
-      "t": "2026-06-08T17:17:27.397Z",
-      "msg": "probe https://www.craftonhills.edu/academic-and-career-programs/college-catalog/index.php → 0 (no courses)"
-    },
-    {
-      "t": "2026-06-08T17:17:27.535Z",
-      "msg": "probe https://www.craftonhills.edu/catalog → 0 (no courses)"
-    },
-    {
-      "t": "2026-06-08T17:17:27.667Z",
-      "msg": "probe https://catalog.craftonhills.edu/ → 0 (fetch failed)"
-    },
-    {
-      "t": "2026-06-08T17:17:27.671Z",
-      "msg": "probe https://catalog.craftonhills.edu/course-outlines/ → 0 (fetch failed)"
-    },
-    {
-      "t": "2026-06-08T17:17:27.678Z",
-      "msg": "probe https://catalog.craftonhills.edu/courses/ → 0 (fetch failed)"
-    },
-    {
-      "t": "2026-06-08T17:17:27.684Z",
-      "msg": "probe https://catalog.craftonhills.edu/coursesaz/ → 0 (fetch failed)"
-    },
-    {
-      "t": "2026-06-08T17:17:27.689Z",
-      "msg": "probe https://catalog.craftonhills.edu/course-descriptions/ → 0 (fetch failed)"
-    },
-    {
-      "t": "2026-06-08T17:17:28.014Z",
-      "msg": "probe http://www.craftonhills.edu/eSchedule-old/Online/Schedule/C/2026SM/schedule.pdf → 0 (HTTP 406)"
-    },
-    {
-      "t": "2026-06-08T17:17:28.051Z",
-      "msg": "probe http://www.craftonhills.edu/eSchedule-old/Online/Schedule/C/2026FA/schedule.pdf → 0 (HTTP 406)"
-    },
-    {
-      "t": "2026-06-08T17:17:28.104Z",
-      "msg": "probe https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/class-schedule-archive.php → 0 (no courses)"
-    },
-    {
-      "t": "2026-06-08T17:17:28.106Z",
-      "msg": "Attempt 2/3 — web search + headless Chrome (drives Search forms / iframes / pagination)"
-    },
-    {
-      "t": "2026-06-08T17:17:30.298Z",
-      "msg": "Web search returned 6 result(s)."
-    },
-    {
-      "t": "2026-06-08T17:17:30.299Z",
-      "msg": "Top candidate: https://www.craftonhills.edu/news-and-public-relations/news/2025-08-22-class-adult-education-recognized-statewide.php (platform: unknown)."
-    },
     {
       "t": "2026-06-08T17:17:30.394Z",
       "msg": "probe https://www.craftonhills.edu/news-and-public-relations/news/2025-08-22-class-adult-education-recognized-statewide.php → 0 (no courses)"
@@ -1053,6 +977,242 @@
     {
       "t": "2026-06-09T04:04:51.357Z",
       "msg": "  google \"Crafton Hills College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:06:50.951Z",
+      "msg": "search \"Crafton Hills College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:07:06.029Z",
+      "msg": "  google \"Crafton Hills College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:13.998Z",
+      "msg": "search \"Crafton Hills College class schedule 2026\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:07:14.850Z",
+      "msg": "search \"Crafton Hills College class search self service\" → 8 hit(s) (16 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:07:14.852Z",
+      "msg": "Web search returned 16 result(s)."
+    },
+    {
+      "t": "2026-06-09T04:07:14.853Z",
+      "msg": "Top candidate: https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/class-schedule-pdfs.php (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T04:07:15.258Z",
+      "msg": "probe https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/class-schedule-pdfs.php → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:15.573Z",
+      "msg": "probe https://www.craftonhills.edu/eSchedule-old/Online/Schedule/C/2026FA/schedule.pdf → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:16.005Z",
+      "msg": "probe https://doclib.sbccd.edu/Files/CHC/instruction/Test%20Only%20(Do%20not%20use)/2026SP/schedule.pdf → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:16.379Z",
+      "msg": "probe https://www.craftonhills.edu/admissions-and-records/Enroll/Class-Schedule/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:16.925Z",
+      "msg": "probe https://craftonhills.smartcatalogiq.com/en/2025-2026/catalog/section-ii-getting-started/registration/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:17.051Z",
+      "msg": "probe https://craftonhills.smartcatalogiq.com/en/2025-2026/catalog/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:17.412Z",
+      "msg": "probe https://craftonhills.smartcatalogiq.com/en/2024-2025/catalog/section-ii-getting-started/registration/registering-for-classes/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:17.466Z",
+      "msg": "probe https://www.craftonhills.edu/admissions-and-records/dates-and-deadlines/spring-term-dates.php → 9 courses"
+    },
+    {
+      "t": "2026-06-09T04:07:17.467Z",
+      "msg": "  ↑ new best: 9 courses, modality 11%"
+    },
+    {
+      "t": "2026-06-09T04:07:17.818Z",
+      "msg": "probe https://www.craftonhills.edu/selfservice → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:07:17.850Z",
+      "msg": "probe https://www.craftonhills.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:17.994Z",
+      "msg": "probe https://www.craftonhills.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:18.040Z",
+      "msg": "probe https://www.craftonhills.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:18.094Z",
+      "msg": "probe https://www.craftonhills.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:18.134Z",
+      "msg": "probe https://www.craftonhills.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:18.165Z",
+      "msg": "probe https://www.craftonhills.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:18.207Z",
+      "msg": "probe https://www.craftonhills.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:18.243Z",
+      "msg": "probe https://www.craftonhills.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:18.285Z",
+      "msg": "probe https://www.craftonhills.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:18.478Z",
+      "msg": "probe https://craftonhills.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:18.534Z",
+      "msg": "probe https://craftonhills.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:18.597Z",
+      "msg": "probe https://craftonhills.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:18.670Z",
+      "msg": "probe https://craftonhills.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:18.735Z",
+      "msg": "probe https://craftonhills.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:18.802Z",
+      "msg": "probe https://craftonhills.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:18.893Z",
+      "msg": "probe https://craftonhills.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:18.977Z",
+      "msg": "probe https://craftonhills.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:19.026Z",
+      "msg": "probe https://craftonhills.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:07:23.744Z",
+      "msg": "probe https://ssb.craftonhills.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:07:23.745Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T04:07:23.746Z",
+      "msg": "render (headless Chrome) https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/class-schedule-pdfs.php …"
+    },
+    {
+      "t": "2026-06-09T04:07:28.250Z",
+      "msg": "  google \"Crafton Hills College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:28.905Z",
+      "msg": "  google \"Crafton Hills College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:29.538Z",
+      "msg": "  google \"Crafton Hills College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:30.101Z",
+      "msg": "  google \"Crafton Hills College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:30.821Z",
+      "msg": "  google \"Crafton Hills College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:31.871Z",
+      "msg": "  google \"Crafton Hills College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:34.541Z",
+      "msg": "  google \"Crafton Hills College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:35.494Z",
+      "msg": "browser https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/class-schedule-pdfs.php → 0 courses"
+    },
+    {
+      "t": "2026-06-09T04:07:35.495Z",
+      "msg": "render (headless Chrome) https://www.craftonhills.edu/admissions-and-records/dates-and-deadlines/spring-term-dates.php …"
+    },
+    {
+      "t": "2026-06-09T04:07:36.048Z",
+      "msg": "  google \"Crafton Hills College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:37.546Z",
+      "msg": "  google \"site:craftonhills.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:39.909Z",
+      "msg": "  google \"site:craftonhills.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:07:39.910Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
+    },
+    {
+      "t": "2026-06-09T04:07:40.571Z",
+      "msg": "browser https://www.craftonhills.edu/admissions-and-records/dates-and-deadlines/spring-term-dates.php → 9 courses"
+    },
+    {
+      "t": "2026-06-09T04:07:40.572Z",
+      "msg": "render (headless Chrome) https://craftonhills.smartcatalogiq.com/en/2025-2026/catalog/section-ii-getting-started/registration/ …"
+    },
+    {
+      "t": "2026-06-09T04:08:00.526Z",
+      "msg": "browser https://craftonhills.smartcatalogiq.com/en/2025-2026/catalog/section-ii-getting-started/registration/ → 0 courses"
+    },
+    {
+      "t": "2026-06-09T04:08:00.527Z",
+      "msg": "render (headless Chrome) https://www.craftonhills.edu/eSchedule-old/Online/Schedule/C/2026FA/schedule.pdf …"
+    },
+    {
+      "t": "2026-06-09T04:08:16.113Z",
+      "msg": "browser https://www.craftonhills.edu/eSchedule-old/Online/Schedule/C/2026FA/schedule.pdf → 0 courses"
+    },
+    {
+      "t": "2026-06-09T04:08:16.114Z",
+      "msg": "render (headless Chrome) https://doclib.sbccd.edu/Files/CHC/instruction/Test%20Only%20(Do%20not%20use)/2026SP/schedule.pdf …"
+    },
+    {
+      "t": "2026-06-09T04:08:23.410Z",
+      "msg": "browser https://doclib.sbccd.edu/Files/CHC/instruction/Test%20Only%20(Do%20not%20use)/2026SP/schedule.pdf → 0 courses"
+    },
+    {
+      "t": "2026-06-09T04:08:23.411Z",
+      "msg": "render (headless Chrome) https://www.craftonhills.edu/admissions-and-records/Enroll/Class-Schedule/ …"
+    },
+    {
+      "t": "2026-06-09T04:08:34.701Z",
+      "msg": "browser https://www.craftonhills.edu/admissions-and-records/Enroll/Class-Schedule/ → 0 courses"
     }
   ]
 }

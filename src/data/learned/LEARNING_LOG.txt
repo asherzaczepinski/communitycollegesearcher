@@ -439,3 +439,5 @@
 [2026-06-09T03:55:22.334Z] coalinga-college  platform=unknown  confidence=0.6  schedule=-
 [2026-06-09T03:53:21.248Z] calbright-college  platform=unknown  confidence=0.15  schedule=-
 [2026-06-09T03:58:06.960Z] compton-college  platform=unknown  confidence=0.15  schedule=https://www.compton.edu/admissions-aid/ClassSchedule.aspx
+[2026-06-09T04:06:55.187Z] cypress-college  platform=unknown  confidence=0  schedule=-
+[2026-06-09T04:02:25.690Z] crafton-hills-college  platform=unknown  confidence=0.4669444444444445  schedule=https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/class-schedule-pdfs.php

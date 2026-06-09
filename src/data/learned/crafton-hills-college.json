@@ -4,17 +4,157 @@
   "url": "https://www.craftonhills.edu/",
   "source": "web-search-deep",
   "platform": "unknown",
-  "scheduleUrl": null,
-  "catalogUrl": null,
-  "extractUrl": null,
-  "method": null,
-  "sampleCount": 0,
-  "modalityCoverage": 0,
-  "candidates": [],
+  "scheduleUrl": "https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/class-schedule-pdfs.php",
+  "catalogUrl": "https://craftonhills.smartcatalogiq.com/en/2025-2026/catalog/section-ii-getting-started/registration/",
+  "extractUrl": "https://www.craftonhills.edu/admissions-and-records/dates-and-deadlines/spring-term-dates.php",
+  "method": "auto",
+  "sampleCount": 9,
+  "modalityCoverage": 0.111,
+  "candidates": [
+    {
+      "text": "Class Schedule PDFs - Crafton Hills College",
+      "href": "https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/class-schedule-pdfs.php",
+      "score": 10
+    },
+    {
+      "text": "PDF Crafton Hills College Fall 2026 Class Schedule",
+      "href": "https://www.craftonhills.edu/eSchedule-old/Online/Schedule/C/2026FA/schedule.pdf",
+      "score": 10
+    },
+    {
+      "text": "PDF Crafton Hills College Spring 2026 Class Schedule",
+      "href": "https://doclib.sbccd.edu/Files/CHC/instruction/Test%20Only%20(Do%20not%20use)/2026SP/schedule.pdf",
+      "score": 10
+    },
+    {
+      "text": "Class Schedule - Crafton Hills College",
+      "href": "https://www.craftonhills.edu/admissions-and-records/Enroll/Class-Schedule/",
+      "score": 10
+    },
+    {
+      "text": "Crafton Hills College - Registration",
+      "href": "https://craftonhills.smartcatalogiq.com/en/2025-2026/catalog/section-ii-getting-started/registration/",
+      "score": 3
+    },
+    {
+      "text": "Crafton Hills College - SmartCatalog",
+      "href": "https://craftonhills.smartcatalogiq.com/en/2025-2026/catalog/",
+      "score": 3
+    },
+    {
+      "text": "Crafton Hills College - Registering for Classes",
+      "href": "https://craftonhills.smartcatalogiq.com/en/2024-2025/catalog/section-ii-getting-started/registration/registering-for-classes/",
+      "score": 3
+    },
+    {
+      "text": "Home - Crafton Hills College",
+      "href": "https://www.craftonhills.edu/",
+      "score": 0
+    },
+    {
+      "text": "Spring 2026 Term Dates - Crafton Hills College",
+      "href": "https://www.craftonhills.edu/admissions-and-records/dates-and-deadlines/spring-term-dates.php",
+      "score": 0
+    },
+    {
+      "text": "Crafton Hills College",
+      "href": "https://www.craftonhills.edu/selfservice",
+      "score": 0
+    }
+  ],
   "searchQuery": "Crafton Hills College schedule of classes",
-  "searchResults": [],
+  "searchResults": [
+    {
+      "title": "Class Schedule PDFs - Crafton Hills College",
+      "href": "https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/class-schedule-pdfs.php",
+      "query": "Crafton Hills College class schedule 2026"
+    },
+    {
+      "title": "PDF Crafton Hills College Fall 2026 Class Schedule",
+      "href": "https://www.craftonhills.edu/eSchedule-old/Online/Schedule/C/2026FA/schedule.pdf",
+      "query": "Crafton Hills College class schedule 2026"
+    },
+    {
+      "title": "PDF Crafton Hills College Spring 2026 Class Schedule",
+      "href": "https://doclib.sbccd.edu/Files/CHC/instruction/Test%20Only%20(Do%20not%20use)/2026SP/schedule.pdf",
+      "query": "Crafton Hills College class schedule 2026"
+    },
+    {
+      "title": "Crafton Hills College - Registration",
+      "href": "https://craftonhills.smartcatalogiq.com/en/2025-2026/catalog/section-ii-getting-started/registration/",
+      "query": "Crafton Hills College class schedule 2026"
+    },
+    {
+      "title": "Crafton Hills College - SmartCatalog",
+      "href": "https://craftonhills.smartcatalogiq.com/en/2025-2026/catalog/",
+      "query": "Crafton Hills College class schedule 2026"
+    },
+    {
+      "title": "Home - Crafton Hills College",
+      "href": "https://www.craftonhills.edu/",
+      "query": "Crafton Hills College class schedule 2026"
+    },
+    {
+      "title": "Class Schedule - Crafton Hills College",
+      "href": "https://www.craftonhills.edu/admissions-and-records/Enroll/Class-Schedule/",
+      "query": "Crafton Hills College class schedule 2026"
+    },
+    {
+      "title": "Spring 2026 Term Dates - Crafton Hills College",
+      "href": "https://www.craftonhills.edu/admissions-and-records/dates-and-deadlines/spring-term-dates.php",
+      "query": "Crafton Hills College class schedule 2026"
+    },
+    {
+      "title": "Crafton Hills College",
+      "href": "https://www.craftonhills.edu/selfservice",
+      "query": "Crafton Hills College class search self service"
+    },
+    {
+      "title": "Crafton Hills College - Registering for Classes",
+      "href": "https://craftonhills.smartcatalogiq.com/en/2024-2025/catalog/section-ii-getting-started/registration/registering-for-classes/",
+      "query": "Crafton Hills College class search self service"
+    },
+    {
+      "title": "PortalGuard - Portal Access",
+      "href": "https://sbccd.onbio-key.com/_layouts/PG/login.aspx?pgautopop=18",
+      "query": "Crafton Hills College class search self service"
+    },
+    {
+      "title": "How To- Register (Operate Self Service) - YouTube",
+      "href": "https://www.youtube.com/playlist?list=PLXzizw641yem8mQ8K8dLi-3y_lutoCsvz",
+      "query": "Crafton Hills College class search self service"
+    },
+    {
+      "title": "San Bernardino Community College District",
+      "href": "https://sbccd.edu/",
+      "query": "Crafton Hills College class search self service"
+    },
+    {
+      "title": "Quick Login — San Bernardino Valley College",
+      "href": "https://www.valleycollege.edu/quick-login",
+      "query": "Crafton Hills College class search self service"
+    },
+    {
+      "title": "Crafton Hills College Articulation Portal",
+      "href": "https://www.catema.com/acsys/login.php?sdb=chc",
+      "query": "Crafton Hills College class search self service"
+    },
+    {
+      "title": "currIQunet - Dashboard",
+      "href": "https://craftonhills.curriqunet.com/",
+      "query": "Crafton Hills College class search self service"
+    }
+  ],
   "blocked": null,
-  "confidence": 0,
-  "notes": "Searched the web (0 results) but no page yielded course data — the schedule is likely a bespoke search app. Top results saved above.",
-  "learnedAt": "2026-06-08T23:10:08.146Z"
+  "confidence": 0.4669444444444445,
+  "notes": "Extracted 9 real courses from https://www.craftonhills.edu/admissions-and-records/dates-and-deadlines/spring-term-dates.php. Modality available for ~11% (real schedule data). Discovered via web search \"Crafton Hills College schedule of classes\".",
+  "learnedAt": "2026-06-09T04:02:25.690Z",
+  "browserActions": [
+    "browser https://www.craftonhills.edu/admissions-and-records/enroll/class-schedule/class-schedule-pdfs.php → 0 courses",
+    "browser https://www.craftonhills.edu/admissions-and-records/dates-and-deadlines/spring-term-dates.php → 9 courses",
+    "browser https://craftonhills.smartcatalogiq.com/en/2025-2026/catalog/section-ii-getting-started/registration/ → 0 courses",
+    "browser https://www.craftonhills.edu/eSchedule-old/Online/Schedule/C/2026FA/schedule.pdf → 0 courses",
+    "browser https://doclib.sbccd.edu/Files/CHC/instruction/Test%20Only%20(Do%20not%20use)/2026SP/schedule.pdf → 0 courses",
+    "browser https://www.craftonhills.edu/admissions-and-records/Enroll/Class-Schedule/ → 0 courses"
+  ]
 }
