@@ -53,6 +53,13 @@ db.exec(`
   CREATE INDEX IF NOT EXISTS idx_courses_code     ON courses(code);
 `);
 
+// Migration: per-course provenance — where this row came from ('site', 'cvc',
+// 'colleague', …). Lets the UI show "X from the college site, Y from CVC".
+// Added after the fact, so guard against re-adding on an already-migrated DB.
+if (!db.prepare(`PRAGMA table_info(courses)`).all().some((c) => c.name === 'source')) {
+  db.exec(`ALTER TABLE courses ADD COLUMN source TEXT`);
+}
+
 export function slugify(name) {
   return name
     .toLowerCase()
@@ -79,9 +86,15 @@ const LIVE_SQL = `c.scrape_type NOT IN ('sample', 'none')
                   AND (SELECT COUNT(*) FROM courses WHERE college_id = c.id) > 0`;
 
 export function getColleges() {
+  const cc = (where) => `(SELECT COUNT(*) FROM courses WHERE college_id = c.id AND (${where}))`;
   return db.prepare(`
     SELECT c.*,
            (SELECT COUNT(*) FROM courses WHERE college_id = c.id) AS course_count,
+           ${cc("modality = 'online'")}    AS online_count,
+           ${cc("modality = 'hybrid'")}    AS hybrid_count,
+           ${cc("modality = 'in_person'")} AS in_person_count,
+           ${cc("source = 'cvc'")}         AS cvc_count,
+           ${cc("source IS NULL OR source <> 'cvc'")} AS site_count,
            (CASE WHEN ${LIVE_SQL} THEN 1 ELSE 0 END) AS live
     FROM colleges c
     ORDER BY c.name
@@ -105,13 +118,14 @@ export function markScraped(collegeId, status) {
 // --- Courses --------------------------------------------------------------
 
 const insertCourseStmt = db.prepare(`
-  INSERT INTO courses (college_id, code, title, modality, term, units, instructor, section, description, url, updated_at)
-  VALUES (@college_id, @code, @title, @modality, @term, @units, @instructor, @section, @description, @url, @updated_at)
+  INSERT INTO courses (college_id, code, title, modality, term, units, instructor, section, description, url, source, updated_at)
+  VALUES (@college_id, @code, @title, @modality, @term, @units, @instructor, @section, @description, @url, @source, @updated_at)
   ON CONFLICT(college_id, code, title, modality, term, section) DO UPDATE SET
     units = excluded.units,
     instructor = excluded.instructor,
     description = excluded.description,
     url = excluded.url,
+    source = excluded.source,
     updated_at = excluded.updated_at
 `);
 
@@ -135,6 +149,39 @@ export function replaceCourses(collegeId, courses) {
         section: c.section || null,
         description: c.description || null,
         url: c.url || null,
+        source: c.source || null,
+        updated_at: now,
+      });
+    }
+    db.prepare('COMMIT').run();
+  } catch (err) {
+    db.prepare('ROLLBACK').run();
+    throw err;
+  }
+  return courses.length;
+}
+
+// Additively insert courses for a college WITHOUT clearing existing rows. Used
+// to supplement a real catalog with extra sections (e.g. CVC online listings).
+// Duplicates collapse via the ON CONFLICT in insertCourseStmt. Returns inserted
+// count attempted.
+export function addCourses(collegeId, courses) {
+  const now = new Date().toISOString();
+  db.prepare('BEGIN').run();
+  try {
+    for (const c of courses) {
+      insertCourseStmt.run({
+        college_id: collegeId,
+        code: c.code || null,
+        title: c.title,
+        modality: c.modality,
+        term: c.term || null,
+        units: c.units || null,
+        instructor: c.instructor || null,
+        section: c.section || null,
+        description: c.description || null,
+        url: c.url || null,
+        source: c.source || null,
         updated_at: now,
       });
     }
@@ -169,7 +216,8 @@ export function searchCourses({ q = '', modality = null, collegeSlug = null, lim
   params.limit = limit;
   const sql = `
     SELECT courses.*, colleges.name AS college_name, colleges.slug AS college_slug,
-           colleges.url AS college_url, colleges.scrape_type AS source
+           colleges.url AS college_url,
+           COALESCE(courses.source, colleges.scrape_type) AS source
     FROM courses
     JOIN colleges ON colleges.id = courses.college_id
     ${where.length ? 'WHERE ' + where.join(' AND ') : ''}

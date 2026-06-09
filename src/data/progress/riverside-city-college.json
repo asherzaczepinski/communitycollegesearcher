@@ -3,16 +3,16 @@
   "name": "Riverside City College",
   "url": "https://www.rcc.edu/",
   "status": "impossible",
-  "attempts": 3,
+  "attempts": 8,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.105Z",
-  "finishedAt": "2026-06-08T17:36:30.112Z",
-  "updatedAt": "2026-06-08T17:36:30.112Z",
+  "note": "No login wall found, but no public schedule surfaced through 5 strategies incl. an exhaustive search sweep. Retryable.",
+  "startedAt": "2026-06-09T05:55:41.198Z",
+  "finishedAt": "2026-06-09T06:00:41.292Z",
+  "updatedAt": "2026-06-09T06:18:18.929Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.105Z",
@@ -53,6 +53,478 @@
     {
       "t": "2026-06-08T17:36:30.112Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T05:55:41.198Z",
+      "msg": "▶ Solving Riverside City College — https://www.rcc.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T05:55:41.198Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T05:55:41.579Z",
+      "msg": "  explore https://www.rcc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:41.692Z",
+      "msg": "  explore https://www.rcc.edu/academics/class-schedule.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:42.008Z",
+      "msg": "  explore https://rcc.edu/academics/class-finder.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:42.121Z",
+      "msg": "  explore https://rcc.edu/academics/class-schedule.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:42.219Z",
+      "msg": "  explore https://www.rcc.edu/academics/college-catalog.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:42.718Z",
+      "msg": "  explore https://www.rcc.edu/academics/courses/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:42.895Z",
+      "msg": "  explore https://mrtechie.rcc.edu/catalog/2021-2022-catalog-final/g_courses/g_limitations_on_enrollment.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:43.260Z",
+      "msg": "  explore https://www.rcc.edu/academics/courses/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:43.409Z",
+      "msg": "  explore https://rcc.edu/academics/college-catalog.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:43.517Z",
+      "msg": "  explore https://www.rcc.edu/academics/college-catalog.html#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:43.633Z",
+      "msg": "  explore https://www.rcc.edu/academics/college-catalog.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:50.774Z",
+      "msg": "  explore https://www.rcc.edu/academics/documents/catalogs/RCC%20Catalog%20-%202020-2021.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:55.967Z",
+      "msg": "  explore https://www.rcc.edu/academics/documents/catalogs/RCC%20Catalog%202019-2020.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:06.511Z",
+      "msg": "  explore https://www.rcc.edu/academics/documents/catalogs/RCC%20Catalog%20-%202018-2019.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:09.845Z",
+      "msg": "  explore https://www.rcc.edu/academics/documents/catalogs/2017RIV_Catalog-Linked.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:09.942Z",
+      "msg": "  explore https://www.rcc.edu/academics/enrollment-verification.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:10.042Z",
+      "msg": "  explore https://www.rcc.edu/become-a-student/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:10.166Z",
+      "msg": "  explore https://www.rcc.edu/become-a-student/dual-enrollment-student.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:10.456Z",
+      "msg": "  explore https://rcc.edu/academics/enrollment-verification.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:10.563Z",
+      "msg": "  explore https://rcc.edu/become-a-student/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:10.661Z",
+      "msg": "  explore https://mrtechie.rcc.edu/catalog/2021-2022-catalog-final/g_courses/a_course_description_blurb.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:10.766Z",
+      "msg": "  explore https://www.rcc.edu/academics/enrollment-verification.html#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:10.774Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T05:56:10.956Z",
+      "msg": "  sitemap https://www.rcc.edu/sitemap.xml → none"
+    },
+    {
+      "t": "2026-06-09T05:56:11.041Z",
+      "msg": "  sitemap https://www.rcc.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T05:56:11.131Z",
+      "msg": "  sitemap https://www.rcc.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T05:56:11.132Z",
+      "msg": "  sitemap mining → 0 URL(s), 0 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T05:56:11.133Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T05:56:15.127Z",
+      "msg": "  explore https://www.rcc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:15.233Z",
+      "msg": "  explore https://www.rcc.edu/academics/class-schedule.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:15.500Z",
+      "msg": "  explore https://rcc.edu/academics/class-finder.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:15.609Z",
+      "msg": "  explore https://rcc.edu/academics/class-schedule.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:15.701Z",
+      "msg": "  explore https://www.rcc.edu/academics/college-catalog.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:16.208Z",
+      "msg": "  explore https://www.rcc.edu/academics/courses/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:16.363Z",
+      "msg": "  explore https://mrtechie.rcc.edu/catalog/2021-2022-catalog-final/g_courses/g_limitations_on_enrollment.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:16.701Z",
+      "msg": "  explore https://www.rcc.edu/academics/courses/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:16.869Z",
+      "msg": "  explore https://rcc.edu/academics/college-catalog.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:16.962Z",
+      "msg": "  explore https://www.rcc.edu/academics/college-catalog.html#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:17.076Z",
+      "msg": "  explore https://www.rcc.edu/academics/college-catalog.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:24.363Z",
+      "msg": "  explore https://www.rcc.edu/academics/documents/catalogs/RCC%20Catalog%20-%202020-2021.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:29.498Z",
+      "msg": "  explore https://www.rcc.edu/academics/documents/catalogs/RCC%20Catalog%202019-2020.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:41.222Z",
+      "msg": "  explore https://www.rcc.edu/academics/documents/catalogs/RCC%20Catalog%20-%202018-2019.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:56:41.223Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T05:58:41.226Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T05:58:41.287Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T05:58:53.796Z",
+      "msg": "  google \"Riverside City College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:00:41.290Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:00:41.291Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T06:00:54.445Z",
+      "msg": "search \"Riverside City College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:01:07.517Z",
+      "msg": "  google \"Riverside City College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:03:08.141Z",
+      "msg": "search \"Riverside City College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:03:20.858Z",
+      "msg": "  google \"Riverside City College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:05:20.903Z",
+      "msg": "search \"Riverside City College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:05:33.362Z",
+      "msg": "  google \"Riverside City College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:07:34.592Z",
+      "msg": "search \"Riverside City College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:07:47.101Z",
+      "msg": "  google \"Riverside City College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:10:03.256Z",
+      "msg": "search \"Riverside City College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:10:32.670Z",
+      "msg": "  google \"Riverside City College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:12:35.562Z",
+      "msg": "search \"Riverside City College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:12:35.563Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T06:12:35.564Z",
+      "msg": "Top candidate: https://www.rcc.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T06:12:35.852Z",
+      "msg": "probe https://www.rcc.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:35.954Z",
+      "msg": "probe https://www.rcc.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:36.053Z",
+      "msg": "probe https://www.rcc.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:36.146Z",
+      "msg": "probe https://www.rcc.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:36.236Z",
+      "msg": "probe https://www.rcc.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:36.329Z",
+      "msg": "probe https://www.rcc.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:36.422Z",
+      "msg": "probe https://www.rcc.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:36.510Z",
+      "msg": "probe https://www.rcc.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:36.607Z",
+      "msg": "probe https://www.rcc.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:36.905Z",
+      "msg": "probe https://rcc.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:37.004Z",
+      "msg": "probe https://rcc.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:37.095Z",
+      "msg": "probe https://rcc.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:37.193Z",
+      "msg": "probe https://rcc.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:37.280Z",
+      "msg": "probe https://rcc.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:37.369Z",
+      "msg": "probe https://rcc.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:37.455Z",
+      "msg": "probe https://rcc.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:37.542Z",
+      "msg": "probe https://rcc.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:37.628Z",
+      "msg": "probe https://rcc.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:12:42.239Z",
+      "msg": "probe https://ssb.rcc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:12:45.271Z",
+      "msg": "  google \"Riverside City College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:12:46.876Z",
+      "msg": "probe https://banner.rcc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:12:51.382Z",
+      "msg": "probe https://selfservice.rcc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:12:56.016Z",
+      "msg": "probe https://ssb-prod.rcc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:13:01.052Z",
+      "msg": "probe https://my.rcc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:13:05.420Z",
+      "msg": "probe https://webadvisor.rcc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:13:09.625Z",
+      "msg": "probe https://reg.rcc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:13:14.320Z",
+      "msg": "probe https://catalog.rcc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:13:18.851Z",
+      "msg": "probe https://catalog.rcc.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:13:23.662Z",
+      "msg": "probe https://catalog.rcc.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:13:23.664Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T06:14:58.946Z",
+      "msg": "  google \"Riverside City College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:11.777Z",
+      "msg": "  google \"Riverside City College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:12.628Z",
+      "msg": "  google \"Riverside City College courses by subject\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:13.399Z",
+      "msg": "  google \"Riverside City College course catalog\" → 6 hit(s) (+3 new, 9 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:37.206Z",
+      "msg": "  google \"site:rcc.edu schedule of classes\" → 0 hit(s) (+0 new, 9 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:38.718Z",
+      "msg": "  google \"site:rcc.edu class schedule\" → 0 hit(s) (+0 new, 9 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:39.180Z",
+      "msg": "  probe https://www.rccd.edu/schedules/info_rcc.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:17:39.491Z",
+      "msg": "  probe https://www.rcc.edu/academics/college-catalog.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:17:40.071Z",
+      "msg": "  probe https://www.rcc.edu/academics/courses/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:17:51.509Z",
+      "msg": "  probe https://pdf4pro.com/cdn/rcc-catalog-riverside-city-college-6dedd2.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:17:51.809Z",
+      "msg": "  probe https://rccd.curriqunet.com/catalog/alias/rcc-24-25/iq/663/934 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:17:52.266Z",
+      "msg": "  probe https://www.rccd.edu/catalog/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:17:52.424Z",
+      "msg": "  probe https://rccd.curriqunet.com/catalog/alias/rcc-catalog/iq/4079/4130 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:17:52.795Z",
+      "msg": "  probe https://www.collegefactual.com/colleges/riverside-city-college/academic-life/academic-majors/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:17:53.781Z",
+      "msg": "  probe https://www.mymajors.com/college/riverside-city-college/majors/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:17:55.586Z",
+      "msg": "  probe https://catalog.rcc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:17:55.818Z",
+      "msg": "  probe https://www.rccd.edu/schedules/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:17:56.169Z",
+      "msg": "  probe https://www.rcc.edu/academics/class-schedule.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:17:56.324Z",
+      "msg": "  probe https://rccd.curriqunet.com/catalog/alias/mvc-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:17:56.479Z",
+      "msg": "  probe https://rccd.curriqunet.com/catalog/alias/nc-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:17:56.636Z",
+      "msg": "  probe https://www.rccd.edu/catalog/index.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:17:56.949Z",
+      "msg": "  probe https://www.rccd.edu/schedules/timelines/2022-2023/2023_WIN_SPR_Schedule_Production.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:17:57.448Z",
+      "msg": "  probe https://www.rccd.edu/schedules/timelines/2022-2023/2022_2023_SUM_FAL_Schedule_Production.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:17:57.449Z",
+      "msg": "  render+drive https://www.rccd.edu/schedules/info_rcc.html …"
+    },
+    {
+      "t": "2026-06-09T06:18:18.929Z",
+      "msg": "  render https://www.rccd.edu/schedules/info_rcc.html → 0 course(s)"
     }
   ]
 }

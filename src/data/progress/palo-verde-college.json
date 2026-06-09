@@ -2,17 +2,17 @@
   "slug": "palo-verde-college",
   "name": "Palo Verde College",
   "url": "https://www.paloverde.edu/",
-  "status": "impossible",
-  "attempts": 3,
+  "status": "blocked",
+  "attempts": 7,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
-  "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.026Z",
-  "finishedAt": "2026-06-08T17:36:30.035Z",
-  "updatedAt": "2026-06-08T17:36:30.035Z",
+  "blocked": "login",
+  "note": "Class schedule requires sign-in (the only acceptable hard stop).",
+  "startedAt": "2026-06-09T05:21:59.293Z",
+  "finishedAt": "2026-06-09T05:34:05.926Z",
+  "updatedAt": "2026-06-09T06:14:25.947Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.026Z",
@@ -53,6 +53,254 @@
     {
       "t": "2026-06-08T17:36:30.035Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T05:21:59.293Z",
+      "msg": "▶ Solving Palo Verde College — https://www.paloverde.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T05:21:59.293Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T05:21:59.990Z",
+      "msg": "  explore https://www.paloverde.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:00.120Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/class-search.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:00.332Z",
+      "msg": "  explore https://prod-selfserv.paloverde.edu/Student/Account/Login → 🔒 sign-in page (skipping, continuing with other links)"
+    },
+    {
+      "t": "2026-06-09T05:22:00.477Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/catalog.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:00.630Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/catalog.html#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:00.762Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/catalog.html#site-navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:00.907Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/catalog.html#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:01.036Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/catalog.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:01.525Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/pdf/catalog/25-26/2025-2026%20PVC%20Catalog%20Addendum.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:02.251Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/pdf/catalog/24-25/24-25%20PVC%20Catalog%20Addendum.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:02.571Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/pdf/catalog/24-25/24-25%20PVC%20Catalog%20Addendum%202.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:02.860Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/pdf/catalog/23-24/CatalogAddendum1.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:02.972Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/enrollment-fee-policy.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:03.137Z",
+      "msg": "  explore https://prod-selfserv.paloverde.edu/Student/Courses/Search?Terms=2026SP&AcademicLevels=UG → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:03.254Z",
+      "msg": "  explore https://prod-selfserv.paloverde.edu/Student/Courses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:03.374Z",
+      "msg": "  explore https://prod-selfserv.paloverde.edu/Student/Courses/Search?Terms=2026SP&AcademicLevels=NC → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:03.497Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/enrollment-fee-policy.html#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:03.635Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/enrollment-fee-policy.html#site-navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:03.738Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/enrollment-fee-policy.html#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:03.857Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/enrollment-fee-policy.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:03.952Z",
+      "msg": "  explore https://www.paloverde.edu/calendar.html#event-details/9ae7a85b-71ad-4509-9376-b056b64821e6 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:04.068Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/campus-maps.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:04.075Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T05:22:04.309Z",
+      "msg": "  sitemap https://www.paloverde.edu/sitemap.xml → 3310 entries"
+    },
+    {
+      "t": "2026-06-09T05:22:05.183Z",
+      "msg": "  sitemap https://www.paloverde.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T05:22:05.281Z",
+      "msg": "  sitemap https://www.paloverde.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T05:22:05.284Z",
+      "msg": "  sitemap mining → 3157 URL(s), 103 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T05:22:08.741Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T05:22:12.102Z",
+      "msg": "  explore https://www.paloverde.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:12.207Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/class-search.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:12.332Z",
+      "msg": "  explore https://prod-selfserv.paloverde.edu/Student/Account/Login → 🔒 sign-in page (skipping, continuing with other links)"
+    },
+    {
+      "t": "2026-06-09T05:22:12.446Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/catalog.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:12.574Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/catalog.html#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:12.700Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/catalog.html#site-navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:12.821Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/catalog.html#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:12.938Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/catalog.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:13.387Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/pdf/catalog/25-26/2025-2026%20PVC%20Catalog%20Addendum.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:13.985Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/pdf/catalog/24-25/24-25%20PVC%20Catalog%20Addendum.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:14.287Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/pdf/catalog/24-25/24-25%20PVC%20Catalog%20Addendum%202.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:14.551Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/pdf/catalog/23-24/CatalogAddendum1.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:14.664Z",
+      "msg": "  explore https://www.paloverde.edu/current-students/enrollment-fee-policy.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:14.804Z",
+      "msg": "  explore https://prod-selfserv.paloverde.edu/Student/Courses/Search?Terms=2026SP&AcademicLevels=UG → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:22:14.816Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T05:34:05.797Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T05:34:05.926Z",
+      "msg": "   ⏱ college time budget reached — wrapping up with best so far."
+    },
+    {
+      "t": "2026-06-09T05:34:05.926Z",
+      "msg": "🔒 BLOCKED — the class schedule is gated behind a sign-in page. That is the one legitimate stop."
+    },
+    {
+      "t": "2026-06-09T05:34:40.450Z",
+      "msg": "  google \"Palo Verde College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:36:52.620Z",
+      "msg": "  google \"Palo Verde College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:41:03.416Z",
+      "msg": "  google \"Palo Verde College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:52:59.539Z",
+      "msg": "  google \"Palo Verde College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:55:12.372Z",
+      "msg": "  google \"Palo Verde College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:58:21.072Z",
+      "msg": "  google \"Palo Verde College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:00:32.863Z",
+      "msg": "  google \"Palo Verde College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:02:46.142Z",
+      "msg": "  google \"Palo Verde College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:04:58.363Z",
+      "msg": "  google \"Palo Verde College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:07:12.484Z",
+      "msg": "  google \"Palo Verde College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:09:25.211Z",
+      "msg": "  google \"Palo Verde College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:12:11.810Z",
+      "msg": "  google \"site:paloverde.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:14:25.946Z",
+      "msg": "  google \"site:paloverde.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:14:25.947Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
     }
   ]
 }

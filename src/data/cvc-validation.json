@@ -1,0 +1,1054 @@
+{
+  "generatedAt": "2026-06-09T13:11:24.668Z",
+  "probe": [
+    "biology",
+    "chemistry",
+    "physics",
+    "mathematics",
+    "statistics",
+    "english"
+  ],
+  "summary": {
+    "live": 33,
+    "not-live": 77,
+    "suspect": 2,
+    "unknown": 3
+  },
+  "colleges": [
+    {
+      "slug": "allan-hancock-college",
+      "verdict": "live",
+      "cvcOnline": 12,
+      "ours": 1275,
+      "ourScrapeType": "college",
+      "overlap": 0.9166666666666666,
+      "matched": 11
+    },
+    {
+      "slug": "american-river-college",
+      "verdict": "not-live",
+      "cvcOnline": 13,
+      "ours": 45,
+      "ourScrapeType": "browser",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "antelope-valley-college",
+      "verdict": "not-live",
+      "cvcOnline": 13,
+      "ours": 1,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "bakersfield-college",
+      "verdict": "live",
+      "cvcOnline": 20,
+      "ours": 3610,
+      "ourScrapeType": "college",
+      "overlap": 0.9,
+      "matched": 18
+    },
+    {
+      "slug": "barstow-community-college",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 287,
+      "ourScrapeType": "college",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "berkeley-city-college",
+      "verdict": "not-live",
+      "cvcOnline": 31,
+      "ours": 9,
+      "ourScrapeType": "college",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "butte-college",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 30,
+      "ourScrapeType": "browser",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "cabrillo-college",
+      "verdict": "not-live",
+      "cvcOnline": 5,
+      "ours": 3,
+      "ourScrapeType": "browser",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "canada-college",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 18,
+      "ourScrapeType": "auto",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "cerritos-college",
+      "verdict": "not-live",
+      "cvcOnline": 19,
+      "ours": 66,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "cerro-coso-community-college",
+      "verdict": "not-live",
+      "cvcOnline": 4,
+      "ours": 37,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "chabot-college",
+      "verdict": "not-live",
+      "cvcOnline": 11,
+      "ours": 56,
+      "ourScrapeType": "auto",
+      "overlap": 0.09090909090909091,
+      "matched": 1
+    },
+    {
+      "slug": "chaffey-college",
+      "verdict": "not-live",
+      "cvcOnline": 22,
+      "ours": 8,
+      "ourScrapeType": "browser",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "citrus-college",
+      "verdict": "live",
+      "cvcOnline": 25,
+      "ours": 1333,
+      "ourScrapeType": "auto",
+      "overlap": 0.96,
+      "matched": 24
+    },
+    {
+      "slug": "city-college-of-san-francisco",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 16,
+      "ourScrapeType": "auto",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "clovis-community-college",
+      "verdict": "not-live",
+      "cvcOnline": 64,
+      "ours": 29,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "coalinga-college",
+      "verdict": "live",
+      "cvcOnline": 10,
+      "ours": 412,
+      "ourScrapeType": "auto",
+      "overlap": 0.9,
+      "matched": 9
+    },
+    {
+      "slug": "coastline-college",
+      "verdict": "not-live",
+      "cvcOnline": 10,
+      "ours": 1,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "college-of-alameda",
+      "verdict": "not-live",
+      "cvcOnline": 24,
+      "ours": 7,
+      "ourScrapeType": "auto",
+      "overlap": 0.05555555555555555,
+      "matched": 1
+    },
+    {
+      "slug": "college-of-marin",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 1103,
+      "ourScrapeType": "auto",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "college-of-san-mateo",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 7,
+      "ourScrapeType": "auto",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "college-of-the-canyons",
+      "verdict": "not-live",
+      "cvcOnline": 9,
+      "ours": 1,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "college-of-the-desert",
+      "verdict": "live",
+      "cvcOnline": 12,
+      "ours": 1293,
+      "ourScrapeType": "auto",
+      "overlap": 0.4166666666666667,
+      "matched": 5
+    },
+    {
+      "slug": "college-of-the-redwoods",
+      "verdict": "not-live",
+      "cvcOnline": 15,
+      "ours": 2,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "college-of-the-sequoias",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 107,
+      "ourScrapeType": "college",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "college-of-the-siskiyous",
+      "verdict": "live",
+      "cvcOnline": 13,
+      "ours": 235,
+      "ourScrapeType": "college",
+      "overlap": 1,
+      "matched": 13
+    },
+    {
+      "slug": "columbia-college",
+      "verdict": "not-live",
+      "cvcOnline": 3,
+      "ours": 4,
+      "ourScrapeType": "college",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "compton-college",
+      "verdict": "not-live",
+      "cvcOnline": 13,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "contra-costa-college",
+      "verdict": "not-live",
+      "cvcOnline": 2,
+      "ours": 2,
+      "ourScrapeType": "college",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "copper-mountain-college",
+      "verdict": "not-live",
+      "cvcOnline": 14,
+      "ours": 22,
+      "ourScrapeType": "auto",
+      "overlap": 0.14285714285714285,
+      "matched": 2
+    },
+    {
+      "slug": "cosumnes-river-college",
+      "verdict": "not-live",
+      "cvcOnline": 17,
+      "ours": 39,
+      "ourScrapeType": "auto",
+      "overlap": 0.058823529411764705,
+      "matched": 1
+    },
+    {
+      "slug": "crafton-hills-college",
+      "verdict": "not-live",
+      "cvcOnline": 9,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "cuesta-college",
+      "verdict": "live",
+      "cvcOnline": 12,
+      "ours": 998,
+      "ourScrapeType": "college",
+      "overlap": 1,
+      "matched": 12
+    },
+    {
+      "slug": "cuyamaca-college",
+      "verdict": "not-live",
+      "cvcOnline": 12,
+      "ours": 30,
+      "ourScrapeType": "browser",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "cypress-college",
+      "verdict": "not-live",
+      "cvcOnline": 2,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "de-anza-college",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 1,
+      "ourScrapeType": "auto",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "diablo-valley-college",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 23,
+      "ourScrapeType": "college",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "east-los-angeles-college",
+      "verdict": "suspect",
+      "cvcOnline": 14,
+      "ours": 609,
+      "ourScrapeType": "auto",
+      "overlap": 0.18181818181818182,
+      "matched": 2
+    },
+    {
+      "slug": "el-camino-college",
+      "verdict": "not-live",
+      "cvcOnline": 159,
+      "ours": 2,
+      "ourScrapeType": "college",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "evergreen-valley-college",
+      "verdict": "not-live",
+      "cvcOnline": 18,
+      "ours": 9,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "feather-river-college",
+      "verdict": "unknown",
+      "cvcOnline": 0,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "folsom-lake-college",
+      "verdict": "not-live",
+      "cvcOnline": 12,
+      "ours": 1,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "foothill-college",
+      "verdict": "live",
+      "cvcOnline": 16,
+      "ours": 1823,
+      "ourScrapeType": "college",
+      "overlap": 1,
+      "matched": 16
+    },
+    {
+      "slug": "fresno-city-college",
+      "verdict": "not-live",
+      "cvcOnline": 18,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "fullerton-college",
+      "verdict": "not-live",
+      "cvcOnline": 20,
+      "ours": 4,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "gavilan-college",
+      "verdict": "live",
+      "cvcOnline": 20,
+      "ours": 135,
+      "ourScrapeType": "cvc",
+      "overlap": 1,
+      "matched": 20
+    },
+    {
+      "slug": "glendale-community-college",
+      "verdict": "not-live",
+      "cvcOnline": 11,
+      "ours": 1,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "golden-west-college",
+      "verdict": "not-live",
+      "cvcOnline": 2,
+      "ours": 10,
+      "ourScrapeType": "college",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "grossmont-college",
+      "verdict": "not-live",
+      "cvcOnline": 20,
+      "ours": 30,
+      "ourScrapeType": "browser",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "hartnell-college",
+      "verdict": "live",
+      "cvcOnline": 10,
+      "ours": 384,
+      "ourScrapeType": "auto",
+      "overlap": 0.3,
+      "matched": 3
+    },
+    {
+      "slug": "imperial-valley-college",
+      "verdict": "not-live",
+      "cvcOnline": 8,
+      "ours": 1,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "irvine-valley-college",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 2,
+      "ourScrapeType": "browser",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "lake-tahoe-community-college",
+      "verdict": "not-live",
+      "cvcOnline": 7,
+      "ours": 1,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "laney-college",
+      "verdict": "not-live",
+      "cvcOnline": 23,
+      "ours": 9,
+      "ourScrapeType": "college",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "las-positas-college",
+      "verdict": "not-live",
+      "cvcOnline": 11,
+      "ours": 2,
+      "ourScrapeType": "college",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "lassen-college",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 18,
+      "ourScrapeType": "auto",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "lemoore-college",
+      "verdict": "live",
+      "cvcOnline": 4,
+      "ours": 412,
+      "ourScrapeType": "auto",
+      "overlap": 0.75,
+      "matched": 3
+    },
+    {
+      "slug": "long-beach-city-college",
+      "verdict": "not-live",
+      "cvcOnline": 13,
+      "ours": 20,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "los-angeles-city-college",
+      "verdict": "not-live",
+      "cvcOnline": 23,
+      "ours": 8,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "los-angeles-harbor-college",
+      "verdict": "not-live",
+      "cvcOnline": 8,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "los-angeles-mission-college",
+      "verdict": "not-live",
+      "cvcOnline": 13,
+      "ours": 8,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "los-angeles-pierce-college",
+      "verdict": "not-live",
+      "cvcOnline": 11,
+      "ours": 16,
+      "ourScrapeType": "college",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "los-angeles-southwest-college",
+      "verdict": "not-live",
+      "cvcOnline": 6,
+      "ours": 7,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "los-angeles-trade-tech-college",
+      "verdict": "not-live",
+      "cvcOnline": 3,
+      "ours": 11,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "los-angeles-valley-college",
+      "verdict": "not-live",
+      "cvcOnline": 9,
+      "ours": 1,
+      "ourScrapeType": "college",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "los-medanos-college",
+      "verdict": "suspect",
+      "cvcOnline": 1,
+      "ours": 214,
+      "ourScrapeType": "college",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "madera-community-college",
+      "verdict": "live",
+      "cvcOnline": 68,
+      "ours": 738,
+      "ourScrapeType": "auto",
+      "overlap": 0.6911764705882353,
+      "matched": 47
+    },
+    {
+      "slug": "mendocino-college",
+      "verdict": "not-live",
+      "cvcOnline": 24,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "merced-college",
+      "verdict": "not-live",
+      "cvcOnline": 1,
+      "ours": 3,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "merritt-college",
+      "verdict": "not-live",
+      "cvcOnline": 5,
+      "ours": 7,
+      "ourScrapeType": "college",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "miracosta-college",
+      "verdict": "live",
+      "cvcOnline": 13,
+      "ours": 223,
+      "ourScrapeType": "auto",
+      "overlap": 0.46153846153846156,
+      "matched": 6
+    },
+    {
+      "slug": "mission-college",
+      "verdict": "not-live",
+      "cvcOnline": 19,
+      "ours": 12,
+      "ourScrapeType": "college",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "modesto-junior-college",
+      "verdict": "not-live",
+      "cvcOnline": 17,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "monterey-peninsula-college",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 645,
+      "ourScrapeType": "college",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "moorpark-college",
+      "verdict": "not-live",
+      "cvcOnline": 19,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "moreno-valley-college",
+      "verdict": "not-live",
+      "cvcOnline": 22,
+      "ours": 11,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "mt-san-antonio-college",
+      "verdict": "not-live",
+      "cvcOnline": 37,
+      "ours": 30,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "mt-san-jacinto-college",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 18,
+      "ourScrapeType": "auto",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "napa-valley-college",
+      "verdict": "unknown",
+      "cvcOnline": 0,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "norco-college",
+      "verdict": "not-live",
+      "cvcOnline": 19,
+      "ours": 26,
+      "ourScrapeType": "college",
+      "overlap": 0.05263157894736842,
+      "matched": 1
+    },
+    {
+      "slug": "ohlone-college",
+      "verdict": "not-live",
+      "cvcOnline": 20,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "orange-coast-college",
+      "verdict": "not-live",
+      "cvcOnline": 2,
+      "ours": 1,
+      "ourScrapeType": "college",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "oxnard-college",
+      "verdict": "not-live",
+      "cvcOnline": 13,
+      "ours": 2,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "palo-verde-college",
+      "verdict": "unknown",
+      "cvcOnline": 0,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "palomar-college",
+      "verdict": "not-live",
+      "cvcOnline": 8,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "pasadena-city-college",
+      "verdict": "not-live",
+      "cvcOnline": 17,
+      "ours": 23,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "porterville-college",
+      "verdict": "not-live",
+      "cvcOnline": 11,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "reedley-college",
+      "verdict": "not-live",
+      "cvcOnline": 59,
+      "ours": 45,
+      "ourScrapeType": "auto",
+      "overlap": 0.034482758620689655,
+      "matched": 2
+    },
+    {
+      "slug": "rio-hondo-college",
+      "verdict": "not-live",
+      "cvcOnline": 23,
+      "ours": 13,
+      "ourScrapeType": "college",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "riverside-city-college",
+      "verdict": "not-live",
+      "cvcOnline": 3,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "sacramento-city-college",
+      "verdict": "not-live",
+      "cvcOnline": 19,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "saddleback-college",
+      "verdict": "not-live",
+      "cvcOnline": 8,
+      "ours": 22,
+      "ourScrapeType": "auto",
+      "overlap": 0.25,
+      "matched": 2
+    },
+    {
+      "slug": "san-bernardino-valley-college",
+      "verdict": "not-live",
+      "cvcOnline": 35,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "san-diego-city-college",
+      "verdict": "not-live",
+      "cvcOnline": 8,
+      "ours": 18,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "san-diego-mesa-college",
+      "verdict": "not-live",
+      "cvcOnline": 15,
+      "ours": 71,
+      "ourScrapeType": "browser",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "san-diego-miramar-college",
+      "verdict": "not-live",
+      "cvcOnline": 15,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "san-joaquin-delta-college",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 23,
+      "ourScrapeType": "auto",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "san-jose-city-college",
+      "verdict": "not-live",
+      "cvcOnline": 18,
+      "ours": 23,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "santa-ana-college",
+      "verdict": "not-live",
+      "cvcOnline": 51,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "santa-barbara-city-college",
+      "verdict": "not-live",
+      "cvcOnline": 3,
+      "ours": 52,
+      "ourScrapeType": "college",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "santa-monica-college",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 392,
+      "ourScrapeType": "auto",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "santa-rosa-junior-college",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 2015,
+      "ourScrapeType": "college",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "santiago-canyon-college",
+      "verdict": "not-live",
+      "cvcOnline": 32,
+      "ours": 18,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "shasta-college",
+      "verdict": "not-live",
+      "cvcOnline": 64,
+      "ours": 36,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "sierra-college",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 2217,
+      "ourScrapeType": "college",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "skyline-college",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 6,
+      "ourScrapeType": "auto",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "solano-community-college",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 510,
+      "ourScrapeType": "college",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "southwestern-college",
+      "verdict": "live",
+      "cvcOnline": 0,
+      "ours": 2,
+      "ourScrapeType": "college",
+      "overlap": null,
+      "matched": null
+    },
+    {
+      "slug": "taft-college",
+      "verdict": "not-live",
+      "cvcOnline": 89,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "ventura-college",
+      "verdict": "not-live",
+      "cvcOnline": 19,
+      "ours": 2,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "victor-valley-college",
+      "verdict": "not-live",
+      "cvcOnline": 20,
+      "ours": 47,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "west-los-angeles-college",
+      "verdict": "not-live",
+      "cvcOnline": 12,
+      "ours": 4,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "west-valley-college",
+      "verdict": "not-live",
+      "cvcOnline": 12,
+      "ours": 2,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "woodland-community-college",
+      "verdict": "not-live",
+      "cvcOnline": 5,
+      "ours": 5,
+      "ourScrapeType": "auto",
+      "overlap": 0,
+      "matched": 0
+    },
+    {
+      "slug": "yuba-college",
+      "verdict": "not-live",
+      "cvcOnline": 9,
+      "ours": 0,
+      "ourScrapeType": "sample",
+      "overlap": 0,
+      "matched": 0
+    }
+  ]
+}

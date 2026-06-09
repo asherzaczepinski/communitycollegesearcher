@@ -3,16 +3,16 @@
   "name": "San Bernardino Valley College",
   "url": "https://www.valleycollege.edu/",
   "status": "impossible",
-  "attempts": 3,
+  "attempts": 8,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.128Z",
-  "finishedAt": "2026-06-08T17:36:30.134Z",
-  "updatedAt": "2026-06-08T17:36:30.134Z",
+  "note": "No login wall found, but no public schedule surfaced through 5 strategies incl. an exhaustive search sweep. Retryable.",
+  "startedAt": "2026-06-09T06:09:43.422Z",
+  "finishedAt": "2026-06-09T06:14:32.836Z",
+  "updatedAt": "2026-06-09T06:19:01.478Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.128Z",
@@ -53,6 +53,406 @@
     {
       "t": "2026-06-08T17:36:30.134Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T06:09:43.423Z",
+      "msg": "▶ Solving San Bernardino Valley College — https://www.valleycollege.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T06:09:43.423Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T06:09:43.819Z",
+      "msg": "  explore https://www.valleycollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:09:44.008Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/class-schedule/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:09:44.183Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/class-schedule/index.php# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:09:44.242Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/college-catalog.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:09:44.300Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/college-catalog.php# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:09:44.365Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/college-catalog.php#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:09:44.420Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/college-catalog.php#nav-search-modal → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:09:44.475Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/college-catalog.php#apply-contact-form-modal → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:02.460Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/documents/2025-2026-sbvc-catalog.pdf?v=2.0 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:02.749Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/2025-2026_catalog_addendum.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:02.832Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/2025-2026-catalog-addendum-2.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:02.926Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/2025-2026_caatalog_addendum_3.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:03.161Z",
+      "msg": "  explore https://www.valleycollege.edu/student-services/enrollment-labs/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:03.231Z",
+      "msg": "  explore https://www.valleycollege.edu/admissions-records/admissions/enroll_fees.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:03.580Z",
+      "msg": "  explore https://catalog.valleycollege.edu/admissions-registration/auditing-courses/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:03.792Z",
+      "msg": "  explore https://www.valleycollege.edu/academic-career-programs/class-schedule/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:03.949Z",
+      "msg": "  explore https://catalog.valleycollege.edu/admissions-registration/auditing-courses/#contentarea → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:04.341Z",
+      "msg": "  explore https://catalog.valleycollege.edu/admissions-registration/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:04.493Z",
+      "msg": "  explore https://catalog.valleycollege.edu/admissions-registration/registration/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:04.548Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/specialized-programs/dual-enrollment/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:04.604Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/evening-weekend-classes/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:04.662Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/evening-weekend-classes/index.php# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:04.671Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T06:10:04.716Z",
+      "msg": "  sitemap https://www.valleycollege.edu/sitemap.xml → 0 entries"
+    },
+    {
+      "t": "2026-06-09T06:10:04.767Z",
+      "msg": "  sitemap https://www.valleycollege.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:10:04.810Z",
+      "msg": "  sitemap https://www.valleycollege.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:10:04.811Z",
+      "msg": "  sitemap mining → 0 URL(s), 0 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T06:10:04.811Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T06:10:07.944Z",
+      "msg": "  explore https://www.valleycollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:08.122Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/class-schedule/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:08.279Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/class-schedule/index.php# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:08.321Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/college-catalog.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:08.363Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/college-catalog.php# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:08.404Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/college-catalog.php#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:08.447Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/college-catalog.php#nav-search-modal → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:08.489Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/college-catalog.php#apply-contact-form-modal → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:31.952Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/documents/2025-2026-sbvc-catalog.pdf?v=2.0 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:32.224Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/2025-2026_catalog_addendum.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:32.340Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/2025-2026-catalog-addendum-2.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:32.466Z",
+      "msg": "  explore https://www.valleycollege.edu/academics/2025-2026_caatalog_addendum_3.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:32.710Z",
+      "msg": "  explore https://www.valleycollege.edu/student-services/enrollment-labs/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:32.763Z",
+      "msg": "  explore https://www.valleycollege.edu/admissions-records/admissions/enroll_fees.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:10:32.768Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T06:12:32.770Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:12:32.831Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T06:12:45.628Z",
+      "msg": "  google \"San Bernardino Valley College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:14:32.834Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:14:32.835Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T06:14:47.230Z",
+      "msg": "search \"San Bernardino Valley College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:14:57.195Z",
+      "msg": "  google \"San Bernardino Valley College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:00.955Z",
+      "msg": "search \"San Bernardino Valley College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:17:11.337Z",
+      "msg": "  google \"San Bernardino Valley College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:23.809Z",
+      "msg": "  google \"San Bernardino Valley College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:36.428Z",
+      "msg": "search \"San Bernardino Valley College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:17:37.989Z",
+      "msg": "search \"San Bernardino Valley College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:17:39.478Z",
+      "msg": "search \"San Bernardino Valley College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:17:41.031Z",
+      "msg": "search \"San Bernardino Valley College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:17:41.032Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T06:17:41.033Z",
+      "msg": "Top candidate: https://www.valleycollege.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T06:17:41.411Z",
+      "msg": "probe https://www.valleycollege.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:17:41.492Z",
+      "msg": "probe https://www.valleycollege.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:41.738Z",
+      "msg": "probe https://www.valleycollege.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:17:41.796Z",
+      "msg": "probe https://www.valleycollege.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:41.855Z",
+      "msg": "probe https://www.valleycollege.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:41.923Z",
+      "msg": "probe https://www.valleycollege.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:41.969Z",
+      "msg": "probe https://www.valleycollege.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:42.027Z",
+      "msg": "probe https://www.valleycollege.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:42.072Z",
+      "msg": "probe https://www.valleycollege.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:42.433Z",
+      "msg": "probe https://valleycollege.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:17:42.501Z",
+      "msg": "probe https://valleycollege.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:42.756Z",
+      "msg": "probe https://valleycollege.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:17:42.826Z",
+      "msg": "probe https://valleycollege.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:42.892Z",
+      "msg": "probe https://valleycollege.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:42.959Z",
+      "msg": "probe https://valleycollege.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:43.025Z",
+      "msg": "probe https://valleycollege.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:43.093Z",
+      "msg": "probe https://valleycollege.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:43.158Z",
+      "msg": "probe https://valleycollege.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:54.771Z",
+      "msg": "probe https://ssb.valleycollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:17:55.529Z",
+      "msg": "  google \"San Bernardino Valley College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:57.017Z",
+      "msg": "  google \"San Bernardino Valley College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:58.652Z",
+      "msg": "  google \"San Bernardino Valley College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:59.178Z",
+      "msg": "probe https://banner.valleycollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:18:00.170Z",
+      "msg": "  google \"San Bernardino Valley College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:01.738Z",
+      "msg": "  google \"San Bernardino Valley College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:03.250Z",
+      "msg": "  google \"San Bernardino Valley College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:04.005Z",
+      "msg": "probe https://selfservice.valleycollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:18:04.983Z",
+      "msg": "  google \"San Bernardino Valley College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:06.487Z",
+      "msg": "  google \"site:valleycollege.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:08.023Z",
+      "msg": "  google \"site:valleycollege.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:08.025Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
+    },
+    {
+      "t": "2026-06-09T06:18:09.875Z",
+      "msg": "probe https://ssb-prod.valleycollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:18:13.342Z",
+      "msg": "probe https://my.valleycollege.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:18:55.295Z",
+      "msg": "probe https://webadvisor.valleycollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:18:59.906Z",
+      "msg": "probe https://reg.valleycollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:19:00.267Z",
+      "msg": "probe https://catalog.valleycollege.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:19:00.586Z",
+      "msg": "probe https://catalog.valleycollege.edu/course-outlines/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:01.477Z",
+      "msg": "probe https://catalog.valleycollege.edu/courses/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:19:01.478Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
     }
   ]
 }

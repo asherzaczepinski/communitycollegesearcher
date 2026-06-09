@@ -1,6 +1,6 @@
 {
   "slug": "solano-community-college",
-  "scrapedAt": "2026-06-06T00:50:54.285Z",
+  "scrapedAt": "2026-06-09T13:28:13.077Z",
   "count": 975,
   "courses": [
     {
@@ -4681,12 +4681,12 @@
     {
       "code": "ENGR 010",
       "title": "Machine Learning with Python for Scientists and Engineers",
-      "modality": "online",
+      "modality": "in_person",
       "term": "Fall 2026",
       "units": "4",
       "instructor": "Yancey, Robin",
       "section": "0",
-      "description": "Online Asynchronous · Main Campus - Fairfield",
+      "description": "In-Person · Main Campus - Fairfield",
       "url": "https://ssb.solano.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
     },
     {

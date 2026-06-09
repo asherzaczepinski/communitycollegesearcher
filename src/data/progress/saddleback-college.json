@@ -2,17 +2,17 @@
   "slug": "saddleback-college",
   "name": "Saddleback College",
   "url": "https://www.saddleback.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 22,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://www.saddleback.edu/student-support/counseling-services/pre-registration-checklist/english-second-language-esl-placement",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.119Z",
-  "finishedAt": "2026-06-08T17:36:30.128Z",
-  "updatedAt": "2026-06-08T17:36:30.128Z",
+  "note": "Solved via \"Explore real homepage links (HTTP)\" — 22 courses from https://www.saddleback.edu/student-support/counseling-services/pre-registration-checklist/english-second-language-esl-placement.",
+  "startedAt": "2026-06-09T06:04:57.061Z",
+  "finishedAt": "2026-06-09T06:09:43.421Z",
+  "updatedAt": "2026-06-09T06:18:42.435Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.120Z",
@@ -53,6 +53,411 @@
     {
       "t": "2026-06-08T17:36:30.127Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T06:04:57.062Z",
+      "msg": "▶ Solving Saddleback College — https://www.saddleback.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T06:04:57.062Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T06:04:57.215Z",
+      "msg": "  explore https://www.saddleback.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:04:57.271Z",
+      "msg": "  explore https://www.saddleback.edu/learning-saddleback/classes/class-schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:04:57.371Z",
+      "msg": "  explore https://www.saddleback.edu/learning-saddleback/classes/college-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:04:57.417Z",
+      "msg": "  explore https://www.saddleback.edu/learning-saddleback/classes/college-catalog#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:04:57.465Z",
+      "msg": "  explore https://www.saddleback.edu/programs-degrees/school-health-and-wellness-programs-and-degrees/registered-nurse → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:04:57.547Z",
+      "msg": "  explore https://www.saddleback.edu/apply-pay/how-apply/emeritus-student → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:04:59.327Z",
+      "msg": "  explore https://www.saddleback.edu/apply-pay/admissions-records/important-dates-deadlines/registration-appointment-priority → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:04:59.387Z",
+      "msg": "  explore https://www.saddleback.edu/apply-pay/admissions-records/cross-enrollment → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:04:59.427Z",
+      "msg": "  explore https://www.saddleback.edu/student-support/counseling-services/pre-registration-checklist → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:01.351Z",
+      "msg": "  explore https://www.saddleback.edu/student-support/counseling-services/pre-registration-checklist/english-second-language-esl-placement → 22 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-09T06:05:01.408Z",
+      "msg": "  explore https://www.saddleback.edu/programs-degrees/school-health-and-wellness-programs-and-degrees/registered-nurse#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:01.460Z",
+      "msg": "  explore https://www.saddleback.edu/apply-pay/admissions-records/important-dates-deadlines/registration-appointment-priority#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:01.513Z",
+      "msg": "  explore https://www.saddleback.edu/apply-pay/admissions-records/cross-enrollment#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:01.615Z",
+      "msg": "  explore https://www.saddleback.edu/student-support/counseling-services/pre-registration-checklist-fall-2025/english-placement → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:01.671Z",
+      "msg": "  explore https://www.saddleback.edu/student-support/counseling-services/pre-registration-checklist#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:01.704Z",
+      "msg": "  explore https://www.saddleback.edu/student-support/counseling-services/pre-registration-checklist-fall-2025/math-placement → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:01.744Z",
+      "msg": "  explore https://www.saddleback.edu/student-support/counseling-services/pre-registration-checklist/english-second-language-esl-placement#main-content → 22 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-09T06:05:01.846Z",
+      "msg": "  explore https://www.saddleback.edu/student-support/tutoring-center/tutor-schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:02.209Z",
+      "msg": "  explore https://www.saddleback.edu/student-support/child-care/enrollment-and-tuition-fees → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:02.252Z",
+      "msg": "  explore https://www.saddleback.edu/student-support/counseling-services/pre-registration-checklist-fall-2025/english-placement#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:02.279Z",
+      "msg": "  explore https://www.saddleback.edu/student-support/counseling-services/pre-registration-checklist-fall-2025/math-placement#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:02.330Z",
+      "msg": "  explore https://www.saddleback.edu/student-support/tutoring-center/tutor-schedule#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:02.331Z",
+      "msg": "   ✓ \"Explore real homepage links (HTTP)\" found 22 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:02.331Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T06:05:02.494Z",
+      "msg": "  sitemap https://www.saddleback.edu/sitemap.xml → 1251 entries"
+    },
+    {
+      "t": "2026-06-09T06:05:02.829Z",
+      "msg": "  sitemap https://www.saddleback.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:05:06.207Z",
+      "msg": "  sitemap https://www.saddleback.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:05:06.209Z",
+      "msg": "  sitemap mining → 1251 URL(s), 27 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T06:05:38.936Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T06:05:42.755Z",
+      "msg": "  explore https://www.saddleback.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:42.825Z",
+      "msg": "  explore https://www.saddleback.edu/learning-saddleback/classes/class-schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:42.879Z",
+      "msg": "  explore https://www.saddleback.edu/learning-saddleback/classes/college-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:42.919Z",
+      "msg": "  explore https://www.saddleback.edu/learning-saddleback/classes/college-catalog#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:42.963Z",
+      "msg": "  explore https://www.saddleback.edu/programs-degrees/school-health-and-wellness-programs-and-degrees/registered-nurse → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:43.001Z",
+      "msg": "  explore https://www.saddleback.edu/apply-pay/how-apply/emeritus-student → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:43.035Z",
+      "msg": "  explore https://www.saddleback.edu/apply-pay/admissions-records/important-dates-deadlines/registration-appointment-priority → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:43.077Z",
+      "msg": "  explore https://www.saddleback.edu/apply-pay/admissions-records/cross-enrollment → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:43.124Z",
+      "msg": "  explore https://www.saddleback.edu/student-support/counseling-services/pre-registration-checklist → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:43.168Z",
+      "msg": "  explore https://www.saddleback.edu/student-support/counseling-services/pre-registration-checklist/english-second-language-esl-placement → 22 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-09T06:05:43.212Z",
+      "msg": "  explore https://www.saddleback.edu/programs-degrees/school-health-and-wellness-programs-and-degrees/registered-nurse#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:43.260Z",
+      "msg": "  explore https://www.saddleback.edu/apply-pay/admissions-records/important-dates-deadlines/registration-appointment-priority#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:43.309Z",
+      "msg": "  explore https://www.saddleback.edu/apply-pay/admissions-records/cross-enrollment#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:43.345Z",
+      "msg": "  explore https://www.saddleback.edu/student-support/counseling-services/pre-registration-checklist-fall-2025/english-placement → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:05:43.352Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T06:07:43.355Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:07:43.410Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T06:07:56.991Z",
+      "msg": "  google \"Saddleback College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:09:43.412Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:09:43.421Z",
+      "msg": "✅ SOLVED — 22 courses ingested into the searchable DB (strategy: Explore real homepage links (HTTP))."
+    },
+    {
+      "t": "2026-06-09T06:10:04.905Z",
+      "msg": "search \"Saddleback College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:10:44.098Z",
+      "msg": "  google \"Saddleback College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:12:34.968Z",
+      "msg": "search \"Saddleback College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:12:57.197Z",
+      "msg": "  google \"Saddleback College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:14:48.304Z",
+      "msg": "search \"Saddleback College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:15:09.671Z",
+      "msg": "  google \"Saddleback College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:01.427Z",
+      "msg": "search \"Saddleback College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:17:18.158Z",
+      "msg": "  google \"Saddleback College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:18.638Z",
+      "msg": "  google \"Saddleback College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:19.196Z",
+      "msg": "  google \"Saddleback College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:19.671Z",
+      "msg": "  google \"Saddleback College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:25.047Z",
+      "msg": "search \"Saddleback College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:17:26.533Z",
+      "msg": "search \"Saddleback College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:17:26.534Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T06:17:26.535Z",
+      "msg": "Top candidate: https://www.saddleback.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T06:17:26.878Z",
+      "msg": "probe https://www.saddleback.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:29.641Z",
+      "msg": "probe https://www.saddleback.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:31.935Z",
+      "msg": "  google \"Saddleback College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:32.799Z",
+      "msg": "probe https://www.saddleback.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:33.121Z",
+      "msg": "probe https://www.saddleback.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:33.608Z",
+      "msg": "  google \"Saddleback College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:35.206Z",
+      "msg": "  google \"Saddleback College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:36.439Z",
+      "msg": "probe https://www.saddleback.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:39.195Z",
+      "msg": "probe https://www.saddleback.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:40.075Z",
+      "msg": "  google \"site:saddleback.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:41.572Z",
+      "msg": "  google \"site:saddleback.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:41.574Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
+    },
+    {
+      "t": "2026-06-09T06:17:42.077Z",
+      "msg": "probe https://www.saddleback.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:51.514Z",
+      "msg": "probe https://www.saddleback.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:51.795Z",
+      "msg": "probe https://www.saddleback.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:51.914Z",
+      "msg": "probe https://saddleback.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:52.025Z",
+      "msg": "probe https://saddleback.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:52.135Z",
+      "msg": "probe https://saddleback.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:52.269Z",
+      "msg": "probe https://saddleback.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:52.370Z",
+      "msg": "probe https://saddleback.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:52.472Z",
+      "msg": "probe https://saddleback.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:52.583Z",
+      "msg": "probe https://saddleback.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:52.684Z",
+      "msg": "probe https://saddleback.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:52.797Z",
+      "msg": "probe https://saddleback.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:57.715Z",
+      "msg": "probe https://ssb.saddleback.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:18:02.437Z",
+      "msg": "probe https://banner.saddleback.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:18:07.494Z",
+      "msg": "probe https://selfservice.saddleback.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:18:13.943Z",
+      "msg": "probe https://ssb-prod.saddleback.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:18:18.920Z",
+      "msg": "probe https://my.saddleback.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:18:24.186Z",
+      "msg": "probe https://webadvisor.saddleback.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:18:28.828Z",
+      "msg": "probe https://reg.saddleback.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:18:33.759Z",
+      "msg": "probe https://catalog.saddleback.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:18:38.050Z",
+      "msg": "probe https://catalog.saddleback.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:18:42.434Z",
+      "msg": "probe https://catalog.saddleback.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:18:42.435Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
     }
-  ]
+  ],
+  "strategy": "Explore real homepage links (HTTP)"
 }

@@ -2,17 +2,17 @@
   "slug": "santa-monica-college",
   "name": "Santa Monica College",
   "url": "https://www.smc.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
-  "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "status": "live",
+  "attempts": 5,
+  "courseCount": 392,
+  "modalityCoverage": 0.015,
+  "method": "auto",
+  "extractUrl": "https://www.smc.edu/about/facts-stats/new-courses.php",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.176Z",
-  "finishedAt": "2026-06-08T17:36:30.182Z",
-  "updatedAt": "2026-06-08T17:36:30.182Z",
+  "note": "Solved via \"Mine sitemap.xml / robots.txt\" — 392 courses from https://www.smc.edu/about/facts-stats/new-courses.php.",
+  "startedAt": "2026-06-09T06:27:33.156Z",
+  "finishedAt": "2026-06-09T06:27:53.490Z",
+  "updatedAt": "2026-06-09T06:27:53.490Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.176Z",
@@ -53,6 +53,143 @@
     {
       "t": "2026-06-08T17:36:30.182Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T06:27:33.156Z",
+      "msg": "▶ Solving Santa Monica College — https://www.smc.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T06:27:33.156Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T06:27:34.452Z",
+      "msg": "  explore https://www.smc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:34.843Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:34.983Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/archive.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:41.420Z",
+      "msg": "  explore https://www.smc.edu/searchclasses → unreachable"
+    },
+    {
+      "t": "2026-06-09T06:27:41.655Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/program-maps.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:42.060Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/program.php?id=257 → 7 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-09T06:27:42.376Z",
+      "msg": "  explore https://catalog.smc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:42.496Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/dates-deadlines.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:42.614Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:42.739Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/archive.php#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:42.967Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/program-maps.php#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:43.162Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/program.php?id=257#main → 7 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-09T06:27:43.310Z",
+      "msg": "  explore https://catalog.smc.edu/current/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:43.430Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/dates-deadlines.php#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:43.538Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:43.682Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/winter-dates-deadlines.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:44.124Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/2026-27/fall-2026/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:48.596Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/2026-27/fall-2026/documents/263-SMCschedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:48.808Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/program-maps.php#arts-media-entertainment → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:49.045Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/program-maps.php#Business → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:49.250Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/program-maps.php#culture-history-languages → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:49.445Z",
+      "msg": "  explore https://www.smc.edu/academics/classes/program-maps.php#education → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:49.446Z",
+      "msg": "   ✓ \"Explore real homepage links (HTTP)\" found 7 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:49.446Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T06:27:49.829Z",
+      "msg": "  sitemap https://www.smc.edu/sitemap.xml → 16057 entries"
+    },
+    {
+      "t": "2026-06-09T06:27:50.911Z",
+      "msg": "  sitemap https://www.smc.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:27:51.089Z",
+      "msg": "  sitemap https://www.smc.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:27:51.099Z",
+      "msg": "  sitemap mining → 16057 URL(s), 212 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T06:27:53.474Z",
+      "msg": "  sitemap probe https://www.smc.edu/about/facts-stats/new-courses.php → 392"
+    },
+    {
+      "t": "2026-06-09T06:27:53.475Z",
+      "msg": "   ✓ \"Mine sitemap.xml / robots.txt\" found 392 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:53.475Z",
+      "msg": "   solid haul (392 courses) — stopping strategy ladder."
+    },
+    {
+      "t": "2026-06-09T06:27:53.490Z",
+      "msg": "✅ SOLVED — 392 courses ingested into the searchable DB (strategy: Mine sitemap.xml / robots.txt)."
     }
-  ]
+  ],
+  "strategy": "Mine sitemap.xml / robots.txt"
 }

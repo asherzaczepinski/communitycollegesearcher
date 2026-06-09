@@ -3,16 +3,16 @@
   "name": "San Diego Miramar College",
   "url": "https://www.sdmiramar.edu/",
   "status": "impossible",
-  "attempts": 3,
+  "attempts": 8,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.151Z",
-  "finishedAt": "2026-06-08T17:36:30.158Z",
-  "updatedAt": "2026-06-08T17:36:30.158Z",
+  "note": "No login wall found, but no public schedule surfaced through 5 strategies incl. an exhaustive search sweep. Retryable.",
+  "startedAt": "2026-06-09T06:18:10.959Z",
+  "finishedAt": "2026-06-09T06:19:51.699Z",
+  "updatedAt": "2026-06-09T06:19:51.699Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.151Z",
@@ -53,6 +53,398 @@
     {
       "t": "2026-06-08T17:36:30.158Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T06:18:10.959Z",
+      "msg": "▶ Solving San Diego Miramar College — https://www.sdmiramar.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T06:18:10.959Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T06:18:11.458Z",
+      "msg": "  explore https://www.sdmiramar.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:12.773Z",
+      "msg": "  explore https://sdmiramar.edu/home/enrollment?page=%2C%2C1 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:13.554Z",
+      "msg": "  explore https://sdmiramar.edu/home/enrollment?page=%2C%2C0 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:14.411Z",
+      "msg": "  explore https://sdmiramar.edu/home/enrollment?page=%2C%2C2 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:15.240Z",
+      "msg": "  explore https://sdmiramar.edu/home/enrollment?page=%2C%2C3 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:15.601Z",
+      "msg": "  explore https://sdmiramar.edu/students → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:16.043Z",
+      "msg": "  explore https://sdmiramar.edu/support → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:16.442Z",
+      "msg": "  explore https://sdmiramar.edu/studentlife → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:16.665Z",
+      "msg": "  explore https://sdmiramar.edu/current-student → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:17.054Z",
+      "msg": "  explore https://sdmiramar.edu/future-student → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:17.494Z",
+      "msg": "  explore https://sdmiramar.edu/returning-student → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:17.713Z",
+      "msg": "  explore https://sdmiramar.edu/time-to-graduate → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:17.789Z",
+      "msg": "  explore https://sdmiramar.edu/students#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:17.864Z",
+      "msg": "  explore https://sdmiramar.edu/current-student#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:17.946Z",
+      "msg": "  explore https://sdmiramar.edu/future-student#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:18.757Z",
+      "msg": "  explore https://sdmiramar.edu/sites/default/files/2023-07/New_Student_Resource_Guide.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:18.996Z",
+      "msg": "  explore https://sdmiramar.edu/returning-student#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:19.683Z",
+      "msg": "  explore https://sdmiramar.edu/sites/default/files/2023-07/new_student_resource_guide_0.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:19.923Z",
+      "msg": "  explore https://sdmiramar.edu/sites/default/files/2021-09/miramar_online_student_services.08.11.pdf.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:19.980Z",
+      "msg": "  explore https://sdmiramar.edu/students#time_to_graduate → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:20.054Z",
+      "msg": "  explore https://sdmiramar.edu/services/admissions → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:20.653Z",
+      "msg": "  explore https://www.sdmiramar.edu/program-finder?search_api_fulltext=&sort_by=title&sort_order=ASC → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:20.654Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T06:18:20.816Z",
+      "msg": "  sitemap https://www.sdmiramar.edu/sitemap.xml → 4 entries"
+    },
+    {
+      "t": "2026-06-09T06:18:21.043Z",
+      "msg": "  sitemap https://www.sdmiramar.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:18:21.262Z",
+      "msg": "  sitemap https://www.sdmiramar.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:18:21.263Z",
+      "msg": "  sitemap mining → 4 URL(s), 0 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T06:18:21.264Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T06:18:29.335Z",
+      "msg": "  explore https://www.sdmiramar.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:29.761Z",
+      "msg": "  explore https://www.sdmiramar.edu/home/enrollment?page=%2C%2C1 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:29.924Z",
+      "msg": "  explore https://sdmiramar.edu/home/enrollment?page=%2C%2C0 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:30.066Z",
+      "msg": "  explore https://sdmiramar.edu/home/enrollment?page=%2C%2C2 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:30.216Z",
+      "msg": "  explore https://sdmiramar.edu/home/enrollment?page=%2C%2C1 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:30.363Z",
+      "msg": "  explore https://sdmiramar.edu/home/enrollment?page=%2C%2C3 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:30.468Z",
+      "msg": "  explore https://www.sdmiramar.edu/students → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:30.587Z",
+      "msg": "  explore https://www.sdmiramar.edu/support → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:30.699Z",
+      "msg": "  explore https://www.sdmiramar.edu/studentlife → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:30.807Z",
+      "msg": "  explore https://www.sdmiramar.edu/current-student → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:30.929Z",
+      "msg": "  explore https://www.sdmiramar.edu/future-student → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:31.065Z",
+      "msg": "  explore https://www.sdmiramar.edu/returning-student → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:31.180Z",
+      "msg": "  explore https://www.sdmiramar.edu/time-to-graduate → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:31.276Z",
+      "msg": "  explore https://sdmiramar.edu/students → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:31.287Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T06:18:33.465Z",
+      "msg": "  google \"San Diego Miramar College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:35.168Z",
+      "msg": "  google \"San Diego Miramar College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:36.742Z",
+      "msg": "  google \"San Diego Miramar College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:38.426Z",
+      "msg": "  google \"San Diego Miramar College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:40.025Z",
+      "msg": "  google \"San Diego Miramar College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:41.626Z",
+      "msg": "  google \"San Diego Miramar College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:43.184Z",
+      "msg": "  google \"San Diego Miramar College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:44.683Z",
+      "msg": "  google \"San Diego Miramar College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:46.252Z",
+      "msg": "  google \"San Diego Miramar College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:47.738Z",
+      "msg": "  google \"San Diego Miramar College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:49.305Z",
+      "msg": "  google \"San Diego Miramar College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:50.967Z",
+      "msg": "  google \"site:sdmiramar.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:52.494Z",
+      "msg": "  google \"site:sdmiramar.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:18:52.495Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
+    },
+    {
+      "t": "2026-06-09T06:18:52.495Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T06:18:54.066Z",
+      "msg": "search \"San Diego Miramar College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:18:55.566Z",
+      "msg": "search \"San Diego Miramar College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:18:57.151Z",
+      "msg": "search \"San Diego Miramar College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:18:58.802Z",
+      "msg": "search \"San Diego Miramar College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:19:00.369Z",
+      "msg": "search \"San Diego Miramar College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:19:01.883Z",
+      "msg": "search \"San Diego Miramar College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:19:01.884Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T06:19:01.885Z",
+      "msg": "Top candidate: https://www.sdmiramar.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T06:19:02.416Z",
+      "msg": "probe https://www.sdmiramar.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:02.722Z",
+      "msg": "probe https://www.sdmiramar.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:02.969Z",
+      "msg": "probe https://www.sdmiramar.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:03.212Z",
+      "msg": "probe https://www.sdmiramar.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:03.541Z",
+      "msg": "probe https://www.sdmiramar.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:03.849Z",
+      "msg": "probe https://www.sdmiramar.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:04.092Z",
+      "msg": "probe https://www.sdmiramar.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:04.342Z",
+      "msg": "probe https://www.sdmiramar.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:04.607Z",
+      "msg": "probe https://www.sdmiramar.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:04.681Z",
+      "msg": "probe https://sdmiramar.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:04.754Z",
+      "msg": "probe https://sdmiramar.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:04.817Z",
+      "msg": "probe https://sdmiramar.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:04.888Z",
+      "msg": "probe https://sdmiramar.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:04.961Z",
+      "msg": "probe https://sdmiramar.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:05.029Z",
+      "msg": "probe https://sdmiramar.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:05.095Z",
+      "msg": "probe https://sdmiramar.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:05.160Z",
+      "msg": "probe https://sdmiramar.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:05.227Z",
+      "msg": "probe https://sdmiramar.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:19:09.804Z",
+      "msg": "probe https://ssb.sdmiramar.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:19:14.835Z",
+      "msg": "probe https://banner.sdmiramar.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:19:19.287Z",
+      "msg": "probe https://selfservice.sdmiramar.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:19:24.383Z",
+      "msg": "probe https://ssb-prod.sdmiramar.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:19:29.008Z",
+      "msg": "probe https://my.sdmiramar.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:19:33.417Z",
+      "msg": "probe https://webadvisor.sdmiramar.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:19:37.926Z",
+      "msg": "probe https://reg.sdmiramar.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:19:42.355Z",
+      "msg": "probe https://catalog.sdmiramar.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:19:47.201Z",
+      "msg": "probe https://catalog.sdmiramar.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:19:51.694Z",
+      "msg": "probe https://catalog.sdmiramar.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:19:51.696Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T06:19:51.698Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
     }
   ]
 }

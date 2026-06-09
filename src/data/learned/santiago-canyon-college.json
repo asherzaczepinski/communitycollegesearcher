@@ -2,7 +2,7 @@
   "slug": "santiago-canyon-college",
   "name": "Santiago Canyon College",
   "url": "https://www.sccollege.edu/",
-  "source": "homepage",
+  "source": "web-search-deep",
   "platform": "unknown",
   "scheduleUrl": null,
   "catalogUrl": null,
@@ -11,10 +11,10 @@
   "sampleCount": 0,
   "modalityCoverage": 0,
   "candidates": [],
-  "searchQuery": null,
+  "searchQuery": "Santiago Canyon College schedule of classes",
   "searchResults": [],
   "blocked": null,
   "confidence": 0,
-  "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-08T17:36:30.187Z"
+  "notes": "Searched the web (0 results) but no page yielded course data — the schedule is likely a bespoke search app. Top results saved above.",
+  "learnedAt": "2026-06-09T06:30:08.957Z"
 }

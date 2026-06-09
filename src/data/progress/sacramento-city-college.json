@@ -3,16 +3,16 @@
   "name": "Sacramento City College",
   "url": "https://www.scc.losrios.edu/",
   "status": "impossible",
-  "attempts": 3,
+  "attempts": 8,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.112Z",
-  "finishedAt": "2026-06-08T17:36:30.119Z",
-  "updatedAt": "2026-06-08T17:36:30.119Z",
+  "note": "No login wall found, but no public schedule surfaced through 5 strategies incl. an exhaustive search sweep. Retryable.",
+  "startedAt": "2026-06-09T06:00:41.293Z",
+  "finishedAt": "2026-06-09T06:04:57.060Z",
+  "updatedAt": "2026-06-09T06:17:51.513Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.113Z",
@@ -53,6 +53,406 @@
     {
       "t": "2026-06-08T17:36:30.119Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T06:00:41.294Z",
+      "msg": "▶ Solving Sacramento City College — https://www.scc.losrios.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T06:00:41.294Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T06:00:42.030Z",
+      "msg": "  explore https://www.scc.losrios.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:42.372Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:42.799Z",
+      "msg": "  explore https://scc.losrios.edu/academics/search-class-schedules → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:43.133Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/waitlist-information#permission-number → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:43.212Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:43.285Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:43.691Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/priority-registration-and-enrollment-dates → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:44.013Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/waitlist-information#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:44.349Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/waitlist-information# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:44.696Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/loss-of-priority-registration → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:44.760Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/waitlist-information → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:45.140Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/grading-policies-and-academic-regulations → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:45.548Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/priority-registration-and-enrollment-dates#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:45.917Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/priority-registration-and-enrollment-dates# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:46.313Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/admissions/financial-aid-and-fees/financial-aid-policies/course-applicability → unreachable"
+    },
+    {
+      "t": "2026-06-09T06:00:46.889Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/loss-of-priority-registration#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:47.225Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/loss-of-priority-registration# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:47.610Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/shared/doc/admissions-records/forms/loss-priority-registration-appeal-form.pdf → unreachable"
+    },
+    {
+      "t": "2026-06-09T06:00:48.276Z",
+      "msg": "  explore https://scc.losrios.edu/2026-2027-unofficial-catalog-preview → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:48.657Z",
+      "msg": "  explore https://scc.losrios.edu/2026-2027-unofficial-catalog-preview/getting-started/how-to-enroll → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:49.105Z",
+      "msg": "  explore https://scc.losrios.edu/2026-2027-unofficial-catalog-preview/getting-started/how-to-enroll# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:49.558Z",
+      "msg": "  explore https://scc.losrios.edu/2026-2027-unofficial-catalog-preview# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:49.570Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T06:00:50.165Z",
+      "msg": "  sitemap https://www.scc.losrios.edu/sitemap.xml → 6 entries"
+    },
+    {
+      "t": "2026-06-09T06:00:50.578Z",
+      "msg": "  sitemap https://www.scc.losrios.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:00:50.955Z",
+      "msg": "  sitemap https://www.scc.losrios.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:00:50.956Z",
+      "msg": "  sitemap mining → 6 URL(s), 0 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T06:00:50.956Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T06:00:54.484Z",
+      "msg": "  explore https://www.scc.losrios.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:54.750Z",
+      "msg": "  explore https://www.scc.losrios.edu/admissions/enroll-in-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:55.300Z",
+      "msg": "  explore https://www.scc.losrios.edu/academics/search-class-schedules → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:55.379Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/waitlist-information#permission-number → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:55.437Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:55.497Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:55.572Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:55.954Z",
+      "msg": "  explore https://scc.losrios.edu/academics/search-class-schedules → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:56.020Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/waitlist-information#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:56.073Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/waitlist-information# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:56.127Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/priority-registration-and-enrollment-dates → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:56.180Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/waitlist-information → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:56.559Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/loss-of-priority-registration → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:00:56.987Z",
+      "msg": "  explore https://scc.losrios.edu/admissions/enroll-in-classes/admissions/financial-aid-and-fees/financial-aid-policies/course-applicability → unreachable"
+    },
+    {
+      "t": "2026-06-09T06:00:56.988Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T06:02:56.992Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:02:57.054Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T06:03:10.241Z",
+      "msg": "  google \"Sacramento City College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:04:57.058Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:04:57.059Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T06:05:11.041Z",
+      "msg": "search \"Sacramento City College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:05:23.078Z",
+      "msg": "  google \"Sacramento City College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:07:24.127Z",
+      "msg": "search \"Sacramento City College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:07:35.099Z",
+      "msg": "  google \"Sacramento City College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:09:36.811Z",
+      "msg": "search \"Sacramento City College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:10:03.250Z",
+      "msg": "  google \"Sacramento City College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:12:22.829Z",
+      "msg": "search \"Sacramento City College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:12:35.831Z",
+      "msg": "  google \"Sacramento City College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:14:37.196Z",
+      "msg": "search \"Sacramento City College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:14:49.336Z",
+      "msg": "  google \"Sacramento City College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:16:49.409Z",
+      "msg": "search \"Sacramento City College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:16:49.410Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T06:16:49.411Z",
+      "msg": "Top candidate: https://www.scc.losrios.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T06:16:50.015Z",
+      "msg": "probe https://www.scc.losrios.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:16:50.431Z",
+      "msg": "probe https://www.scc.losrios.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:16:50.810Z",
+      "msg": "probe https://www.scc.losrios.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:16:51.163Z",
+      "msg": "probe https://www.scc.losrios.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:16:51.896Z",
+      "msg": "probe https://www.scc.losrios.edu/class-search → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:16:52.374Z",
+      "msg": "probe https://www.scc.losrios.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:16:52.738Z",
+      "msg": "probe https://www.scc.losrios.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:16:53.398Z",
+      "msg": "probe https://www.scc.losrios.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:16:54.055Z",
+      "msg": "probe https://www.scc.losrios.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:16:54.327Z",
+      "msg": "probe https://scc.losrios.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:16:54.529Z",
+      "msg": "probe https://scc.losrios.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:16:55.011Z",
+      "msg": "probe https://scc.losrios.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:16:55.288Z",
+      "msg": "probe https://scc.losrios.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:16:55.924Z",
+      "msg": "probe https://scc.losrios.edu/class-search → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:16:56.268Z",
+      "msg": "probe https://scc.losrios.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:16:56.536Z",
+      "msg": "probe https://scc.losrios.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:16:57.269Z",
+      "msg": "probe https://scc.losrios.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:16:57.700Z",
+      "msg": "probe https://scc.losrios.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:02.286Z",
+      "msg": "probe https://ssb.scc.losrios.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:17:02.574Z",
+      "msg": "  google \"Sacramento City College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:07.112Z",
+      "msg": "probe https://banner.scc.losrios.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:17:11.697Z",
+      "msg": "probe https://selfservice.scc.losrios.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:17:14.028Z",
+      "msg": "  google \"Sacramento City College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:14.523Z",
+      "msg": "  google \"Sacramento City College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:15.036Z",
+      "msg": "  google \"Sacramento City College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:16.387Z",
+      "msg": "probe https://ssb-prod.scc.losrios.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:17:21.310Z",
+      "msg": "probe https://my.scc.losrios.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:17:25.682Z",
+      "msg": "probe https://webadvisor.scc.losrios.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:17:27.210Z",
+      "msg": "  google \"Sacramento City College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:28.653Z",
+      "msg": "  google \"site:scc.losrios.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:30.121Z",
+      "msg": "  google \"site:scc.losrios.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:30.122Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
+    },
+    {
+      "t": "2026-06-09T06:17:30.519Z",
+      "msg": "probe https://reg.scc.losrios.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:17:35.151Z",
+      "msg": "probe https://catalog.scc.losrios.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:17:40.075Z",
+      "msg": "probe https://catalog.scc.losrios.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:17:51.513Z",
+      "msg": "probe https://catalog.scc.losrios.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:17:51.513Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
     }
   ]
 }

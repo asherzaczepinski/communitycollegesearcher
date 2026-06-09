@@ -1,31 +1,95 @@
 {
   "slug": "contra-costa-college",
-  "scrapedAt": "2026-06-05T22:55:23.329Z",
-  "count": 2,
+  "scrapedAt": "2026-06-09T13:38:44.653Z",
+  "count": 8,
   "courses": [
     {
-      "code": "COMM217",
-      "title": "Select Courses Back Degree Plan Welcome to the Schedule Builder. This is the Select Courses region. To use this software, follow the steps described below. Firs",
+      "code": "ESL50",
+      "title": "Beginning ESL",
       "modality": "online",
-      "modalityKnown": true,
-      "term": null,
-      "units": null,
+      "term": "Jun 15 - Aug 13",
+      "units": "2.0",
       "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://vsb.4cd.edu/criteria.jsp"
+      "section": "1285828",
+      "description": "Tuition: $92.00",
+      "url": "https://search.cvc.edu/courses/1285828?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation"
     },
     {
-      "code": "COMM217",
-      "title": "Courses with this symbol must be taken together Financial Accounting Required or Recommended Walnut Creek Campus Try all classes Try specific classes... Lock th",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
+      "code": "ESL51",
+      "title": "Reading and Vocab for Beg.",
+      "modality": "online",
+      "term": "Jun 15 - Aug 13",
+      "units": "3.0",
       "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://vsb.4cd.edu/criteria.jsp"
+      "section": "1359485",
+      "description": "Tuition: $138.00",
+      "url": "https://search.cvc.edu/courses/1359485?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "PSYCH205B",
+      "title": "Intro to Research Mthds Psych",
+      "modality": "online",
+      "term": "Jun 15 - Jul 23",
+      "units": "4.0",
+      "instructor": null,
+      "section": "293642",
+      "description": "Tuition: $184.00",
+      "url": "https://search.cvc.edu/courses/293642?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "HUMAN113",
+      "title": "African American Humanities",
+      "modality": "online",
+      "term": "Jun 15 - Jul 23",
+      "units": "3.0",
+      "instructor": null,
+      "section": "454013",
+      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $138.00",
+      "url": "https://search.cvc.edu/courses/454013?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "AFRAM113",
+      "title": "African American Humanities",
+      "modality": "online",
+      "term": "Jun 15 - Jul 23",
+      "units": "3.0",
+      "instructor": null,
+      "section": "10657890",
+      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $138.00",
+      "url": "https://search.cvc.edu/courses/10657890?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "LIBST110A",
+      "title": "Library and Information Skills",
+      "modality": "online",
+      "term": "Jun 15 - Jul 23",
+      "units": "1.0",
+      "instructor": null,
+      "section": "1098982",
+      "description": "Tuition: $46.00",
+      "url": "https://search.cvc.edu/courses/1098982?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=information+technology&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "KINES190",
+      "title": "Intro to Kinesiology",
+      "modality": "online",
+      "term": "Jun 15 - Jul 23",
+      "units": "3.0",
+      "instructor": null,
+      "section": "454180",
+      "description": "Tuition: $138.00",
+      "url": "https://search.cvc.edu/courses/454180?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "CHIN120",
+      "title": "First-Semester Mandarin",
+      "modality": "online",
+      "term": "Jun 15 - Jul 23",
+      "units": "5.0",
+      "instructor": null,
+      "section": "1034358",
+      "description": "Transfer: IGETC, CSU BREADTH | Tuition: $230.00",
+      "url": "https://search.cvc.edu/courses/1034358?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=104&filter%5Btransferability%5D%5B%5D=articulation"
     }
   ]
 }

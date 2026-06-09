@@ -3,16 +3,16 @@
   "name": "Taft College",
   "url": "https://www.taftcollege.edu/",
   "status": "impossible",
-  "attempts": 3,
+  "attempts": 8,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.200Z",
-  "finishedAt": "2026-06-08T17:36:30.209Z",
-  "updatedAt": "2026-06-08T17:36:30.209Z",
+  "note": "No login wall found, but no public schedule surfaced through 5 strategies incl. an exhaustive search sweep. Retryable.",
+  "startedAt": "2026-06-09T06:40:58.913Z",
+  "finishedAt": "2026-06-09T06:45:17.018Z",
+  "updatedAt": "2026-06-09T08:37:08.011Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.200Z",
@@ -53,6 +53,406 @@
     {
       "t": "2026-06-08T17:36:30.209Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T06:40:58.914Z",
+      "msg": "▶ Solving Taft College — https://www.taftcollege.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T06:40:58.914Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T06:40:59.139Z",
+      "msg": "  explore https://www.taftcollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:40:59.556Z",
+      "msg": "  explore https://www.taftcollege.edu/o/admissionsandrecords/page/register-for-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:40:59.651Z",
+      "msg": "  explore https://www.taftcollege.edu/o/admissionsandrecords/page/register-for-classes#container → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:00.218Z",
+      "msg": "  explore https://www.taftcollege.edu/o/academics/page/academics → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:00.701Z",
+      "msg": "  explore https://www.taftcollege.edu/o/academics/page/course-catalog-and-handbook → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:00.780Z",
+      "msg": "  explore https://www.taftcollege.edu/o/academics/page/course-catalog-and-handbook#container → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:01.456Z",
+      "msg": "  explore https://www.taftcollege.edu/o/academics/page/early-care-education-and-family-studies-certificate-of-achievement → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:02.224Z",
+      "msg": "  explore https://www.taftcollege.edu/o/academics/page/academic-divisions → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:02.828Z",
+      "msg": "  explore https://www.taftcollege.edu/o/sl/page/student-learning-outcomes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:03.676Z",
+      "msg": "  explore https://www.taftcollege.edu/o/admissionsandrecords/page/admissions → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:04.468Z",
+      "msg": "  explore https://www.taftcollege.edu/o/admissionsandrecords/page/apply-to-taft-college → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:05.186Z",
+      "msg": "  explore https://www.taftcollege.edu/o/admissionsandrecords/page/visit-taft-college → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:05.745Z",
+      "msg": "  explore https://www.taftcollege.edu/o/admissionsandrecords → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:05.826Z",
+      "msg": "  explore https://www.taftcollege.edu/o/academics/page/academics#container → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:06.130Z",
+      "msg": "  explore https://www.taftcollege.edu/o/academics → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:06.950Z",
+      "msg": "  explore https://www.taftcollege.edu/o/academics/page/degrees-and-certificates → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:07.055Z",
+      "msg": "  explore https://www.taftcollege.edu/o/academics/page/early-care-education-and-family-studies-certificate-of-achievement#container → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:07.140Z",
+      "msg": "  explore https://www.taftcollege.edu/o/academics/page/academic-divisions#container → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:08.018Z",
+      "msg": "  explore https://www.taftcollege.edu/o/academics/page/allied-health-programs-cte → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:08.114Z",
+      "msg": "  explore https://www.taftcollege.edu/o/sl/page/student-learning-outcomes#container → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:08.646Z",
+      "msg": "  explore https://www.taftcollege.edu/o/slo/forms/contact-us → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:09.433Z",
+      "msg": "  explore https://www.taftcollege.edu/o/iarp/page/data-dashboards → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:09.466Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T06:41:09.713Z",
+      "msg": "  sitemap https://www.taftcollege.edu/sitemap.xml → 30 entries"
+    },
+    {
+      "t": "2026-06-09T06:41:10.104Z",
+      "msg": "  sitemap https://www.taftcollege.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:41:10.714Z",
+      "msg": "  sitemap https://www.taftcollege.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:41:10.715Z",
+      "msg": "  sitemap mining → 30 URL(s), 1 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T06:41:11.373Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T06:41:14.741Z",
+      "msg": "  explore https://www.taftcollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:14.840Z",
+      "msg": "  explore https://www.taftcollege.edu/o/admissionsandrecords/page/register-for-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:14.925Z",
+      "msg": "  explore https://www.taftcollege.edu/o/admissionsandrecords/page/register-for-classes#container → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:15.581Z",
+      "msg": "  explore https://www.taftcollege.edu/article/2938081 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:16.087Z",
+      "msg": "  explore https://www.taftcollege.edu/staff?filter_ids=663811 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:16.195Z",
+      "msg": "  explore https://www.taftcollege.edu/o/academics/page/academics → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:16.298Z",
+      "msg": "  explore https://www.taftcollege.edu/o/academics/page/course-catalog-and-handbook → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:16.392Z",
+      "msg": "  explore https://www.taftcollege.edu/o/academics/page/course-catalog-and-handbook#container → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:16.451Z",
+      "msg": "  explore https://www.taftcollege.edu/o/academics/page/early-care-education-and-family-studies-certificate-of-achievement → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:16.553Z",
+      "msg": "  explore https://www.taftcollege.edu/o/academics/page/academic-divisions → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:16.651Z",
+      "msg": "  explore https://www.taftcollege.edu/o/sl/page/student-learning-outcomes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:16.732Z",
+      "msg": "  explore https://www.taftcollege.edu/o/admissionsandrecords/page/admissions → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:16.827Z",
+      "msg": "  explore https://www.taftcollege.edu/o/admissionsandrecords → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:16.922Z",
+      "msg": "  explore https://www.taftcollege.edu/o/admissionsandrecords/page/visit-taft-college → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:41:16.952Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T06:43:16.955Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:43:17.012Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T06:43:30.661Z",
+      "msg": "  google \"Taft College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:45:17.016Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:45:17.017Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T06:45:40.772Z",
+      "msg": "search \"Taft College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:45:54.914Z",
+      "msg": "  google \"Taft College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:47:53.189Z",
+      "msg": "search \"Taft College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:48:07.696Z",
+      "msg": "  google \"Taft College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:50:15.132Z",
+      "msg": "search \"Taft College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:50:30.277Z",
+      "msg": "  google \"Taft College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:52:28.834Z",
+      "msg": "search \"Taft College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:52:41.981Z",
+      "msg": "  google \"Taft College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:57:57.962Z",
+      "msg": "search \"Taft College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T07:08:57.109Z",
+      "msg": "  google \"Taft College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T07:43:20.460Z",
+      "msg": "search \"Taft College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T07:43:20.460Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T07:43:20.461Z",
+      "msg": "Top candidate: https://www.taftcollege.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T07:43:21.311Z",
+      "msg": "probe https://www.taftcollege.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:21.902Z",
+      "msg": "probe https://www.taftcollege.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:22.121Z",
+      "msg": "probe https://www.taftcollege.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:22.322Z",
+      "msg": "probe https://www.taftcollege.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:22.958Z",
+      "msg": "probe https://www.taftcollege.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:23.355Z",
+      "msg": "probe https://www.taftcollege.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:23.564Z",
+      "msg": "probe https://www.taftcollege.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:24.214Z",
+      "msg": "probe https://www.taftcollege.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:24.803Z",
+      "msg": "probe https://www.taftcollege.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:25.115Z",
+      "msg": "probe https://taftcollege.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:25.238Z",
+      "msg": "probe https://taftcollege.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:25.349Z",
+      "msg": "probe https://taftcollege.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:25.459Z",
+      "msg": "probe https://taftcollege.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:25.584Z",
+      "msg": "probe https://taftcollege.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:25.709Z",
+      "msg": "probe https://taftcollege.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:25.822Z",
+      "msg": "probe https://taftcollege.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:25.934Z",
+      "msg": "probe https://taftcollege.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:26.048Z",
+      "msg": "probe https://taftcollege.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T07:43:30.981Z",
+      "msg": "probe https://ssb.taftcollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T07:43:35.656Z",
+      "msg": "probe https://banner.taftcollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T07:43:39.948Z",
+      "msg": "probe https://selfservice.taftcollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T07:59:37.702Z",
+      "msg": "  google \"Taft College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T07:59:39.274Z",
+      "msg": "probe https://ssb-prod.taftcollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T07:59:43.553Z",
+      "msg": "probe https://my.taftcollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T07:59:48.227Z",
+      "msg": "probe https://webadvisor.taftcollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T07:59:52.628Z",
+      "msg": "probe https://reg.taftcollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T07:59:57.643Z",
+      "msg": "probe https://catalog.taftcollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T08:00:01.948Z",
+      "msg": "probe https://catalog.taftcollege.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T08:00:06.544Z",
+      "msg": "probe https://catalog.taftcollege.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T08:00:06.545Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T08:16:58.670Z",
+      "msg": "  google \"Taft College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:06.049Z",
+      "msg": "  google \"Taft College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:06.622Z",
+      "msg": "  google \"Taft College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:07.100Z",
+      "msg": "  google \"Taft College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:07.565Z",
+      "msg": "  google \"site:taftcollege.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:08.010Z",
+      "msg": "  google \"site:taftcollege.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:08.011Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
     }
   ]
 }

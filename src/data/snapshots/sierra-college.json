@@ -1,7 +1,7 @@
 {
   "slug": "sierra-college",
-  "scrapedAt": "2026-06-06T00:51:38.463Z",
-  "count": 2217,
+  "scrapedAt": "2026-06-09T13:27:58.227Z",
+  "count": 2214,
   "courses": [
     {
       "code": "ADMJ 0050",
@@ -9711,17 +9711,6 @@
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "4",
-      "instructor": null,
-      "section": "101",
-      "description": "Hybrid (online and classroom) · Rocklin Campus",
-      "url": "https://ss.oci.sierracollege.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
-    },
-    {
-      "code": "ENGL C1000",
-      "title": "Academic Reading and Writing",
-      "modality": "hybrid",
-      "term": "Fall 2026",
-      "units": "4",
       "instructor": "Perry, Ryan J.",
       "section": "102",
       "description": "Hybrid (online and classroom) · Rocklin Campus",
@@ -11220,17 +11209,6 @@
       "units": "3",
       "instructor": "Meyer, Kris M.",
       "section": "719",
-      "description": "Online · Distance Learning",
-      "url": "https://ss.oci.sierracollege.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
-    },
-    {
-      "code": "ENGL C1002",
-      "title": "Introduction to Literature",
-      "modality": "online",
-      "term": "Fall 2026",
-      "units": "3",
-      "instructor": "Mcevoy, Brandi",
-      "section": "720",
       "description": "Online · Distance Learning",
       "url": "https://ss.oci.sierracollege.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
     },
@@ -15081,17 +15059,6 @@
       "units": "3",
       "instructor": "Davis, Sally",
       "section": "803",
-      "description": "Online · Distance Learning",
-      "url": "https://ss.oci.sierracollege.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
-    },
-    {
-      "code": "HIST C1001",
-      "title": "United States History to 1877",
-      "modality": "online",
-      "term": "Fall 2026",
-      "units": "3",
-      "instructor": "Davis, Sally",
-      "section": "804",
       "description": "Online · Distance Learning",
       "url": "https://ss.oci.sierracollege.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
     },

@@ -3,16 +3,16 @@
   "name": "Gavilan College",
   "url": "https://www.gavilan.edu/",
   "status": "blocked",
-  "attempts": 8,
+  "attempts": 13,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
   "blocked": "login",
   "note": "Class schedule requires sign-in (the only acceptable hard stop).",
-  "startedAt": "2026-06-08T23:36:53.210Z",
-  "finishedAt": "2026-06-08T23:40:54.896Z",
-  "updatedAt": "2026-06-08T23:40:54.896Z",
+  "startedAt": "2026-06-09T04:13:01.697Z",
+  "finishedAt": "2026-06-09T04:16:21.392Z",
+  "updatedAt": "2026-06-09T04:16:21.392Z",
   "log": [
     {
       "t": "2026-06-08T17:28:04.280Z",
@@ -724,6 +724,398 @@
     },
     {
       "t": "2026-06-08T23:40:54.895Z",
+      "msg": "🔒 BLOCKED — the class schedule is gated behind a sign-in page. That is the one legitimate stop."
+    },
+    {
+      "t": "2026-06-09T04:13:01.699Z",
+      "msg": "▶ Solving Gavilan College — https://www.gavilan.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T04:13:01.700Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T04:13:01.970Z",
+      "msg": "  explore https://www.gavilan.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:02.178Z",
+      "msg": "  explore https://www.gavilan.edu/admit/schedule/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:02.238Z",
+      "msg": "  explore https://www.gavilan.edu/admit/schedule/2026_summer_fall/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:02.884Z",
+      "msg": "  explore https://www.gavilan.edu/admit/schedule/2026_summer_fall/pdf/GC-2026Sum-CoyoteValley.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:03.538Z",
+      "msg": "  explore https://www.gavilan.edu/admit/schedule/2026_summer_fall/pdf/GC-2026Sum-Gilroy.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:04.047Z",
+      "msg": "  explore https://www.gavilan.edu/admit/schedule/2026_summer_fall/pdf/GC-2026Sum-Hollister.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:04.156Z",
+      "msg": "  explore https://www.gavilan.edu/admit/schedule/enrollment_guide.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:04.207Z",
+      "msg": "  explore https://www.gavilan.edu/admit/schedule/enrollment_guide.php#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:04.271Z",
+      "msg": "  explore https://www.gavilan.edu/counseling/docs/2020/howToRegisterAfterTheClassHasBegun.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:04.325Z",
+      "msg": "  explore https://www.gavilan.edu/catalog/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:04.384Z",
+      "msg": "  explore https://www.gavilan.edu/student/online/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:04.439Z",
+      "msg": "  explore https://www.gavilan.edu/student/enrollment/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:04.492Z",
+      "msg": "  explore https://www.gavilan.edu/catalog/index.php#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:04.564Z",
+      "msg": "  explore https://www.gavilan.edu/catalog/docs/2025/AP-2025-2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:05.567Z",
+      "msg": "  explore https://ilearn.gavilan.edu/enroll/FFLHLD → 🔒 sign-in page (skipping, continuing with other links)"
+    },
+    {
+      "t": "2026-06-09T04:13:05.625Z",
+      "msg": "  explore https://www.gavilan.edu/student/online/classes.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:05.684Z",
+      "msg": "  explore https://www.gavilan.edu/student/online/orientation.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:05.740Z",
+      "msg": "  explore https://www.gavilan.edu/student/enrollment/index.php#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:05.800Z",
+      "msg": "  explore https://www.gavilan.edu/admit/schedule/previous_sem/2019_winter_spring/steps_success.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:13:05.859Z",
+      "msg": "  explore https://www.gavilan.edu/admit/schedule/previous_sem/2019_winter_spring/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:14:13.590Z",
+      "msg": "  explore https://banweb2.gavilan.edu/ssb/bwckschd.p_disp_dyn_sched → unreachable"
+    },
+    {
+      "t": "2026-06-09T04:14:13.869Z",
+      "msg": "  explore https://www.gavilan.edu/admit/reg_schedule.php → unreachable"
+    },
+    {
+      "t": "2026-06-09T04:14:13.870Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T04:14:13.960Z",
+      "msg": "  sitemap https://www.gavilan.edu/sitemap.xml → none"
+    },
+    {
+      "t": "2026-06-09T04:14:14.007Z",
+      "msg": "  sitemap https://www.gavilan.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T04:14:14.052Z",
+      "msg": "  sitemap https://www.gavilan.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T04:14:14.053Z",
+      "msg": "  sitemap mining → 0 URL(s), 0 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T04:14:14.054Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T04:14:15.936Z",
+      "msg": "  explore https://www.gavilan.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:14:16.037Z",
+      "msg": "  explore https://www.gavilan.edu/admit/schedule/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:14:16.090Z",
+      "msg": "  explore https://www.gavilan.edu/admit/schedule/2026_summer_fall/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:14:16.693Z",
+      "msg": "  explore https://www.gavilan.edu/admit/schedule/2026_summer_fall/pdf/GC-2026Sum-CoyoteValley.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:14:17.410Z",
+      "msg": "  explore https://www.gavilan.edu/admit/schedule/2026_summer_fall/pdf/GC-2026Sum-Gilroy.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:14:17.872Z",
+      "msg": "  explore https://www.gavilan.edu/admit/schedule/2026_summer_fall/pdf/GC-2026Sum-Hollister.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:14:17.973Z",
+      "msg": "  explore https://www.gavilan.edu/admit/schedule/enrollment_guide.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:14:18.024Z",
+      "msg": "  explore https://www.gavilan.edu/admit/schedule/enrollment_guide.php#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:14:18.085Z",
+      "msg": "  explore https://www.gavilan.edu/counseling/docs/2020/howToRegisterAfterTheClassHasBegun.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:14:18.130Z",
+      "msg": "  explore https://www.gavilan.edu/catalog/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:14:18.181Z",
+      "msg": "  explore https://www.gavilan.edu/student/online/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:14:18.231Z",
+      "msg": "  explore https://www.gavilan.edu/student/enrollment/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:14:18.282Z",
+      "msg": "  explore https://www.gavilan.edu/catalog/index.php#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:14:18.348Z",
+      "msg": "  explore https://www.gavilan.edu/catalog/docs/2025/AP-2025-2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:14:18.356Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T04:14:19.519Z",
+      "msg": "  google \"Gavilan College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:14:20.093Z",
+      "msg": "  google \"Gavilan College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:14:20.678Z",
+      "msg": "  google \"Gavilan College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:14:21.257Z",
+      "msg": "  google \"Gavilan College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:14:21.830Z",
+      "msg": "  google \"Gavilan College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:14:22.418Z",
+      "msg": "  google \"Gavilan College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:14:23.025Z",
+      "msg": "  google \"Gavilan College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:14:23.819Z",
+      "msg": "  google \"Gavilan College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:14:24.413Z",
+      "msg": "  google \"Gavilan College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:14:24.997Z",
+      "msg": "  google \"Gavilan College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:14:25.581Z",
+      "msg": "  google \"Gavilan College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:14:26.145Z",
+      "msg": "  google \"site:gavilan.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:14:26.692Z",
+      "msg": "  google \"site:gavilan.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:14:26.693Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
+    },
+    {
+      "t": "2026-06-09T04:14:26.694Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T04:14:27.279Z",
+      "msg": "search \"Gavilan College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:14:27.850Z",
+      "msg": "search \"Gavilan College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:14:28.420Z",
+      "msg": "search \"Gavilan College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:14:29.013Z",
+      "msg": "search \"Gavilan College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:14:29.683Z",
+      "msg": "search \"Gavilan College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:14:30.286Z",
+      "msg": "search \"Gavilan College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:14:30.287Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T04:14:30.288Z",
+      "msg": "Top candidate: https://www.gavilan.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T04:14:30.455Z",
+      "msg": "probe https://www.gavilan.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:14:30.590Z",
+      "msg": "probe https://www.gavilan.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:14:30.636Z",
+      "msg": "probe https://www.gavilan.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:14:30.683Z",
+      "msg": "probe https://www.gavilan.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:14:30.731Z",
+      "msg": "probe https://www.gavilan.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:14:30.778Z",
+      "msg": "probe https://www.gavilan.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:14:30.820Z",
+      "msg": "probe https://www.gavilan.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:14:30.869Z",
+      "msg": "probe https://www.gavilan.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:14:30.921Z",
+      "msg": "probe https://www.gavilan.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:14:31.118Z",
+      "msg": "probe https://gavilan.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:14:31.215Z",
+      "msg": "probe https://gavilan.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:14:31.308Z",
+      "msg": "probe https://gavilan.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:14:31.397Z",
+      "msg": "probe https://gavilan.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:14:31.496Z",
+      "msg": "probe https://gavilan.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:14:31.586Z",
+      "msg": "probe https://gavilan.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:14:31.675Z",
+      "msg": "probe https://gavilan.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:14:31.766Z",
+      "msg": "probe https://gavilan.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:14:31.861Z",
+      "msg": "probe https://gavilan.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:15:39.654Z",
+      "msg": "probe https://ssb.gavilan.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:15:44.065Z",
+      "msg": "probe https://banner.gavilan.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:15:48.507Z",
+      "msg": "probe https://selfservice.gavilan.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:15:53.337Z",
+      "msg": "probe https://ssb-prod.gavilan.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:15:58.226Z",
+      "msg": "probe https://my.gavilan.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:16:02.966Z",
+      "msg": "probe https://webadvisor.gavilan.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:16:07.452Z",
+      "msg": "probe https://reg.gavilan.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:16:11.982Z",
+      "msg": "probe https://catalog.gavilan.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:16:16.788Z",
+      "msg": "probe https://catalog.gavilan.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:16:21.388Z",
+      "msg": "probe https://catalog.gavilan.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:16:21.389Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T04:16:21.391Z",
       "msg": "🔒 BLOCKED — the class schedule is gated behind a sign-in page. That is the one legitimate stop."
     }
   ]

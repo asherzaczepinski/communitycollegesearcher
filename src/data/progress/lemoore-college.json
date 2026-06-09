@@ -2,17 +2,17 @@
   "slug": "lemoore-college",
   "name": "Lemoore College",
   "url": "https://www.westhillscollege.com/lemoore/",
-  "status": "impossible",
-  "attempts": 8,
-  "courseCount": 0,
-  "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "status": "live",
+  "attempts": 9,
+  "courseCount": 412,
+  "modalityCoverage": 0.993,
+  "method": "auto",
+  "extractUrl": "https://westhillscollege.com/schedule/",
   "blocked": null,
-  "note": "No login wall found, but no public schedule surfaced through 5 strategies incl. an exhaustive search sweep. Retryable.",
-  "startedAt": "2026-06-09T00:29:39.930Z",
-  "finishedAt": "2026-06-09T01:05:44.948Z",
-  "updatedAt": "2026-06-09T01:05:44.948Z",
+  "note": "Solved via \"Explore real homepage links (HTTP)\" — 412 courses from https://westhillscollege.com/schedule/.",
+  "startedAt": "2026-06-09T04:16:21.393Z",
+  "finishedAt": "2026-06-09T04:16:22.862Z",
+  "updatedAt": "2026-06-09T04:16:22.862Z",
   "log": [
     {
       "t": "2026-06-08T17:36:29.819Z",
@@ -525,6 +525,39 @@
     {
       "t": "2026-06-09T01:05:44.947Z",
       "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T04:16:21.393Z",
+      "msg": "▶ Solving Lemoore College — https://www.westhillscollege.com/lemoore/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T04:16:21.394Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T04:16:22.260Z",
+      "msg": "  explore https://www.westhillscollege.com/lemoore/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:16:22.414Z",
+      "msg": "  explore https://westhillscollege.com/district/departments/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:16:22.851Z",
+      "msg": "  explore https://westhillscollege.com/schedule/ → 412 course(s) (99% modality)"
+    },
+    {
+      "t": "2026-06-09T04:16:22.852Z",
+      "msg": "   ✓ \"Explore real homepage links (HTTP)\" found 412 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:16:22.852Z",
+      "msg": "   solid haul (412 courses) — stopping strategy ladder."
+    },
+    {
+      "t": "2026-06-09T04:16:22.861Z",
+      "msg": "✅ SOLVED — 412 courses ingested into the searchable DB (strategy: Explore real homepage links (HTTP))."
     }
-  ]
+  ],
+  "strategy": "Explore real homepage links (HTTP)"
 }

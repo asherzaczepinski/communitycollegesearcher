@@ -134,6 +134,7 @@ main { max-width: 960px; margin: 0 auto; padding: 24px 16px 64px; }
 .src { font-size: 0.72rem; margin-left: 6px; }
 .src.real { color: var(--online); }
 .src.sample { color: var(--muted); }
+.src.cvc { color: var(--accent); }
 
 .empty { color: var(--muted); text-align: center; padding: 48px 0; }
 
@@ -286,6 +287,17 @@ footer a:hover { text-decoration: underline; }
 .cr-right { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
 .rc { color: var(--text); font-size: 0.85rem; }
 .rc.muted { color: var(--muted); }
+
+/* Provenance + modality line under each college */
+.cr-meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: 6px; }
+.cr-mods { color: var(--muted); font-size: 0.78rem; }
+.badge {
+  font-size: 0.72rem; font-weight: 600; padding: 2px 8px; border-radius: 999px;
+  border: 1px solid var(--border); background: var(--panel-2); color: var(--text);
+  white-space: nowrap;
+}
+.badge.src { color: var(--accent); border-color: color-mix(in srgb, var(--accent) 40%, var(--border)); }
+.badge.warn { color: var(--in-person); border-color: color-mix(in srgb, var(--in-person) 45%, var(--border)); }
 
 .btn {
   padding: 7px 13px;

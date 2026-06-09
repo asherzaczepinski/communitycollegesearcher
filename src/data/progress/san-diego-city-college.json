@@ -2,17 +2,17 @@
   "slug": "san-diego-city-college",
   "name": "San Diego City College",
   "url": "https://www.sdcity.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
-  "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 18,
+  "modalityCoverage": 0.056,
+  "method": "auto",
+  "extractUrl": "https://www.sdcity.edu/future-students/outreach.aspx",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.134Z",
-  "finishedAt": "2026-06-08T17:36:30.141Z",
-  "updatedAt": "2026-06-08T17:36:30.141Z",
+  "note": "Solved via \"Explore real homepage links (HTTP)\" — 18 courses from https://www.sdcity.edu/future-students/outreach.aspx.",
+  "startedAt": "2026-06-09T06:14:32.837Z",
+  "finishedAt": "2026-06-09T06:18:07.404Z",
+  "updatedAt": "2026-06-09T06:18:07.404Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.135Z",
@@ -53,6 +53,407 @@
     {
       "t": "2026-06-08T17:36:30.141Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T06:14:32.837Z",
+      "msg": "▶ Solving San Diego City College — https://www.sdcity.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T06:14:32.838Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.011Z",
+      "msg": "  explore https://www.sdcity.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.060Z",
+      "msg": "  explore https://www.sdcity.edu/students/schedule.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.108Z",
+      "msg": "  explore https://www.sdcity.edu/future-students/steps.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.158Z",
+      "msg": "  explore https://www.sdcity.edu/students/schedule.aspx#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.206Z",
+      "msg": "  explore https://www.sdcity.edu/students/schedule.aspx#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.252Z",
+      "msg": "  explore https://www.sdcity.edu/students/schedule.aspx# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.312Z",
+      "msg": "  explore https://www.sdcity.edu/academics/schools-programs/online-classes.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.376Z",
+      "msg": "  explore https://www.sdcity.edu/students/concurrent.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.417Z",
+      "msg": "  explore https://www.sdcity.edu/academics/academic-resources/zero-textbooks-cost/index.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.466Z",
+      "msg": "  explore https://www.sdcity.edu/academics/academic-resources/zero-textbooks-cost/faculty.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.532Z",
+      "msg": "  explore https://www.sdcity.edu/future-students/outreach.aspx#tours → 18 course(s) (6% modality)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.583Z",
+      "msg": "  explore https://www.sdcity.edu/about/achievements/index.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.634Z",
+      "msg": "  explore https://www.sdcity.edu/academics/index.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.678Z",
+      "msg": "  explore https://www.sdcity.edu/academics/schools-programs/program-finder.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.744Z",
+      "msg": "  explore https://www.sdcity.edu/future-students/steps.aspx#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.794Z",
+      "msg": "  explore https://www.sdcity.edu/future-students/steps.aspx#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.856Z",
+      "msg": "  explore https://www.sdcity.edu/future-students/steps.aspx# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.912Z",
+      "msg": "  explore https://www.sdcity.edu/academics/academic-resources/zero-textbooks-cost/index.aspx#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:33.961Z",
+      "msg": "  explore https://www.sdcity.edu/academics/academic-resources/zero-textbooks-cost/index.aspx#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:34.016Z",
+      "msg": "  explore https://www.sdcity.edu/academics/academic-resources/zero-textbooks-cost/index.aspx# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:34.071Z",
+      "msg": "  explore https://www.sdcity.edu/academics/academic-resources/zero-textbooks-cost/faculty.aspx#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:34.130Z",
+      "msg": "  explore https://www.sdcity.edu/academics/academic-resources/zero-textbooks-cost/faculty.aspx#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:34.139Z",
+      "msg": "   ✓ \"Explore real homepage links (HTTP)\" found 18 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:34.139Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T06:14:34.208Z",
+      "msg": "  sitemap https://www.sdcity.edu/sitemap.xml → 450 entries"
+    },
+    {
+      "t": "2026-06-09T06:14:34.243Z",
+      "msg": "  sitemap https://www.sdcity.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:14:34.276Z",
+      "msg": "  sitemap https://www.sdcity.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:14:34.277Z",
+      "msg": "  sitemap mining → 450 URL(s), 46 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T06:14:35.709Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T06:14:38.799Z",
+      "msg": "  explore https://www.sdcity.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:38.904Z",
+      "msg": "  explore https://www.sdcity.edu/students/schedule.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:38.950Z",
+      "msg": "  explore https://www.sdcity.edu/future-students/steps.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:38.998Z",
+      "msg": "  explore https://www.sdcity.edu/students/schedule.aspx#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:39.042Z",
+      "msg": "  explore https://www.sdcity.edu/students/schedule.aspx#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:39.089Z",
+      "msg": "  explore https://www.sdcity.edu/students/schedule.aspx# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:39.132Z",
+      "msg": "  explore https://www.sdcity.edu/academics/schools-programs/online-classes.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:39.178Z",
+      "msg": "  explore https://www.sdcity.edu/students/concurrent.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:39.214Z",
+      "msg": "  explore https://www.sdcity.edu/academics/academic-resources/zero-textbooks-cost/index.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:39.260Z",
+      "msg": "  explore https://www.sdcity.edu/academics/academic-resources/zero-textbooks-cost/faculty.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:39.311Z",
+      "msg": "  explore https://www.sdcity.edu/future-students/outreach.aspx#tours → 18 course(s) (6% modality)"
+    },
+    {
+      "t": "2026-06-09T06:14:39.353Z",
+      "msg": "  explore https://www.sdcity.edu/about/achievements/index.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:39.396Z",
+      "msg": "  explore https://www.sdcity.edu/academics/index.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:39.439Z",
+      "msg": "  explore https://www.sdcity.edu/academics/schools-programs/program-finder.aspx → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:14:39.441Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T06:16:39.443Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:16:39.497Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T06:16:52.587Z",
+      "msg": "  google \"San Diego City College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:14.368Z",
+      "msg": "search \"San Diego City College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:17:15.006Z",
+      "msg": "search \"San Diego City College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:17:15.301Z",
+      "msg": "  google \"San Diego City College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:15.509Z",
+      "msg": "search \"San Diego City College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:17:15.779Z",
+      "msg": "  google \"San Diego City College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:15.982Z",
+      "msg": "search \"San Diego City College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:17:16.363Z",
+      "msg": "  google \"San Diego City College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:16.493Z",
+      "msg": "search \"San Diego City College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:17:16.832Z",
+      "msg": "  google \"San Diego City College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:17.012Z",
+      "msg": "search \"San Diego City College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:17:17.013Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T06:17:17.014Z",
+      "msg": "Top candidate: https://www.sdcity.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T06:17:17.127Z",
+      "msg": "probe https://www.sdcity.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:17.167Z",
+      "msg": "probe https://www.sdcity.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:17.202Z",
+      "msg": "probe https://www.sdcity.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:17.353Z",
+      "msg": "  google \"San Diego City College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:17.421Z",
+      "msg": "probe https://www.sdcity.edu/classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:17:17.455Z",
+      "msg": "probe https://www.sdcity.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:17.492Z",
+      "msg": "probe https://www.sdcity.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:17.528Z",
+      "msg": "probe https://www.sdcity.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:17.561Z",
+      "msg": "probe https://www.sdcity.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:17.595Z",
+      "msg": "probe https://www.sdcity.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:17.722Z",
+      "msg": "probe https://sdcity.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:17.759Z",
+      "msg": "probe https://sdcity.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:17.794Z",
+      "msg": "probe https://sdcity.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:17.915Z",
+      "msg": "  google \"San Diego City College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:18.009Z",
+      "msg": "probe https://sdcity.edu/classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:17:18.045Z",
+      "msg": "probe https://sdcity.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:18.084Z",
+      "msg": "probe https://sdcity.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:18.122Z",
+      "msg": "probe https://sdcity.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:18.176Z",
+      "msg": "probe https://sdcity.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:18.213Z",
+      "msg": "probe https://sdcity.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:17:18.483Z",
+      "msg": "  google \"San Diego City College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:19.027Z",
+      "msg": "  google \"San Diego City College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:19.614Z",
+      "msg": "  google \"San Diego City College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:20.098Z",
+      "msg": "  google \"San Diego City College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:20.565Z",
+      "msg": "  google \"site:sdcity.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:21.022Z",
+      "msg": "  google \"site:sdcity.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:21.024Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
+    },
+    {
+      "t": "2026-06-09T06:17:23.064Z",
+      "msg": "probe https://ssb.sdcity.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:17:27.737Z",
+      "msg": "probe https://banner.sdcity.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:17:32.261Z",
+      "msg": "probe https://selfservice.sdcity.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:17:36.508Z",
+      "msg": "probe https://ssb-prod.sdcity.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:17:37.275Z",
+      "msg": "probe https://my.sdcity.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:17:41.821Z",
+      "msg": "probe https://webadvisor.sdcity.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:17:53.885Z",
+      "msg": "probe https://reg.sdcity.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:17:58.743Z",
+      "msg": "probe https://catalog.sdcity.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:18:02.978Z",
+      "msg": "probe https://catalog.sdcity.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:18:07.393Z",
+      "msg": "probe https://catalog.sdcity.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:18:07.395Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T06:18:07.403Z",
+      "msg": "✅ SOLVED — 18 courses ingested into the searchable DB (strategy: Explore real homepage links (HTTP))."
     }
-  ]
+  ],
+  "strategy": "Explore real homepage links (HTTP)"
 }

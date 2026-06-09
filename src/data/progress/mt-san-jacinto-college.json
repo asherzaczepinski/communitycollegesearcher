@@ -2,17 +2,17 @@
   "slug": "mt-san-jacinto-college",
   "name": "Mt. San Jacinto College",
   "url": "https://www.msjc.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 18,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://catalog.msjc.edu/instructional-programs/nursing-registered-nursing/nursing-as/",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:29.994Z",
-  "finishedAt": "2026-06-08T17:36:30.002Z",
-  "updatedAt": "2026-06-08T17:36:30.002Z",
+  "note": "Solved via \"Explore real homepage links (HTTP)\" — 18 courses from https://catalog.msjc.edu/instructional-programs/nursing-registered-nursing/nursing-as/.",
+  "startedAt": "2026-06-09T04:37:37.024Z",
+  "finishedAt": "2026-06-09T04:47:39.466Z",
+  "updatedAt": "2026-06-09T06:05:09.263Z",
   "log": [
     {
       "t": "2026-06-08T17:36:29.994Z",
@@ -53,6 +53,415 @@
     {
       "t": "2026-06-08T17:36:30.002Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T04:37:37.025Z",
+      "msg": "▶ Solving Mt. San Jacinto College — https://www.msjc.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T04:37:37.025Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T04:37:37.361Z",
+      "msg": "  explore https://www.msjc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:37.470Z",
+      "msg": "  explore https://www.msjc.edu/scheduleofclasses/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:37.887Z",
+      "msg": "  explore https://selfservice.msjc.edu/css/courses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:39.079Z",
+      "msg": "  explore https://www.msjc.edu/scheduleofclasses/documents/FA26-full-schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:39.906Z",
+      "msg": "  explore https://www.msjc.edu/scheduleofclasses/documents/SU26-full-schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:40.113Z",
+      "msg": "  explore https://www.msjc.edu/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:40.238Z",
+      "msg": "  explore https://www.msjc.edu/catalog/general-education-patterns.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:40.361Z",
+      "msg": "  explore https://www.msjc.edu/catalog/general-education-patterns.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:40.576Z",
+      "msg": "  explore https://www.msjc.edu/catalog/documents/2021-2022/CSU-Ethnic-Studies-Flyer.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:41.070Z",
+      "msg": "  explore https://catalog.msjc.edu/courses/#coursesaztext → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:41.271Z",
+      "msg": "  explore https://www.msjc.edu/scheduleofclasses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:41.435Z",
+      "msg": "  explore https://catalog.msjc.edu/courses/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:41.912Z",
+      "msg": "  explore https://catalog.msjc.edu/degrees-certificates-curricula/awards/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:42.168Z",
+      "msg": "  explore https://catalog.msjc.edu/instructional-programs/nursing-registered-nursing/nursing-as/ → 18 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-09T04:37:42.323Z",
+      "msg": "  explore https://catalog.msjc.edu/degrees-certificates-curricula/awards/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:42.405Z",
+      "msg": "  explore https://catalog.msjc.edu/degrees-certificates-curricula/limitations-enrollment/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:42.487Z",
+      "msg": "  explore https://catalog.msjc.edu/admissions/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:42.575Z",
+      "msg": "  explore https://catalog.msjc.edu/admissions/schedule-classes/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:42.666Z",
+      "msg": "  explore https://catalog.msjc.edu/admissions/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:42.754Z",
+      "msg": "  explore https://catalog.msjc.edu/admissions/policy-open-enrollment/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:42.841Z",
+      "msg": "  explore https://catalog.msjc.edu/admissions/registration-process/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:42.923Z",
+      "msg": "  explore https://catalog.msjc.edu/student-fees/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:42.923Z",
+      "msg": "   ✓ \"Explore real homepage links (HTTP)\" found 18 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:42.924Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T04:37:43.289Z",
+      "msg": "  sitemap https://www.msjc.edu/sitemap.xml → 7547 entries"
+    },
+    {
+      "t": "2026-06-09T04:37:44.371Z",
+      "msg": "  sitemap https://www.msjc.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T04:37:44.471Z",
+      "msg": "  sitemap https://www.msjc.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T04:37:44.474Z",
+      "msg": "  sitemap mining → 7486 URL(s), 394 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T04:37:44.714Z",
+      "msg": "  sitemap probe https://msjc.edu/academicsenate/schedule.html → 2"
+    },
+    {
+      "t": "2026-06-09T04:37:48.789Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T04:37:52.299Z",
+      "msg": "  explore https://www.msjc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:52.609Z",
+      "msg": "  explore https://www.msjc.edu/scheduleofclasses/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:52.917Z",
+      "msg": "  explore https://selfservice.msjc.edu/css/courses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:54.072Z",
+      "msg": "  explore https://www.msjc.edu/scheduleofclasses/documents/FA26-full-schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:54.901Z",
+      "msg": "  explore https://www.msjc.edu/scheduleofclasses/documents/SU26-full-schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:55.083Z",
+      "msg": "  explore https://www.msjc.edu/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:55.192Z",
+      "msg": "  explore https://www.msjc.edu/catalog/general-education-patterns.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:55.308Z",
+      "msg": "  explore https://www.msjc.edu/catalog/general-education-patterns.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:55.505Z",
+      "msg": "  explore https://www.msjc.edu/catalog/documents/2021-2022/CSU-Ethnic-Studies-Flyer.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:55.738Z",
+      "msg": "  explore https://catalog.msjc.edu/courses/#coursesaztext → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:55.953Z",
+      "msg": "  explore https://www.msjc.edu/scheduleofclasses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:56.118Z",
+      "msg": "  explore https://catalog.msjc.edu/courses/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:56.592Z",
+      "msg": "  explore https://catalog.msjc.edu/degrees-certificates-curricula/awards/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:37:56.858Z",
+      "msg": "  explore https://catalog.msjc.edu/instructional-programs/nursing-registered-nursing/nursing-as/ → 18 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-09T04:37:56.858Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T04:39:56.863Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T04:39:56.925Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T04:40:09.704Z",
+      "msg": "  google \"Mt. San Jacinto College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:47:39.449Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T04:47:39.466Z",
+      "msg": "✅ SOLVED — 18 courses ingested into the searchable DB (strategy: Explore real homepage links (HTTP))."
+    },
+    {
+      "t": "2026-06-09T05:03:25.229Z",
+      "msg": "search \"Mt. San Jacinto College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T05:03:35.878Z",
+      "msg": "  google \"Mt. San Jacinto College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:08:42.020Z",
+      "msg": "search \"Mt. San Jacinto College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T05:08:51.904Z",
+      "msg": "  google \"Mt. San Jacinto College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:22:22.633Z",
+      "msg": "search \"Mt. San Jacinto College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T05:22:22.644Z",
+      "msg": "  google \"Mt. San Jacinto College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:34:51.967Z",
+      "msg": "search \"Mt. San Jacinto College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T05:34:52.394Z",
+      "msg": "  google \"Mt. San Jacinto College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:37:05.426Z",
+      "msg": "search \"Mt. San Jacinto College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T05:37:06.595Z",
+      "msg": "  google \"Mt. San Jacinto College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:41:14.845Z",
+      "msg": "  google \"Mt. San Jacinto College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:41:15.370Z",
+      "msg": "search \"Mt. San Jacinto College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T05:41:15.370Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T05:41:15.371Z",
+      "msg": "Top candidate: https://www.msjc.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T05:41:15.996Z",
+      "msg": "probe https://www.msjc.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T05:41:16.101Z",
+      "msg": "probe https://www.msjc.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:41:16.196Z",
+      "msg": "probe https://www.msjc.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:41:16.826Z",
+      "msg": "probe https://www.msjc.edu/classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T05:41:16.917Z",
+      "msg": "probe https://www.msjc.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:41:17.011Z",
+      "msg": "probe https://www.msjc.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:41:17.100Z",
+      "msg": "probe https://www.msjc.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:41:17.384Z",
+      "msg": "probe https://www.msjc.edu/academics/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T05:41:17.468Z",
+      "msg": "probe https://www.msjc.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:41:18.097Z",
+      "msg": "probe https://msjc.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T05:41:18.193Z",
+      "msg": "probe https://msjc.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:41:18.283Z",
+      "msg": "probe https://msjc.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:41:18.540Z",
+      "msg": "probe https://msjc.edu/classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T05:41:18.633Z",
+      "msg": "probe https://msjc.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:41:18.726Z",
+      "msg": "probe https://msjc.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:41:18.818Z",
+      "msg": "probe https://msjc.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:50:53.230Z",
+      "msg": "probe https://msjc.edu/academics/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T05:50:53.325Z",
+      "msg": "probe https://msjc.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:51:06.743Z",
+      "msg": "probe https://ssb.msjc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T05:51:18.351Z",
+      "msg": "probe https://banner.msjc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T05:51:20.653Z",
+      "msg": "probe https://selfservice.msjc.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T05:51:25.168Z",
+      "msg": "probe https://ssb-prod.msjc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T05:51:29.959Z",
+      "msg": "probe https://my.msjc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T05:51:34.351Z",
+      "msg": "probe https://webadvisor.msjc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T05:51:38.789Z",
+      "msg": "probe https://reg.msjc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T05:51:39.266Z",
+      "msg": "probe https://catalog.msjc.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T05:51:39.662Z",
+      "msg": "probe https://catalog.msjc.edu/course-outlines/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:51:39.830Z",
+      "msg": "probe https://catalog.msjc.edu/courses/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T05:51:39.831Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T05:53:10.568Z",
+      "msg": "  google \"Mt. San Jacinto College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:55:40.772Z",
+      "msg": "  google \"Mt. San Jacinto College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:58:31.343Z",
+      "msg": "  google \"Mt. San Jacinto College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:00:43.007Z",
+      "msg": "  google \"Mt. San Jacinto College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:02:56.810Z",
+      "msg": "  google \"site:msjc.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:05:09.262Z",
+      "msg": "  google \"site:msjc.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:05:09.263Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
     }
-  ]
+  ],
+  "strategy": "Explore real homepage links (HTTP)"
 }

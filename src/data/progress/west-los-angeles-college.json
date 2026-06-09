@@ -2,17 +2,17 @@
   "slug": "west-los-angeles-college",
   "name": "West Los Angeles College",
   "url": "https://www.wlac.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
-  "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 4,
+  "modalityCoverage": 0.25,
+  "method": "auto",
+  "extractUrl": "https://www.wlac.edu/admissions/dual-enrollment/concurrent-enrollment-how-to",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.224Z",
-  "finishedAt": "2026-06-08T17:36:30.230Z",
-  "updatedAt": "2026-06-08T17:36:30.230Z",
+  "note": "Solved via \"Explore real homepage links (HTTP)\" — 4 courses from https://www.wlac.edu/admissions/dual-enrollment/concurrent-enrollment-how-to.",
+  "startedAt": "2026-06-09T06:50:00.900Z",
+  "finishedAt": "2026-06-09T06:54:20.841Z",
+  "updatedAt": "2026-06-09T08:39:45.108Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.224Z",
@@ -53,6 +53,543 @@
     {
       "t": "2026-06-08T17:36:30.230Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T06:50:00.900Z",
+      "msg": "▶ Solving West Los Angeles College — https://www.wlac.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T06:50:00.900Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T06:50:01.203Z",
+      "msg": "  explore https://www.wlac.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:01.572Z",
+      "msg": "  explore https://www.wlac.edu/admissions/dual-enrollment/free-college-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:01.675Z",
+      "msg": "  explore https://www.wlac.edu/academics/class-schedules → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:01.778Z",
+      "msg": "  explore https://www.wlac.edu/academics/course-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:01.856Z",
+      "msg": "  explore https://www.wlac.edu/academics/course-catalog#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:03.436Z",
+      "msg": "  explore https://www.wlac.edu/academics/course-catalog/archive → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:03.538Z",
+      "msg": "  explore https://www.wlac.edu/academics/course-catalog# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:03.617Z",
+      "msg": "  explore https://www.wlac.edu/academics/course-catalog/archive#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:03.712Z",
+      "msg": "  explore https://www.wlac.edu/academics/course-catalog/archive# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:03.900Z",
+      "msg": "  explore https://www.wlac.edu/admissions/dual-enrollment/high-school-articulation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:03.981Z",
+      "msg": "  explore https://www.wlac.edu/academics/zero-cost-textbooks → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:04.094Z",
+      "msg": "  explore https://www.wlac.edu/admissions/first-time-students → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:04.247Z",
+      "msg": "  explore https://www.wlac.edu/admissions/dual-enrollment/high-school/free-college-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:04.338Z",
+      "msg": "  explore https://www.wlac.edu/admissions/dual-enrollment#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:04.420Z",
+      "msg": "  explore https://www.wlac.edu/academics/class-schedules#Fall-Classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:06.755Z",
+      "msg": "  explore https://www.wlac.edu/sites/wlac.edu/files/2024-08/catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:14.391Z",
+      "msg": "  explore https://www.wlac.edu/sites/wlac.edu/files/2025-06/2024_2025catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:14.483Z",
+      "msg": "  explore https://www.wlac.edu/admissions/dual-enrollment/hs-partners#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:14.568Z",
+      "msg": "  explore https://www.wlac.edu/admissions/dual-enrollment → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:14.630Z",
+      "msg": "  explore https://www.wlac.edu/admissions/dual-enrollment/concurrent-enrollment-how-to → 4 course(s) (25% modality)"
+    },
+    {
+      "t": "2026-06-09T06:50:14.695Z",
+      "msg": "  explore https://www.wlac.edu/admissions/dual-enrollment/hs-partners → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:14.828Z",
+      "msg": "  explore https://www.wlac.edu/Admissions/Dual-Enrollment/Concurrent-Enrollment-How-To → 4 course(s) (25% modality)"
+    },
+    {
+      "t": "2026-06-09T06:50:14.829Z",
+      "msg": "   ✓ \"Explore real homepage links (HTTP)\" found 4 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:14.829Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T06:50:14.925Z",
+      "msg": "  sitemap https://www.wlac.edu/sitemap.xml → 2 entries"
+    },
+    {
+      "t": "2026-06-09T06:50:15.668Z",
+      "msg": "  sitemap https://www.wlac.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:50:16.434Z",
+      "msg": "  sitemap https://www.wlac.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:50:16.435Z",
+      "msg": "  sitemap mining → 2 URL(s), 0 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T06:50:16.436Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T06:50:19.538Z",
+      "msg": "  explore https://www.wlac.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:19.695Z",
+      "msg": "  explore https://www.wlac.edu/admissions/dual-enrollment/free-college-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:19.780Z",
+      "msg": "  explore https://www.wlac.edu/academics/class-schedules → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:19.868Z",
+      "msg": "  explore https://www.wlac.edu/academics/course-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:19.938Z",
+      "msg": "  explore https://www.wlac.edu/academics/course-catalog#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:20.004Z",
+      "msg": "  explore https://www.wlac.edu/academics/course-catalog/archive → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:20.070Z",
+      "msg": "  explore https://www.wlac.edu/academics/course-catalog# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:20.135Z",
+      "msg": "  explore https://www.wlac.edu/academics/course-catalog/archive#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:20.214Z",
+      "msg": "  explore https://www.wlac.edu/academics/course-catalog/archive# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:20.354Z",
+      "msg": "  explore https://www.wlac.edu/admissions/dual-enrollment/high-school-articulation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:20.453Z",
+      "msg": "  explore https://www.wlac.edu/academics/zero-cost-textbooks → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:20.549Z",
+      "msg": "  explore https://www.wlac.edu/admissions/first-time-students → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:20.699Z",
+      "msg": "  explore https://www.wlac.edu/admissions/dual-enrollment/high-school/free-college-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:20.766Z",
+      "msg": "  explore https://www.wlac.edu/admissions/dual-enrollment#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:20.772Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T06:52:20.774Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:52:20.837Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T06:52:33.489Z",
+      "msg": "  google \"West Los Angeles College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:54:20.837Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:54:20.840Z",
+      "msg": "✅ SOLVED — 4 courses ingested into the searchable DB (strategy: Explore real homepage links (HTTP))."
+    },
+    {
+      "t": "2026-06-09T06:57:57.968Z",
+      "msg": "search \"West Los Angeles College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:58:08.680Z",
+      "msg": "  google \"West Los Angeles College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T07:43:20.317Z",
+      "msg": "search \"West Los Angeles College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T07:43:31.836Z",
+      "msg": "  google \"West Los Angeles College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:09:59.372Z",
+      "msg": "search \"West Los Angeles College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T08:16:47.641Z",
+      "msg": "  google \"West Los Angeles College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:05.173Z",
+      "msg": "  google \"West Los Angeles College class schedule fall 2026\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:05.343Z",
+      "msg": "search \"West Los Angeles College class search self service\" → 8 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-09T08:37:05.834Z",
+      "msg": "  google \"West Los Angeles College public class search\" → 0 hit(s) (+0 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:06.298Z",
+      "msg": "search \"West Los Angeles College course catalog\" → 0 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-09T08:37:06.314Z",
+      "msg": "  google \"West Los Angeles College self service banner class search\" → 0 hit(s) (+0 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:06.771Z",
+      "msg": "search \"West Los Angeles College student registration class search\" → 0 hit(s) (8 unique so far)"
+    },
+    {
+      "t": "2026-06-09T08:37:06.772Z",
+      "msg": "Web search returned 8 result(s)."
+    },
+    {
+      "t": "2026-06-09T08:37:06.772Z",
+      "msg": "Top candidate: https://www.wlac.edu/academics/class-schedules (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T08:37:06.781Z",
+      "msg": "  google \"West Los Angeles College ellucian self service class schedule\" → 0 hit(s) (+0 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:07.069Z",
+      "msg": "probe https://www.wlac.edu/academics/class-schedules → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T08:37:07.237Z",
+      "msg": "  google \"West Los Angeles College webadvisor class schedule\" → 0 hit(s) (+0 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:07.370Z",
+      "msg": "probe https://www.lacc.edu/academics/class-schedules → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T08:37:07.511Z",
+      "msg": "probe https://sso.laccd.edu/adfs/ls/idpinitiatedsignon.aspx?loginToRp=csprd.laccd.edu → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T08:37:07.723Z",
+      "msg": "  google \"West Los Angeles College courses by subject\" → 0 hit(s) (+0 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:08.181Z",
+      "msg": "  google \"West Los Angeles College course catalog\" → 0 hit(s) (+0 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:08.419Z",
+      "msg": "probe https://westlac.augusoft.net/index.cfm?fuseaction=2000 → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T08:37:08.656Z",
+      "msg": "  google \"site:wlac.edu schedule of classes\" → 0 hit(s) (+0 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:09.181Z",
+      "msg": "  google \"site:wlac.edu class schedule\" → 0 hit(s) (+0 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:09.464Z",
+      "msg": "  probe https://www.lavc.edu/academics/class-schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:10.752Z",
+      "msg": "  probe https://www.lasc.edu/academics/schedules → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:11.089Z",
+      "msg": "  probe https://www.elac.edu/academics/calendar-schedules/schedules → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:11.338Z",
+      "msg": "  probe https://mycollege-guest.laccd.edu/psc/classsearchguest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?Campus=WLAC&strm=2240 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:11.586Z",
+      "msg": "  probe https://www.wlac.edu/academics/class-schedules → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:12.027Z",
+      "msg": "  probe https://www.lattc.edu/academics/schedules → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:13.785Z",
+      "msg": "  probe https://catalog.wlac.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:14.027Z",
+      "msg": "  probe https://www.lavc.edu/academics/class-schedule#Catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:14.282Z",
+      "msg": "  probe https://www.lasc.edu/sites/lasc.edu/files/2025-10/Spring%202026%20Dual%20Enrollment%2010-21-2025.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:14.592Z",
+      "msg": "  probe https://www.lasc.edu/sites/lasc.edu/files/2025-10/Winter%202026%20Dual%20Enrollment%2010-21-2025.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:15.535Z",
+      "msg": "  probe https://www.laccd.edu/students/class-search-elac → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:15.792Z",
+      "msg": "  probe https://www.laccd.edu/students/class-search-wlac → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:16.257Z",
+      "msg": "  probe https://www.wlac.edu/admissions/dual-enrollment/free-college-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:16.343Z",
+      "msg": "  probe https://mycollege-guest.laccd.edu/psc/classsearchguest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?Campus=LATTC&strm=2268 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:16.343Z",
+      "msg": "  render+drive https://www.lavc.edu/academics/class-schedule …"
+    },
+    {
+      "t": "2026-06-09T08:37:30.922Z",
+      "msg": "probe https://wlac-csm.symplicity.com/students/?signin_tab=0 → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T08:37:31.808Z",
+      "msg": "probe https://wlac.verifymyfafsa.com/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T08:37:32.247Z",
+      "msg": "probe https://www.elac.edu/offices/it/sis → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T08:37:33.206Z",
+      "msg": "probe https://www.ed2go.com/westside/Enrollment/EnrollLogin.aspx → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T08:37:34.264Z",
+      "msg": "probe https://www.wlac.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:34.749Z",
+      "msg": "  render https://www.lavc.edu/academics/class-schedule → 11 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:34.749Z",
+      "msg": "  render+drive https://www.lasc.edu/academics/schedules …"
+    },
+    {
+      "t": "2026-06-09T08:37:35.209Z",
+      "msg": "probe https://www.wlac.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:35.918Z",
+      "msg": "probe https://www.wlac.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:36.677Z",
+      "msg": "probe https://www.wlac.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:37.403Z",
+      "msg": "probe https://www.wlac.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:38.113Z",
+      "msg": "probe https://www.wlac.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:38.923Z",
+      "msg": "probe https://www.wlac.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:39.741Z",
+      "msg": "probe https://www.wlac.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:40.490Z",
+      "msg": "probe https://www.wlac.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:40.848Z",
+      "msg": "probe https://wlac.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:41.039Z",
+      "msg": "probe https://wlac.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:41.133Z",
+      "msg": "probe https://wlac.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:41.299Z",
+      "msg": "probe https://wlac.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:41.384Z",
+      "msg": "probe https://wlac.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:41.525Z",
+      "msg": "probe https://wlac.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:41.637Z",
+      "msg": "probe https://wlac.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:41.846Z",
+      "msg": "probe https://wlac.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:41.940Z",
+      "msg": "probe https://wlac.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:46.806Z",
+      "msg": "probe https://ssb.wlac.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T08:37:51.284Z",
+      "msg": "probe https://banner.wlac.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T08:37:51.285Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T08:37:51.286Z",
+      "msg": "render (headless Chrome) https://www.wlac.edu/academics/class-schedules …"
+    },
+    {
+      "t": "2026-06-09T08:37:59.592Z",
+      "msg": "  render https://www.lasc.edu/academics/schedules → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:59.592Z",
+      "msg": "  render+drive https://www.elac.edu/academics/calendar-schedules/schedules …"
+    },
+    {
+      "t": "2026-06-09T08:38:28.947Z",
+      "msg": "browser https://www.wlac.edu/academics/class-schedules → 0 courses"
+    },
+    {
+      "t": "2026-06-09T08:38:28.947Z",
+      "msg": "render (headless Chrome) https://www.lacc.edu/academics/class-schedules …"
+    },
+    {
+      "t": "2026-06-09T08:38:42.232Z",
+      "msg": "  render https://www.elac.edu/academics/calendar-schedules/schedules → 45 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:38:42.233Z",
+      "msg": "  render+drive https://mycollege-guest.laccd.edu/psc/classsearchguest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?Campus=WLAC&strm=2240 …"
+    },
+    {
+      "t": "2026-06-09T08:39:03.449Z",
+      "msg": "browser https://www.lacc.edu/academics/class-schedules → 0 courses"
+    },
+    {
+      "t": "2026-06-09T08:39:03.450Z",
+      "msg": "render (headless Chrome) https://sso.laccd.edu/adfs/ls/idpinitiatedsignon.aspx?loginToRp=csprd.laccd.edu …"
+    },
+    {
+      "t": "2026-06-09T08:39:24.554Z",
+      "msg": "  render https://mycollege-guest.laccd.edu/psc/classsearchguest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?Campus=WLAC&strm=2240 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:39:29.178Z",
+      "msg": "browser https://sso.laccd.edu/adfs/ls/idpinitiatedsignon.aspx?loginToRp=csprd.laccd.edu → 0 courses [login]"
+    },
+    {
+      "t": "2026-06-09T08:39:29.179Z",
+      "msg": "render (headless Chrome) https://westlac.augusoft.net/index.cfm?fuseaction=2000 …"
+    },
+    {
+      "t": "2026-06-09T08:39:34.447Z",
+      "msg": "browser https://westlac.augusoft.net/index.cfm?fuseaction=2000 → 0 courses [login]"
+    },
+    {
+      "t": "2026-06-09T08:39:34.448Z",
+      "msg": "render (headless Chrome) https://wlac-csm.symplicity.com/students/?signin_tab=0 …"
+    },
+    {
+      "t": "2026-06-09T08:39:40.049Z",
+      "msg": "browser https://wlac-csm.symplicity.com/students/?signin_tab=0 → 0 courses [login]"
+    },
+    {
+      "t": "2026-06-09T08:39:40.050Z",
+      "msg": "render (headless Chrome) https://wlac.verifymyfafsa.com/ …"
+    },
+    {
+      "t": "2026-06-09T08:39:45.108Z",
+      "msg": "browser https://wlac.verifymyfafsa.com/ → 0 courses [login]"
     }
-  ]
+  ],
+  "strategy": "Explore real homepage links (HTTP)"
 }

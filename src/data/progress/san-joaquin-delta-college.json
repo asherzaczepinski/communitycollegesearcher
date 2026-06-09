@@ -2,17 +2,17 @@
   "slug": "san-joaquin-delta-college",
   "name": "San Joaquin Delta College",
   "url": "https://www.deltacollege.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 23,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://www.deltacollege.edu/admission-aid/registration-and-key-dates",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.158Z",
-  "finishedAt": "2026-06-08T17:36:30.164Z",
-  "updatedAt": "2026-06-08T17:36:30.164Z",
+  "note": "Solved via \"Explore real homepage links (HTTP)\" — 23 courses from https://www.deltacollege.edu/admission-aid/registration-and-key-dates.",
+  "startedAt": "2026-06-09T06:19:51.701Z",
+  "finishedAt": "2026-06-09T06:21:06.239Z",
+  "updatedAt": "2026-06-09T06:21:06.239Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.158Z",
@@ -53,6 +53,403 @@
     {
       "t": "2026-06-08T17:36:30.164Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T06:19:51.702Z",
+      "msg": "▶ Solving San Joaquin Delta College — https://www.deltacollege.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T06:19:51.702Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T06:19:51.975Z",
+      "msg": "  explore https://www.deltacollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:52.073Z",
+      "msg": "  explore https://www.deltacollege.edu/student-support/student-services/schedule-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:52.335Z",
+      "msg": "  explore https://www.deltacollege.edu/scheduleofclasses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:53.712Z",
+      "msg": "  explore https://www.deltacollege.edu/admission-aid/register-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:53.776Z",
+      "msg": "  explore https://www.deltacollege.edu/admission-aid/register-classes#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:53.839Z",
+      "msg": "  explore https://www.deltacollege.edu/admission-aid/register-classes# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:54.137Z",
+      "msg": "  explore https://www.deltacollege.edu/node/10841 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:54.392Z",
+      "msg": "  explore https://www.deltacollege.edu/mydelta-portal/manage-classes-mydelta/class-search-tips → unreachable"
+    },
+    {
+      "t": "2026-06-09T06:19:54.497Z",
+      "msg": "  explore https://www.deltacollege.edu/tools/MyDelta/register-classes-mydelta-manage-classes#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:54.561Z",
+      "msg": "  explore https://www.deltacollege.edu/tools/MyDelta/register-classes-mydelta-manage-classes# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:54.755Z",
+      "msg": "  explore https://www.deltacollege.edu/mydelta-portal/manage-classes-mydelta/your-shopping-cart-mydelta → unreachable"
+    },
+    {
+      "t": "2026-06-09T06:19:54.853Z",
+      "msg": "  explore https://www.deltacollege.edu/student-support/student-services/schedule-classes#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:54.914Z",
+      "msg": "  explore https://www.deltacollege.edu/student-support/student-services/schedule-classes# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:54.976Z",
+      "msg": "  explore https://www.deltacollege.edu/student-services-division/delta-connect-center/services → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:55.370Z",
+      "msg": "  explore https://www.deltacollege.edu/student-support/student-services/verification-enrollment → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:55.442Z",
+      "msg": "  explore https://www.deltacollege.edu/admission-aid/registration-and-key-dates → 23 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-09T06:19:55.635Z",
+      "msg": "  explore https://www.deltacollege.edu/admissions/admissions-records-registration/registration/schedule-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:55.700Z",
+      "msg": "  explore https://www.deltacollege.edu/admission-aid/registration-and-key-dates#topofpage → 23 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-09T06:19:56.331Z",
+      "msg": "  explore https://www.deltacollege.edu/admissions/admissions-records-registration/evaluations/application-degrees-and-certificates → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:57.048Z",
+      "msg": "  explore https://www.deltacollege.edu/admissions/admissions-records-registration/fees/refunds → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:57.290Z",
+      "msg": "  explore https://deltacollege.edu/admissions/admissions-records-registration/forms → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:57.431Z",
+      "msg": "  explore https://deltacollege.edu/admissions/admissions-records-registration/registration/priority-registration → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:57.432Z",
+      "msg": "   ✓ \"Explore real homepage links (HTTP)\" found 23 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:19:57.432Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T06:19:57.573Z",
+      "msg": "  sitemap https://www.deltacollege.edu/sitemap.xml → 2 entries"
+    },
+    {
+      "t": "2026-06-09T06:19:57.974Z",
+      "msg": "  sitemap https://www.deltacollege.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:19:58.282Z",
+      "msg": "  sitemap https://www.deltacollege.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:19:58.283Z",
+      "msg": "  sitemap mining → 2 URL(s), 0 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T06:19:58.284Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T06:20:00.222Z",
+      "msg": "  explore https://www.deltacollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:20:00.315Z",
+      "msg": "  explore https://www.deltacollege.edu/student-support/student-services/schedule-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:20:00.554Z",
+      "msg": "  explore https://www.deltacollege.edu/scheduleofclasses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:20:00.620Z",
+      "msg": "  explore https://www.deltacollege.edu/admission-aid/register-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:20:00.703Z",
+      "msg": "  explore https://www.deltacollege.edu/admission-aid/register-classes#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:20:00.765Z",
+      "msg": "  explore https://www.deltacollege.edu/admission-aid/register-classes# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:20:00.921Z",
+      "msg": "  explore https://www.deltacollege.edu/node/10841 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:20:01.018Z",
+      "msg": "  explore https://www.deltacollege.edu/mydelta-portal/manage-classes-mydelta/class-search-tips → unreachable"
+    },
+    {
+      "t": "2026-06-09T06:20:01.090Z",
+      "msg": "  explore https://www.deltacollege.edu/tools/MyDelta/register-classes-mydelta-manage-classes#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:20:01.155Z",
+      "msg": "  explore https://www.deltacollege.edu/tools/MyDelta/register-classes-mydelta-manage-classes# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:20:01.202Z",
+      "msg": "  explore https://www.deltacollege.edu/mydelta-portal/manage-classes-mydelta/your-shopping-cart-mydelta → unreachable"
+    },
+    {
+      "t": "2026-06-09T06:20:01.266Z",
+      "msg": "  explore https://www.deltacollege.edu/student-support/student-services/schedule-classes#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:20:01.334Z",
+      "msg": "  explore https://www.deltacollege.edu/student-support/student-services/schedule-classes# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:20:01.397Z",
+      "msg": "  explore https://www.deltacollege.edu/student-services-division/delta-connect-center/services → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:20:01.405Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T06:20:03.717Z",
+      "msg": "  google \"San Joaquin Delta College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:20:05.343Z",
+      "msg": "  google \"San Joaquin Delta College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:20:07.005Z",
+      "msg": "  google \"San Joaquin Delta College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:20:08.678Z",
+      "msg": "  google \"San Joaquin Delta College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:20:10.295Z",
+      "msg": "  google \"San Joaquin Delta College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:20:11.906Z",
+      "msg": "  google \"San Joaquin Delta College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:20:13.514Z",
+      "msg": "  google \"San Joaquin Delta College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:20:15.122Z",
+      "msg": "  google \"San Joaquin Delta College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:20:16.716Z",
+      "msg": "  google \"San Joaquin Delta College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:20:18.246Z",
+      "msg": "  google \"San Joaquin Delta College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:20:19.801Z",
+      "msg": "  google \"San Joaquin Delta College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:20:21.387Z",
+      "msg": "  google \"site:deltacollege.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:20:22.913Z",
+      "msg": "  google \"site:deltacollege.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:20:22.914Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
+    },
+    {
+      "t": "2026-06-09T06:20:22.915Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T06:20:24.490Z",
+      "msg": "search \"San Joaquin Delta College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:20:26.118Z",
+      "msg": "search \"San Joaquin Delta College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:20:27.763Z",
+      "msg": "search \"San Joaquin Delta College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:20:29.331Z",
+      "msg": "search \"San Joaquin Delta College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:20:30.969Z",
+      "msg": "search \"San Joaquin Delta College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:20:32.590Z",
+      "msg": "search \"San Joaquin Delta College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:20:32.591Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T06:20:32.592Z",
+      "msg": "Top candidate: https://www.deltacollege.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T06:20:33.170Z",
+      "msg": "probe https://www.deltacollege.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:33.596Z",
+      "msg": "probe https://www.deltacollege.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:33.968Z",
+      "msg": "probe https://www.deltacollege.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:34.248Z",
+      "msg": "probe https://www.deltacollege.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:34.499Z",
+      "msg": "probe https://www.deltacollege.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:34.958Z",
+      "msg": "probe https://www.deltacollege.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:35.247Z",
+      "msg": "probe https://www.deltacollege.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:35.487Z",
+      "msg": "probe https://www.deltacollege.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:35.850Z",
+      "msg": "probe https://www.deltacollege.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:36.008Z",
+      "msg": "probe https://deltacollege.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:36.131Z",
+      "msg": "probe https://deltacollege.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:36.213Z",
+      "msg": "probe https://deltacollege.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:36.325Z",
+      "msg": "probe https://deltacollege.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:36.411Z",
+      "msg": "probe https://deltacollege.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:36.521Z",
+      "msg": "probe https://deltacollege.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:36.607Z",
+      "msg": "probe https://deltacollege.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:36.718Z",
+      "msg": "probe https://deltacollege.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:36.808Z",
+      "msg": "probe https://deltacollege.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:20:41.235Z",
+      "msg": "probe https://ssb.deltacollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:20:45.929Z",
+      "msg": "probe https://banner.deltacollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:20:50.542Z",
+      "msg": "probe https://selfservice.deltacollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:20:55.115Z",
+      "msg": "probe https://ssb-prod.deltacollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:20:55.491Z",
+      "msg": "probe https://my.deltacollege.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:21:00.275Z",
+      "msg": "probe https://webadvisor.deltacollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:21:04.989Z",
+      "msg": "probe https://reg.deltacollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:21:05.811Z",
+      "msg": "probe https://catalog.deltacollege.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:21:05.899Z",
+      "msg": "probe https://catalog.deltacollege.edu/course-outlines/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:21:06.229Z",
+      "msg": "probe https://catalog.deltacollege.edu/courses/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:21:06.231Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T06:21:06.239Z",
+      "msg": "✅ SOLVED — 23 courses ingested into the searchable DB (strategy: Explore real homepage links (HTTP))."
     }
-  ]
+  ],
+  "strategy": "Explore real homepage links (HTTP)"
 }

@@ -3,16 +3,16 @@
   "name": "Fresno City College",
   "url": "https://www.fresnocitycollege.edu/",
   "status": "impossible",
-  "attempts": 8,
+  "attempts": 13,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
   "blocked": null,
   "note": "No login wall found, but no public schedule surfaced through 5 strategies incl. an exhaustive search sweep. Retryable.",
-  "startedAt": "2026-06-08T23:31:45.989Z",
-  "finishedAt": "2026-06-08T23:33:53.902Z",
-  "updatedAt": "2026-06-08T23:33:53.902Z",
+  "startedAt": "2026-06-09T04:11:15.026Z",
+  "finishedAt": "2026-06-09T04:13:01.696Z",
+  "updatedAt": "2026-06-09T04:13:01.696Z",
   "log": [
     {
       "t": "2026-06-08T17:24:35.850Z",
@@ -748,6 +748,398 @@
     },
     {
       "t": "2026-06-08T23:33:53.902Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T04:11:15.027Z",
+      "msg": "▶ Solving Fresno City College — https://www.fresnocitycollege.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T04:11:15.027Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T04:11:15.266Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:15.355Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/schedules.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:15.440Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/schedule-details/home.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:21.192Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/uploaded-files/documents/admissions-aid/schedules/2026-class-schedules/fall2026_final.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:23.033Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/uploaded-files/documents/admissions-aid/schedules/2026-class-schedules/summer2026_schedule_final.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:25.004Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/uploaded-files/documents/admissions-aid/schedules/2026-class-schedules/spring2026_final.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:25.403Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/register-for-classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:25.461Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/register-for-classes.html#navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:25.531Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/register-for-classes.html#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:25.588Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/register-for-classes.html#pagelinks → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:25.645Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/register-for-classes.html#footermenu → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:25.697Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/register-for-classes.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:25.760Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/admissions-and-records-office/registration/self-service/search-classes-and-add-to-schedule.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:25.838Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/catalog.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:25.920Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/catalog.html#navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:25.984Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/catalog.html#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:26.058Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/catalog.html#pagelinks → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:26.119Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/catalog.html#footermenu → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:26.179Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/catalog.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:26.308Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/uploaded-files/documents/admissions-aid/catalogs/addendum-to-2025-2026-catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:26.413Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/uploaded-files/documents/admissions-aid/catalogs/addendum-to-2024-2025-catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:26.566Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/uploaded-files/documents/admissions-aid/catalogs/addendum-to-2023-2024-catalog-december24.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:26.567Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T04:11:26.707Z",
+      "msg": "  sitemap https://www.fresnocitycollege.edu/sitemap.xml → 939 entries"
+    },
+    {
+      "t": "2026-06-09T04:11:26.756Z",
+      "msg": "  sitemap https://www.fresnocitycollege.edu/sitemap_index.xml → 0 entries"
+    },
+    {
+      "t": "2026-06-09T04:11:26.807Z",
+      "msg": "  sitemap https://www.fresnocitycollege.edu/sitemap-index.xml → 0 entries"
+    },
+    {
+      "t": "2026-06-09T04:11:26.808Z",
+      "msg": "  sitemap mining → 939 URL(s), 18 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T04:11:28.019Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T04:11:31.597Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:31.675Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/schedules.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:31.749Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/schedule-details/home.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:37.641Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/uploaded-files/documents/admissions-aid/schedules/2026-class-schedules/fall2026_final.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:39.456Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/uploaded-files/documents/admissions-aid/schedules/2026-class-schedules/summer2026_schedule_final.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:41.586Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/uploaded-files/documents/admissions-aid/schedules/2026-class-schedules/spring2026_final.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:41.998Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/register-for-classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:42.092Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/register-for-classes.html#navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:42.149Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/register-for-classes.html#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:42.229Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/register-for-classes.html#pagelinks → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:42.318Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/register-for-classes.html#footermenu → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:42.401Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/register-for-classes.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:42.465Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/admissions-and-records-office/registration/self-service/search-classes-and-add-to-schedule.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:42.523Z",
+      "msg": "  explore https://www.fresnocitycollege.edu/admissions-aid/catalog.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:11:42.532Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T04:11:44.889Z",
+      "msg": "  google \"Fresno City College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:11:46.351Z",
+      "msg": "  google \"Fresno City College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:11:47.891Z",
+      "msg": "  google \"Fresno City College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:11:49.389Z",
+      "msg": "  google \"Fresno City College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:11:50.921Z",
+      "msg": "  google \"Fresno City College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:11:52.440Z",
+      "msg": "  google \"Fresno City College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:11:53.931Z",
+      "msg": "  google \"Fresno City College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:11:55.507Z",
+      "msg": "  google \"Fresno City College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:11:57.138Z",
+      "msg": "  google \"Fresno City College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:11:58.756Z",
+      "msg": "  google \"Fresno City College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:12:00.286Z",
+      "msg": "  google \"Fresno City College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:12:01.742Z",
+      "msg": "  google \"site:fresnocitycollege.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:12:03.237Z",
+      "msg": "  google \"site:fresnocitycollege.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:12:03.238Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
+    },
+    {
+      "t": "2026-06-09T04:12:03.238Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T04:12:04.799Z",
+      "msg": "search \"Fresno City College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:12:06.297Z",
+      "msg": "search \"Fresno City College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:12:07.782Z",
+      "msg": "search \"Fresno City College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:12:09.263Z",
+      "msg": "search \"Fresno City College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:12:10.744Z",
+      "msg": "search \"Fresno City College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:12:12.307Z",
+      "msg": "search \"Fresno City College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:12:12.309Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T04:12:12.309Z",
+      "msg": "Top candidate: https://www.fresnocitycollege.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T04:12:12.643Z",
+      "msg": "probe https://www.fresnocitycollege.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:12.711Z",
+      "msg": "probe https://www.fresnocitycollege.edu/schedule-of-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:12.768Z",
+      "msg": "probe https://www.fresnocitycollege.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:12.825Z",
+      "msg": "probe https://www.fresnocitycollege.edu/classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:12.884Z",
+      "msg": "probe https://www.fresnocitycollege.edu/class-search → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:12.950Z",
+      "msg": "probe https://www.fresnocitycollege.edu/find-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:13.009Z",
+      "msg": "probe https://www.fresnocitycollege.edu/searchable-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:13.065Z",
+      "msg": "probe https://www.fresnocitycollege.edu/academics/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:13.118Z",
+      "msg": "probe https://www.fresnocitycollege.edu/admissions/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:13.612Z",
+      "msg": "probe https://fresnocitycollege.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:13.768Z",
+      "msg": "probe https://fresnocitycollege.edu/schedule-of-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:13.882Z",
+      "msg": "probe https://fresnocitycollege.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:13.991Z",
+      "msg": "probe https://fresnocitycollege.edu/classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:14.107Z",
+      "msg": "probe https://fresnocitycollege.edu/class-search → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:14.222Z",
+      "msg": "probe https://fresnocitycollege.edu/find-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:14.330Z",
+      "msg": "probe https://fresnocitycollege.edu/searchable-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:14.439Z",
+      "msg": "probe https://fresnocitycollege.edu/academics/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:14.552Z",
+      "msg": "probe https://fresnocitycollege.edu/admissions/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:12:19.373Z",
+      "msg": "probe https://ssb.fresnocitycollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:12:24.381Z",
+      "msg": "probe https://banner.fresnocitycollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:12:29.051Z",
+      "msg": "probe https://selfservice.fresnocitycollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:12:33.925Z",
+      "msg": "probe https://ssb-prod.fresnocitycollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:12:37.941Z",
+      "msg": "probe https://my.fresnocitycollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:12:42.840Z",
+      "msg": "probe https://webadvisor.fresnocitycollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:12:47.524Z",
+      "msg": "probe https://reg.fresnocitycollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:12:52.422Z",
+      "msg": "probe https://catalog.fresnocitycollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:12:56.874Z",
+      "msg": "probe https://catalog.fresnocitycollege.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:13:01.692Z",
+      "msg": "probe https://catalog.fresnocitycollege.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:13:01.693Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T04:13:01.695Z",
       "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
     }
   ]

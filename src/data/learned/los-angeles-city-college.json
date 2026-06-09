@@ -2,14 +2,81 @@
   "slug": "los-angeles-city-college",
   "name": "Los Angeles City College",
   "url": "https://www.lacitycollege.edu/",
-  "source": "solve",
-  "strategy": "Exhaustive Google/DDG search sweep",
-  "platform": "unknown",
-  "extractUrl": "https://catalog.valleycollege.edu/degree-certificate-program-index/welding-technology/welding-job-readiness-certificate-completion/",
+  "source": "web-search",
+  "platform": "peoplesoft",
+  "scheduleUrl": "https://www.lacc.edu/academics/class-schedules",
+  "catalogUrl": "https://www.lahc.edu/academics/schedules-catalogs",
+  "extractUrl": "http://205.154.255.98/academics/schedules/courselisting/class_list_Spring_2026.htm",
   "method": "auto",
-  "sampleCount": 8,
-  "modalityCoverage": 0,
-  "confidence": 0.6,
-  "notes": "Solved via \"Exhaustive Google/DDG search sweep\" — 8 courses from https://catalog.valleycollege.edu/degree-certificate-program-index/welding-technology/welding-job-readiness-certificate-completion/.",
-  "learnedAt": "2026-06-09T01:42:08.481Z"
+  "sampleCount": 609,
+  "modalityCoverage": 0.989,
+  "candidates": [
+    {
+      "text": "Schedule of Classes | LACC",
+      "href": "https://www.lacc.edu/academics/class-schedules",
+      "score": 10
+    },
+    {
+      "text": "View Schedule of Classes - Los Angeles Community College District",
+      "href": "https://mycollege-guest.laccd.edu/psc/classsearchguest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+      "score": 10
+    },
+    {
+      "text": "Schedule of Classes - ELAC",
+      "href": "https://www.elac.edu/academics/calendar-schedules/schedules",
+      "score": 10
+    },
+    {
+      "text": "Class Schedule | LAVC - Los Angeles Valley College",
+      "href": "https://www.lavc.edu/academics/class-schedule",
+      "score": 10
+    },
+    {
+      "text": "Schedules and Catalogs | LAHC - Los Angeles Harbor College",
+      "href": "https://www.lahc.edu/academics/schedules-catalogs",
+      "score": 4
+    },
+    {
+      "text": "Calendar of Classes - Google Docs",
+      "href": "https://lacitycollege.augusoft.net/info/landing/calendar-of-classes",
+      "score": 0
+    }
+  ],
+  "searchQuery": "Los Angeles City College class schedule",
+  "searchResults": [
+    {
+      "title": "Schedule of Classes | LACC",
+      "href": "https://www.lacc.edu/academics/class-schedules",
+      "query": "Los Angeles City College class schedule"
+    },
+    {
+      "title": "View Schedule of Classes - Los Angeles Community College District",
+      "href": "https://mycollege-guest.laccd.edu/psc/classsearchguest/EMPLOYEE/HRMS/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+      "query": "Los Angeles City College class schedule"
+    },
+    {
+      "title": "Calendar of Classes - Google Docs",
+      "href": "https://lacitycollege.augusoft.net/info/landing/calendar-of-classes",
+      "query": "Los Angeles City College class schedule"
+    },
+    {
+      "title": "Schedules and Catalogs | LAHC - Los Angeles Harbor College",
+      "href": "https://www.lahc.edu/academics/schedules-catalogs",
+      "query": "Los Angeles City College class schedule"
+    },
+    {
+      "title": "Schedule of Classes - ELAC",
+      "href": "https://www.elac.edu/academics/calendar-schedules/schedules",
+      "query": "Los Angeles City College class schedule"
+    },
+    {
+      "title": "Class Schedule | LAVC - Los Angeles Valley College",
+      "href": "https://www.lavc.edu/academics/class-schedule",
+      "query": "Los Angeles City College class schedule"
+    }
+  ],
+  "blocked": null,
+  "confidence": 1,
+  "notes": "Extracted 609 real courses from http://205.154.255.98/academics/schedules/courselisting/class_list_Spring_2026.htm. Modality available for ~99% (real schedule data). Discovered via web search \"Los Angeles City College class schedule\".",
+  "learnedAt": "2026-06-09T12:45:49.626Z"
 }

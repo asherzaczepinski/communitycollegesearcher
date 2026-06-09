@@ -3,16 +3,16 @@
   "name": "Mendocino College",
   "url": "https://www.mendocino.edu/",
   "status": "impossible",
-  "attempts": 8,
+  "attempts": 13,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
   "blocked": null,
   "note": "No login wall found, but no public schedule surfaced through 5 strategies incl. an exhaustive search sweep. Retryable.",
-  "startedAt": "2026-06-09T01:57:16.471Z",
-  "finishedAt": "2026-06-09T01:59:27.026Z",
-  "updatedAt": "2026-06-09T01:59:27.026Z",
+  "startedAt": "2026-06-09T04:18:57.844Z",
+  "finishedAt": "2026-06-09T04:23:47.552Z",
+  "updatedAt": "2026-06-09T05:35:12.960Z",
   "log": [
     {
       "t": "2026-06-08T17:36:29.911Z",
@@ -537,6 +537,406 @@
     {
       "t": "2026-06-09T01:59:27.025Z",
       "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T04:18:57.844Z",
+      "msg": "▶ Solving Mendocino College — https://www.mendocino.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T04:18:57.844Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T04:18:57.993Z",
+      "msg": "  explore https://www.mendocino.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:18:58.048Z",
+      "msg": "  explore https://www.mendocino.edu/admissions-aid/registration/class-schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:18:58.296Z",
+      "msg": "  explore https://service.mendocino.edu/Student/Courses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:04.977Z",
+      "msg": "  explore https://www.mendocino.edu/sites/default/files/2024-05/Fall_2024_Schedule_Web.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:11.756Z",
+      "msg": "  explore https://www.mendocino.edu/sites/default/files/2024-05/2024%20Summer%20Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:12.551Z",
+      "msg": "  explore https://www.mendocino.edu/sites/default/files/2023-12/Spring_2024_Schedule_web.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:12.712Z",
+      "msg": "  explore https://www.mendocino.edu/admissions-aid/registration → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:12.748Z",
+      "msg": "  explore https://www.mendocino.edu/enrollment-services/admissions/apply-mendocino-college/welcome-special-admission-students → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:12.786Z",
+      "msg": "  explore https://www.mendocino.edu/admissions-aid/registration/register-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:12.819Z",
+      "msg": "  explore https://www.mendocino.edu/admissions-aid/registration/register-classes#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:12.846Z",
+      "msg": "  explore https://www.mendocino.edu/admissions-aid/registration/register-classes# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:12.872Z",
+      "msg": "  explore https://www.mendocino.edu/admissions-aid/registration/register-classes#pills-18539 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:12.901Z",
+      "msg": "  explore https://www.mendocino.edu/admissions-aid/registration/register-classes#pills-18541 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:12.927Z",
+      "msg": "  explore https://www.mendocino.edu/academics/resources/college-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:12.960Z",
+      "msg": "  explore https://www.mendocino.edu/academics/resources/college-catalog#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:12.990Z",
+      "msg": "  explore https://www.mendocino.edu/academics/resources/college-catalog# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:15.367Z",
+      "msg": "  explore https://www.mendocino.edu/sites/default/files/docs/academics/2021-22_catalog_addendum_08.27.21.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:20.933Z",
+      "msg": "  explore https://www.mendocino.edu/sites/default/files/docs/academics/2020-22-catalog-tagged.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:23.708Z",
+      "msg": "  explore https://www.mendocino.edu/sites/default/files/docs/academics/2019-2020_catalog_0.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:25.779Z",
+      "msg": "  explore https://www.mendocino.edu/sites/default/files/docs/academics/2019-2020_catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:25.819Z",
+      "msg": "  explore https://www.mendocino.edu/enrollment-services/admissions → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:25.856Z",
+      "msg": "  explore https://www.mendocino.edu/enrollment-services/admissions/admissions-forms → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:25.863Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T04:19:26.108Z",
+      "msg": "  sitemap https://www.mendocino.edu/sitemap.xml → none"
+    },
+    {
+      "t": "2026-06-09T04:19:26.284Z",
+      "msg": "  sitemap https://www.mendocino.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T04:19:26.463Z",
+      "msg": "  sitemap https://www.mendocino.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T04:19:26.464Z",
+      "msg": "  sitemap mining → 0 URL(s), 0 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T04:19:26.465Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T04:19:32.356Z",
+      "msg": "  explore https://www.mendocino.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:32.465Z",
+      "msg": "  explore https://www.mendocino.edu/admissions-aid/registration/class-schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:32.723Z",
+      "msg": "  explore https://service.mendocino.edu/Student/Courses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:39.545Z",
+      "msg": "  explore https://www.mendocino.edu/sites/default/files/2024-05/Fall_2024_Schedule_Web.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:46.507Z",
+      "msg": "  explore https://www.mendocino.edu/sites/default/files/2024-05/2024%20Summer%20Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:47.066Z",
+      "msg": "  explore https://www.mendocino.edu/sites/default/files/2023-12/Spring_2024_Schedule_web.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:47.247Z",
+      "msg": "  explore https://www.mendocino.edu/admissions-aid/registration → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:47.283Z",
+      "msg": "  explore https://www.mendocino.edu/enrollment-services/admissions/apply-mendocino-college/welcome-special-admission-students → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:47.318Z",
+      "msg": "  explore https://www.mendocino.edu/admissions-aid/registration/register-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:47.345Z",
+      "msg": "  explore https://www.mendocino.edu/admissions-aid/registration/register-classes#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:47.373Z",
+      "msg": "  explore https://www.mendocino.edu/admissions-aid/registration/register-classes# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:47.408Z",
+      "msg": "  explore https://www.mendocino.edu/admissions-aid/registration/register-classes#pills-18539 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:47.440Z",
+      "msg": "  explore https://www.mendocino.edu/admissions-aid/registration/register-classes#pills-18541 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:47.474Z",
+      "msg": "  explore https://www.mendocino.edu/academics/resources/college-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:19:47.480Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T04:21:47.484Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T04:21:47.545Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T04:22:01.764Z",
+      "msg": "  google \"Mendocino College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:23:47.549Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T04:23:47.551Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T04:24:19.634Z",
+      "msg": "search \"Mendocino College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:24:33.142Z",
+      "msg": "  google \"Mendocino College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:26:32.001Z",
+      "msg": "search \"Mendocino College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:26:47.858Z",
+      "msg": "  google \"Mendocino College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:29:04.584Z",
+      "msg": "search \"Mendocino College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:29:18.965Z",
+      "msg": "  google \"Mendocino College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:31:17.833Z",
+      "msg": "search \"Mendocino College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:31:30.717Z",
+      "msg": "  google \"Mendocino College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:33:31.395Z",
+      "msg": "search \"Mendocino College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:33:42.308Z",
+      "msg": "  google \"Mendocino College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:35:44.649Z",
+      "msg": "search \"Mendocino College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:35:44.650Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T04:35:44.651Z",
+      "msg": "Top candidate: https://www.mendocino.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T04:35:44.856Z",
+      "msg": "probe https://www.mendocino.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:35:45.016Z",
+      "msg": "probe https://www.mendocino.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:35:45.120Z",
+      "msg": "probe https://www.mendocino.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:35:45.286Z",
+      "msg": "probe https://www.mendocino.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:35:45.467Z",
+      "msg": "probe https://www.mendocino.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:35:45.919Z",
+      "msg": "probe https://www.mendocino.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:35:46.089Z",
+      "msg": "probe https://www.mendocino.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:35:46.263Z",
+      "msg": "probe https://www.mendocino.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:35:46.828Z",
+      "msg": "probe https://www.mendocino.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:35:47.069Z",
+      "msg": "probe https://mendocino.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:35:47.182Z",
+      "msg": "probe https://mendocino.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:35:47.364Z",
+      "msg": "probe https://mendocino.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:35:47.482Z",
+      "msg": "probe https://mendocino.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:35:47.590Z",
+      "msg": "probe https://mendocino.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:35:47.718Z",
+      "msg": "probe https://mendocino.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:35:47.827Z",
+      "msg": "probe https://mendocino.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:35:47.963Z",
+      "msg": "probe https://mendocino.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:35:48.076Z",
+      "msg": "probe https://mendocino.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:35:52.761Z",
+      "msg": "probe https://ssb.mendocino.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:35:56.114Z",
+      "msg": "  google \"Mendocino College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:35:57.550Z",
+      "msg": "probe https://banner.mendocino.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:36:02.608Z",
+      "msg": "probe https://selfservice.mendocino.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:36:07.435Z",
+      "msg": "probe https://ssb-prod.mendocino.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:36:12.615Z",
+      "msg": "probe https://my.mendocino.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:36:17.218Z",
+      "msg": "probe https://webadvisor.mendocino.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:36:22.021Z",
+      "msg": "probe https://reg.mendocino.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:36:27.028Z",
+      "msg": "probe https://catalog.mendocino.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:36:32.140Z",
+      "msg": "probe https://catalog.mendocino.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:36:37.022Z",
+      "msg": "probe https://catalog.mendocino.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:36:37.023Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T04:38:09.448Z",
+      "msg": "  google \"Mendocino College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:40:23.166Z",
+      "msg": "  google \"Mendocino College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:03:48.416Z",
+      "msg": "  google \"Mendocino College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:14:12.236Z",
+      "msg": "  google \"Mendocino College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:22:45.167Z",
+      "msg": "  google \"site:mendocino.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:35:12.959Z",
+      "msg": "  google \"site:mendocino.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:35:12.960Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
     }
   ]
 }

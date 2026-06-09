@@ -3,16 +3,16 @@
   "name": "Modesto Junior College",
   "url": "https://www.mjc.edu/",
   "status": "impossible",
-  "attempts": 8,
+  "attempts": 13,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
   "blocked": null,
   "note": "No login wall found, but no public schedule surfaced through 5 strategies incl. an exhaustive search sweep. Retryable.",
-  "startedAt": "2026-06-09T02:04:49.211Z",
-  "finishedAt": "2026-06-09T02:06:26.880Z",
-  "updatedAt": "2026-06-09T02:06:26.880Z",
+  "startedAt": "2026-06-09T04:23:47.553Z",
+  "finishedAt": "2026-06-09T04:28:18.937Z",
+  "updatedAt": "2026-06-09T05:41:14.797Z",
   "log": [
     {
       "t": "2026-06-08T17:36:29.937Z",
@@ -405,6 +405,366 @@
     {
       "t": "2026-06-09T02:06:26.879Z",
       "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T04:23:47.554Z",
+      "msg": "▶ Solving Modesto Junior College — https://www.mjc.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T04:23:47.554Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T04:23:47.917Z",
+      "msg": "  explore https://www.mjc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:23:48.034Z",
+      "msg": "  explore https://www.mjc.edu/enrollment/schedule.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:23:48.170Z",
+      "msg": "  explore https://www.mjc.edu/enrollment/schedule.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:23:48.281Z",
+      "msg": "  explore https://www.mjc.edu/register.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:23:48.394Z",
+      "msg": "  explore https://www.mjc.edu/enrollment/schedule.html#content-start → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:23:48.511Z",
+      "msg": "  explore https://www.mjc.edu/enrollment/schedule.html#/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:23:48.627Z",
+      "msg": "  explore https://www.mjc.edu/catalog.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:23:48.737Z",
+      "msg": "  explore https://www.mjc.edu/catalog.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:23:48.842Z",
+      "msg": "  explore https://www.mjc.edu/register.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:23:48.963Z",
+      "msg": "  explore https://www.mjc.edu/enrollment/petitions.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:23:49.058Z",
+      "msg": "  explore https://www.mjc.edu/catalog.html#content-start → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:23:49.176Z",
+      "msg": "  explore https://www.mjc.edu/catalog.html#/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:24:00.663Z",
+      "msg": "   strategy error: Maximum call stack size exceeded"
+    },
+    {
+      "t": "2026-06-09T04:24:00.663Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T04:24:01.017Z",
+      "msg": "  sitemap https://www.mjc.edu/sitemap.xml → 1366 entries"
+    },
+    {
+      "t": "2026-06-09T04:24:01.882Z",
+      "msg": "  sitemap https://www.mjc.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T04:24:01.976Z",
+      "msg": "  sitemap https://www.mjc.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T04:24:01.978Z",
+      "msg": "  sitemap mining → 919 URL(s), 5 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T04:24:02.582Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T04:24:06.264Z",
+      "msg": "  explore https://www.mjc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:24:06.382Z",
+      "msg": "  explore https://www.mjc.edu/enrollment/schedule.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:24:06.496Z",
+      "msg": "  explore https://www.mjc.edu/enrollment/schedule.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:24:06.607Z",
+      "msg": "  explore https://www.mjc.edu/register.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:24:06.713Z",
+      "msg": "  explore https://www.mjc.edu/enrollment/schedule.html#content-start → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:24:06.833Z",
+      "msg": "  explore https://www.mjc.edu/enrollment/schedule.html#/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:24:06.934Z",
+      "msg": "  explore https://www.mjc.edu/catalog.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:24:07.030Z",
+      "msg": "  explore https://www.mjc.edu/catalog.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:24:07.137Z",
+      "msg": "  explore https://www.mjc.edu/register.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:24:07.243Z",
+      "msg": "  explore https://www.mjc.edu/enrollment/petitions.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:24:07.341Z",
+      "msg": "  explore https://www.mjc.edu/catalog.html#content-start → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:24:07.446Z",
+      "msg": "  explore https://www.mjc.edu/catalog.html#/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:24:18.857Z",
+      "msg": "   strategy error: Maximum call stack size exceeded"
+    },
+    {
+      "t": "2026-06-09T04:24:18.857Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T04:26:18.860Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T04:26:18.931Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T04:26:31.333Z",
+      "msg": "  google \"Modesto Junior College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:28:18.935Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T04:28:18.936Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T04:28:41.329Z",
+      "msg": "search \"Modesto Junior College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:29:03.799Z",
+      "msg": "  google \"Modesto Junior College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:31:04.187Z",
+      "msg": "search \"Modesto Junior College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:31:16.185Z",
+      "msg": "  google \"Modesto Junior College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:33:16.918Z",
+      "msg": "search \"Modesto Junior College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:33:29.864Z",
+      "msg": "  google \"Modesto Junior College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:35:30.511Z",
+      "msg": "search \"Modesto Junior College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:35:43.004Z",
+      "msg": "  google \"Modesto Junior College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:37:44.425Z",
+      "msg": "search \"Modesto Junior College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:37:55.928Z",
+      "msg": "  google \"Modesto Junior College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:39:57.603Z",
+      "msg": "search \"Modesto Junior College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:39:57.604Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T04:39:57.605Z",
+      "msg": "Top candidate: https://www.mjc.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T04:39:57.889Z",
+      "msg": "probe https://www.mjc.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:39:57.999Z",
+      "msg": "probe https://www.mjc.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:39:58.096Z",
+      "msg": "probe https://www.mjc.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:39:58.190Z",
+      "msg": "probe https://www.mjc.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:39:58.280Z",
+      "msg": "probe https://www.mjc.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:39:58.379Z",
+      "msg": "probe https://www.mjc.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:39:58.483Z",
+      "msg": "probe https://www.mjc.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:39:58.577Z",
+      "msg": "probe https://www.mjc.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:39:58.919Z",
+      "msg": "probe https://www.mjc.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:39:59.253Z",
+      "msg": "probe https://mjc.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:39:59.365Z",
+      "msg": "probe https://mjc.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:39:59.460Z",
+      "msg": "probe https://mjc.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:39:59.556Z",
+      "msg": "probe https://mjc.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:39:59.655Z",
+      "msg": "probe https://mjc.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:39:59.754Z",
+      "msg": "probe https://mjc.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:39:59.852Z",
+      "msg": "probe https://mjc.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:39:59.945Z",
+      "msg": "probe https://mjc.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:40:00.302Z",
+      "msg": "probe https://mjc.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:40:05.000Z",
+      "msg": "probe https://ssb.mjc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:40:09.092Z",
+      "msg": "  google \"Modesto Junior College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:40:09.729Z",
+      "msg": "probe https://banner.mjc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:40:14.831Z",
+      "msg": "probe https://selfservice.mjc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:40:19.427Z",
+      "msg": "probe https://ssb-prod.mjc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:40:20.869Z",
+      "msg": "probe https://my.mjc.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:40:25.678Z",
+      "msg": "probe https://webadvisor.mjc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:40:30.370Z",
+      "msg": "probe https://reg.mjc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:40:34.607Z",
+      "msg": "probe https://catalog.mjc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:40:39.166Z",
+      "msg": "probe https://catalog.mjc.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:40:43.235Z",
+      "msg": "probe https://catalog.mjc.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:40:43.237Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T05:03:35.863Z",
+      "msg": "  google \"Modesto Junior College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:08:52.367Z",
+      "msg": "  google \"Modesto Junior College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:22:22.658Z",
+      "msg": "  google \"Modesto Junior College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:34:52.420Z",
+      "msg": "  google \"Modesto Junior College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:37:06.387Z",
+      "msg": "  google \"site:mjc.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:41:14.796Z",
+      "msg": "  google \"site:mjc.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:41:14.797Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
     }
   ]
 }

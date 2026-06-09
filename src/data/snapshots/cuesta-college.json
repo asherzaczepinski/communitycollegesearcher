@@ -1,6 +1,6 @@
 {
   "slug": "cuesta-college",
-  "scrapedAt": "2026-06-06T00:51:11.168Z",
+  "scrapedAt": "2026-06-09T13:15:52.162Z",
   "count": 1023,
   "courses": [
     {
@@ -2419,7 +2419,7 @@
       "term": "Fall 2026",
       "units": "4",
       "instructor": "Lisa Schicker",
-      "section": "72858",
+      "section": "https://drive.google.com/file/d/1mIRC2NHuPGZbM84wPY-fdt__KMJutHVF/view?usp=drive_link",
       "description": "Blended · San Luis Obispo Campus",
       "url": "https://ssb2.cuesta.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
     },
@@ -10328,7 +10328,7 @@
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Kristianne Toledo",
-      "section": "72335",
+      "section": "https://drive.google.com/file/d/1zh5n3IOiG7sTABMeTp9U7VeGV9dHnAAc/view?usp=drivesdk",
       "description": "Only Online · Distance Learning",
       "url": "https://ssb2.cuesta.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
     },
@@ -10394,7 +10394,7 @@
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Kristianne Toledo",
-      "section": "70477",
+      "section": "https://drive.google.com/file/d/1JvgjFd1WmMEPImm9ASljamoeffp1zAi9/view?usp=drivesdk",
       "description": "Only Online · Distance Learning",
       "url": "https://ssb2.cuesta.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
     },

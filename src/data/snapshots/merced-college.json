@@ -1,43 +1,172 @@
 {
   "slug": "merced-college",
-  "scrapedAt": "2026-06-08T21:51:15.631Z",
-  "count": 3,
+  "scrapedAt": "2026-06-09T13:47:19.209Z",
+  "count": 15,
   "courses": [
     {
-      "code": "HNRS-40B",
-      "title": "21407: Honors Native American Philosophy (W, 1:00PM-3:05PM in IAC 146) Professor Andrew Winters",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://www.mccd.edu/schools-programs/discover-your-path/honors-program/"
-    },
-    {
-      "code": "HUM-01H",
-      "title": "21408: Honors Studies in Humanities: Ancient Through Renaissance (TTH, 9:20AM-10:45AM in B&E-125) Professor Andrew Winters",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://www.mccd.edu/schools-programs/discover-your-path/honors-program/"
-    },
-    {
-      "code": "HNRS-40B",
-      "title": "21407: Honors Native American Philosophy (online) Professor Andrew Winters",
+      "code": "STATC1000",
+      "title": "Introduction to Statistics",
       "modality": "online",
-      "modalityKnown": true,
-      "term": null,
-      "units": null,
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
       "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://www.mccd.edu/schools-programs/discover-your-path/honors-program/"
+      "section": "15919955",
+      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $138.00",
+      "url": "https://search.cvc.edu/courses/15919955?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=statistics&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "PHIL3",
+      "title": "Ancient Philosophy",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": null,
+      "section": "1832243",
+      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $138.00",
+      "url": "https://search.cvc.edu/courses/1832243?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "FREN4",
+      "title": "Intermediate French II",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "5.0",
+      "instructor": null,
+      "section": "1832156",
+      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $230.00",
+      "url": "https://search.cvc.edu/courses/1832156?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "GERN4",
+      "title": "Intermediate German II",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "4.0",
+      "instructor": null,
+      "section": "1832165",
+      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $184.00",
+      "url": "https://search.cvc.edu/courses/1832165?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "PHIL15",
+      "title": "Comparative Religions",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": null,
+      "section": "1159465",
+      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $138.00",
+      "url": "https://search.cvc.edu/courses/1159465?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=philosophy&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "PHIL5",
+      "title": "Contemporary Ethical Issues",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": null,
+      "section": "1832250",
+      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $138.00",
+      "url": "https://search.cvc.edu/courses/1832250?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=philosophy&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "PHIL12",
+      "title": "Introduction to Logic",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": null,
+      "section": "1159463",
+      "description": "Transfer: CSU BREADTH | Tuition: $138.00",
+      "url": "https://search.cvc.edu/courses/1159463?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=philosophy&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "SPAN10",
+      "title": "Spanish for Spanish Speakers I",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "5.0",
+      "instructor": null,
+      "section": "1264770",
+      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $230.00",
+      "url": "https://search.cvc.edu/courses/1264770?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=spanish&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "SPAN1",
+      "title": "Elementary Spanish I",
+      "modality": "online",
+      "term": "Jun 29 - Aug 6",
+      "units": "5.0",
+      "instructor": null,
+      "section": "1159641",
+      "description": "Transfer: IGETC, CSU BREADTH | Tuition: $230.00",
+      "url": "https://search.cvc.edu/courses/1159641?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=spanish&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "FREN2",
+      "title": "Elementary French II",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "5.0",
+      "instructor": null,
+      "section": "1832153",
+      "description": "Transfer: IGETC, CSU BREADTH | Tuition: $230.00",
+      "url": "https://search.cvc.edu/courses/1832153?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=french&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "FREN1",
+      "title": "Elementary French I",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "5.0",
+      "instructor": null,
+      "section": "1832146",
+      "description": "Transfer: IGETC, CSU BREADTH | Tuition: $230.00",
+      "url": "https://search.cvc.edu/courses/1832146?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=french&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "GERN1",
+      "title": "Elementary German I",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "4.0",
+      "instructor": null,
+      "section": "1832157",
+      "description": "Transfer: IGETC, CSU BREADTH | Tuition: $184.00",
+      "url": "https://search.cvc.edu/courses/1832157?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "GERN2",
+      "title": "Elementary German II",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "4.0",
+      "instructor": null,
+      "section": "1832158",
+      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $184.00",
+      "url": "https://search.cvc.edu/courses/1832158?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "HMNG1",
+      "title": "Elementary Hmong I",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "5.0",
+      "instructor": null,
+      "section": "1832189",
+      "description": "Transfer: IGETC, CSU BREADTH | Tuition: $230.00",
+      "url": "https://search.cvc.edu/courses/1832189?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "GERN3",
+      "title": "Intermediate German I",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "4.0",
+      "instructor": null,
+      "section": "1832161",
+      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $184.00",
+      "url": "https://search.cvc.edu/courses/1832161?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation"
     }
   ]
 }

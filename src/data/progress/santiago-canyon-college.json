@@ -2,17 +2,17 @@
   "slug": "santiago-canyon-college",
   "name": "Santiago Canyon College",
   "url": "https://www.sccollege.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 18,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://www.sccollege.edu/ccc-common-course-numbering",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.183Z",
-  "finishedAt": "2026-06-08T17:36:30.188Z",
-  "updatedAt": "2026-06-08T17:36:30.188Z",
+  "note": "Solved via \"Mine sitemap.xml / robots.txt\" — 18 courses from https://www.sccollege.edu/ccc-common-course-numbering.",
+  "startedAt": "2026-06-09T06:27:53.491Z",
+  "finishedAt": "2026-06-09T06:32:08.969Z",
+  "updatedAt": "2026-06-09T07:59:58.870Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.183Z",
@@ -53,6 +53,415 @@
     {
       "t": "2026-06-08T17:36:30.188Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T06:27:53.491Z",
+      "msg": "▶ Solving Santiago Canyon College — https://www.sccollege.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T06:27:53.491Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T06:27:53.868Z",
+      "msg": "  explore https://www.sccollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:53.987Z",
+      "msg": "  explore https://www.sccollege.edu/academics/classschedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:54.303Z",
+      "msg": "  explore https://www.sccollege.edu/academics/classschedule/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:54.565Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentInfo.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:54.833Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/admissions/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:55.119Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/admissions/petition-for-reinstatement-of-priority-registration-faqs.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:55.381Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/admissions/enrollment-registration.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:55.656Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/admissions/registration-dates.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:55.822Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/admissions/apply → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:56.008Z",
+      "msg": "  explore https://www.sccollege.edu/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:56.181Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/admissions/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:56.301Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/cashiers/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:56.473Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/counseling/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:56.744Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/counseling/counseling-classes-careers.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:56.920Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/counseling/counseling-classes-careers#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:57.078Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/counseling/counseling-classes-careers#site-navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:57.243Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/counseling/counseling-classes-careers#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:57.409Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/counseling/counseling-classes-careers# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:57.517Z",
+      "msg": "  explore https://www.sccollege.edu/academics/classschedule/#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:57.634Z",
+      "msg": "  explore https://www.sccollege.edu/academics/classschedule/#site-navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:57.756Z",
+      "msg": "  explore https://www.sccollege.edu/academics/classschedule/#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:57.927Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentInfo#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:27:57.935Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T06:27:58.191Z",
+      "msg": "  sitemap https://www.sccollege.edu/sitemap.xml → 1112 entries"
+    },
+    {
+      "t": "2026-06-09T06:27:59.102Z",
+      "msg": "  sitemap https://www.sccollege.edu/sitemap_index.xml → 0 entries"
+    },
+    {
+      "t": "2026-06-09T06:27:59.205Z",
+      "msg": "  sitemap https://www.sccollege.edu/sitemap-index.xml → 0 entries"
+    },
+    {
+      "t": "2026-06-09T06:27:59.207Z",
+      "msg": "  sitemap mining → 1025 URL(s), 33 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T06:27:59.471Z",
+      "msg": "  sitemap probe https://www.sccollege.edu/ccc-common-course-numbering.php → 18"
+    },
+    {
+      "t": "2026-06-09T06:28:02.950Z",
+      "msg": "   ✓ \"Mine sitemap.xml / robots.txt\" found 18 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:28:02.951Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T06:28:06.164Z",
+      "msg": "  explore https://www.sccollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:28:06.284Z",
+      "msg": "  explore https://www.sccollege.edu/academics/classschedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:28:06.499Z",
+      "msg": "  explore https://www.sccollege.edu/academics/classschedule/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:28:06.750Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentInfo.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:28:07.006Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/admissions/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:28:07.299Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/admissions/petition-for-reinstatement-of-priority-registration-faqs.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:28:07.559Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/admissions/enrollment-registration.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:28:07.827Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/admissions/registration-dates.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:28:07.993Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/admissions/apply → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:28:08.164Z",
+      "msg": "  explore https://www.sccollege.edu/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:28:08.333Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/admissions/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:28:08.453Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/cashiers/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:28:08.622Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/counseling/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:28:08.885Z",
+      "msg": "  explore https://www.sccollege.edu/students/studentservices/counseling/counseling-classes-careers.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:28:08.893Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T06:30:08.896Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:30:08.956Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T06:30:22.127Z",
+      "msg": "  google \"Santiago Canyon College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:32:08.961Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:32:08.968Z",
+      "msg": "✅ SOLVED — 18 courses ingested into the searchable DB (strategy: Mine sitemap.xml / robots.txt)."
+    },
+    {
+      "t": "2026-06-09T06:32:22.357Z",
+      "msg": "search \"Santiago Canyon College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:32:34.867Z",
+      "msg": "  google \"Santiago Canyon College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:34:36.185Z",
+      "msg": "search \"Santiago Canyon College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:34:49.140Z",
+      "msg": "  google \"Santiago Canyon College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:37:06.900Z",
+      "msg": "search \"Santiago Canyon College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:37:20.889Z",
+      "msg": "  google \"Santiago Canyon College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:39:19.696Z",
+      "msg": "search \"Santiago Canyon College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:39:34.593Z",
+      "msg": "  google \"Santiago Canyon College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:41:32.407Z",
+      "msg": "search \"Santiago Canyon College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:41:47.981Z",
+      "msg": "  google \"Santiago Canyon College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:43:46.289Z",
+      "msg": "search \"Santiago Canyon College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:43:46.290Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T06:43:46.291Z",
+      "msg": "Top candidate: https://www.sccollege.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T06:43:46.781Z",
+      "msg": "probe https://www.sccollege.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:46.888Z",
+      "msg": "probe https://www.sccollege.edu/schedule-of-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:47.014Z",
+      "msg": "probe https://www.sccollege.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:47.132Z",
+      "msg": "probe https://www.sccollege.edu/classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:47.253Z",
+      "msg": "probe https://www.sccollege.edu/class-search → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:47.374Z",
+      "msg": "probe https://www.sccollege.edu/find-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:47.489Z",
+      "msg": "probe https://www.sccollege.edu/searchable-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:47.606Z",
+      "msg": "probe https://www.sccollege.edu/academics/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:47.722Z",
+      "msg": "probe https://www.sccollege.edu/admissions/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:48.258Z",
+      "msg": "probe https://sccollege.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:48.376Z",
+      "msg": "probe https://sccollege.edu/schedule-of-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:48.496Z",
+      "msg": "probe https://sccollege.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:48.616Z",
+      "msg": "probe https://sccollege.edu/classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:48.737Z",
+      "msg": "probe https://sccollege.edu/class-search → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:48.846Z",
+      "msg": "probe https://sccollege.edu/find-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:48.983Z",
+      "msg": "probe https://sccollege.edu/searchable-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:49.107Z",
+      "msg": "probe https://sccollege.edu/academics/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:49.231Z",
+      "msg": "probe https://sccollege.edu/admissions/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:43:53.583Z",
+      "msg": "probe https://ssb.sccollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:43:58.525Z",
+      "msg": "probe https://banner.sccollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:44:01.250Z",
+      "msg": "  google \"Santiago Canyon College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:44:03.269Z",
+      "msg": "probe https://selfservice.sccollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:44:07.862Z",
+      "msg": "probe https://ssb-prod.sccollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:44:12.354Z",
+      "msg": "probe https://my.sccollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:44:16.928Z",
+      "msg": "probe https://webadvisor.sccollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:44:21.439Z",
+      "msg": "probe https://reg.sccollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:44:26.358Z",
+      "msg": "probe https://catalog.sccollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:44:30.781Z",
+      "msg": "probe https://catalog.sccollege.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:44:35.140Z",
+      "msg": "probe https://catalog.sccollege.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:44:35.143Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T06:46:24.574Z",
+      "msg": "  google \"Santiago Canyon College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:48:38.213Z",
+      "msg": "  google \"Santiago Canyon College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:51:01.238Z",
+      "msg": "  google \"Santiago Canyon College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:53:14.973Z",
+      "msg": "  google \"Santiago Canyon College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T07:25:45.159Z",
+      "msg": "  google \"site:sccollege.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T07:59:58.869Z",
+      "msg": "  google \"site:sccollege.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T07:59:58.870Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
     }
-  ]
+  ],
+  "strategy": "Mine sitemap.xml / robots.txt"
 }

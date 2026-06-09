@@ -2,17 +2,17 @@
   "slug": "victor-valley-college",
   "name": "Victor Valley College",
   "url": "https://www.vvc.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 5,
+  "courseCount": 47,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://www.vvc.edu/course-descriptions-electronics-and-computer-technology",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.217Z",
-  "finishedAt": "2026-06-08T17:36:30.224Z",
-  "updatedAt": "2026-06-08T17:36:30.224Z",
+  "note": "Solved via \"Mine sitemap.xml / robots.txt\" — 47 courses from https://www.vvc.edu/course-descriptions-electronics-and-computer-technology.",
+  "startedAt": "2026-06-09T06:49:40.576Z",
+  "finishedAt": "2026-06-09T06:50:00.899Z",
+  "updatedAt": "2026-06-09T06:50:00.899Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.217Z",
@@ -53,6 +53,163 @@
     {
       "t": "2026-06-08T17:36:30.224Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T06:49:40.576Z",
+      "msg": "▶ Solving Victor Valley College — https://www.vvc.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T06:49:40.577Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T06:49:40.986Z",
+      "msg": "  explore https://www.vvc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:41.876Z",
+      "msg": "  explore https://www.vvc.edu/virtual-one-stop-get-help-registering-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:42.358Z",
+      "msg": "  explore https://www.vvc.edu/registration-information → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:42.563Z",
+      "msg": "  explore https://www.vvc.edu/virtual-one-stop-get-help-registering-classes#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:42.695Z",
+      "msg": "  explore https://www.vvc.edu/virtual-one-stop-get-help-registering-classes#dummy → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:42.821Z",
+      "msg": "  explore https://www.vvc.edu/virtual-one-stop-get-help-registering-classes# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:42.960Z",
+      "msg": "  explore https://www.vvc.edu/register → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:43.393Z",
+      "msg": "  explore https://catalog.vvc.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:43.769Z",
+      "msg": "  explore https://catalog.vvc.edu/student-resources → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:44.005Z",
+      "msg": "  explore https://catalog.vvc.edu/student-resources/admissions-registration/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:44.167Z",
+      "msg": "  explore https://catalog.vvc.edu/degrees-certificates → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:44.599Z",
+      "msg": "  explore https://catalog.vvc.edu/programs → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:44.701Z",
+      "msg": "  explore https://catalog.vvc.edu/student-resources/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:44.779Z",
+      "msg": "  explore https://catalog.vvc.edu/student-resources/#contentarea → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:44.857Z",
+      "msg": "  explore https://catalog.vvc.edu/student-resources/#sidebar → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:44.942Z",
+      "msg": "  explore https://catalog.vvc.edu/degrees-certificates/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:45.364Z",
+      "msg": "  explore https://catalog.vvc.edu/programs/#contentarea → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:45.579Z",
+      "msg": "  explore https://catalog.vvc.edu/programs/#sidebar → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:45.654Z",
+      "msg": "  explore https://catalog.vvc.edu/degrees-certificates/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:45.733Z",
+      "msg": "  explore https://catalog.vvc.edu/student-resources/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:45.824Z",
+      "msg": "  explore https://catalog.vvc.edu/student-resources/financing-education/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:46.023Z",
+      "msg": "  explore https://www.vvc.edu/steps-enrollment-new-returning-students → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:49:46.036Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T06:49:46.361Z",
+      "msg": "  sitemap https://www.vvc.edu/sitemap.xml → 1886 entries"
+    },
+    {
+      "t": "2026-06-09T06:49:46.893Z",
+      "msg": "  sitemap https://www.vvc.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:49:47.387Z",
+      "msg": "  sitemap https://www.vvc.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:49:47.390Z",
+      "msg": "  sitemap mining → 1886 URL(s), 81 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T06:49:49.671Z",
+      "msg": "  sitemap probe https://www.vvc.edu/course-descriptions-electronics-and-computer-technology → 47"
+    },
+    {
+      "t": "2026-06-09T06:49:52.824Z",
+      "msg": "  sitemap probe https://www.vvc.edu/classified-salary-schedule → 1"
+    },
+    {
+      "t": "2026-06-09T06:49:57.248Z",
+      "msg": "  sitemap probe https://www.vvc.edu/course-descriptions-2 → 13"
+    },
+    {
+      "t": "2026-06-09T06:49:57.542Z",
+      "msg": "  sitemap probe https://www.vvc.edu/program-schedule-costs-outcomes → 7"
+    },
+    {
+      "t": "2026-06-09T06:49:58.339Z",
+      "msg": "  sitemap probe https://www.vvc.edu/core-classes-pathway-law-school-program-certificate → 3"
+    },
+    {
+      "t": "2026-06-09T06:49:59.178Z",
+      "msg": "  sitemap probe https://www.vvc.edu/philosophy-list-classes → 9"
+    },
+    {
+      "t": "2026-06-09T06:50:00.894Z",
+      "msg": "  sitemap probe https://www.vvc.edu/religious-studies-list-classes → 9"
+    },
+    {
+      "t": "2026-06-09T06:50:00.895Z",
+      "msg": "   ✓ \"Mine sitemap.xml / robots.txt\" found 47 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:50:00.895Z",
+      "msg": "   solid haul (47 courses) — stopping strategy ladder."
+    },
+    {
+      "t": "2026-06-09T06:50:00.899Z",
+      "msg": "✅ SOLVED — 47 courses ingested into the searchable DB (strategy: Mine sitemap.xml / robots.txt)."
     }
-  ]
+  ],
+  "strategy": "Mine sitemap.xml / robots.txt"
 }

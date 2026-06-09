@@ -2,17 +2,17 @@
   "slug": "feather-river-college",
   "name": "Feather River College",
   "url": "https://www.frc.edu/",
-  "status": "running",
-  "attempts": 7,
+  "status": "impossible",
+  "attempts": 12,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
   "blocked": null,
-  "note": "",
+  "note": "No login wall found, but no public schedule surfaced through 5 strategies incl. an exhaustive search sweep. Retryable.",
   "startedAt": "2026-06-09T04:08:29.745Z",
-  "finishedAt": null,
-  "updatedAt": "2026-06-09T04:08:44.965Z",
+  "finishedAt": "2026-06-09T04:11:15.026Z",
+  "updatedAt": "2026-06-09T04:12:36.600Z",
   "log": [
     {
       "t": "2026-06-08T17:23:08.437Z",
@@ -801,6 +801,270 @@
     {
       "t": "2026-06-09T04:08:44.965Z",
       "msg": "  explore https://www.frc.edu/instruction/catalogs#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:08:46.690Z",
+      "msg": "  explore https://www.frc.edu/instruction/files/Catalogs/DRAFT2026-2027Catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:08:47.933Z",
+      "msg": "  explore https://www.frc.edu/instruction/files/Catalogs/Catalog%202024-25.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:08:49.235Z",
+      "msg": "  explore https://www.frc.edu/instruction/files/Catalogs/catalog%2023-24.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:08:52.068Z",
+      "msg": "  explore https://www.frc.edu/instruction/files/Catalogs/catalog%202022-23%20(1).pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:08:52.633Z",
+      "msg": "  explore https://www.frc.edu/class-search → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:08:53.013Z",
+      "msg": "  explore https://www.frc.edu/files/Featured%20Stories/2026/Summer%20Flex%20Schedule%202026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:08:53.310Z",
+      "msg": "  explore https://www.frc.edu/about/tours → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:08:53.470Z",
+      "msg": "  explore https://www.frc.edu/housing → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:08:53.794Z",
+      "msg": "  explore https://www.frc.edu/about/Student-Right-to-Know-Rates → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:08:54.001Z",
+      "msg": "  explore https://www.frc.edu/studentservices → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:08:54.223Z",
+      "msg": "  explore https://www.frc.edu/studentservices/studentlanding#Sec1 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:08:54.228Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T04:08:56.477Z",
+      "msg": "  google \"Feather River College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:08:57.989Z",
+      "msg": "  google \"Feather River College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:08:59.663Z",
+      "msg": "  google \"Feather River College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:09:01.226Z",
+      "msg": "  google \"Feather River College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:09:02.782Z",
+      "msg": "  google \"Feather River College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:09:04.332Z",
+      "msg": "  google \"Feather River College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:09:05.803Z",
+      "msg": "  google \"Feather River College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:09:07.379Z",
+      "msg": "  google \"Feather River College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:09:08.896Z",
+      "msg": "  google \"Feather River College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:09:10.463Z",
+      "msg": "  google \"Feather River College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:09:11.996Z",
+      "msg": "  google \"Feather River College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:09:13.476Z",
+      "msg": "  google \"site:frc.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:09:14.964Z",
+      "msg": "  google \"site:frc.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:09:14.965Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
+    },
+    {
+      "t": "2026-06-09T04:09:14.966Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T04:09:16.540Z",
+      "msg": "search \"Feather River College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:09:18.172Z",
+      "msg": "search \"Feather River College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:09:19.787Z",
+      "msg": "search \"Feather River College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:09:21.343Z",
+      "msg": "search \"Feather River College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:09:22.988Z",
+      "msg": "search \"Feather River College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:09:24.635Z",
+      "msg": "search \"Feather River College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:09:24.635Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T04:09:24.636Z",
+      "msg": "Top candidate: https://www.frc.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T04:09:25.102Z",
+      "msg": "probe https://www.frc.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:09:25.241Z",
+      "msg": "probe https://www.frc.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:09:25.413Z",
+      "msg": "probe https://www.frc.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:09:25.589Z",
+      "msg": "probe https://www.frc.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:09:26.151Z",
+      "msg": "probe https://www.frc.edu/class-search → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:09:26.319Z",
+      "msg": "probe https://www.frc.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:09:26.457Z",
+      "msg": "probe https://www.frc.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:09:26.605Z",
+      "msg": "probe https://www.frc.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:09:26.765Z",
+      "msg": "probe https://www.frc.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:09:27.333Z",
+      "msg": "probe https://frc.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:09:27.613Z",
+      "msg": "probe https://frc.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:09:27.865Z",
+      "msg": "probe https://frc.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:09:28.162Z",
+      "msg": "probe https://frc.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:09:28.647Z",
+      "msg": "probe https://frc.edu/class-search → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T04:09:28.911Z",
+      "msg": "probe https://frc.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:09:29.152Z",
+      "msg": "probe https://frc.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:09:29.806Z",
+      "msg": "probe https://frc.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:09:30.033Z",
+      "msg": "probe https://frc.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T04:09:34.656Z",
+      "msg": "probe https://ssb.frc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:10:42.243Z",
+      "msg": "probe https://banner.frc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:10:46.673Z",
+      "msg": "probe https://selfservice.frc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:10:51.333Z",
+      "msg": "probe https://ssb-prod.frc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:11:14.968Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T04:11:15.026Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T04:12:13.958Z",
+      "msg": "probe https://my.frc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:12:18.519Z",
+      "msg": "probe https://webadvisor.frc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:12:22.780Z",
+      "msg": "probe https://reg.frc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:12:27.432Z",
+      "msg": "probe https://catalog.frc.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:12:31.915Z",
+      "msg": "probe https://catalog.frc.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:12:36.598Z",
+      "msg": "probe https://catalog.frc.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T04:12:36.600Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
     }
   ]
 }

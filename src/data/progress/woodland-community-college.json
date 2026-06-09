@@ -2,17 +2,17 @@
   "slug": "woodland-community-college",
   "name": "Woodland Community College",
   "url": "https://wcc.yccd.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 6,
+  "courseCount": 5,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://wcc.yccd.edu/about/committees/curriculum-committee/",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:37:03.894Z",
-  "finishedAt": "2026-06-08T17:37:27.490Z",
-  "updatedAt": "2026-06-08T17:37:27.490Z",
+  "note": "Solved via \"Mine sitemap.xml / robots.txt\" — 5 courses from https://wcc.yccd.edu/about/committees/curriculum-committee/.",
+  "startedAt": "2026-06-09T06:54:20.841Z",
+  "finishedAt": "2026-06-09T07:08:56.067Z",
+  "updatedAt": "2026-06-09T07:25:43.591Z",
   "log": [
     {
       "t": "2026-06-08T17:37:03.894Z",
@@ -101,6 +101,211 @@
     {
       "t": "2026-06-08T17:37:27.490Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T06:54:20.842Z",
+      "msg": "▶ Solving Woodland Community College — https://wcc.yccd.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T06:54:20.842Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T06:54:21.232Z",
+      "msg": "  explore https://wcc.yccd.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:54:21.409Z",
+      "msg": "  explore https://wcc.yccd.edu/academics/class-schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:54:21.590Z",
+      "msg": "  explore https://wcc.yccd.edu/academics/class-schedule/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:54:41.879Z",
+      "msg": "  explore https://wcc.yccd.edu/wp-content/uploads/2019/12/SPRING-2020-SCHEDULE-OF-CLASSES.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:57:24.798Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:57:24.799Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T06:57:30.488Z",
+      "msg": "  explore https://wcc.yccd.edu/wp-content/uploads/2019/04/WCC-SU-FA19-Web.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:57:31.344Z",
+      "msg": "  sitemap https://wcc.yccd.edu/sitemap.xml → 7 entries"
+    },
+    {
+      "t": "2026-06-09T06:57:36.904Z",
+      "msg": "  explore https://wcc.yccd.edu/wp-content/uploads/2019/04/CCC-SU-FA19-Web.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:57:41.354Z",
+      "msg": "  explore https://wcc.yccd.edu/wp-content/uploads/2019/04/LCC-SU-FA19-Web.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:57:41.613Z",
+      "msg": "  explore https://wcc.yccd.edu/academics/catalog/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:57:41.766Z",
+      "msg": "  explore https://wcc.yccd.edu/academics/catalog/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:57:41.929Z",
+      "msg": "  explore https://wcc.yccd.edu/admissions/priority-registration/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:57:42.695Z",
+      "msg": "  explore https://wcc.yccd.edu/admissions/matriculation/ → 4 course(s) (25% modality)"
+    },
+    {
+      "t": "2026-06-09T06:57:42.865Z",
+      "msg": "  explore https://wcc.yccd.edu/admissions/matriculation/# → 4 course(s) (25% modality)"
+    },
+    {
+      "t": "2026-06-09T06:57:42.905Z",
+      "msg": "  sitemap https://wcc.yccd.edu/sitemap_index.xml → 7 entries"
+    },
+    {
+      "t": "2026-06-09T06:57:43.010Z",
+      "msg": "  explore https://wcc.yccd.edu/admissions/course-search/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:57:51.471Z",
+      "msg": "  explore https://wcc.yccd.edu/wp-content/uploads/2026/02/WCC-Catalog-2025-26-Revised-Complete-2026-02-10.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:57:52.199Z",
+      "msg": "  sitemap https://wcc.yccd.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:57:52.199Z",
+      "msg": "  sitemap mining → 1420 URL(s), 67 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T06:57:56.202Z",
+      "msg": "  explore https://wcc.yccd.edu/wp-content/uploads/2025/06/WCC-Catalog-2025-2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:57:57.741Z",
+      "msg": "  explore https://wcc.yccd.edu/wp-content/uploads/2026/02/WCC-Catalog-2025-26-Addendum-2026-02-10.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:57:57.879Z",
+      "msg": "  explore https://wcc.yccd.edu/admissions/priority-registration/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:57:58.243Z",
+      "msg": "  explore https://wcc.yccd.edu/admissions/apply-today/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:57:58.739Z",
+      "msg": "  explore https://wcc.yccd.edu/admissions/dual-enrollment/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:57:59.374Z",
+      "msg": "  explore https://wcc.yccd.edu/admissions/enrollment-verification/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:58:00.482Z",
+      "msg": "  sitemap probe https://wcc.yccd.edu/academics/work-experience/courses/ → 1"
+    },
+    {
+      "t": "2026-06-09T06:58:00.626Z",
+      "msg": "  explore https://wcc.yccd.edu/enroll/new/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:58:01.491Z",
+      "msg": "  sitemap probe https://wcc.yccd.edu/about/committees/curriculum-committee/ → 5"
+    },
+    {
+      "t": "2026-06-09T06:58:01.845Z",
+      "msg": "  explore https://wcc.yccd.edu/enroll/returning/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:58:07.864Z",
+      "msg": "   ✓ \"Mine sitemap.xml / robots.txt\" found 5 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:58:07.865Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T07:08:55.854Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T07:08:55.944Z",
+      "msg": "  explore https://wcc.yccd.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T07:08:56.066Z",
+      "msg": "   ⏱ college time budget reached — wrapping up with best so far."
+    },
+    {
+      "t": "2026-06-09T07:08:56.067Z",
+      "msg": "✅ SOLVED — 5 courses ingested into the searchable DB (strategy: Mine sitemap.xml / robots.txt)."
+    },
+    {
+      "t": "2026-06-09T07:08:56.628Z",
+      "msg": "  explore https://wcc.yccd.edu/academics/class-schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T07:08:56.962Z",
+      "msg": "  explore https://wcc.yccd.edu/academics/class-schedule/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T07:09:14.038Z",
+      "msg": "  explore https://wcc.yccd.edu/wp-content/uploads/2019/12/SPRING-2020-SCHEDULE-OF-CLASSES.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T07:09:22.007Z",
+      "msg": "  explore https://wcc.yccd.edu/wp-content/uploads/2019/04/WCC-SU-FA19-Web.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T07:09:30.123Z",
+      "msg": "  explore https://wcc.yccd.edu/wp-content/uploads/2019/04/CCC-SU-FA19-Web.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T07:09:34.708Z",
+      "msg": "  explore https://wcc.yccd.edu/wp-content/uploads/2019/04/LCC-SU-FA19-Web.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T07:09:34.843Z",
+      "msg": "  explore https://wcc.yccd.edu/academics/catalog/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T07:09:35.005Z",
+      "msg": "  explore https://wcc.yccd.edu/academics/catalog/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T07:09:35.172Z",
+      "msg": "  explore https://wcc.yccd.edu/admissions/priority-registration/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T07:09:35.336Z",
+      "msg": "  explore https://wcc.yccd.edu/admissions/matriculation/ → 4 course(s) (25% modality)"
+    },
+    {
+      "t": "2026-06-09T07:09:35.501Z",
+      "msg": "  explore https://wcc.yccd.edu/admissions/matriculation/# → 4 course(s) (25% modality)"
+    },
+    {
+      "t": "2026-06-09T07:09:35.645Z",
+      "msg": "  explore https://wcc.yccd.edu/admissions/course-search/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T07:25:43.591Z",
+      "msg": "  explore https://wcc.yccd.edu/wp-content/uploads/2026/02/WCC-Catalog-2025-26-Revised-Complete-2026-02-10.pdf → 0 course(s)"
     }
-  ]
+  ],
+  "strategy": "Mine sitemap.xml / robots.txt"
 }

@@ -2,17 +2,17 @@
   "slug": "ventura-college",
   "name": "Ventura College",
   "url": "https://www.venturacollege.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
-  "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 2,
+  "modalityCoverage": 1,
+  "method": "auto",
+  "extractUrl": "https://www.venturacollege.edu/apply-and-enroll/registration",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.209Z",
-  "finishedAt": "2026-06-08T17:36:30.217Z",
-  "updatedAt": "2026-06-08T17:36:30.217Z",
+  "note": "Solved via \"Explore real homepage links (HTTP)\" — 2 courses from https://www.venturacollege.edu/apply-and-enroll/registration.",
+  "startedAt": "2026-06-09T06:45:17.019Z",
+  "finishedAt": "2026-06-09T06:49:40.575Z",
+  "updatedAt": "2026-06-09T08:38:07.711Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.209Z",
@@ -53,6 +53,471 @@
     {
       "t": "2026-06-08T17:36:30.217Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T06:45:17.020Z",
+      "msg": "▶ Solving Ventura College — https://www.venturacollege.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T06:45:17.020Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T06:45:17.671Z",
+      "msg": "  explore https://www.venturacollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:17.986Z",
+      "msg": "  explore https://www.venturacollege.edu/apply-and-enroll/schedule-of-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:18.163Z",
+      "msg": "  explore https://www.venturacollege.edu/apply-and-enroll/college-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:18.342Z",
+      "msg": "  explore https://www.venturacollege.edu/apply-and-enroll/college-catalog#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:19.537Z",
+      "msg": "  explore https://www.venturacollege.edu/sites/venturacollege/files/files/apply-and-enroll/catalog/vc_20-21_catalog-draft.txt → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:25.519Z",
+      "msg": "  explore https://www.venturacollege.edu/sites/venturacollege/files/files/apply-and-enroll/catalog/vc_19-20_catalog-v2.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:26.805Z",
+      "msg": "  explore https://www.venturacollege.edu/sites/venturacollege/files/files/apply-and-enroll/catalog/vc_19-20_catalog-v2.txt → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:27.032Z",
+      "msg": "  explore https://www.venturacollege.edu/sites/venturacollege/files/files/apply-and-enroll/catalog/vc_19-20_catalog-addendum1.txt → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:27.152Z",
+      "msg": "  explore https://www.venturacollege.edu/apply-and-enroll/registration → 2 course(s) (100% modality)"
+    },
+    {
+      "t": "2026-06-09T06:45:27.227Z",
+      "msg": "  explore https://www.venturacollege.edu/apply-and-enroll/schedule-of-classes#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:27.305Z",
+      "msg": "  explore https://www.venturacollege.edu/departments/student-services/admissions-and-records/dual-enrollment-k-12 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:27.478Z",
+      "msg": "  explore https://www.venturacollege.edu/departments/student-services/counseling/new-students-first-semester-course-planning → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:27.559Z",
+      "msg": "  explore https://www.venturacollege.edu/departments/student-services/admissions-and-records/dual-enrollment-k-12#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:27.691Z",
+      "msg": "  explore https://www.venturacollege.edu/sites/venturacollege/files/departments/student-services/admissions-and-records/dual_enrollment_-_recommendation_memorandum.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:27.799Z",
+      "msg": "  explore https://www.venturacollege.edu/apply-and-enroll/academic-calendar → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:27.858Z",
+      "msg": "  explore https://www.venturacollege.edu/apply-and-enroll → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:27.917Z",
+      "msg": "  explore https://www.venturacollege.edu/apply-and-enroll/registration#main-content → 2 course(s) (100% modality)"
+    },
+    {
+      "t": "2026-06-09T06:45:28.184Z",
+      "msg": "  explore https://www.venturacollege.edu/sites/venturacollege/files/media/pdf_document/2024/UPDATED%20HSDE_Student%20Guide%20202305_07_RK.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:28.277Z",
+      "msg": "  explore https://www.venturacollege.edu/apply-and-enroll/academic-calendar#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:28.335Z",
+      "msg": "  explore https://www.venturacollege.edu/apply-and-enroll/academic-calendar/spring-2027 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:28.454Z",
+      "msg": "  explore https://www.venturacollege.edu/schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:28.530Z",
+      "msg": "  explore https://www.venturacollege.edu/apply-and-enroll/academic-calendar/summer-2026 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:28.542Z",
+      "msg": "   ✓ \"Explore real homepage links (HTTP)\" found 2 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:28.542Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T06:45:28.684Z",
+      "msg": "  sitemap https://www.venturacollege.edu/sitemap.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:45:28.785Z",
+      "msg": "  sitemap https://www.venturacollege.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:45:29.340Z",
+      "msg": "  sitemap https://www.venturacollege.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:45:29.340Z",
+      "msg": "  sitemap mining → 0 URL(s), 0 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T06:45:29.341Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T06:45:32.567Z",
+      "msg": "  explore https://www.venturacollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:32.675Z",
+      "msg": "  explore https://www.venturacollege.edu/apply-and-enroll/schedule-of-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:32.740Z",
+      "msg": "  explore https://www.venturacollege.edu/apply-and-enroll/college-catalog → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:32.805Z",
+      "msg": "  explore https://www.venturacollege.edu/apply-and-enroll/college-catalog#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:33.254Z",
+      "msg": "  explore https://www.venturacollege.edu/sites/venturacollege/files/files/apply-and-enroll/catalog/vc_20-21_catalog-draft.txt → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:38.570Z",
+      "msg": "  explore https://www.venturacollege.edu/sites/venturacollege/files/files/apply-and-enroll/catalog/vc_19-20_catalog-v2.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:39.598Z",
+      "msg": "  explore https://www.venturacollege.edu/sites/venturacollege/files/files/apply-and-enroll/catalog/vc_19-20_catalog-v2.txt → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:39.826Z",
+      "msg": "  explore https://www.venturacollege.edu/sites/venturacollege/files/files/apply-and-enroll/catalog/vc_19-20_catalog-addendum1.txt → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:39.945Z",
+      "msg": "  explore https://www.venturacollege.edu/apply-and-enroll/registration → 2 course(s) (100% modality)"
+    },
+    {
+      "t": "2026-06-09T06:45:40.031Z",
+      "msg": "  explore https://www.venturacollege.edu/apply-and-enroll/schedule-of-classes#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:40.096Z",
+      "msg": "  explore https://www.venturacollege.edu/departments/student-services/admissions-and-records/dual-enrollment-k-12 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:40.256Z",
+      "msg": "  explore https://www.venturacollege.edu/departments/student-services/counseling/new-students-first-semester-course-planning → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:40.323Z",
+      "msg": "  explore https://www.venturacollege.edu/departments/student-services/admissions-and-records/dual-enrollment-k-12#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:40.476Z",
+      "msg": "  explore https://www.venturacollege.edu/sites/venturacollege/files/departments/student-services/admissions-and-records/dual_enrollment_-_recommendation_memorandum.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:45:40.499Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T06:47:40.502Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:47:40.566Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T06:47:53.612Z",
+      "msg": "  google \"Ventura College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:49:40.570Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:49:40.575Z",
+      "msg": "✅ SOLVED — 2 courses ingested into the searchable DB (strategy: Explore real homepage links (HTTP))."
+    },
+    {
+      "t": "2026-06-09T06:49:53.967Z",
+      "msg": "search \"Ventura College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:50:15.729Z",
+      "msg": "  google \"Ventura College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:52:15.864Z",
+      "msg": "search \"Ventura College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:52:29.458Z",
+      "msg": "  google \"Ventura College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:57:31.354Z",
+      "msg": "search \"Ventura College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:57:57.977Z",
+      "msg": "  google \"Ventura College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T07:43:10.339Z",
+      "msg": "search \"Ventura College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T07:43:20.755Z",
+      "msg": "  google \"Ventura College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:09:48.846Z",
+      "msg": "search \"Ventura College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T08:09:58.727Z",
+      "msg": "  google \"Ventura College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:04.730Z",
+      "msg": "search \"Ventura College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T08:37:04.730Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T08:37:04.730Z",
+      "msg": "Top candidate: https://www.venturacollege.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T08:37:05.098Z",
+      "msg": "probe https://www.venturacollege.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T08:37:05.363Z",
+      "msg": "  google \"Ventura College self service banner class search\" → 6 hit(s) (+6 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:05.653Z",
+      "msg": "probe https://www.venturacollege.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:06.030Z",
+      "msg": "  google \"Ventura College ellucian self service class schedule\" → 0 hit(s) (+0 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:06.200Z",
+      "msg": "probe https://www.venturacollege.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:06.509Z",
+      "msg": "  google \"Ventura College webadvisor class schedule\" → 0 hit(s) (+0 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:06.782Z",
+      "msg": "probe https://www.venturacollege.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:06.986Z",
+      "msg": "  google \"Ventura College courses by subject\" → 0 hit(s) (+0 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:07.382Z",
+      "msg": "probe https://www.venturacollege.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:07.453Z",
+      "msg": "  google \"Ventura College course catalog\" → 0 hit(s) (+0 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:07.897Z",
+      "msg": "  google \"site:venturacollege.edu schedule of classes\" → 0 hit(s) (+0 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:07.906Z",
+      "msg": "probe https://www.venturacollege.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:08.335Z",
+      "msg": "  google \"site:venturacollege.edu class schedule\" → 0 hit(s) (+0 new, 6 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:08.536Z",
+      "msg": "probe https://www.venturacollege.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:08.742Z",
+      "msg": "  probe https://www.cerrocoso.edu/academics/class-schedule/index.html → 37 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:09.233Z",
+      "msg": "probe https://www.venturacollege.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:09.839Z",
+      "msg": "probe https://www.venturacollege.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:10.211Z",
+      "msg": "probe https://venturacollege.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T08:37:10.461Z",
+      "msg": "probe https://venturacollege.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:10.664Z",
+      "msg": "probe https://venturacollege.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:10.897Z",
+      "msg": "  probe https://ssb.vcccd.edu/prod/pw_alpha_sched.p_start_here?ltr_in=N&term_in=202507&campus_in=3 → 11 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:10.898Z",
+      "msg": "probe https://venturacollege.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:11.092Z",
+      "msg": "probe https://venturacollege.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:11.203Z",
+      "msg": "  probe https://www.oxnardcollege.edu/apply-and-enroll/register-for-classes → 2 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:11.256Z",
+      "msg": "probe https://venturacollege.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:11.408Z",
+      "msg": "probe https://venturacollege.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:11.558Z",
+      "msg": "probe https://venturacollege.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:11.698Z",
+      "msg": "  probe https://sfsc-prod-pxes02.banner.elluciancloud.com:8090/StudentRegistrationSsb/ssb/registration → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:11.713Z",
+      "msg": "probe https://venturacollege.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T08:37:11.779Z",
+      "msg": "  probe https://www.venturacollege.edu/user/login → 🔒 sign-in"
+    },
+    {
+      "t": "2026-06-09T08:37:11.974Z",
+      "msg": "  probe https://venturacollege-pm.campuslogic.com/signin → 🔒 sign-in"
+    },
+    {
+      "t": "2026-06-09T08:37:14.036Z",
+      "msg": "  probe https://catalog.venturacollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:14.141Z",
+      "msg": "  probe https://www.oxnardcollege.edu/apply-and-enroll/schedule-of-classes → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:14.352Z",
+      "msg": "  probe https://sfsc-prod-pxes02.banner.elluciancloud.com:8090/StudentRegistrationSsb/ssb/term/termSelection?mode=search → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:14.821Z",
+      "msg": "  probe https://sfsc-prod-pxes02.banner.elluciancloud.com:8090/StudentRegistrationSsb/ssb/registration# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:14.822Z",
+      "msg": "  render+drive https://www.cerrocoso.edu/academics/class-schedule/index.html …"
+    },
+    {
+      "t": "2026-06-09T08:37:16.333Z",
+      "msg": "probe https://ssb.venturacollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T08:37:20.961Z",
+      "msg": "probe https://banner.venturacollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T08:37:22.010Z",
+      "msg": "  render https://www.cerrocoso.edu/academics/class-schedule/index.html → 37 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:22.011Z",
+      "msg": "  render+drive https://ssb.vcccd.edu/prod/pw_alpha_sched.p_start_here?ltr_in=N&term_in=202507&campus_in=3 …"
+    },
+    {
+      "t": "2026-06-09T08:37:25.835Z",
+      "msg": "probe https://selfservice.venturacollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T08:37:30.324Z",
+      "msg": "probe https://ssb-prod.venturacollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T08:37:34.886Z",
+      "msg": "probe https://my.venturacollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T08:37:39.226Z",
+      "msg": "probe https://webadvisor.venturacollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T08:37:40.035Z",
+      "msg": "  render https://ssb.vcccd.edu/prod/pw_alpha_sched.p_start_here?ltr_in=N&term_in=202507&campus_in=3 → 11 course(s)"
+    },
+    {
+      "t": "2026-06-09T08:37:40.035Z",
+      "msg": "  render+drive https://sfsc-prod-pxes02.banner.elluciancloud.com:8090/StudentRegistrationSsb/ssb/registration …"
+    },
+    {
+      "t": "2026-06-09T08:37:43.796Z",
+      "msg": "probe https://reg.venturacollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T08:37:48.378Z",
+      "msg": "probe https://catalog.venturacollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T08:37:53.461Z",
+      "msg": "probe https://catalog.venturacollege.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T08:37:57.957Z",
+      "msg": "probe https://catalog.venturacollege.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T08:37:57.958Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T08:38:07.711Z",
+      "msg": "  render https://sfsc-prod-pxes02.banner.elluciancloud.com:8090/StudentRegistrationSsb/ssb/registration → 0 course(s)"
     }
-  ]
+  ],
+  "strategy": "Explore real homepage links (HTTP)"
 }

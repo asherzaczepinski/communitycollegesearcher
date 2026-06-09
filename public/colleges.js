@@ -19,25 +19,56 @@ async function loadStats() {
     `${s.liveColleges} live · ${pending} not live · ${s.courses.toLocaleString()} real courses across ${s.colleges} colleges`;
 }
 
+// Human label for where this college's data came from.
+function sourceLabel(c) {
+  const mixed = c.cvc_count > 0 && c.site_count > 0;
+  if (mixed) return 'college site + CVC online';
+  if (c.scrape_type === 'cvc') return 'CVC Exchange (online only)';
+  if (c.scrape_type === 'colleague') return 'college site · Colleague Self-Service';
+  if (['html', 'auto', 'browser', 'college'].includes(c.scrape_type)) return 'college website';
+  return '—';
+}
+
+// Modality breakdown line: "472 in-person · 15 online · 2 hybrid".
+function modalityLine(c) {
+  const parts = [];
+  if (c.in_person_count) parts.push(`${c.in_person_count.toLocaleString()} in-person`);
+  if (c.online_count) parts.push(`${c.online_count.toLocaleString()} online`);
+  if (c.hybrid_count) parts.push(`${c.hybrid_count.toLocaleString()} hybrid`);
+  return parts.join(' · ') || 'no breakdown';
+}
+
 function row(c) {
+  // A college whose only data is CVC's online subset has an incomplete catalog
+  // (no in-person sections) — flag it honestly.
+  const onlineOnly = c.live && c.scrape_type === 'cvc';
   const status = c.last_status ? esc(c.last_status) : (c.live ? 'live' : 'no real data yet');
-  const count = c.live ? `<span class="rc">${c.course_count.toLocaleString()} courses</span>` : `<span class="rc muted">0 courses</span>`;
+  const count = c.live
+    ? `<span class="rc">${c.course_count.toLocaleString()} courses</span>`
+    : `<span class="rc muted">0 courses</span>`;
   const searchLink = c.live
-    ? `<a class="btn ghost" href="/search.html?college=${encodeURIComponent(c.slug)}">Search</a>`
+    ? `<a class="btn ghost" href="/search.html?college=${encodeURIComponent(c.slug)}">View courses</a>`
     : '';
   const site = c.url ? `<a class="site" href="${esc(c.url)}" target="_blank" rel="noopener">site ↗</a>` : '';
+  const incomplete = onlineOnly
+    ? `<span class="badge warn" title="We only have CVC's online listings for this college — the full (in-person) catalog isn't sourced yet.">⚠ online only — full catalog pending</span>`
+    : '';
+  const meta = c.live
+    ? `<div class="cr-meta">
+         <span class="badge src">from: ${esc(sourceLabel(c))}</span>
+         <span class="cr-mods">${esc(modalityLine(c))}</span>
+         ${incomplete}
+       </div>`
+    : '';
   return `<div class="college-row ${c.live ? 'is-live' : 'is-pending'}" data-slug="${esc(c.slug)}">
     <div class="cr-main">
       <div class="cr-name"><span class="cr-dot"></span>${esc(c.name)} ${site}</div>
       <div class="cr-status">${status}</div>
+      ${meta}
     </div>
     <div class="cr-right">
       ${count}
       ${searchLink}
-      <button class="btn" data-act="scrape">Scrape</button>
-      <button class="btn ghost" data-act="learn">Re-learn</button>
-      <button class="btn ghost" data-act="learn-search" title="Search the web for this college's class schedule, then learn from the results">Search &amp; learn</button>
-      <a class="btn ghost" href="/progress.html?college=${encodeURIComponent(c.slug)}" title="Auto-scrape this college (HTTP → web search → headless browser) on the Progress tab, with a live log.">Auto-scrape ↗</a>
     </div>
   </div>`;
 }
@@ -58,60 +89,6 @@ function render() {
   $('#group-pending').style.display = state.tab === 'live' ? 'none' : '';
 }
 
-async function runAction(slug, act, btn) {
-  const rowEl = btn.closest('.college-row');
-  const buttons = rowEl.querySelectorAll('button');
-  buttons.forEach((b) => (b.disabled = true));
-  const statusEl = rowEl.querySelector('.cr-status');
-  const original = statusEl.textContent;
-  // Auto-scrape lives on the Progress tab (/progress.html) — these are the quick in-row actions.
-  const ENDPOINTS = {
-    scrape: '/api/update/',
-    learn: '/api/learn/',
-    'learn-search': '/api/learn-search/',
-  };
-  const BUSY = {
-    scrape: 'scraping…',
-    learn: 're-learning…',
-    'learn-search': 'searching the web…',
-  };
-  statusEl.textContent = BUSY[act] || 'working…';
-  rowEl.classList.add('busy');
-
-  try {
-    const url = `${ENDPOINTS[act]}${encodeURIComponent(slug)}`;
-    const res = await fetch(url, { method: 'POST' });
-    const data = await res.json();
-
-    if (act === 'scrape') {
-      if (data.ok) {
-        statusEl.textContent = `ok: ${data.count} courses via ${data.type}`;
-      } else {
-        statusEl.textContent = `error: ${data.error || 'failed'}`;
-      }
-    } else {
-      // All learn flows return { recipe }.
-      const r = data.recipe || {};
-      const via = act === 'learn-search' ? ` (web search: ${(r.searchResults || []).length} results)` : '';
-      if (r.blocked === 'login') {
-        statusEl.textContent = `🔒 blocked: sign-in required${via}`;
-      } else if (r.sampleCount > 0) {
-        const how = r.method === 'browser' ? ' [browser]' : '';
-        statusEl.textContent = `learned${how}${via}: ${r.sampleCount} courses found ← ${r.extractUrl || ''}`;
-      } else {
-        statusEl.textContent = `learned${via}: no courses found (${(r.candidates || []).length} links)`;
-      }
-    }
-    // Refresh truth from the server so live/pending grouping + counts update.
-    await loadColleges();
-    await loadStats();
-  } catch (err) {
-    statusEl.textContent = `error: ${err.message}`;
-    rowEl.classList.remove('busy');
-    buttons.forEach((b) => (b.disabled = false));
-  }
-}
-
 function init() {
   $('#filter').addEventListener('input', (e) => { state.filter = e.target.value; render(); });
   $('#seg').addEventListener('click', (e) => {
@@ -120,12 +97,6 @@ function init() {
     state.tab = btn.dataset.tab;
     document.querySelectorAll('#seg button').forEach((b) => b.classList.toggle('active', b === btn));
     render();
-  });
-  document.addEventListener('click', (e) => {
-    const btn = e.target.closest('button[data-act]');
-    if (!btn) return;
-    const slug = btn.closest('.college-row').dataset.slug;
-    runAction(slug, btn.dataset.act, btn);
   });
 
   loadColleges();

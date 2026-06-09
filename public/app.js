@@ -38,10 +38,12 @@ function card(c) {
   const collegeLink = c.college_url
     ? `<a href="${esc(c.college_url)}" target="_blank" rel="noopener">${esc(c.college_name)}</a>`
     : esc(c.college_name);
-  const isReal = c.source === 'college' || c.source === 'auto' || c.source === 'html';
-  const sourceTag = isReal
-    ? `<span class="src real" title="Scraped live from the college site">● live</span>`
-    : `<span class="src sample" title="Placeholder data — this college's site isn't scrapable over plain HTTP yet">○ sample</span>`;
+  // Where this specific course came from.
+  const sourceTag = c.source === 'cvc'
+    ? `<span class="src cvc" title="From the CVC Exchange — an online course available to CA community college students">● CVC online</span>`
+    : c.source === 'colleague'
+      ? `<span class="src real" title="Scraped live from the college's Colleague Self-Service catalog">● college site</span>`
+      : `<span class="src real" title="Scraped live from the college site">● college site</span>`;
   return `<div class="card">
     <div class="row1">
       <div>${code}<span class="title">${esc(c.title)}</span></div>

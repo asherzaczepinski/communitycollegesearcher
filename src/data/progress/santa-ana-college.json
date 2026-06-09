@@ -3,16 +3,16 @@
   "name": "Santa Ana College",
   "url": "https://www.sac.edu/",
   "status": "impossible",
-  "attempts": 3,
+  "attempts": 8,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.170Z",
-  "finishedAt": "2026-06-08T17:36:30.176Z",
-  "updatedAt": "2026-06-08T17:36:30.176Z",
+  "note": "No login wall found, but no public schedule surfaced through 5 strategies incl. an exhaustive search sweep. Retryable.",
+  "startedAt": "2026-06-09T06:22:30.909Z",
+  "finishedAt": "2026-06-09T06:27:33.155Z",
+  "updatedAt": "2026-06-09T06:40:06.439Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.170Z",
@@ -53,6 +53,410 @@
     {
       "t": "2026-06-08T17:36:30.176Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T06:22:30.909Z",
+      "msg": "▶ Solving Santa Ana College — https://www.sac.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T06:22:30.909Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T06:22:31.243Z",
+      "msg": "  explore https://www.sac.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:31.578Z",
+      "msg": "  explore https://www.sac.edu/admissions/class_schedule.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:31.790Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalog.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:31.911Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalog#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:32.027Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalog#site-navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:32.143Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalog#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:32.264Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalog# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:37.058Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalogarchive/SAC_Catalog_2025-2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:46.804Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalogarchive/SAC%202024-2025_Catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:49.494Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalogarchive/SAC%202024-25%20Catalog%20Addendum_0729%20.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:50.754Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalogarchive/2023-2024%20Santa%20Ana%20College%20Academic%20Catalog%20.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:50.966Z",
+      "msg": "  explore https://www.sac.edu/admissions/priority_application.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:51.178Z",
+      "msg": "  explore https://www.sac.edu/division/dual_enrollment/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:51.301Z",
+      "msg": "  explore https://www.sac.edu/division/dual_enrollment/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:51.520Z",
+      "msg": "  explore https://www.sac.edu/division/dual_enrollment/new_student.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:51.777Z",
+      "msg": "  explore https://www.sac.edu/division/dual_enrollment/current_student.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:51.895Z",
+      "msg": "  explore https://www.sac.edu/division/dual_enrollment/new_student# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:52.250Z",
+      "msg": "  explore https://www.sac.edu/division/dual_enrollment/Home%20School%20Students%20Guide.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:52.405Z",
+      "msg": "  explore https://www.sac.edu/division/dual_enrollment/current_student# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:52.667Z",
+      "msg": "  explore https://www.sac.edu/sce/english/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:52.777Z",
+      "msg": "  explore https://www.sac.edu/division/dual_enrollment/#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:52.888Z",
+      "msg": "  explore https://www.sac.edu/division/dual_enrollment/#site-navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:22:52.889Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T06:22:53.144Z",
+      "msg": "  sitemap https://www.sac.edu/sitemap.xml → 2340 entries"
+    },
+    {
+      "t": "2026-06-09T06:22:54.285Z",
+      "msg": "  sitemap https://www.sac.edu/sitemap_index.xml → 0 entries"
+    },
+    {
+      "t": "2026-06-09T06:22:54.385Z",
+      "msg": "  sitemap https://www.sac.edu/sitemap-index.xml → 0 entries"
+    },
+    {
+      "t": "2026-06-09T06:22:54.387Z",
+      "msg": "  sitemap mining → 2080 URL(s), 118 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T06:23:10.450Z",
+      "msg": "   strategy error: Maximum call stack size exceeded"
+    },
+    {
+      "t": "2026-06-09T06:23:10.451Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T06:23:12.810Z",
+      "msg": "  explore https://www.sac.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:23:13.303Z",
+      "msg": "  explore https://www.sac.edu/admissions/class_schedule.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:23:13.515Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalog.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:23:13.627Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalog#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:23:13.746Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalog#site-navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:23:13.865Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalog#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:23:13.982Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalog# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:23:18.839Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalogarchive/SAC_Catalog_2025-2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:23:28.619Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalogarchive/SAC%202024-2025_Catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:23:31.269Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalogarchive/SAC%202024-25%20Catalog%20Addendum_0729%20.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:23:32.558Z",
+      "msg": "  explore https://www.sac.edu/admissions/catalogarchive/2023-2024%20Santa%20Ana%20College%20Academic%20Catalog%20.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:23:32.760Z",
+      "msg": "  explore https://www.sac.edu/admissions/priority_application.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:23:32.968Z",
+      "msg": "  explore https://www.sac.edu/division/dual_enrollment/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:23:33.085Z",
+      "msg": "  explore https://www.sac.edu/division/dual_enrollment/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:23:33.091Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T06:23:34.270Z",
+      "msg": "  google \"Santa Ana College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:23:34.844Z",
+      "msg": "  google \"Santa Ana College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:23:35.431Z",
+      "msg": "  google \"Santa Ana College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:23:36.028Z",
+      "msg": "  google \"Santa Ana College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:23:36.617Z",
+      "msg": "  google \"Santa Ana College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:23:37.236Z",
+      "msg": "  google \"Santa Ana College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:24:35.318Z",
+      "msg": "  google \"Santa Ana College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:25:33.096Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:25:33.150Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T06:26:50.191Z",
+      "msg": "  google \"Santa Ana College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:27:33.152Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:27:33.154Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T06:27:49.210Z",
+      "msg": "search \"Santa Ana College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:29:05.562Z",
+      "msg": "  google \"Santa Ana College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:30:04.147Z",
+      "msg": "search \"Santa Ana College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:31:18.054Z",
+      "msg": "  google \"Santa Ana College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:32:17.395Z",
+      "msg": "search \"Santa Ana College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:33:31.505Z",
+      "msg": "  google \"Santa Ana College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:34:31.098Z",
+      "msg": "search \"Santa Ana College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:35:45.036Z",
+      "msg": "  google \"site:sac.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:37:03.341Z",
+      "msg": "search \"Santa Ana College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:38:16.427Z",
+      "msg": "  google \"site:sac.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:38:16.428Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
+    },
+    {
+      "t": "2026-06-09T06:39:17.021Z",
+      "msg": "search \"Santa Ana College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:39:17.022Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T06:39:17.022Z",
+      "msg": "Top candidate: https://www.sac.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T06:39:17.570Z",
+      "msg": "probe https://www.sac.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:17.696Z",
+      "msg": "probe https://www.sac.edu/schedule-of-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:17.814Z",
+      "msg": "probe https://www.sac.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:17.930Z",
+      "msg": "probe https://www.sac.edu/classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:18.047Z",
+      "msg": "probe https://www.sac.edu/class-search → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:18.163Z",
+      "msg": "probe https://www.sac.edu/find-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:18.283Z",
+      "msg": "probe https://www.sac.edu/searchable-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:18.399Z",
+      "msg": "probe https://www.sac.edu/academics/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:18.515Z",
+      "msg": "probe https://www.sac.edu/admissions/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:19.077Z",
+      "msg": "probe https://sac.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:19.196Z",
+      "msg": "probe https://sac.edu/schedule-of-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:19.313Z",
+      "msg": "probe https://sac.edu/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:19.427Z",
+      "msg": "probe https://sac.edu/classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:19.538Z",
+      "msg": "probe https://sac.edu/class-search → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:19.651Z",
+      "msg": "probe https://sac.edu/find-classes → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:19.767Z",
+      "msg": "probe https://sac.edu/searchable-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:19.878Z",
+      "msg": "probe https://sac.edu/academics/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:19.991Z",
+      "msg": "probe https://sac.edu/admissions/class-schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:39:24.501Z",
+      "msg": "probe https://ssb.sac.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:39:29.304Z",
+      "msg": "probe https://banner.sac.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:39:33.728Z",
+      "msg": "probe https://selfservice.sac.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:39:38.427Z",
+      "msg": "probe https://ssb-prod.sac.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:39:43.187Z",
+      "msg": "probe https://my.sac.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:39:47.962Z",
+      "msg": "probe https://webadvisor.sac.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:39:52.911Z",
+      "msg": "probe https://reg.sac.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:39:57.260Z",
+      "msg": "probe https://catalog.sac.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:40:01.793Z",
+      "msg": "probe https://catalog.sac.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:40:06.438Z",
+      "msg": "probe https://catalog.sac.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:40:06.439Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
     }
   ]
 }

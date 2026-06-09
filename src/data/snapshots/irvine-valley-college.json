@@ -1,31 +1,150 @@
 {
   "slug": "irvine-valley-college",
-  "scrapedAt": "2026-06-08T17:35:15.642Z",
-  "count": 2,
+  "scrapedAt": "2026-06-09T13:43:21.789Z",
+  "count": 13,
   "courses": [
     {
-      "code": "ACCT 1AH",
-      "title": "Financial Accounting Honors",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
+      "code": "ACCT112.2",
+      "title": "Spreadsheets II",
+      "modality": "online",
+      "term": "Jun 17 - Aug 8",
+      "units": "1.5",
       "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://classes.socccd.edu/smartscheduleweb/list/1/I/202670/search"
+      "section": "2274792",
+      "description": "Tuition: $69.00",
+      "url": "https://search.cvc.edu/courses/2274792?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=business&filter%5Btarget_school_ids%5D%5B%5D=563&filter%5Btransferability%5D%5B%5D=articulation"
     },
     {
-      "code": "ACCT 1A",
-      "title": "Financial Accounting",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
+      "code": "CIM112.2",
+      "title": "Spreadsheets II",
+      "modality": "online",
+      "term": "Jun 17 - Aug 8",
+      "units": "1.5",
       "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://classes.socccd.edu/smartscheduleweb/list/1/I/202670/search"
+      "section": "2274880",
+      "description": "Tuition: $69.00",
+      "url": "https://search.cvc.edu/courses/2274880?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=business&filter%5Btarget_school_ids%5D%5B%5D=563&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "CIM1",
+      "title": "Introduction to Personal Computer Applications",
+      "modality": "online",
+      "term": "Jun 15 - Aug 8",
+      "units": "3.0",
+      "instructor": null,
+      "section": "15976904",
+      "description": "Tuition: $138.00",
+      "url": "https://search.cvc.edu/courses/15976904?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=computer+science&filter%5Btarget_school_ids%5D%5B%5D=563&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "RE250",
+      "title": "Real Estate Salesperson's License Exam Preparation",
+      "modality": "online",
+      "term": "Jul 13 - Jul 26",
+      "units": "1.0",
+      "instructor": null,
+      "section": "2275210",
+      "description": "Tuition: $46.00",
+      "url": "https://search.cvc.edu/courses/2275210?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=information+technology&filter%5Btarget_school_ids%5D%5B%5D=563&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "CIM234",
+      "title": "Introduction to Cloud Computing",
+      "modality": "online",
+      "term": "Jun 15 - Aug 8",
+      "units": "3.0",
+      "instructor": null,
+      "section": "15989794",
+      "description": "Tuition: $138.00",
+      "url": "https://search.cvc.edu/courses/15989794?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=information+technology&filter%5Btarget_school_ids%5D%5B%5D=563&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "COUN2",
+      "title": "UC Student Education Plan",
+      "modality": "online",
+      "term": "Jun 15 - Jul 13",
+      "units": "0.5",
+      "instructor": null,
+      "section": "1482998",
+      "description": "Tuition: $23.00",
+      "url": "https://search.cvc.edu/courses/1482998?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=information+technology&filter%5Btarget_school_ids%5D%5B%5D=563&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "COUN10",
+      "title": "Introduction to College Study Skills",
+      "modality": "online",
+      "term": "Jun 15 - Aug 8",
+      "units": "3.0",
+      "instructor": null,
+      "section": "1482999",
+      "description": "Transfer: CSU BREADTH | Tuition: $138.00",
+      "url": "https://search.cvc.edu/courses/1482999?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=communication&filter%5Btarget_school_ids%5D%5B%5D=563&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "KNES86",
+      "title": "Theory of Coaching",
+      "modality": "online",
+      "term": "Jun 15 - Aug 8",
+      "units": "3.0",
+      "instructor": null,
+      "section": "2275100",
+      "description": "Tuition: $138.00",
+      "url": "https://search.cvc.edu/courses/2275100?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=philosophy&filter%5Btarget_school_ids%5D%5B%5D=563&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "GEOG1L",
+      "title": "Earth's Natural Environment Laboratory",
+      "modality": "online",
+      "term": "Jun 15 - Aug 8",
+      "units": "1.0",
+      "instructor": null,
+      "section": "1069115",
+      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $46.00",
+      "url": "https://search.cvc.edu/courses/1069115?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=geography&filter%5Btarget_school_ids%5D%5B%5D=563&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "COUN47",
+      "title": "Latinx Experience and Success in Higher Education",
+      "modality": "online",
+      "term": "Jun 15 - Aug 8",
+      "units": "3.0",
+      "instructor": null,
+      "section": "15821571",
+      "description": "Tuition: $138.00",
+      "url": "https://search.cvc.edu/courses/15821571?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=563&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "SRM80",
+      "title": "Introduction to the Principles of Sustainability",
+      "modality": "online",
+      "term": "Jun 15 - Aug 8",
+      "units": "3.0",
+      "instructor": null,
+      "section": "3879755",
+      "description": "Transfer: IGETC, Cal-GETC, CSU BREADTH | Tuition: $138.00",
+      "url": "https://search.cvc.edu/courses/3879755?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=563&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "COUN4",
+      "title": "Stress Management",
+      "modality": "online",
+      "term": "Jun 15 - Aug 8",
+      "units": "3.0",
+      "instructor": null,
+      "section": "1080142",
+      "description": "Transfer: CSU BREADTH | Tuition: $138.00",
+      "url": "https://search.cvc.edu/courses/1080142?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=563&filter%5Btransferability%5D%5B%5D=articulation"
+    },
+    {
+      "code": "COUN20",
+      "title": "Women and Work",
+      "modality": "online",
+      "term": "Jun 15 - Aug 8",
+      "units": "3.0",
+      "instructor": null,
+      "section": "12801848",
+      "description": "Transfer: CSU BREADTH | Tuition: $138.00",
+      "url": "https://search.cvc.edu/courses/12801848?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-06-10&filter%5Bsubject%5D=counseling&filter%5Btarget_school_ids%5D%5B%5D=563&filter%5Btransferability%5D%5B%5D=articulation"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "slug": "monterey-peninsula-college",
-  "scrapedAt": "2026-06-06T00:51:26.093Z",
+  "scrapedAt": "2026-06-09T13:18:51.062Z",
   "count": 970,
   "courses": [
     {
@@ -455,23 +455,12 @@
       "url": "https://reg-prod.mpc.elluciancloud.com:8103/StudentRegistrationSsb/ssb/classSearch/classSearch"
     },
     {
-      "code": "ARTB 3",
-      "title": "Visual Fundamentals: Three-Dimensional Design",
-      "modality": "in_person",
-      "term": "Fall 2026",
-      "units": "3",
-      "instructor": "Staff, Staff",
-      "section": "0",
-      "description": "MPC Monterey Campus",
-      "url": "https://reg-prod.mpc.elluciancloud.com:8103/StudentRegistrationSsb/ssb/classSearch/classSearch"
-    },
-    {
       "code": "ARTB 4",
       "title": "Color Fundamentals",
       "modality": "in_person",
       "term": "Fall 2026",
       "units": "3",
-      "instructor": "Staff, Staff",
+      "instructor": "Gomez, Georgesse",
       "section": "0",
       "description": "MPC Monterey Campus",
       "url": "https://reg-prod.mpc.elluciancloud.com:8103/StudentRegistrationSsb/ssb/classSearch/classSearch"
@@ -873,6 +862,17 @@
       "url": "https://reg-prod.mpc.elluciancloud.com:8103/StudentRegistrationSsb/ssb/classSearch/classSearch"
     },
     {
+      "code": "ART 431",
+      "title": "Drawing and Composition",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Shields Bispo, Melissa",
+      "section": "0",
+      "description": "MPC Online",
+      "url": "https://reg-prod.mpc.elluciancloud.com:8103/StudentRegistrationSsb/ssb/classSearch/classSearch"
+    },
+    {
       "code": "ARTP 10",
       "title": "Understanding Photography",
       "modality": "online",
@@ -977,7 +977,7 @@
       "modality": "in_person",
       "term": "Fall 2026",
       "units": "3",
-      "instructor": "Staff, Staff",
+      "instructor": "Shields Bispo, Melissa",
       "section": "0",
       "description": "MPC Monterey Campus",
       "url": "https://reg-prod.mpc.elluciancloud.com:8103/StudentRegistrationSsb/ssb/classSearch/classSearch"

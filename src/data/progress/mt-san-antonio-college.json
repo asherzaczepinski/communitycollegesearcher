@@ -2,17 +2,17 @@
   "slug": "mt-san-antonio-college",
   "name": "Mt. San Antonio College",
   "url": "https://www.mtsac.edu/",
-  "status": "running",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 30,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://catalog.mtsac.edu/programs/programsaz/animal-science/registered-veterinary-technology-degree/",
   "blocked": null,
-  "note": "",
-  "startedAt": "2026-06-09T03:19:00.952Z",
-  "finishedAt": null,
-  "updatedAt": "2026-06-09T03:28:41.049Z",
+  "note": "Solved via \"Explore real homepage links (HTTP)\" — 30 courses from https://catalog.mtsac.edu/programs/programsaz/animal-science/registered-veterinary-technology-degree/.",
+  "startedAt": "2026-06-09T04:32:55.769Z",
+  "finishedAt": "2026-06-09T04:37:37.023Z",
+  "updatedAt": "2026-06-09T06:00:44.517Z",
   "log": [
     {
       "t": "2026-06-08T17:36:29.986Z",
@@ -253,6 +253,411 @@
     {
       "t": "2026-06-09T03:28:41.049Z",
       "msg": "  google \"Mt. San Antonio College class schedule spring 2026\" → 0 hit(s) (+0 new, 10 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:32:55.770Z",
+      "msg": "▶ Solving Mt. San Antonio College — https://www.mtsac.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T04:32:55.770Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T04:32:58.969Z",
+      "msg": "  explore https://www.mtsac.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:04.952Z",
+      "msg": "  explore https://www.mtsac.edu/#scheduleClasses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:05.406Z",
+      "msg": "  explore https://www.mtsac.edu/schedule/summer.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:05.745Z",
+      "msg": "  explore https://prodrg.mtsac.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:06.174Z",
+      "msg": "  explore https://www.mtsac.edu/schedule/fall.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:06.523Z",
+      "msg": "  explore https://www.mtsac.edu/schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:08.272Z",
+      "msg": "  explore https://www.mtsac.edu/schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:08.476Z",
+      "msg": "  explore https://clsrchprd.mtsac.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:09.640Z",
+      "msg": "  explore https://www.mtsac.edu/schedule/summer.html#d25e391 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:10.030Z",
+      "msg": "  explore https://www.mtsac.edu/schedule/fall.html#d25e408 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:10.223Z",
+      "msg": "  explore https://www.mtsac.edu/classsearch → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:10.447Z",
+      "msg": "  explore https://www.mtsac.edu/admissions/register-for-classes/how-to-find-classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:10.802Z",
+      "msg": "  explore https://www.mtsac.edu/schedule/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:11.356Z",
+      "msg": "  explore https://www.mtsac.edu/admissions/register-for-classes/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:12.510Z",
+      "msg": "  explore https://www.mtsac.edu/schedule/summer.html#d25e434 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:12.939Z",
+      "msg": "  explore https://www.mtsac.edu/schedule/fall.html#d25e451 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:13.828Z",
+      "msg": "  explore https://www.mtsac.edu/admissions/register-for-classes/how-to-find-classes.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:14.987Z",
+      "msg": "  explore https://www.mtsac.edu/admissions/register-for-classes/how-to-drop-classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:15.631Z",
+      "msg": "  explore https://catalog.mtsac.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:16.222Z",
+      "msg": "  explore https://catalog.mtsac.edu/programs/programsaz/animal-science/registered-veterinary-technology-degree/ → 30 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-09T04:33:16.504Z",
+      "msg": "  explore https://catalog.mtsac.edu/programs/programsaz/animal-science/registered-veterinary-technology-degree/#text → 30 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-09T04:33:17.099Z",
+      "msg": "  explore https://catalog.mtsac.edu/programs/programsaz/animal-science/registered-veterinary-technology-degree/#outcomestext → 30 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-09T04:33:17.120Z",
+      "msg": "   ✓ \"Explore real homepage links (HTTP)\" found 30 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:17.120Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T04:33:17.800Z",
+      "msg": "  sitemap https://www.mtsac.edu/sitemap.xml → 78133 entries"
+    },
+    {
+      "t": "2026-06-09T04:33:18.748Z",
+      "msg": "  sitemap https://www.mtsac.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T04:33:19.204Z",
+      "msg": "  sitemap https://www.mtsac.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T04:33:19.221Z",
+      "msg": "  sitemap mining → 73039 URL(s), 3904 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T04:33:24.199Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T04:33:28.718Z",
+      "msg": "  explore https://www.mtsac.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:32.239Z",
+      "msg": "  explore https://www.mtsac.edu/#scheduleClasses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:32.618Z",
+      "msg": "  explore https://www.mtsac.edu/schedule/summer.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:32.886Z",
+      "msg": "  explore https://prodrg.mtsac.edu/StudentRegistrationSsb/ssb/term/termSelection?mode=search → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:33.305Z",
+      "msg": "  explore https://www.mtsac.edu/schedule/fall.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:33.584Z",
+      "msg": "  explore https://www.mtsac.edu/schedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:34.293Z",
+      "msg": "  explore https://www.mtsac.edu/schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:34.442Z",
+      "msg": "  explore https://clsrchprd.mtsac.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:34.764Z",
+      "msg": "  explore https://www.mtsac.edu/schedule/summer.html#d25e391 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:35.938Z",
+      "msg": "  explore https://www.mtsac.edu/schedule/fall.html#d25e408 → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:36.117Z",
+      "msg": "  explore https://www.mtsac.edu/classsearch → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:36.439Z",
+      "msg": "  explore https://www.mtsac.edu/admissions/register-for-classes/how-to-find-classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:36.789Z",
+      "msg": "  explore https://www.mtsac.edu/schedule/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:36.946Z",
+      "msg": "  explore https://www.mtsac.edu/admissions/register-for-classes/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:33:36.947Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T04:35:36.952Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T04:35:37.008Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T04:35:48.144Z",
+      "msg": "  google \"Mt. San Antonio College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:37:37.013Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T04:37:37.022Z",
+      "msg": "✅ SOLVED — 30 courses ingested into the searchable DB (strategy: Explore real homepage links (HTTP))."
+    },
+    {
+      "t": "2026-06-09T04:37:49.734Z",
+      "msg": "search \"Mt. San Antonio College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:38:02.423Z",
+      "msg": "  google \"Mt. San Antonio College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T04:40:03.600Z",
+      "msg": "search \"Mt. San Antonio College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T04:40:15.612Z",
+      "msg": "  google \"Mt. San Antonio College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:03:25.702Z",
+      "msg": "search \"Mt. San Antonio College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T05:03:36.625Z",
+      "msg": "  google \"Mt. San Antonio College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:08:41.703Z",
+      "msg": "search \"Mt. San Antonio College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T05:08:52.387Z",
+      "msg": "  google \"Mt. San Antonio College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:22:11.160Z",
+      "msg": "search \"Mt. San Antonio College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T05:22:23.011Z",
+      "msg": "  google \"Mt. San Antonio College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:34:40.660Z",
+      "msg": "search \"Mt. San Antonio College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T05:34:40.661Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T05:34:40.662Z",
+      "msg": "Top candidate: https://www.mtsac.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T05:34:41.265Z",
+      "msg": "probe https://www.mtsac.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T05:34:41.396Z",
+      "msg": "probe https://www.mtsac.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:34:41.521Z",
+      "msg": "probe https://www.mtsac.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:34:41.658Z",
+      "msg": "probe https://www.mtsac.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:34:41.790Z",
+      "msg": "probe https://www.mtsac.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:34:42.180Z",
+      "msg": "probe https://www.mtsac.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:34:42.345Z",
+      "msg": "probe https://www.mtsac.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:34:42.465Z",
+      "msg": "probe https://www.mtsac.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:34:42.586Z",
+      "msg": "probe https://www.mtsac.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:34:45.068Z",
+      "msg": "probe https://mtsac.edu/schedule → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T05:34:47.342Z",
+      "msg": "probe https://mtsac.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:34:49.468Z",
+      "msg": "probe https://mtsac.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:34:51.820Z",
+      "msg": "probe https://mtsac.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:34:51.918Z",
+      "msg": "  google \"Mt. San Antonio College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:34:54.193Z",
+      "msg": "probe https://mtsac.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:34:56.428Z",
+      "msg": "probe https://mtsac.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:34:58.834Z",
+      "msg": "probe https://mtsac.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:35:01.271Z",
+      "msg": "probe https://mtsac.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:35:03.404Z",
+      "msg": "probe https://mtsac.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:35:08.085Z",
+      "msg": "probe https://ssb.mtsac.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T05:36:13.854Z",
+      "msg": "probe https://banner.mtsac.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T05:36:18.367Z",
+      "msg": "probe https://selfservice.mtsac.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T05:36:23.109Z",
+      "msg": "probe https://ssb-prod.mtsac.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T05:36:27.537Z",
+      "msg": "probe https://my.mtsac.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T05:36:31.930Z",
+      "msg": "probe https://webadvisor.mtsac.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T05:36:36.676Z",
+      "msg": "probe https://reg.mtsac.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T05:36:37.290Z",
+      "msg": "probe https://catalog.mtsac.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T05:36:37.509Z",
+      "msg": "probe https://catalog.mtsac.edu/course-outlines/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:36:37.580Z",
+      "msg": "probe https://catalog.mtsac.edu/courses/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T05:36:37.582Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T05:37:06.038Z",
+      "msg": "  google \"Mt. San Antonio College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:41:15.300Z",
+      "msg": "  google \"Mt. San Antonio College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:53:10.690Z",
+      "msg": "  google \"Mt. San Antonio College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:55:37.305Z",
+      "msg": "  google \"Mt. San Antonio College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:58:31.801Z",
+      "msg": "  google \"site:mtsac.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:00:44.516Z",
+      "msg": "  google \"site:mtsac.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:00:44.517Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
     }
-  ]
+  ],
+  "strategy": "Explore real homepage links (HTTP)"
 }

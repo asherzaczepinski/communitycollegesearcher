@@ -2,17 +2,17 @@
   "slug": "san-diego-college-of-continuing-education",
   "name": "San Diego College of Continuing Education",
   "url": "https://sdcce.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 5,
+  "courseCount": 320,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://sdcce.edu/coursenet/",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.141Z",
-  "finishedAt": "2026-06-08T17:36:30.151Z",
-  "updatedAt": "2026-06-08T17:36:30.151Z",
+  "note": "Solved via \"Mine sitemap.xml / robots.txt\" — 320 courses from https://sdcce.edu/coursenet/.",
+  "startedAt": "2026-06-09T06:18:07.405Z",
+  "finishedAt": "2026-06-09T06:18:10.959Z",
+  "updatedAt": "2026-06-09T06:18:10.959Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.141Z",
@@ -53,6 +53,139 @@
     {
       "t": "2026-06-08T17:36:30.151Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T06:18:07.406Z",
+      "msg": "▶ Solving San Diego College of Continuing Education — https://sdcce.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T06:18:07.406Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T06:18:07.573Z",
+      "msg": "  explore https://sdcce.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:07.709Z",
+      "msg": "  explore https://sdcce.edu/become-a-student/steps-to-enroll.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:09.587Z",
+      "msg": "  explore https://sdcce.edu/sites/default/files/ce-catalog-2025-2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:09.935Z",
+      "msg": "  explore https://sdcce.edu/become-a-student/steps-to-enroll.html#admissions-faq → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.010Z",
+      "msg": "  explore https://sdcce.edu/become-a-student/steps-to-enroll.html#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.046Z",
+      "msg": "  explore https://sdcce.edu/become-a-student/steps-to-enroll.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.080Z",
+      "msg": "  explore https://sdcce.edu/student-services/academic-support/dsps.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.113Z",
+      "msg": "  explore https://sdcce.edu/student-services/student-support-special-programs/immigrant-students/know-your-rights.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.149Z",
+      "msg": "  explore https://sdcce.edu/student-services/academic-support/transcripts.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.182Z",
+      "msg": "  explore https://sdcce.edu/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.213Z",
+      "msg": "  explore https://sdcce.edu/become-a-student/free-tuition.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.253Z",
+      "msg": "  explore https://sdcce.edu/student-services/academic-support/dsps.html#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.289Z",
+      "msg": "  explore https://sdcce.edu/student-services/academic-support/dsps.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.323Z",
+      "msg": "  explore https://sdcce.edu/student-services/student-support-special-programs/immigrant-students/know-your-rights.html#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.357Z",
+      "msg": "  explore https://sdcce.edu/student-services/student-support-special-programs/immigrant-students/know-your-rights.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.396Z",
+      "msg": "  explore https://sdcce.edu/student-services/academic-support/transcripts.html#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.432Z",
+      "msg": "  explore https://sdcce.edu/student-services/academic-support/transcripts.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.464Z",
+      "msg": "  explore https://sdcce.edu/become-a-student/scholarships.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.494Z",
+      "msg": "  explore https://sdcce.edu/student-services/academic-support/online-student-assistance-and-services.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.527Z",
+      "msg": "  explore https://sdcce.edu/student-services/academic-support/orientation.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.563Z",
+      "msg": "  explore https://sdcce.edu/become-a-student/free-tuition.html#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.596Z",
+      "msg": "  explore https://sdcce.edu/become-a-student/free-tuition.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.600Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T06:18:10.660Z",
+      "msg": "  sitemap https://sdcce.edu/sitemap.xml → 676 entries"
+    },
+    {
+      "t": "2026-06-09T06:18:10.698Z",
+      "msg": "  sitemap https://sdcce.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:18:10.732Z",
+      "msg": "  sitemap https://sdcce.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:18:10.732Z",
+      "msg": "  sitemap mining → 676 URL(s), 432 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T06:18:10.954Z",
+      "msg": "  sitemap probe https://sdcce.edu/coursenet/ → 320"
+    },
+    {
+      "t": "2026-06-09T06:18:10.954Z",
+      "msg": "   ✓ \"Mine sitemap.xml / robots.txt\" found 320 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:18:10.955Z",
+      "msg": "   solid haul (320 courses) — stopping strategy ladder."
+    },
+    {
+      "t": "2026-06-09T06:18:10.959Z",
+      "msg": "✅ SOLVED — 320 courses ingested into the searchable DB (strategy: Mine sitemap.xml / robots.txt)."
     }
-  ]
+  ],
+  "strategy": "Mine sitemap.xml / robots.txt"
 }

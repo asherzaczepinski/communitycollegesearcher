@@ -2,17 +2,17 @@
   "slug": "pasadena-city-college",
   "name": "Pasadena City College",
   "url": "https://www.pasadena.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 7,
+  "courseCount": 23,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://pasadena.edu/academics/common-course-numbering/index.php",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.054Z",
-  "finishedAt": "2026-06-08T17:36:30.075Z",
-  "updatedAt": "2026-06-08T17:36:30.075Z",
+  "note": "Solved via \"Mine sitemap.xml / robots.txt\" — 23 courses from https://pasadena.edu/academics/common-course-numbering/index.php.",
+  "startedAt": "2026-06-09T05:39:22.310Z",
+  "finishedAt": "2026-06-09T05:50:52.156Z",
+  "updatedAt": "2026-06-09T06:17:22.156Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.054Z",
@@ -53,6 +53,263 @@
     {
       "t": "2026-06-08T17:36:30.075Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T05:39:22.310Z",
+      "msg": "▶ Solving Pasadena City College — https://www.pasadena.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T05:39:22.310Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T05:39:22.932Z",
+      "msg": "  explore https://www.pasadena.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:23.246Z",
+      "msg": "  explore https://pasadena.edu/current-students/guide-to-fall.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:23.314Z",
+      "msg": "  explore https://www.pasadena.edu/academics/catalog-schedule-calendar.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:23.559Z",
+      "msg": "  explore https://www.pasadena.edu/academics/catalog-schedule-calendar.php#schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:23.635Z",
+      "msg": "  explore https://pasadena.edu/academics/catalog-schedule-calendar.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:23.881Z",
+      "msg": "  explore https://pasadena.edu/academics/catalog-schedule-calendar.php#schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:23.945Z",
+      "msg": "  explore https://www.pasadena.edu/academics/catalog-schedule-calendar.php# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:24.006Z",
+      "msg": "  explore https://www.pasadena.edu/academics/catalog-schedule-calendar.php#offcanvas → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:24.093Z",
+      "msg": "  explore https://www.pasadena.edu/academics/catalog-schedule-calendar.php#mobile-quicklinks → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:24.156Z",
+      "msg": "  explore https://www.pasadena.edu/academics/catalog-schedule-calendar.php#collapseTwo → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:24.217Z",
+      "msg": "  explore https://pasadena.edu/academics/catalog-schedule-calendar.php# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:24.282Z",
+      "msg": "  explore https://pasadena.edu/academics/catalog-schedule-calendar.php#offcanvas → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:24.348Z",
+      "msg": "  explore https://pasadena.edu/academics/catalog-schedule-calendar.php#mobile-quicklinks → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:24.462Z",
+      "msg": "  explore https://pasadena.edu/academics/catalog-schedule-calendar.php#collapseTwo → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:24.530Z",
+      "msg": "  explore https://www.pasadena.edu/academics/catalog-schedule-calendar.php#collapseThree → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:24.626Z",
+      "msg": "  explore https://www.pasadena.edu/academics/catalog-schedule-calendar.php#collapseFour → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:24.687Z",
+      "msg": "  explore https://www.pasadena.edu/academics/catalog-schedule-calendar.php#collapseFive → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:24.758Z",
+      "msg": "  explore https://pasadena.edu/academics/catalog-schedule-calendar.php#collapseThree → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:24.826Z",
+      "msg": "  explore https://pasadena.edu/academics/catalog-schedule-calendar.php#collapseFour → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:24.884Z",
+      "msg": "  explore https://pasadena.edu/academics/catalog-schedule-calendar.php#collapseFive → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:24.990Z",
+      "msg": "  explore https://findclasses.pasadena.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:25.057Z",
+      "msg": "  explore https://pasadena.edu/academics/pre-college-programs/dual-enrollment/index.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:25.068Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T05:39:25.201Z",
+      "msg": "  sitemap https://www.pasadena.edu/sitemap.xml → 2797 entries"
+    },
+    {
+      "t": "2026-06-09T05:39:25.623Z",
+      "msg": "  sitemap https://www.pasadena.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T05:39:25.675Z",
+      "msg": "  sitemap https://www.pasadena.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T05:39:25.678Z",
+      "msg": "  sitemap mining → 2559 URL(s), 203 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T05:39:25.855Z",
+      "msg": "  sitemap probe https://pasadena.edu/academics/common-course-numbering/index.php → 23"
+    },
+    {
+      "t": "2026-06-09T05:39:26.708Z",
+      "msg": "   ✓ \"Mine sitemap.xml / robots.txt\" found 23 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:26.709Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T05:39:30.010Z",
+      "msg": "  explore https://www.pasadena.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:30.076Z",
+      "msg": "  explore https://pasadena.edu/current-students/guide-to-fall.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:30.304Z",
+      "msg": "  explore https://www.pasadena.edu/academics/catalog-schedule-calendar.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:30.527Z",
+      "msg": "  explore https://www.pasadena.edu/academics/catalog-schedule-calendar.php#schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:30.589Z",
+      "msg": "  explore https://pasadena.edu/academics/catalog-schedule-calendar.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:30.648Z",
+      "msg": "  explore https://pasadena.edu/academics/catalog-schedule-calendar.php#schedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:30.709Z",
+      "msg": "  explore https://www.pasadena.edu/academics/catalog-schedule-calendar.php# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:30.764Z",
+      "msg": "  explore https://www.pasadena.edu/academics/catalog-schedule-calendar.php#offcanvas → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:30.818Z",
+      "msg": "  explore https://www.pasadena.edu/academics/catalog-schedule-calendar.php#mobile-quicklinks → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:30.871Z",
+      "msg": "  explore https://www.pasadena.edu/academics/catalog-schedule-calendar.php#collapseTwo → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:30.923Z",
+      "msg": "  explore https://pasadena.edu/academics/catalog-schedule-calendar.php# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:30.978Z",
+      "msg": "  explore https://pasadena.edu/academics/catalog-schedule-calendar.php#offcanvas → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:31.046Z",
+      "msg": "  explore https://pasadena.edu/academics/catalog-schedule-calendar.php#mobile-quicklinks → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:31.101Z",
+      "msg": "  explore https://pasadena.edu/academics/catalog-schedule-calendar.php#collapseTwo → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:39:31.102Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T05:50:52.040Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T05:50:52.152Z",
+      "msg": "   ⏱ college time budget reached — wrapping up with best so far."
+    },
+    {
+      "t": "2026-06-09T05:50:52.156Z",
+      "msg": "✅ SOLVED — 23 courses ingested into the searchable DB (strategy: Mine sitemap.xml / robots.txt)."
+    },
+    {
+      "t": "2026-06-09T05:51:30.923Z",
+      "msg": "  google \"Pasadena City College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:53:44.220Z",
+      "msg": "  google \"Pasadena City College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:56:51.082Z",
+      "msg": "  google \"Pasadena City College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:59:04.283Z",
+      "msg": "  google \"Pasadena City College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:01:18.007Z",
+      "msg": "  google \"Pasadena City College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:03:31.798Z",
+      "msg": "  google \"Pasadena City College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:05:45.296Z",
+      "msg": "  google \"Pasadena City College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:07:59.138Z",
+      "msg": "  google \"Pasadena City College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:10:43.706Z",
+      "msg": "  google \"Pasadena City College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:12:56.218Z",
+      "msg": "  google \"Pasadena City College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:15:09.272Z",
+      "msg": "  google \"Pasadena City College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:21.594Z",
+      "msg": "  google \"site:pasadena.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:22.155Z",
+      "msg": "  google \"site:pasadena.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:22.156Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
     }
-  ]
+  ],
+  "strategy": "Mine sitemap.xml / robots.txt"
 }

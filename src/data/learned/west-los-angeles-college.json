@@ -2,19 +2,109 @@
   "slug": "west-los-angeles-college",
   "name": "West Los Angeles College",
   "url": "https://www.wlac.edu/",
-  "source": "homepage",
+  "source": "web-search-deep",
   "platform": "unknown",
-  "scheduleUrl": null,
+  "scheduleUrl": "https://www.wlac.edu/academics/class-schedules",
   "catalogUrl": null,
   "extractUrl": null,
   "method": null,
   "sampleCount": 0,
   "modalityCoverage": 0,
-  "candidates": [],
-  "searchQuery": null,
-  "searchResults": [],
-  "blocked": null,
-  "confidence": 0,
-  "notes": "Could not fetch homepage: fetch failed",
-  "learnedAt": "2026-06-08T17:36:30.230Z"
+  "candidates": [
+    {
+      "text": "Class Schedules | WLAC - West Los Angeles College",
+      "href": "https://www.wlac.edu/academics/class-schedules",
+      "score": 10
+    },
+    {
+      "text": "Schedule of Classes - LACC",
+      "href": "https://www.lacc.edu/academics/class-schedules",
+      "score": 10
+    },
+    {
+      "text": "Sign In - Los Angeles Community College District",
+      "href": "https://sso.laccd.edu/adfs/ls/idpinitiatedsignon.aspx?loginToRp=csprd.laccd.edu",
+      "score": 0
+    },
+    {
+      "text": "Login - Westside Extension",
+      "href": "https://westlac.augusoft.net/index.cfm?fuseaction=2000",
+      "score": 0
+    },
+    {
+      "text": "Student/Alumni Sign In",
+      "href": "https://wlac-csm.symplicity.com/students/?signin_tab=0",
+      "score": 0
+    },
+    {
+      "text": "FAFSA - Sign In",
+      "href": "https://wlac.verifymyfafsa.com/",
+      "score": 0
+    },
+    {
+      "text": "Student SIS | ELAC",
+      "href": "https://www.elac.edu/offices/it/sis",
+      "score": 0
+    },
+    {
+      "text": "West Los Angeles College: Enrollment - Enroll Login - ed2go",
+      "href": "https://www.ed2go.com/westside/Enrollment/EnrollLogin.aspx",
+      "score": 0
+    }
+  ],
+  "searchQuery": "West Los Angeles College schedule of classes",
+  "searchResults": [
+    {
+      "title": "Class Schedules | WLAC - West Los Angeles College",
+      "href": "https://www.wlac.edu/academics/class-schedules",
+      "query": "West Los Angeles College class search self service"
+    },
+    {
+      "title": "Sign In - Los Angeles Community College District",
+      "href": "https://sso.laccd.edu/adfs/ls/idpinitiatedsignon.aspx?loginToRp=csprd.laccd.edu",
+      "query": "West Los Angeles College class search self service"
+    },
+    {
+      "title": "Login - Westside Extension",
+      "href": "https://westlac.augusoft.net/index.cfm?fuseaction=2000",
+      "query": "West Los Angeles College class search self service"
+    },
+    {
+      "title": "Student/Alumni Sign In",
+      "href": "https://wlac-csm.symplicity.com/students/?signin_tab=0",
+      "query": "West Los Angeles College class search self service"
+    },
+    {
+      "title": "FAFSA - Sign In",
+      "href": "https://wlac.verifymyfafsa.com/",
+      "query": "West Los Angeles College class search self service"
+    },
+    {
+      "title": "Student SIS | ELAC",
+      "href": "https://www.elac.edu/offices/it/sis",
+      "query": "West Los Angeles College class search self service"
+    },
+    {
+      "title": "Schedule of Classes - LACC",
+      "href": "https://www.lacc.edu/academics/class-schedules",
+      "query": "West Los Angeles College class search self service"
+    },
+    {
+      "title": "West Los Angeles College: Enrollment - Enroll Login - ed2go",
+      "href": "https://www.ed2go.com/westside/Enrollment/EnrollLogin.aspx",
+      "query": "West Los Angeles College class search self service"
+    }
+  ],
+  "blocked": "login",
+  "confidence": 0.1,
+  "notes": "Blocked by a sign-in wall — this college's schedule requires a login, the one thing the headless adapter is meant to stop at. Everything up to the login was reachable. Searched the web (8 results) but no page yielded course data — the schedule is likely a bespoke search app. Top results saved above.",
+  "learnedAt": "2026-06-09T06:52:20.837Z",
+  "browserActions": [
+    "browser https://www.wlac.edu/academics/class-schedules → 0 courses",
+    "browser https://www.lacc.edu/academics/class-schedules → 0 courses",
+    "browser https://sso.laccd.edu/adfs/ls/idpinitiatedsignon.aspx?loginToRp=csprd.laccd.edu → 0 courses [login]",
+    "browser https://westlac.augusoft.net/index.cfm?fuseaction=2000 → 0 courses [login]",
+    "browser https://wlac-csm.symplicity.com/students/?signin_tab=0 → 0 courses [login]",
+    "browser https://wlac.verifymyfafsa.com/ → 0 courses [login]"
+  ]
 }

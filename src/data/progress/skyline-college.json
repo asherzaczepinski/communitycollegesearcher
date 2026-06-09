@@ -2,17 +2,17 @@
   "slug": "skyline-college",
   "name": "Skyline College",
   "url": "https://www.skylinecollege.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
+  "status": "live",
+  "attempts": 8,
+  "courseCount": 6,
   "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "method": "auto",
+  "extractUrl": "https://skylinecollege.edu/academics/finalexamschedule.php",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.194Z",
-  "finishedAt": "2026-06-08T17:36:30.200Z",
-  "updatedAt": "2026-06-08T17:36:30.200Z",
+  "note": "Solved via \"Mine sitemap.xml / robots.txt\" — 6 courses from https://skylinecollege.edu/academics/finalexamschedule.php.",
+  "startedAt": "2026-06-09T06:36:19.866Z",
+  "finishedAt": "2026-06-09T06:40:58.912Z",
+  "updatedAt": "2026-06-09T08:37:06.935Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.194Z",
@@ -53,6 +53,415 @@
     {
       "t": "2026-06-08T17:36:30.200Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T06:36:19.866Z",
+      "msg": "▶ Solving Skyline College — https://www.skylinecollege.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T06:36:19.867Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T06:36:20.087Z",
+      "msg": "  explore https://www.skylinecollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:20.312Z",
+      "msg": "  explore https://skylinecollege.edu/catalogschedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:20.495Z",
+      "msg": "  explore https://skylinecollege.edu/admissions/howto.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:20.592Z",
+      "msg": "  explore https://skylinecollege.edu/admissions/howto.php#collapseC → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:20.653Z",
+      "msg": "  explore https://skylinecollege.edu/catalogschedule/pdfschedules.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:20.750Z",
+      "msg": "  explore https://skylinecollege.edu/admissions/howto.php#collapseRD → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:20.846Z",
+      "msg": "  explore https://skylinecollege.edu/catalogschedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:25.012Z",
+      "msg": "  explore https://skylinecollege.edu/catalogschedule/assets/documents/schedules/2025/SKY_Spring%202025%20Class%20Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:26.643Z",
+      "msg": "  explore https://skylinecollege.edu/catalogschedule/assets/documents/schedules/2025/SKY_Summer%202025_Class%20Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:33.953Z",
+      "msg": "  explore https://skylinecollege.edu/catalogschedule/assets/documents/schedules/2025/SKY_Fall%202025_Class%20Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:34.010Z",
+      "msg": "  explore https://skylinecollege.edu/catalogschedule/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:34.980Z",
+      "msg": "  explore https://skylinecollege.edu/enrollmentworkshops → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:35.046Z",
+      "msg": "  explore https://skylinecollege.edu/admissions/apply.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:35.109Z",
+      "msg": "  explore https://skylinecollege.edu/admissions/apply_non_degree-seeking.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:35.170Z",
+      "msg": "  explore https://skylinecollege.edu/outreach/highschoolstudents.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:35.587Z",
+      "msg": "  explore https://catalog.skylinecollege.edu/current/programs → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:35.694Z",
+      "msg": "  explore https://catalog.skylinecollege.edu/current/enrollment → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:35.812Z",
+      "msg": "  explore https://catalog.skylinecollege.edu/current/enrollment/registration.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:35.871Z",
+      "msg": "  explore https://catalog.skylinecollege.edu/current/enrollment/placement.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:36.005Z",
+      "msg": "  explore https://catalog.skylinecollege.edu/current/programs/#CatalogSearchPrograms → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:36.056Z",
+      "msg": "  explore https://skylinecollege.edu/catalogschedule/#MainContent → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:36.110Z",
+      "msg": "  explore https://skylinecollege.edu/admissions/registrationdates.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:36.114Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T06:36:36.680Z",
+      "msg": "  sitemap https://www.skylinecollege.edu/sitemap.xml → 18034 entries"
+    },
+    {
+      "t": "2026-06-09T06:36:37.019Z",
+      "msg": "  sitemap https://www.skylinecollege.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:36:37.066Z",
+      "msg": "  sitemap https://www.skylinecollege.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T06:36:37.076Z",
+      "msg": "  sitemap mining → 17720 URL(s), 1079 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T06:36:37.183Z",
+      "msg": "  sitemap probe https://skylinecollege.edu/academics/finalexamschedule.php → 6"
+    },
+    {
+      "t": "2026-06-09T06:36:37.940Z",
+      "msg": "   ✓ \"Mine sitemap.xml / robots.txt\" found 6 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:37.941Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T06:36:43.559Z",
+      "msg": "  explore https://www.skylinecollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:43.737Z",
+      "msg": "  explore https://skylinecollege.edu/catalogschedule/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:43.915Z",
+      "msg": "  explore https://skylinecollege.edu/admissions/howto.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:44.044Z",
+      "msg": "  explore https://skylinecollege.edu/admissions/howto.php#collapseC → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:44.103Z",
+      "msg": "  explore https://skylinecollege.edu/catalogschedule/pdfschedules.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:44.219Z",
+      "msg": "  explore https://skylinecollege.edu/admissions/howto.php#collapseRD → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:44.333Z",
+      "msg": "  explore https://skylinecollege.edu/catalogschedule → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:48.647Z",
+      "msg": "  explore https://skylinecollege.edu/catalogschedule/assets/documents/schedules/2025/SKY_Spring%202025%20Class%20Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:51.693Z",
+      "msg": "  explore https://skylinecollege.edu/catalogschedule/assets/documents/schedules/2025/SKY_Summer%202025_Class%20Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:58.073Z",
+      "msg": "  explore https://skylinecollege.edu/catalogschedule/assets/documents/schedules/2025/SKY_Fall%202025_Class%20Schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:58.121Z",
+      "msg": "  explore https://skylinecollege.edu/catalogschedule/# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:58.725Z",
+      "msg": "  explore https://skylinecollege.edu/enrollmentworkshops → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:58.780Z",
+      "msg": "  explore https://skylinecollege.edu/admissions/apply.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:58.831Z",
+      "msg": "  explore https://skylinecollege.edu/admissions/apply_non_degree-seeking.php → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T06:36:58.835Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T06:38:58.840Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:38:58.902Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T06:39:12.116Z",
+      "msg": "  google \"Skyline College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:40:58.906Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T06:40:58.911Z",
+      "msg": "✅ SOLVED — 6 courses ingested into the searchable DB (strategy: Mine sitemap.xml / robots.txt)."
+    },
+    {
+      "t": "2026-06-09T06:41:12.857Z",
+      "msg": "search \"Skyline College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:41:25.076Z",
+      "msg": "  google \"Skyline College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:43:26.251Z",
+      "msg": "search \"Skyline College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:43:38.682Z",
+      "msg": "  google \"Skyline College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:45:50.403Z",
+      "msg": "search \"Skyline College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:46:02.445Z",
+      "msg": "  google \"Skyline College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:48:03.333Z",
+      "msg": "search \"Skyline College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:48:15.707Z",
+      "msg": "  google \"Skyline College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:50:25.643Z",
+      "msg": "search \"Skyline College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:50:38.660Z",
+      "msg": "  google \"Skyline College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:52:38.889Z",
+      "msg": "search \"Skyline College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:52:38.889Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T06:52:38.890Z",
+      "msg": "Top candidate: https://www.skylinecollege.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T06:52:39.084Z",
+      "msg": "probe https://www.skylinecollege.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:39.219Z",
+      "msg": "probe https://www.skylinecollege.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:39.270Z",
+      "msg": "probe https://www.skylinecollege.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:39.315Z",
+      "msg": "probe https://www.skylinecollege.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:39.360Z",
+      "msg": "probe https://www.skylinecollege.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:39.408Z",
+      "msg": "probe https://www.skylinecollege.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:39.452Z",
+      "msg": "probe https://www.skylinecollege.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:39.501Z",
+      "msg": "probe https://www.skylinecollege.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:39.548Z",
+      "msg": "probe https://www.skylinecollege.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:39.757Z",
+      "msg": "probe https://skylinecollege.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:39.889Z",
+      "msg": "probe https://skylinecollege.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:39.935Z",
+      "msg": "probe https://skylinecollege.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:39.980Z",
+      "msg": "probe https://skylinecollege.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:40.061Z",
+      "msg": "probe https://skylinecollege.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:40.108Z",
+      "msg": "probe https://skylinecollege.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:40.179Z",
+      "msg": "probe https://skylinecollege.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:40.226Z",
+      "msg": "probe https://skylinecollege.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:40.303Z",
+      "msg": "probe https://skylinecollege.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:43.618Z",
+      "msg": "probe https://ssb.skylinecollege.edu/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:47.178Z",
+      "msg": "probe https://banner.skylinecollege.edu/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:50.608Z",
+      "msg": "probe https://selfservice.skylinecollege.edu/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:52.952Z",
+      "msg": "  google \"Skyline College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:52:54.218Z",
+      "msg": "probe https://ssb-prod.skylinecollege.edu/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:52:58.180Z",
+      "msg": "probe https://my.skylinecollege.edu/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:53:02.650Z",
+      "msg": "probe https://webadvisor.skylinecollege.edu/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:53:07.199Z",
+      "msg": "probe https://reg.skylinecollege.edu/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:53:07.532Z",
+      "msg": "probe https://catalog.skylinecollege.edu/ → 0 (no courses)"
+    },
+    {
+      "t": "2026-06-09T06:53:07.630Z",
+      "msg": "probe https://catalog.skylinecollege.edu/course-outlines/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:53:07.660Z",
+      "msg": "probe https://catalog.skylinecollege.edu/courses/ → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:53:07.661Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T07:08:57.084Z",
+      "msg": "  google \"Skyline College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T07:59:37.725Z",
+      "msg": "  google \"Skyline College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:16:58.485Z",
+      "msg": "  google \"Skyline College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:05.636Z",
+      "msg": "  google \"Skyline College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:06.413Z",
+      "msg": "  google \"site:skylinecollege.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:06.935Z",
+      "msg": "  google \"site:skylinecollege.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T08:37:06.935Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
     }
-  ]
+  ],
+  "strategy": "Mine sitemap.xml / robots.txt"
 }

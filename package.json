@@ -11,7 +11,10 @@
     "scrape": "node src/cli.js scrape",
     "detect": "node src/cli.js detect",
     "stats": "node src/cli.js stats",
-    "organize": "node src/organize.js"
+    "organize": "node src/organize.js",
+    "cvc:validate": "node src/cvcValidate.js",
+    "cvc:backfill": "node src/cvcBackfill.js",
+    "cvc:supplement": "node src/cvcSupplement.js"
   },
   "engines": {
     "node": ">=22.5.0"

@@ -3,16 +3,16 @@
   "name": "Napa Valley College",
   "url": "https://www.napavalley.edu/",
   "status": "impossible",
-  "attempts": 3,
+  "attempts": 4,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.003Z",
-  "finishedAt": "2026-06-08T17:36:30.011Z",
-  "updatedAt": "2026-06-08T17:36:30.011Z",
+  "note": "No login wall found, but no public schedule surfaced through 5 strategies incl. an exhaustive search sweep. Retryable.",
+  "startedAt": "2026-06-09T04:47:39.467Z",
+  "finishedAt": "2026-06-09T05:03:24.501Z",
+  "updatedAt": "2026-06-09T05:03:47.213Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.003Z",
@@ -53,6 +53,114 @@
     {
       "t": "2026-06-08T17:36:30.011Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T04:47:39.468Z",
+      "msg": "▶ Solving Napa Valley College — https://www.napavalley.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T04:47:39.469Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T04:47:40.822Z",
+      "msg": "  explore https://www.napavalley.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:41.371Z",
+      "msg": "  explore https://colss-prod.ec.napavalley.edu/Student/Student/Courses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:41.534Z",
+      "msg": "  explore https://www.napavalley.edu/programs-and-academics/academic-affairs/class-schedules.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:41.829Z",
+      "msg": "  explore https://colss-prod.ec.napavalley.edu/Student/Courses → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:41.911Z",
+      "msg": "  explore https://www.napavalley.edu/programs-and-academics/catalog.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:41.998Z",
+      "msg": "  explore https://www.napavalley.edu/programs-and-academics/catalog.html#main-content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:42.073Z",
+      "msg": "  explore https://www.napavalley.edu/programs-and-academics/catalog.html#footer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:42.145Z",
+      "msg": "  explore https://www.napavalley.edu/programs-and-academics/catalog.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:42.912Z",
+      "msg": "  explore https://www.napavalley.edu/programs-and-academics/academic-affairs/documents/2025-2026%20Catalog%20Supplement.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:49.262Z",
+      "msg": "  explore https://www.napavalley.edu/programs-and-academics/academic-affairs/documents/2025-2026%20Catalog.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:49.593Z",
+      "msg": "  explore https://catalog.napavalley.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:49.976Z",
+      "msg": "  explore https://catalog.napavalley.edu/admission-requirements/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:50.144Z",
+      "msg": "  explore https://catalog.napavalley.edu/admission-requirements/#registerationtextcontainer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:50.528Z",
+      "msg": "  explore https://catalog.napavalley.edu/student-resources-support/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:50.686Z",
+      "msg": "  explore https://catalog.napavalley.edu/admission-requirements/#transcriptstextcontainer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:51.075Z",
+      "msg": "  explore https://catalog.napavalley.edu/student-resources-support/#contentarea → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:51.232Z",
+      "msg": "  explore https://catalog.napavalley.edu/student-resources-support/#resourcesforstudentstextcontainer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:51.324Z",
+      "msg": "  explore https://catalog.napavalley.edu/student-resources-support/#programsforstudentstextcontainer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:51.404Z",
+      "msg": "  explore https://catalog.napavalley.edu/student-resources-support/#healthandsafetytextcontainer → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T04:47:51.702Z",
+      "msg": "  explore https://www.napavalley.edu/admissions-and-aid/what-type-of-student-are-you/high-school-dual-enrollment.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:03:24.445Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T05:03:24.501Z",
+      "msg": "   ⏱ college time budget reached — wrapping up with best so far."
+    },
+    {
+      "t": "2026-06-09T05:03:24.501Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T05:03:46.135Z",
+      "msg": "  explore https://selfservice.napavalley.edu/Student/courses → unreachable"
+    },
+    {
+      "t": "2026-06-09T05:03:47.213Z",
+      "msg": "  explore https://www.napavalley.edu/admissions-and-aid/index.html#five-steps → 0 course(s)"
     }
   ]
 }

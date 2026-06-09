@@ -3,16 +3,16 @@
   "name": "Porterville College",
   "url": "https://www.portervillecollege.edu/",
   "status": "impossible",
-  "attempts": 3,
+  "attempts": 8,
   "courseCount": 0,
   "modalityCoverage": 0,
   "method": null,
   "extractUrl": null,
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.075Z",
-  "finishedAt": "2026-06-08T17:36:30.085Z",
-  "updatedAt": "2026-06-08T17:36:30.085Z",
+  "note": "No login wall found, but no public schedule surfaced through 5 strategies incl. an exhaustive search sweep. Retryable.",
+  "startedAt": "2026-06-09T05:50:52.157Z",
+  "finishedAt": "2026-06-09T05:55:20.720Z",
+  "updatedAt": "2026-06-09T06:17:25.844Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.075Z",
@@ -53,6 +53,406 @@
     {
       "t": "2026-06-08T17:36:30.085Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T05:50:52.157Z",
+      "msg": "▶ Solving Porterville College — https://www.portervillecollege.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T05:50:52.157Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T05:50:52.751Z",
+      "msg": "  explore https://www.portervillecollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:50:52.826Z",
+      "msg": "  explore https://www.portervillecollege.edu/admissions-and-records/search-classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:50:52.898Z",
+      "msg": "  explore https://www.portervillecollege.edu/programs-and-classes/academics/catalog.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:50:52.941Z",
+      "msg": "  explore https://www.portervillecollege.edu/programs-and-classes/academics/catalog.html#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:50:53.011Z",
+      "msg": "  explore https://www.portervillecollege.edu/admissions-and-records/before-you-register-for-classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:50:53.076Z",
+      "msg": "  explore https://www.portervillecollege.edu/admissions-and-records/register-for-classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:50:53.121Z",
+      "msg": "  explore https://www.portervillecollege.edu/admissions-and-records/before-you-register-for-classes.html#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:50:53.160Z",
+      "msg": "  explore https://www.portervillecollege.edu/admissions-and-records/register-for-classes.html#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:01.800Z",
+      "msg": "  explore https://www.portervillecollege.edu/_resources/assets/pdfs/Academics/Catalog/Porterville_College_2026-2027_Catalog_FINAL_JUNE_1_2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:03.392Z",
+      "msg": "  explore https://www.portervillecollege.edu/_resources/assets/pdfs/Academics/Catalog/2025-2026_Catalog_Updated_Meta_Data.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:03.783Z",
+      "msg": "  explore https://www.portervillecollege.edu/_resources/assets/pdfs/Academics/Catalog/2025_-2026_Catalog_addendum_revised_19_Nov_2025.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:04.014Z",
+      "msg": "  explore https://www.portervillecollege.edu/_resources/assets/pdfs/Academics/Catalog/2025_-2026_Catalog_addendum_2_Formatted_1.15.26.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:04.085Z",
+      "msg": "  explore https://www.portervillecollege.edu/programs-and-classes/programs-and-classes-menu/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:04.164Z",
+      "msg": "  explore https://www.portervillecollege.edu/programs-and-classes/academic-and-career-pathways/business-information-systems-and-industry-pathway.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:04.241Z",
+      "msg": "  explore https://www.portervillecollege.edu/programs-and-classes/academic-and-career-pathways/health-natural-sciences-and-math-pathway.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:04.319Z",
+      "msg": "  explore https://www.portervillecollege.edu/programs-and-classes/academic-and-career-pathways/arts-humanity-social-sciences-and-education-pathway.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:04.402Z",
+      "msg": "  explore https://www.portervillecollege.edu/programs-and-classes/academic-and-career-pathways/public-safety-pathway.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:04.501Z",
+      "msg": "  explore https://www.portervillecollege.edu/programs-and-classes/learning-center/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:04.546Z",
+      "msg": "  explore https://www.portervillecollege.edu/admissions-and-records/search-classes.html#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:04.627Z",
+      "msg": "  explore https://www.portervillecollege.edu/admissions-and-records/check-registration-status.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:04.704Z",
+      "msg": "  explore https://www.portervillecollege.edu/admissions-and-records/priority-registration.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:04.746Z",
+      "msg": "  explore https://www.portervillecollege.edu/programs-and-classes/programs-and-classes-menu/index.html#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:04.753Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T05:51:04.927Z",
+      "msg": "  sitemap https://www.portervillecollege.edu/sitemap.xml → 3227 entries"
+    },
+    {
+      "t": "2026-06-09T05:51:05.684Z",
+      "msg": "  sitemap https://www.portervillecollege.edu/sitemap_index.xml → none"
+    },
+    {
+      "t": "2026-06-09T05:51:05.744Z",
+      "msg": "  sitemap https://www.portervillecollege.edu/sitemap-index.xml → none"
+    },
+    {
+      "t": "2026-06-09T05:51:05.747Z",
+      "msg": "  sitemap mining → 2149 URL(s), 207 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T05:51:06.852Z",
+      "msg": "── Strategy: Render homepage + explore JS menu links"
+    },
+    {
+      "t": "2026-06-09T05:51:10.004Z",
+      "msg": "  explore https://www.portervillecollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:10.038Z",
+      "msg": "  explore https://www.portervillecollege.edu/admissions-and-records/search-classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:10.073Z",
+      "msg": "  explore https://www.portervillecollege.edu/programs-and-classes/academics/catalog.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:10.109Z",
+      "msg": "  explore https://www.portervillecollege.edu/programs-and-classes/academics/catalog.html#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:10.144Z",
+      "msg": "  explore https://www.portervillecollege.edu/admissions-and-records/before-you-register-for-classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:10.185Z",
+      "msg": "  explore https://www.portervillecollege.edu/admissions-and-records/register-for-classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:10.223Z",
+      "msg": "  explore https://www.portervillecollege.edu/admissions-and-records/before-you-register-for-classes.html#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:10.255Z",
+      "msg": "  explore https://www.portervillecollege.edu/admissions-and-records/register-for-classes.html#main → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:17.676Z",
+      "msg": "  explore https://www.portervillecollege.edu/_resources/assets/pdfs/Academics/Catalog/Porterville_College_2026-2027_Catalog_FINAL_JUNE_1_2026.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:19.539Z",
+      "msg": "  explore https://www.portervillecollege.edu/_resources/assets/pdfs/Academics/Catalog/2025-2026_Catalog_Updated_Meta_Data.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:19.978Z",
+      "msg": "  explore https://www.portervillecollege.edu/_resources/assets/pdfs/Academics/Catalog/2025_-2026_Catalog_addendum_revised_19_Nov_2025.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:20.297Z",
+      "msg": "  explore https://www.portervillecollege.edu/_resources/assets/pdfs/Academics/Catalog/2025_-2026_Catalog_addendum_2_Formatted_1.15.26.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:20.596Z",
+      "msg": "  explore https://www.portervillecollege.edu/programs-and-classes/programs-and-classes-menu/index.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:20.648Z",
+      "msg": "  explore https://www.portervillecollege.edu/programs-and-classes/academic-and-career-pathways/business-information-systems-and-industry-pathway.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:51:20.652Z",
+      "msg": "── Strategy: Exhaustive Google/DDG search sweep"
+    },
+    {
+      "t": "2026-06-09T05:53:20.656Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T05:53:20.714Z",
+      "msg": "── Strategy: Deep web search + headless form-driving"
+    },
+    {
+      "t": "2026-06-09T05:53:34.074Z",
+      "msg": "  google \"Porterville College schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:55:20.718Z",
+      "msg": "   ⏱ strategy timed out after 120s — resetting Chrome and moving on."
+    },
+    {
+      "t": "2026-06-09T05:55:20.719Z",
+      "msg": "🚫 No public course data found yet — exhausted link exploration, sitemap mining, rendered menus, an exhaustive search sweep, and form-driving, and hit NO sign-in wall. Re-run \"Solve\" to try again (fresh searches / less rate-limiting)."
+    },
+    {
+      "t": "2026-06-09T05:56:06.763Z",
+      "msg": "search \"Porterville College schedule of classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T05:56:30.220Z",
+      "msg": "  google \"Porterville College search for classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T05:58:41.520Z",
+      "msg": "search \"Porterville College search for classes\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T05:58:52.674Z",
+      "msg": "  google \"Porterville College class schedule 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:00:55.621Z",
+      "msg": "search \"Porterville College class schedule 2026\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:01:06.437Z",
+      "msg": "  google \"Porterville College class schedule spring 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:03:08.319Z",
+      "msg": "search \"Porterville College class search self service\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:03:19.651Z",
+      "msg": "  google \"Porterville College class schedule fall 2026\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:05:21.588Z",
+      "msg": "search \"Porterville College course catalog\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:05:33.008Z",
+      "msg": "  google \"Porterville College public class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:07:33.502Z",
+      "msg": "search \"Porterville College student registration class search\" → 0 hit(s) (0 unique so far)"
+    },
+    {
+      "t": "2026-06-09T06:07:33.504Z",
+      "msg": "Web search returned 0 result(s)."
+    },
+    {
+      "t": "2026-06-09T06:07:33.505Z",
+      "msg": "Top candidate: https://www.portervillecollege.edu/schedule (platform: unknown); 30 URL guess(es) queued."
+    },
+    {
+      "t": "2026-06-09T06:07:33.824Z",
+      "msg": "probe https://www.portervillecollege.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:33.973Z",
+      "msg": "probe https://www.portervillecollege.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:34.123Z",
+      "msg": "probe https://www.portervillecollege.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:34.447Z",
+      "msg": "probe https://www.portervillecollege.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:34.611Z",
+      "msg": "probe https://www.portervillecollege.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:34.763Z",
+      "msg": "probe https://www.portervillecollege.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:34.920Z",
+      "msg": "probe https://www.portervillecollege.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:35.074Z",
+      "msg": "probe https://www.portervillecollege.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:35.233Z",
+      "msg": "probe https://www.portervillecollege.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:35.599Z",
+      "msg": "probe https://portervillecollege.edu/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:35.937Z",
+      "msg": "probe https://portervillecollege.edu/schedule-of-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:36.396Z",
+      "msg": "probe https://portervillecollege.edu/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:36.620Z",
+      "msg": "probe https://portervillecollege.edu/classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:36.849Z",
+      "msg": "probe https://portervillecollege.edu/class-search → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:37.069Z",
+      "msg": "probe https://portervillecollege.edu/find-classes → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:37.288Z",
+      "msg": "probe https://portervillecollege.edu/searchable-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:37.505Z",
+      "msg": "probe https://portervillecollege.edu/academics/schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:37.729Z",
+      "msg": "probe https://portervillecollege.edu/admissions/class-schedule → 0 (HTTP 404)"
+    },
+    {
+      "t": "2026-06-09T06:07:42.313Z",
+      "msg": "probe https://ssb.portervillecollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:07:45.586Z",
+      "msg": "  google \"Porterville College self service banner class search\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:07:47.047Z",
+      "msg": "probe https://banner.portervillecollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:07:51.420Z",
+      "msg": "probe https://selfservice.portervillecollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:07:55.790Z",
+      "msg": "probe https://ssb-prod.portervillecollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:08:00.388Z",
+      "msg": "probe https://my.portervillecollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:08:05.086Z",
+      "msg": "probe https://webadvisor.portervillecollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:08:09.380Z",
+      "msg": "probe https://reg.portervillecollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:08:13.731Z",
+      "msg": "probe https://catalog.portervillecollege.edu/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:08:18.635Z",
+      "msg": "probe https://catalog.portervillecollege.edu/course-outlines/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:08:23.269Z",
+      "msg": "probe https://catalog.portervillecollege.edu/courses/ → 0 (HTTP 0)"
+    },
+    {
+      "t": "2026-06-09T06:08:23.270Z",
+      "msg": "Plain HTTP came up thin — escalating to the headless browser…"
+    },
+    {
+      "t": "2026-06-09T06:10:32.677Z",
+      "msg": "  google \"Porterville College ellucian self service class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:12:45.797Z",
+      "msg": "  google \"Porterville College webadvisor class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:14:59.481Z",
+      "msg": "  google \"Porterville College courses by subject\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:12.029Z",
+      "msg": "  google \"Porterville College course catalog\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:24.376Z",
+      "msg": "  google \"site:portervillecollege.edu schedule of classes\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:25.843Z",
+      "msg": "  google \"site:portervillecollege.edu class schedule\" → 0 hit(s) (+0 new, 0 pooled)"
+    },
+    {
+      "t": "2026-06-09T06:17:25.844Z",
+      "msg": "  search sweep → every engine returned nothing (likely rate-limited)."
     }
   ]
 }

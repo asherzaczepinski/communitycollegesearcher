@@ -2,17 +2,17 @@
   "slug": "reedley-college",
   "name": "Reedley College",
   "url": "https://www.reedleycollege.edu/",
-  "status": "impossible",
-  "attempts": 3,
-  "courseCount": 0,
-  "modalityCoverage": 0,
-  "method": null,
-  "extractUrl": null,
+  "status": "live",
+  "attempts": 5,
+  "courseCount": 45,
+  "modalityCoverage": 0.089,
+  "method": "auto",
+  "extractUrl": "https://www.reedleycollege.edu/academics/extended-learning/extended-learning-course-schedule-2.html",
   "blocked": null,
-  "note": "Could not fetch homepage: fetch failed",
-  "startedAt": "2026-06-08T17:36:30.085Z",
-  "finishedAt": "2026-06-08T17:36:30.105Z",
-  "updatedAt": "2026-06-08T17:36:30.105Z",
+  "note": "Solved via \"Mine sitemap.xml / robots.txt\" — 45 courses from https://www.reedleycollege.edu/academics/extended-learning/extended-learning-course-schedule-2.html.",
+  "startedAt": "2026-06-09T05:55:20.721Z",
+  "finishedAt": "2026-06-09T05:55:41.197Z",
+  "updatedAt": "2026-06-09T05:55:41.197Z",
   "log": [
     {
       "t": "2026-06-08T17:36:30.085Z",
@@ -53,6 +53,171 @@
     {
       "t": "2026-06-08T17:36:30.105Z",
       "msg": "🚫 IMPOSSIBLE (for now) — homepage, web search, and headless browser all came up empty. No public, login-free course data found."
+    },
+    {
+      "t": "2026-06-09T05:55:20.722Z",
+      "msg": "▶ Solving Reedley College — https://www.reedleycollege.edu/  [smart multi-strategy]"
+    },
+    {
+      "t": "2026-06-09T05:55:20.722Z",
+      "msg": "── Strategy: Explore real homepage links (HTTP)"
+    },
+    {
+      "t": "2026-06-09T05:55:20.935Z",
+      "msg": "  explore https://www.reedleycollege.edu/ → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:21.176Z",
+      "msg": "  explore https://www.reedleycollege.edu/admissions-aid/admissions/Schedule%20of%20Classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:32.806Z",
+      "msg": "  explore https://www.reedleycollege.edu/_documents/academics/class_schedule_summ_fall26.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:36.212Z",
+      "msg": "  explore https://www.reedleycollege.edu/_documents/academics/rc_spring26_classschedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:37.048Z",
+      "msg": "  explore https://www.reedleycollege.edu/_documents/academics/summ_fall_2025_final.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:38.159Z",
+      "msg": "  explore https://www.reedleycollege.edu/_documents/academics/spring2025-schedule.pdf → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:38.422Z",
+      "msg": "  explore https://www.reedleycollege.edu/admissions-aid/admissions/register-for-classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:38.485Z",
+      "msg": "  explore https://www.reedleycollege.edu/admissions-aid/admissions/summer-classes.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:38.548Z",
+      "msg": "  explore https://www.reedleycollege.edu/admissions-aid/admissions/register-for-classes.html#navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:38.626Z",
+      "msg": "  explore https://www.reedleycollege.edu/admissions-aid/admissions/register-for-classes.html#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:38.690Z",
+      "msg": "  explore https://www.reedleycollege.edu/admissions-aid/admissions/register-for-classes.html#pagelinks → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:38.758Z",
+      "msg": "  explore https://www.reedleycollege.edu/admissions-aid/admissions/register-for-classes.html#footermenu → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:38.819Z",
+      "msg": "  explore https://www.reedleycollege.edu/admissions-aid/admissions/register-for-classes.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:38.879Z",
+      "msg": "  explore https://www.reedleycollege.edu/admissions-aid/admissions/register-for-classes.html## → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:38.948Z",
+      "msg": "  explore https://www.reedleycollege.edu/admissions-aid/admissions/self-service-resources/registration-with-self-service.html → 1 course(s) (0% modality)"
+    },
+    {
+      "t": "2026-06-09T05:55:39.073Z",
+      "msg": "  explore https://www.reedleycollege.edu/admissions-aid/admissions/College%20Catalogs.html → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:39.151Z",
+      "msg": "  explore https://www.reedleycollege.edu/admissions-aid/admissions/college%20catalogs.html#navigation → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:39.223Z",
+      "msg": "  explore https://www.reedleycollege.edu/admissions-aid/admissions/college%20catalogs.html#content → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:39.292Z",
+      "msg": "  explore https://www.reedleycollege.edu/admissions-aid/admissions/college%20catalogs.html#pagelinks → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:39.358Z",
+      "msg": "  explore https://www.reedleycollege.edu/admissions-aid/admissions/college%20catalogs.html#footermenu → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:39.423Z",
+      "msg": "  explore https://www.reedleycollege.edu/admissions-aid/admissions/college%20catalogs.html# → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:39.480Z",
+      "msg": "  explore https://www.reedleycollege.edu/admissions-aid/admissions/college%20catalogs.html## → 0 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:39.481Z",
+      "msg": "   ✓ \"Explore real homepage links (HTTP)\" found 1 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:39.482Z",
+      "msg": "── Strategy: Mine sitemap.xml / robots.txt"
+    },
+    {
+      "t": "2026-06-09T05:55:39.610Z",
+      "msg": "  sitemap https://www.reedleycollege.edu/sitemap.xml → 606 entries"
+    },
+    {
+      "t": "2026-06-09T05:55:39.657Z",
+      "msg": "  sitemap https://www.reedleycollege.edu/sitemap_index.xml → 0 entries"
+    },
+    {
+      "t": "2026-06-09T05:55:39.706Z",
+      "msg": "  sitemap https://www.reedleycollege.edu/sitemap-index.xml → 0 entries"
+    },
+    {
+      "t": "2026-06-09T05:55:39.707Z",
+      "msg": "  sitemap mining → 606 URL(s), 27 course-ish to probe"
+    },
+    {
+      "t": "2026-06-09T05:55:40.549Z",
+      "msg": "  sitemap probe https://www.reedleycollege.edu/academics/extended-learning/extended-learning-course-schedule-2.html → 45"
+    },
+    {
+      "t": "2026-06-09T05:55:40.708Z",
+      "msg": "  sitemap probe https://www.reedleycollege.edu/academics/extended-learning/extended-learning-courses-programs1/continuing-education-learning-academy.html → 14"
+    },
+    {
+      "t": "2026-06-09T05:55:40.780Z",
+      "msg": "  sitemap probe https://www.reedleycollege.edu/academics/extended-learning/extended-learning-courses-programs1/workforce-preparation.html → 5"
+    },
+    {
+      "t": "2026-06-09T05:55:40.870Z",
+      "msg": "  sitemap probe https://www.reedleycollege.edu/academics/extended-learning/extended-learning-courses-programs1/office-technology.html → 26"
+    },
+    {
+      "t": "2026-06-09T05:55:40.954Z",
+      "msg": "  sitemap probe https://www.reedleycollege.edu/academics/extended-learning/extended-learning-courses-programs1/information-systems.html → 17"
+    },
+    {
+      "t": "2026-06-09T05:55:41.032Z",
+      "msg": "  sitemap probe https://www.reedleycollege.edu/academics/extended-learning/extended-learning-courses-programs1/business.html → 8"
+    },
+    {
+      "t": "2026-06-09T05:55:41.112Z",
+      "msg": "  sitemap probe https://www.reedleycollege.edu/academics/extended-learning/extended-learning-courses-programs1/agriculture-and-technology.html → 9"
+    },
+    {
+      "t": "2026-06-09T05:55:41.191Z",
+      "msg": "  sitemap probe https://www.reedleycollege.edu/academics/extended-learning/extended-learning-courses-programs1/accounting.html → 5"
+    },
+    {
+      "t": "2026-06-09T05:55:41.191Z",
+      "msg": "   ✓ \"Mine sitemap.xml / robots.txt\" found 45 course(s)"
+    },
+    {
+      "t": "2026-06-09T05:55:41.192Z",
+      "msg": "   solid haul (45 courses) — stopping strategy ladder."
+    },
+    {
+      "t": "2026-06-09T05:55:41.197Z",
+      "msg": "✅ SOLVED — 45 courses ingested into the searchable DB (strategy: Mine sitemap.xml / robots.txt)."
     }
-  ]
+  ],
+  "strategy": "Mine sitemap.xml / robots.txt"
 }
