@@ -40,6 +40,8 @@ CREATE TABLE colleges (
   in_person_count integer DEFAULT 0,
   site_count      integer DEFAULT 0,
   cvc_count       integer DEFAULT 0,
+  lat             double precision,
+  lng             double precision,
   live            boolean DEFAULT false
 );
 
@@ -104,12 +106,12 @@ async function run() {
 
   // Colleges (carry the precomputed counts so the remote DB is dashboard-ready).
   const collegeCols = ['id', 'slug', 'name', 'url', 'scrape_type', 'last_scraped', 'last_status',
-    'course_count', 'online_count', 'hybrid_count', 'in_person_count', 'site_count', 'cvc_count', 'live'];
+    'course_count', 'online_count', 'hybrid_count', 'in_person_count', 'site_count', 'cvc_count', 'lat', 'lng', 'live'];
   const collegeRows = colleges.map((c) => ({
     id: c.id, slug: c.slug, name: c.name, url: c.url, scrape_type: c.scrape_type,
     last_scraped: c.last_scraped, last_status: c.last_status, course_count: c.course_count,
     online_count: c.online_count, hybrid_count: c.hybrid_count, in_person_count: c.in_person_count,
-    site_count: c.site_count, cvc_count: c.cvc_count, live: !!c.live,
+    site_count: c.site_count, cvc_count: c.cvc_count, lat: c.lat ?? null, lng: c.lng ?? null, live: !!c.live,
   }));
   await bulkInsert(client, 'colleges', collegeCols, collegeRows);
 

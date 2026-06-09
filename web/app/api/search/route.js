@@ -32,13 +32,18 @@ export async function GET(req) {
   const tk = TRANSFER[(sp.get('transfer') || '').toLowerCase()];
   if (tk) where.push(`(co.meta->>'${tk}')::boolean IS TRUE`);
 
-  // Specific GE / A–G area: param "system|label", e.g. "igetc|5B Biological Science".
-  const area = sp.get('area');
-  if (area && area.includes('|')) {
-    const [sys, label] = [area.slice(0, area.indexOf('|')), area.slice(area.indexOf('|') + 1)];
-    const key = { csu: 'csu', igetc: 'igetc', calgetc: 'calGetc' }[sys.toLowerCase()];
-    if (key) where.push(`co.meta->'geAreas'->'${key}' @> ${p(JSON.stringify([label]))}::jsonb`);
+  // Specific GE / A–G areas: one or more "system|label" params, e.g.
+  // "igetc|5B Biological Science". Multiple checked areas are OR'd together.
+  const SYSKEY = { csu: 'csu', igetc: 'igetc', calgetc: 'calGetc' };
+  const areaOrs = [];
+  for (const area of sp.getAll('area')) {
+    if (!area.includes('|')) continue;
+    const sys = area.slice(0, area.indexOf('|'));
+    const label = area.slice(area.indexOf('|') + 1);
+    const key = SYSKEY[sys.toLowerCase()];
+    if (key) areaOrs.push(`co.meta->'geAreas'->'${key}' @> ${p(JSON.stringify([label]))}::jsonb`);
   }
+  if (areaOrs.length) where.push(`(${areaOrs.join(' OR ')})`);
 
   if (sp.get('ztc') === '1') where.push(`(co.meta->>'zeroTextbookCost')::boolean IS TRUE`);
   if (sp.get('quality') === '1') where.push(`(co.meta->>'qualityReviewed')::boolean IS TRUE`);
@@ -53,23 +58,42 @@ export async function GET(req) {
   const umin = sp.get('unitsMin'); if (umin) where.push(`${unitExpr} >= ${p(Number(umin))}`);
   const umax = sp.get('unitsMax'); if (umax) where.push(`${unitExpr} <= ${p(Number(umax))}`);
 
+  // User location → distance (miles) to each college via haversine. Lets in-person
+  // results be sorted nearest-first and show a distance.
+  const whereSql = where.join(' AND ');
+  // Run the count first, with only the filter params — before the distance/limit
+  // params get appended below (otherwise the count gets too many bind params).
+  const countParams = [...params];
+  const countRes = await query(`SELECT COUNT(*)::int n FROM courses co JOIN colleges c ON c.id = co.college_id WHERE ${whereSql}`, countParams);
+
+  // User location → distance (miles) via haversine. Appends params after filters.
+  const ulat = parseFloat(sp.get('lat'));
+  const ulng = parseFloat(sp.get('lng'));
+  const hasLoc = Number.isFinite(ulat) && Number.isFinite(ulng);
+  // NOTE: LEAST(1, NULL) returns 1 in Postgres (NULLs ignored), which would turn a
+  // college with no coordinates into distance 0. Guard with an explicit null check.
+  const distExpr = hasLoc
+    ? `(CASE WHEN c.lat IS NULL OR c.lng IS NULL THEN NULL ELSE
+         3959 * acos(LEAST(1, cos(radians(${p(ulat)})) * cos(radians(c.lat)) * cos(radians(c.lng) - radians(${p(ulng)})) + sin(radians(${p(ulat)})) * sin(radians(c.lat)))) END)`
+    : 'NULL';
+
   const SORTS = {
     relevance: 'c.name, co.code, co.title',
     title: 'co.title, c.name',
     college: 'c.name, co.code',
     units: `${unitExpr} DESC NULLS LAST, c.name`,
     tuition: `(co.meta->>'tuition')::numeric ASC NULLS LAST, c.name`,
+    nearest: hasLoc ? `${distExpr} ASC NULLS LAST, c.name` : 'c.name',
   };
   const orderBy = SORTS[sp.get('sort')] || SORTS.relevance;
 
   const limit = Math.min(Number(sp.get('limit')) || 60, 200);
   const offset = Math.max(Number(sp.get('offset')) || 0, 0);
 
-  const whereSql = where.join(' AND ');
-  const countRes = await query(`SELECT COUNT(*)::int n FROM courses co JOIN colleges c ON c.id = co.college_id WHERE ${whereSql}`, params);
   const rows = await query(
     `SELECT co.code, co.title, co.modality, co.term, co.units, co.instructor, co.description,
-            co.meta, c.name AS college, c.url AS college_url, c.slug AS college_slug
+            co.meta, c.name AS college, c.url AS college_url, c.slug AS college_slug,
+            ${distExpr} AS distance_mi
      FROM courses co JOIN colleges c ON c.id = co.college_id
      WHERE ${whereSql}
      ORDER BY ${orderBy}
@@ -81,7 +105,8 @@ export async function GET(req) {
   const results = rows.rows.map((r) => {
     const meta = r.meta || {};
     const { cvcUrl, cvcCourseId, ...cleanMeta } = meta;
-    return { ...r, meta: cleanMeta };
+    const distance_mi = r.distance_mi != null ? Math.round(r.distance_mi * 10) / 10 : null;
+    return { ...r, distance_mi, meta: cleanMeta };
   });
 
   return NextResponse.json({ total: countRes.rows[0].n, count: results.length, offset, limit, results });
