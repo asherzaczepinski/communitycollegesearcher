@@ -6,3 +6,4 @@ src/data/*.db-shm
 # Uncomment to treat them as regenerable cache instead:
 # src/data/learned/
 # src/data/snapshots/
+.vercel
