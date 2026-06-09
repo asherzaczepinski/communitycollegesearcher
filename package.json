@@ -14,13 +14,15 @@
     "organize": "node src/organize.js",
     "cvc:validate": "node src/cvcValidate.js",
     "cvc:backfill": "node src/cvcBackfill.js",
-    "cvc:supplement": "node src/cvcSupplement.js"
+    "cvc:supplement": "node src/cvcSupplement.js",
+    "migrate:supabase": "node src/migrateToSupabase.js"
   },
   "engines": {
     "node": ">=22.5.0"
   },
   "dependencies": {
     "cheerio": "^1.0.0",
+    "pg": "^8.21.0",
     "selenium-webdriver": "^4.44.0"
   }
 }
