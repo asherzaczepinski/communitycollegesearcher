@@ -31,7 +31,7 @@ export default async function Admin() {
     <>
       <header className="site-header">
         <div className="inner">
-          <div className="logo">CC<span>Finder</span> · Admin</div>
+          <div className="logo">CC<span>Searcher</span> · Admin</div>
           <div className="tag"><a href="/">← Back to search</a></div>
         </div>
       </header>
