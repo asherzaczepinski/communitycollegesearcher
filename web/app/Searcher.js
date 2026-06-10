@@ -112,7 +112,7 @@ export default function Searcher() {
       </div>
 
       <div className="masthead">
-        <h1>California Community College <em>course finder</em></h1>
+        <h1>California Community College <em>course searcher</em></h1>
         <p>Every transferable course across all 100+ colleges, in one place.</p>
       </div>
 
