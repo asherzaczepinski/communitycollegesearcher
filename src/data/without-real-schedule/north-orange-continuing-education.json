@@ -22,7 +22,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.noce.edu/programs/careers/swift/"
+      "url": "https://www.noce.edu/programs/careers/swift/",
+      "source": "site"
     },
     {
       "code": "CIST 153",
@@ -34,7 +35,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.noce.edu/programs/careers/swift/"
+      "url": "https://www.noce.edu/programs/careers/swift/",
+      "source": "site"
     },
     {
       "code": "CIST 156",
@@ -46,7 +48,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.noce.edu/programs/careers/swift/"
+      "url": "https://www.noce.edu/programs/careers/swift/",
+      "source": "site"
     },
     {
       "code": "CIST 159",
@@ -58,7 +61,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.noce.edu/programs/careers/swift/"
+      "url": "https://www.noce.edu/programs/careers/swift/",
+      "source": "site"
     }
   ]
 }

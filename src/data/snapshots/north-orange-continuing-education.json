@@ -1,6 +1,6 @@
 {
   "slug": "north-orange-continuing-education",
-  "scrapedAt": "2026-06-05T22:55:29.433Z",
+  "scrapedAt": "2026-07-26T17:23:35.801Z",
   "count": 4,
   "courses": [
     {
@@ -13,7 +13,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.noce.edu/programs/careers/swift/"
+      "url": "https://www.noce.edu/programs/careers/swift/",
+      "source": "site"
     },
     {
       "code": "CIST 153",
@@ -25,7 +26,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.noce.edu/programs/careers/swift/"
+      "url": "https://www.noce.edu/programs/careers/swift/",
+      "source": "site"
     },
     {
       "code": "CIST 156",
@@ -37,7 +39,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.noce.edu/programs/careers/swift/"
+      "url": "https://www.noce.edu/programs/careers/swift/",
+      "source": "site"
     },
     {
       "code": "CIST 159",
@@ -49,7 +52,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.noce.edu/programs/careers/swift/"
+      "url": "https://www.noce.edu/programs/careers/swift/",
+      "source": "site"
     }
   ]
 }

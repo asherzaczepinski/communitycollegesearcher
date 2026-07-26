@@ -9,7 +9,7 @@
   "source": "web-search",
   "extractUrl": "https://canadacollege.edu/academics/finalexams.php",
   "status": "live",
-  "lastStatus": "ok: 18 courses via auto (auto-learned)",
+  "lastStatus": "ok: 18 courses via auto",
   "reason": "Partial capture — only 18 course(s) scraped, not the full schedule.",
   "courses": [
     {
@@ -22,7 +22,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     },
     {
       "code": "May 15",
@@ -34,7 +35,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     },
     {
       "code": "May 21",
@@ -46,7 +48,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     },
     {
       "code": "May 18",
@@ -58,7 +61,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     },
     {
       "code": "May 19",
@@ -70,7 +74,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     },
     {
       "code": "May 20",
@@ -82,7 +87,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     },
     {
       "code": "May 18",
@@ -94,7 +100,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     },
     {
       "code": "May 19",
@@ -106,7 +113,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     },
     {
       "code": "May 15",
@@ -118,7 +126,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     },
     {
       "code": "May 16",
@@ -130,7 +139,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     },
     {
       "code": "May 16",
@@ -142,7 +152,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     },
     {
       "code": "May 22",
@@ -154,7 +165,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     },
     {
       "code": "May 19",
@@ -166,7 +178,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     },
     {
       "code": "May 20",
@@ -178,7 +191,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     },
     {
       "code": "May 21",
@@ -190,7 +204,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     },
     {
       "code": "May 19",
@@ -202,7 +217,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     },
     {
       "code": "May 20",
@@ -214,7 +230,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     },
     {
       "code": "May 16",
@@ -226,7 +243,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://canadacollege.edu/academics/finalexams.php"
+      "url": "https://canadacollege.edu/academics/finalexams.php",
+      "source": "site"
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "slug": "solano-community-college",
+  "name": "Solano Community College",
+  "url": "https://www.solano.edu/",
+  "live": false,
+  "courseCount": 0,
+  "modalityCoverage": 0,
+  "method": "none",
+  "source": null,
+  "extractUrl": null,
+  "status": "pending",
+  "lastStatus": "ok: 0 courses via none",
+  "reason": "Not yet scraped.",
+  "courses": []
+}

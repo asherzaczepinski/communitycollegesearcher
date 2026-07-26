@@ -1,6 +1,6 @@
 {
   "slug": "santa-monica-college",
-  "scrapedAt": "2026-06-09T06:27:53.476Z",
+  "scrapedAt": "2026-07-26T17:26:06.367Z",
   "count": 392,
   "courses": [
     {
@@ -13,7 +13,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "AHIS 6",
@@ -25,7 +26,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ART 74",
@@ -37,7 +39,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ART 75",
@@ -49,7 +52,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ACCTG 17",
@@ -61,7 +65,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ACCTG 19A",
@@ -73,7 +78,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ACCTG 23",
@@ -85,7 +91,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ACCTG 40A",
@@ -97,7 +104,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ACCTG 40B",
@@ -109,7 +117,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ACCTG 50",
@@ -121,7 +130,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ACCTG 9",
@@ -133,7 +143,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "AD JUS 1",
@@ -145,7 +156,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "AD JUS 11",
@@ -157,7 +169,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "AD JUS 2",
@@ -169,7 +182,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "AD JUS 3",
@@ -181,7 +195,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "AD JUS 5",
@@ -193,7 +208,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "AD JUS 67",
@@ -205,7 +221,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "AD JUS 8",
@@ -217,7 +234,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "AUTO 41",
@@ -229,7 +247,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "AUTO 42",
@@ -241,7 +260,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "AUTO 44",
@@ -253,7 +273,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "AUTO 47",
@@ -265,7 +286,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 10",
@@ -277,7 +299,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 14A",
@@ -289,7 +312,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 34A",
@@ -301,7 +325,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 34B",
@@ -313,7 +338,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 35",
@@ -325,7 +351,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 36A",
@@ -337,7 +364,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 37",
@@ -349,7 +377,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 40A",
@@ -361,7 +390,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 56",
@@ -373,7 +403,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 57",
@@ -385,7 +416,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 59",
@@ -397,7 +429,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 60",
@@ -409,7 +442,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 69",
@@ -421,7 +455,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 7",
@@ -433,7 +468,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 7B",
@@ -445,7 +481,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 7D",
@@ -457,7 +494,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 8",
@@ -469,7 +507,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 84",
@@ -481,7 +520,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 85",
@@ -493,7 +533,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 86",
@@ -505,7 +546,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 87",
@@ -517,7 +559,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 9",
@@ -529,7 +572,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 901",
@@ -541,7 +585,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 902",
@@ -553,7 +598,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 911",
@@ -565,7 +611,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BUS 912",
@@ -577,7 +624,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COM ST 11",
@@ -589,7 +637,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COM ST 12",
@@ -601,7 +650,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COM ST 13",
@@ -613,7 +663,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COM ST 14",
@@ -625,7 +676,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COM ST 16",
@@ -637,7 +689,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COM ST 20",
@@ -649,7 +702,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COM ST 21",
@@ -661,7 +715,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COM ST 22",
@@ -673,7 +728,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COM ST 30",
@@ -685,7 +741,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COM ST 31",
@@ -697,7 +754,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COM ST 310",
@@ -709,7 +767,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COM ST 35",
@@ -721,7 +780,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COM ST 36",
@@ -733,7 +793,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COM ST 37",
@@ -745,7 +806,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COM ST 9",
@@ -757,7 +819,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "FILM 32L",
@@ -769,7 +832,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "FILM 33",
@@ -781,7 +845,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "FILM 33L",
@@ -793,7 +858,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "FILM 34",
@@ -805,7 +871,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "FILM 34L",
@@ -817,7 +884,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "FILM 40",
@@ -829,7 +897,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "FILM 50",
@@ -841,7 +910,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "JOURN 7",
@@ -853,7 +923,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 1",
@@ -865,7 +936,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 11",
@@ -877,7 +949,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 12",
@@ -889,7 +962,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 13",
@@ -901,7 +975,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 14",
@@ -913,7 +988,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 15",
@@ -925,7 +1001,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 16",
@@ -937,7 +1014,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 17",
@@ -949,7 +1027,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 18",
@@ -961,7 +1040,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 19",
@@ -973,7 +1053,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 2",
@@ -985,7 +1066,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 20",
@@ -997,7 +1079,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 21",
@@ -1009,7 +1092,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 25",
@@ -1021,7 +1105,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 26",
@@ -1033,7 +1118,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 3",
@@ -1045,7 +1131,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 4",
@@ -1057,7 +1144,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 46",
@@ -1069,7 +1157,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MEDIA 48",
@@ -1081,7 +1170,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CIS 30T",
@@ -1093,7 +1183,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CIS 35B",
@@ -1105,7 +1196,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CIS 36M",
@@ -1117,7 +1209,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CIS 67",
@@ -1129,7 +1222,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CIS 902",
@@ -1141,7 +1235,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CIS 903",
@@ -1153,7 +1248,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 30",
@@ -1165,7 +1261,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 34A",
@@ -1177,7 +1274,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 53B",
@@ -1189,7 +1287,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 7",
@@ -1201,7 +1300,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 73B",
@@ -1213,7 +1313,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 73C",
@@ -1225,7 +1326,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 73L",
@@ -1237,7 +1339,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 77A",
@@ -1249,7 +1352,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 77B",
@@ -1261,7 +1365,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 79A",
@@ -1273,7 +1378,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 79B",
@@ -1285,7 +1391,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 79C",
@@ -1297,7 +1404,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 79D",
@@ -1309,7 +1417,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 79E",
@@ -1321,7 +1430,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 79F",
@@ -1333,7 +1443,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 79X",
@@ -1345,7 +1456,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 79Y",
@@ -1357,7 +1469,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 79Z",
@@ -1369,7 +1482,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 82A",
@@ -1381,7 +1495,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 82B",
@@ -1393,7 +1508,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 82C",
@@ -1405,7 +1521,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 83R",
@@ -1417,7 +1534,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 86",
@@ -1429,7 +1547,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 87A",
@@ -1441,7 +1560,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "CS 87B",
@@ -1453,7 +1573,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COSM 10B",
@@ -1465,7 +1586,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COSM 31E",
@@ -1477,7 +1599,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COSM 38B",
@@ -1489,7 +1612,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COSM 38C",
@@ -1501,7 +1625,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COSM 46",
@@ -1513,7 +1638,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COSM 50E",
@@ -1525,7 +1651,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COSM 50N",
@@ -1537,7 +1664,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COSM 50R",
@@ -1549,7 +1677,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COSM 77",
@@ -1561,7 +1690,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COSM 78",
@@ -1573,7 +1703,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COSM 95A",
@@ -1585,7 +1716,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COSM 95B",
@@ -1597,7 +1729,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COSM 95C",
@@ -1609,7 +1742,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COSM 95D",
@@ -1621,7 +1755,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COUNS 11B",
@@ -1633,7 +1768,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COUNS 901",
@@ -1645,7 +1781,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "COUNS 902",
@@ -1657,7 +1794,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "DANCE 10",
@@ -1669,7 +1807,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "DANCE 11",
@@ -1681,7 +1820,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "DANCE 12",
@@ -1693,7 +1833,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "DANCE 21B",
@@ -1705,7 +1846,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "DANCE 24B",
@@ -1717,7 +1859,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "DANCE 25B",
@@ -1729,7 +1872,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "DANCE 26A",
@@ -1741,7 +1885,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "DANCE 27B",
@@ -1753,7 +1898,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "DANCE 38",
@@ -1765,7 +1911,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "DANCE 6",
@@ -1777,7 +1924,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "DANCE 75",
@@ -1789,7 +1937,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "DANCE 77",
@@ -1801,7 +1950,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 1",
@@ -1813,7 +1963,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 10",
@@ -1825,7 +1976,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 11",
@@ -1837,7 +1989,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 12",
@@ -1849,7 +2002,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 13",
@@ -1861,7 +2015,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 14",
@@ -1873,7 +2028,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 18",
@@ -1885,7 +2041,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 19",
@@ -1897,7 +2054,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 2",
@@ -1909,7 +2067,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 20",
@@ -1921,7 +2080,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 21",
@@ -1933,7 +2093,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 22",
@@ -1945,7 +2106,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 23",
@@ -1957,7 +2119,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 3",
@@ -1969,7 +2132,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 30",
@@ -1981,7 +2145,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 31",
@@ -1993,7 +2158,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 32",
@@ -2005,7 +2171,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 35",
@@ -2017,7 +2184,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 36",
@@ -2029,7 +2197,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 37",
@@ -2041,7 +2210,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 38",
@@ -2053,7 +2223,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 3A",
@@ -2065,7 +2236,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 4",
@@ -2077,7 +2249,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 40",
@@ -2089,7 +2262,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 41",
@@ -2101,7 +2275,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 42",
@@ -2113,7 +2288,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 5",
@@ -2125,7 +2301,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 75",
@@ -2137,7 +2314,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 80",
@@ -2149,7 +2327,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ANIM 85",
@@ -2161,7 +2340,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ARC 10",
@@ -2173,7 +2353,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ARC 11",
@@ -2185,7 +2366,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ARC 20",
@@ -2197,7 +2379,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ARC 21",
@@ -2209,7 +2392,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ARC 30",
@@ -2221,7 +2405,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ARC 31",
@@ -2233,7 +2418,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ARC 32",
@@ -2245,7 +2431,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ARC 40",
@@ -2257,7 +2444,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ARC 41",
@@ -2269,7 +2457,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ARC 51",
@@ -2281,7 +2470,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ARC 70",
@@ -2293,7 +2483,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GAME 1",
@@ -2305,7 +2496,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GAME 10",
@@ -2317,7 +2509,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GAME 2",
@@ -2329,7 +2522,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GAME 20",
@@ -2341,7 +2535,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GAME 30",
@@ -2353,7 +2548,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GR DES 60",
@@ -2365,7 +2561,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GR DES 75",
@@ -2377,7 +2574,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GR DES 76",
@@ -2389,7 +2587,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IARC 15",
@@ -2401,7 +2600,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IARC 20",
@@ -2413,7 +2613,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IARC 25",
@@ -2425,7 +2626,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IARC 30",
@@ -2437,7 +2639,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IARC 35",
@@ -2449,7 +2652,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IARC 40",
@@ -2461,7 +2665,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IARC 45",
@@ -2473,7 +2678,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IARC 53",
@@ -2485,7 +2691,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IARC 55",
@@ -2497,7 +2704,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IARC 56",
@@ -2509,7 +2717,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IARC 63",
@@ -2521,7 +2730,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IXD 310",
@@ -2533,7 +2743,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IXD 330",
@@ -2545,7 +2756,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IXD 350",
@@ -2557,7 +2769,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IXD 360",
@@ -2569,7 +2782,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IXD 370",
@@ -2581,7 +2795,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IXD 410",
@@ -2593,7 +2808,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IXD 430",
@@ -2605,7 +2821,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IXD 450",
@@ -2617,7 +2834,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IXD 460",
@@ -2629,7 +2847,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IXD 470",
@@ -2641,7 +2860,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IXD 480",
@@ -2653,7 +2873,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IXD 481",
@@ -2665,7 +2886,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IXD 482",
@@ -2677,7 +2899,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IXD 483",
@@ -2689,7 +2912,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IXD 491",
@@ -2701,7 +2925,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IXD 492",
@@ -2713,7 +2938,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "IXD 493",
@@ -2725,7 +2951,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GEOG 25",
@@ -2737,7 +2964,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GEOG 26",
@@ -2749,7 +2977,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GEOG 94",
@@ -2761,7 +2990,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GEOL 10",
@@ -2773,7 +3003,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GEOL 3",
@@ -2785,7 +3016,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GEOL 32",
@@ -2797,7 +3029,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GEOL 94",
@@ -2809,7 +3042,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GIS 25",
@@ -2821,7 +3055,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GIS 26",
@@ -2833,7 +3068,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "GIS 27",
@@ -2845,7 +3081,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "PV 12",
@@ -2857,7 +3094,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "PV 4",
@@ -2869,7 +3107,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "SST 901",
@@ -2881,7 +3120,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "SST 902",
@@ -2893,7 +3133,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "SST 904",
@@ -2905,7 +3146,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "SST 905",
@@ -2917,7 +3159,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "SST 906",
@@ -2929,7 +3172,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "SST 908",
@@ -2941,7 +3185,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "SST 909",
@@ -2953,7 +3198,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ECE 24",
@@ -2965,7 +3211,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ECE 25",
@@ -2977,7 +3224,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ECE 26",
@@ -2989,7 +3237,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ECE 27",
@@ -3001,7 +3250,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ECE 28",
@@ -3013,7 +3263,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ECE 29",
@@ -3025,7 +3276,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ECE 71",
@@ -3037,7 +3289,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ECE 75",
@@ -3049,7 +3302,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ECE 76",
@@ -3061,7 +3315,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ECE 81",
@@ -3073,7 +3328,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ECE 900",
@@ -3085,7 +3341,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ECE 901",
@@ -3097,7 +3354,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ECE 902",
@@ -3109,7 +3367,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ECE 903",
@@ -3121,7 +3380,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ECE 921",
@@ -3133,7 +3393,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "EDUC 12",
@@ -3145,7 +3406,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ENGL 1D",
@@ -3157,7 +3419,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ENGL 20",
@@ -3169,7 +3432,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ENGL 28",
@@ -3181,7 +3445,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ENGL 300",
@@ -3193,7 +3458,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ENGL 49",
@@ -3205,7 +3471,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ENGL 61",
@@ -3217,7 +3484,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ENGL 62",
@@ -3229,7 +3497,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ESL 980",
@@ -3241,7 +3510,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ESL 994",
@@ -3253,7 +3523,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ESL 995",
@@ -3265,7 +3536,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 1",
@@ -3277,7 +3549,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 10",
@@ -3289,7 +3562,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 10L",
@@ -3301,7 +3575,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 11",
@@ -3313,7 +3588,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 11L",
@@ -3325,7 +3601,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 12",
@@ -3337,7 +3614,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 13",
@@ -3349,7 +3627,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 13L",
@@ -3361,7 +3640,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 14",
@@ -3373,7 +3653,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 14L",
@@ -3385,7 +3666,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 15L",
@@ -3397,7 +3679,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 16",
@@ -3409,7 +3692,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 17",
@@ -3421,7 +3705,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 18",
@@ -3433,7 +3718,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 1L",
@@ -3445,7 +3731,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 2",
@@ -3457,7 +3744,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 2L",
@@ -3469,7 +3757,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 3",
@@ -3481,7 +3770,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 3L",
@@ -3493,7 +3783,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 4",
@@ -3505,7 +3796,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 5",
@@ -3517,7 +3809,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 5L",
@@ -3529,7 +3822,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 6",
@@ -3541,7 +3835,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 6L",
@@ -3553,7 +3848,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 7",
@@ -3565,7 +3861,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 7L",
@@ -3577,7 +3874,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 8",
@@ -3589,7 +3887,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 9",
@@ -3601,7 +3900,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RC 9L",
@@ -3613,7 +3913,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RRM 1",
@@ -3625,7 +3926,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RRM 2",
@@ -3637,7 +3939,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RRM 3",
@@ -3649,7 +3952,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "RRM 4",
@@ -3661,7 +3965,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ENVRN 14",
@@ -3673,7 +3978,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ENVRN 32",
@@ -3685,7 +3991,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "HIST 14",
@@ -3697,7 +4004,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "HIST 27",
@@ -3709,7 +4017,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "HIST 32",
@@ -3721,7 +4030,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 10C",
@@ -3733,7 +4043,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 12",
@@ -3745,7 +4056,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 14B",
@@ -3757,7 +4069,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 14C",
@@ -3769,7 +4082,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 18",
@@ -3781,7 +4095,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 25D",
@@ -3793,7 +4108,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 34B",
@@ -3805,7 +4121,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 34C",
@@ -3817,7 +4134,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 34D",
@@ -3829,7 +4147,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 35A",
@@ -3841,7 +4160,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 35B",
@@ -3853,7 +4173,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 41M",
@@ -3865,7 +4186,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 43B",
@@ -3877,7 +4199,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 43D",
@@ -3889,7 +4212,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 45B",
@@ -3901,7 +4225,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 45D",
@@ -3913,7 +4238,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 50B",
@@ -3925,7 +4251,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 50D",
@@ -3937,7 +4264,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 52A",
@@ -3949,7 +4277,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 52B",
@@ -3961,7 +4290,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "KIN PE 56B",
@@ -3973,7 +4303,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "PRO CR 25",
@@ -3985,7 +4316,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "PRO CR 26",
@@ -3997,7 +4329,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "PRO CR 80",
@@ -4009,7 +4342,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "VAR PE 11A",
@@ -4021,7 +4355,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "VAR PE 11B",
@@ -4033,7 +4368,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "VAR PE 11C",
@@ -4045,7 +4381,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "VAR PE 59W",
@@ -4057,7 +4394,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "VAR PE 61",
@@ -4069,7 +4407,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BIOL 10",
@@ -4081,7 +4420,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "BIOL 94C",
@@ -4093,7 +4433,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MATH 1",
@@ -4105,7 +4446,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MATH 1B",
@@ -4117,7 +4459,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MATH 1C",
@@ -4129,7 +4472,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MATH 21C",
@@ -4141,7 +4485,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MATH 26C",
@@ -4153,7 +4498,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MATH 2C",
@@ -4165,7 +4511,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MATH 3C",
@@ -4177,7 +4524,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MATH 4",
@@ -4189,7 +4537,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MATH 4C",
@@ -4201,7 +4550,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MATH 50",
@@ -4213,7 +4563,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MATH 54C",
@@ -4225,7 +4576,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "HUM 9A",
@@ -4237,7 +4589,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "JAPAN 9",
@@ -4249,7 +4602,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "LING 1",
@@ -4261,7 +4615,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "SCI 10",
@@ -4273,7 +4628,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "SPAN 25",
@@ -4285,7 +4641,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "SPAN 26",
@@ -4297,7 +4654,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MUSIC 27",
@@ -4309,7 +4667,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MUSIC 29",
@@ -4321,7 +4680,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MUSIC 5",
@@ -4333,7 +4693,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MUSIC 69D",
@@ -4345,7 +4706,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "MUSIC 79A",
@@ -4357,7 +4719,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ECON 4",
@@ -4369,7 +4732,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ECON 8",
@@ -4381,7 +4745,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ENVRN 20",
@@ -4393,7 +4758,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ENVRN 22",
@@ -4405,7 +4771,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ENVRN 4",
@@ -4417,7 +4784,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "POL SC 24",
@@ -4429,7 +4797,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "POL SC 31",
@@ -4441,7 +4810,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "POL SC 94",
@@ -4453,7 +4823,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "WGS 40",
@@ -4465,7 +4836,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "WGS 8",
@@ -4477,7 +4849,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "FASHN 21",
@@ -4489,7 +4862,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "PHOTO 30",
@@ -4501,7 +4875,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "PHOTO 31",
@@ -4513,7 +4888,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "PHOTO 32",
@@ -4525,7 +4901,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "PHOTO 33",
@@ -4537,7 +4914,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "PHOTO 34",
@@ -4549,7 +4927,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "PHOTO 64",
@@ -4561,7 +4940,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ENGR 1",
@@ -4573,7 +4953,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ENGR 11",
@@ -4585,7 +4966,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ENGR 21",
@@ -4597,7 +4979,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ENGR 22",
@@ -4609,7 +4992,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "ENVRN 40",
@@ -4621,7 +5005,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "PSYCH 320",
@@ -4633,7 +5018,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "PSYCH 7",
@@ -4645,7 +5031,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "PSYCH 8",
@@ -4657,7 +5044,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "TH ART 14",
@@ -4669,7 +5057,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "TH ART 23",
@@ -4681,7 +5070,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "TH ART 25",
@@ -4693,7 +5083,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     },
     {
       "code": "TH ART 31",
@@ -4705,7 +5096,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.smc.edu/about/facts-stats/new-courses.php"
+      "url": "https://www.smc.edu/about/facts-stats/new-courses.php",
+      "source": "site"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "san-joaquin-delta-college",
-  "scrapedAt": "2026-06-09T18:02:54.817Z",
-  "count": 23,
+  "scrapedAt": "2026-07-26T17:25:38.127Z",
+  "count": 25,
   "courses": [
     {
       "code": "March 6",
@@ -264,8 +264,34 @@
       "source": "site"
     },
     {
+      "code": "March 22",
+      "title": "LAST DAY TO DROP A FULL-TERM CLASS WITH A \"W\" notation on the transcript. Per Title 5; Section 55024, and AP 5075, students who remain enrolled in a full-term c",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.deltacollege.edu/admission-aid/registration-and-key-dates",
+      "source": "site"
+    },
+    {
+      "code": "March 26",
+      "title": "APPLICATION DEADLINE / CLOSES FOR GRADUATION for AA/AS Degrees and Certificates Spring 2027.",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://www.deltacollege.edu/admission-aid/registration-and-key-dates",
+      "source": "site"
+    },
+    {
       "code": "March 31",
-      "title": "HOLIDAY - Farm Workers Day - No Classes/Campus Closed",
+      "title": "HOLIDAY - National Farm Workers Day - No Classes/Campus Closed",
       "modality": "in_person",
       "modalityKnown": false,
       "term": null,

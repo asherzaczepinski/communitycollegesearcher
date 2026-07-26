@@ -1,6 +1,6 @@
 {
   "slug": "san-diego-college-of-continuing-education",
-  "scrapedAt": "2026-06-09T06:18:10.955Z",
+  "scrapedAt": "2026-07-26T17:25:11.915Z",
   "count": 320,
   "courses": [
     {
@@ -13,7 +13,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 550",
@@ -25,7 +26,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "PHYE 500",
@@ -37,7 +39,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 467A",
@@ -49,7 +52,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ACCT 502",
@@ -61,7 +65,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 596",
@@ -73,7 +78,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ACCT 512",
@@ -85,7 +91,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ACCT 503",
@@ -97,7 +104,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ABED 430",
@@ -109,7 +117,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ACCT 535",
@@ -121,7 +130,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 525",
@@ -133,7 +143,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "AGRI 690",
@@ -145,7 +156,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "APLD 509",
@@ -157,7 +169,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ARTC 518",
@@ -169,7 +182,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ARTC 517",
@@ -181,7 +195,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 618",
@@ -193,7 +208,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 450",
@@ -205,7 +221,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ARTX 690",
@@ -217,7 +234,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 427B",
@@ -229,7 +247,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ARTX 548",
@@ -241,7 +260,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HLTH 601",
@@ -253,7 +273,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ARTX 530",
@@ -265,7 +286,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 585",
@@ -277,7 +299,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ARTX 564",
@@ -289,7 +312,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 400",
@@ -301,7 +325,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "AUTO 507B",
@@ -313,7 +338,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 412",
@@ -325,7 +351,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "AUTO 411A",
@@ -337,7 +364,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSEP 402",
@@ -349,7 +377,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "AUTO 411",
@@ -361,7 +390,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "AUTO 501",
@@ -373,7 +403,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "MECT 405",
@@ -385,7 +416,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "AUTO 601",
@@ -397,7 +429,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 520",
@@ -409,7 +442,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "AUTO 420",
@@ -421,7 +455,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 631",
@@ -433,7 +468,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "AUTO 507",
@@ -445,7 +481,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "AUTO 415",
@@ -457,7 +494,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "SFED 510",
@@ -469,7 +507,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "AUTO 414",
@@ -481,7 +520,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 442",
@@ -493,7 +533,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "AUTO 507A",
@@ -505,7 +546,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 441",
@@ -517,7 +559,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "AUTO 509",
@@ -529,7 +572,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "FDNT 662",
@@ -541,7 +585,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "FDNT 674",
@@ -553,7 +598,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "AUTO 508",
@@ -565,7 +611,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "FDNT 618",
@@ -577,7 +624,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "AUTO 508A",
@@ -589,7 +637,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 552",
@@ -601,7 +650,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 530",
@@ -613,7 +663,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 685",
@@ -625,7 +676,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 615",
@@ -637,7 +689,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 575B",
@@ -649,7 +702,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 641",
@@ -661,7 +715,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 582",
@@ -673,7 +728,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 600",
@@ -685,7 +741,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 466",
@@ -697,7 +754,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 541",
@@ -709,7 +767,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 640",
@@ -721,7 +780,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 545",
@@ -733,7 +793,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 478",
@@ -745,7 +806,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 603",
@@ -757,7 +819,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSEP 404",
@@ -769,7 +832,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 542",
@@ -781,7 +845,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "INDT 632",
@@ -793,7 +858,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 520",
@@ -805,7 +871,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "INTD 690",
@@ -817,7 +884,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 543",
@@ -829,7 +897,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "MECT 400",
@@ -841,7 +910,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 621",
@@ -853,7 +923,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 622",
@@ -865,7 +936,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 552",
@@ -877,7 +949,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 623",
@@ -889,7 +962,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 544",
@@ -901,7 +975,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 630",
@@ -913,7 +988,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 510",
@@ -925,7 +1001,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 507",
@@ -937,7 +1014,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 634",
@@ -949,7 +1027,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "PASV 535",
@@ -961,7 +1040,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 631",
@@ -973,7 +1053,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "PRTG 540",
@@ -985,7 +1066,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 633",
@@ -997,7 +1079,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 632",
@@ -1009,7 +1092,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 452",
@@ -1021,7 +1105,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "BUSN 540",
@@ -1033,7 +1118,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 434",
@@ -1045,7 +1131,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "CEMR 510",
@@ -1057,7 +1144,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 457",
@@ -1069,7 +1157,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "CEMR 500",
@@ -1081,7 +1170,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 428B",
@@ -1093,7 +1183,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "CEMR 690",
@@ -1105,7 +1196,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "FDNT 663",
@@ -1117,7 +1209,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "FDNT 664",
@@ -1129,7 +1222,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "CEMR 525",
@@ -1141,7 +1235,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "FDNT 672",
@@ -1153,7 +1248,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "FDNT 676",
@@ -1165,7 +1261,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "FDNT 501",
@@ -1177,7 +1274,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HEAL 540",
@@ -1189,7 +1287,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HLTH 609",
@@ -1201,7 +1300,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HLTH 605",
@@ -1213,7 +1313,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 594",
@@ -1225,7 +1326,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 586",
@@ -1237,7 +1339,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 575A",
@@ -1249,7 +1352,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 571A",
@@ -1261,7 +1365,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "CLTX 671",
@@ -1273,7 +1378,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 575W",
@@ -1285,7 +1391,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 583",
@@ -1297,7 +1404,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMID 535",
@@ -1309,7 +1417,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 507",
@@ -1321,7 +1430,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "CLTX 670",
@@ -1333,7 +1443,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 416",
@@ -1345,7 +1456,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 413B",
@@ -1357,7 +1469,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 409",
@@ -1369,7 +1482,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 502",
@@ -1381,7 +1495,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 501",
@@ -1393,7 +1508,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "CLTX 595",
@@ -1405,7 +1521,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 427",
@@ -1417,7 +1534,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSEP 400",
@@ -1429,7 +1547,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSEP 406",
@@ -1441,7 +1560,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "INDT 401",
@@ -1453,7 +1573,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "INVS 515",
@@ -1465,7 +1586,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "CLTX 651",
@@ -1477,7 +1599,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "MECT 431",
@@ -1489,7 +1612,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "CLTX 653",
@@ -1501,7 +1625,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFBA 500",
@@ -1513,7 +1638,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 505",
@@ -1525,7 +1651,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 510",
@@ -1537,7 +1664,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 525",
@@ -1549,7 +1677,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 541",
@@ -1561,7 +1690,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "CNCT 642",
@@ -1573,7 +1703,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 551",
@@ -1585,7 +1716,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "CNCT 525",
@@ -1597,7 +1729,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 560",
@@ -1609,7 +1742,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 577",
@@ -1621,7 +1755,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 614",
@@ -1633,7 +1768,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 606",
@@ -1645,7 +1781,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM.681",
@@ -1657,7 +1794,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 596",
@@ -1669,7 +1807,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM.682",
@@ -1681,7 +1820,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 650",
@@ -1693,7 +1833,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "PASV 525",
@@ -1705,7 +1846,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 699",
@@ -1717,7 +1859,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "PHYE 550",
@@ -1729,7 +1872,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 550",
@@ -1741,7 +1885,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "PHYN 510",
@@ -1753,7 +1898,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 674",
@@ -1765,7 +1911,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 662",
@@ -1777,7 +1924,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 432",
@@ -1789,7 +1937,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 454",
@@ -1801,7 +1950,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 663",
@@ -1813,7 +1963,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 456",
@@ -1825,7 +1976,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 646",
@@ -1837,7 +1989,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 435",
@@ -1849,7 +2002,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 671",
@@ -1861,7 +2015,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 451",
@@ -1873,7 +2028,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 673",
@@ -1885,7 +2041,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 453",
@@ -1897,7 +2054,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 661",
@@ -1909,7 +2067,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 415",
@@ -1921,7 +2080,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 428A",
@@ -1933,7 +2093,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 610",
@@ -1945,7 +2106,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 427A",
@@ -1957,7 +2119,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 660",
@@ -1969,7 +2132,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 600",
@@ -1981,7 +2145,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "FDNT 661",
@@ -1993,7 +2158,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 670",
@@ -2005,7 +2171,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "FDNT 630",
@@ -2017,7 +2184,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 675",
@@ -2029,7 +2197,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 672",
@@ -2041,7 +2210,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "FDNT 671",
@@ -2053,7 +2223,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 618",
@@ -2065,7 +2236,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "FDNT 673",
@@ -2077,7 +2249,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 647",
@@ -2089,7 +2262,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "FDNT 675",
@@ -2101,7 +2275,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM.683",
@@ -2113,7 +2288,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 666",
@@ -2125,7 +2301,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "FDNT 620",
@@ -2137,7 +2314,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMM 622",
@@ -2149,7 +2327,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 672",
@@ -2161,7 +2340,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "FDNT 625",
@@ -2173,7 +2353,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 671",
@@ -2185,7 +2366,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HEAL 690",
@@ -2197,7 +2379,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HEAL 535",
@@ -2209,7 +2392,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 692",
@@ -2221,7 +2405,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HLTH 602",
@@ -2233,7 +2418,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 628",
@@ -2245,7 +2431,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HLTH 613",
@@ -2257,7 +2444,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 656",
@@ -2269,7 +2457,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HLTH 606",
@@ -2281,7 +2470,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 655",
@@ -2293,7 +2483,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HLTH 612",
@@ -2305,7 +2496,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 657",
@@ -2317,7 +2509,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HLTH 610",
@@ -2329,7 +2522,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 699",
@@ -2341,7 +2535,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 593",
@@ -2353,7 +2548,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 612",
@@ -2365,7 +2561,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 678",
@@ -2377,7 +2574,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 635",
@@ -2389,7 +2587,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 601",
@@ -2401,7 +2600,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 591",
@@ -2413,7 +2613,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 600",
@@ -2425,7 +2626,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 675",
@@ -2437,7 +2639,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 693",
@@ -2449,7 +2652,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 580",
@@ -2461,7 +2665,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 641",
@@ -2473,7 +2678,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 590",
@@ -2485,7 +2691,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 643",
@@ -2497,7 +2704,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 571B",
@@ -2509,7 +2717,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 584",
@@ -2521,7 +2730,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 645",
@@ -2533,7 +2743,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 570",
@@ -2545,7 +2756,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 647",
@@ -2557,7 +2769,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 595",
@@ -2569,7 +2782,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 646",
@@ -2581,7 +2795,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMDV 581",
@@ -2593,7 +2808,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 609",
@@ -2605,7 +2821,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HMID 500",
@@ -2617,7 +2834,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 691",
@@ -2629,7 +2847,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 436",
@@ -2641,7 +2860,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 506",
@@ -2653,7 +2873,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 465",
@@ -2665,7 +2886,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 414",
@@ -2677,7 +2899,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 642",
@@ -2689,7 +2912,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 432",
@@ -2701,7 +2925,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 644",
@@ -2713,7 +2938,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 411",
@@ -2725,7 +2951,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 651",
@@ -2737,7 +2964,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 403",
@@ -2749,7 +2977,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 652",
@@ -2761,7 +2990,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 503",
@@ -2773,7 +3003,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 690",
@@ -2785,7 +3016,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 500",
@@ -2797,7 +3029,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "COMP 640",
@@ -2809,7 +3042,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 415",
@@ -2821,7 +3055,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "CRTW 690",
@@ -2833,7 +3068,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 467B",
@@ -2845,7 +3081,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DIES 400",
@@ -2857,7 +3094,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 433",
@@ -2869,7 +3107,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DIES 401",
@@ -2881,7 +3120,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSDP 479",
@@ -2893,7 +3133,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSEP 401",
@@ -2905,7 +3146,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DRVE 550",
@@ -2917,7 +3159,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSEP 403",
@@ -2929,7 +3172,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DRVE 510",
@@ -2941,7 +3185,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSEP 407",
@@ -2953,7 +3198,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "HSEP 405",
@@ -2965,7 +3211,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 652D",
@@ -2977,7 +3224,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 623D",
@@ -2989,7 +3237,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "INDT 631",
@@ -3001,7 +3250,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 624D",
@@ -3013,7 +3263,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 634D",
@@ -3025,7 +3276,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 635D",
@@ -3037,7 +3289,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 611D",
@@ -3049,7 +3302,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "INTD 505",
@@ -3061,7 +3315,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 631D",
@@ -3073,7 +3328,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "INTD 502",
@@ -3085,7 +3341,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 658D",
@@ -3097,7 +3354,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "INVS 500",
@@ -3109,7 +3367,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "MARK 510",
@@ -3121,7 +3380,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 625D",
@@ -3133,7 +3393,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "MECT 432",
@@ -3145,7 +3406,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "MECT 423",
@@ -3157,7 +3419,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 676D",
@@ -3169,7 +3432,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "MECT 400A",
@@ -3181,7 +3445,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 675D",
@@ -3193,7 +3458,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 662D",
@@ -3205,7 +3471,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 612",
@@ -3217,7 +3484,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 612D",
@@ -3229,7 +3497,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 506",
@@ -3241,7 +3510,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 610D",
@@ -3253,7 +3523,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 535",
@@ -3265,7 +3536,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 643D",
@@ -3277,7 +3549,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 511",
@@ -3289,7 +3562,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 642D",
@@ -3301,7 +3575,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 603",
@@ -3313,7 +3588,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 603D",
@@ -3325,7 +3601,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 528",
@@ -3337,7 +3614,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 606D",
@@ -3349,7 +3627,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 516",
@@ -3361,7 +3640,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 639D",
@@ -3373,7 +3653,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 542",
@@ -3385,7 +3666,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 638D",
@@ -3397,7 +3679,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 553",
@@ -3409,7 +3692,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 608D",
@@ -3421,7 +3705,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 554",
@@ -3433,7 +3718,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 640D",
@@ -3445,7 +3731,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 630",
@@ -3457,7 +3744,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 605D",
@@ -3469,7 +3757,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 522",
@@ -3481,7 +3770,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 630D",
@@ -3493,7 +3783,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 575",
@@ -3505,7 +3796,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 609D",
@@ -3517,7 +3809,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 517",
@@ -3529,7 +3822,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "DSPS 656D",
@@ -3541,7 +3835,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 615",
@@ -3553,7 +3848,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 599",
@@ -3565,7 +3861,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "OFSY 598",
@@ -3577,7 +3874,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ENGE 699",
@@ -3589,7 +3887,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "PASV 610",
@@ -3601,7 +3900,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 429A",
@@ -3613,7 +3913,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "PASV 557",
@@ -3625,7 +3926,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 429B",
@@ -3637,7 +3939,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "PASV 531",
@@ -3649,7 +3952,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 426A",
@@ -3661,7 +3965,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "PHYE 553",
@@ -3673,7 +3978,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 426B",
@@ -3685,7 +3991,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "PHYE 510",
@@ -3697,7 +4004,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 425A",
@@ -3709,7 +4017,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "PHYE 561",
@@ -3721,7 +4030,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 425B",
@@ -3733,7 +4043,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "PRTG 510",
@@ -3745,7 +4056,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 437",
@@ -3757,7 +4069,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "PSYC 515",
@@ -3769,7 +4082,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 436",
@@ -3781,7 +4095,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "PSYC 525",
@@ -3793,7 +4108,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 433",
@@ -3805,7 +4121,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "SFED 500",
@@ -3817,7 +4134,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ESLA 431",
@@ -3829,7 +4147,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     },
     {
       "code": "ABED 414",
@@ -3841,7 +4160,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://sdcce.edu/coursenet/"
+      "url": "https://sdcce.edu/coursenet/",
+      "source": "site"
     }
   ]
 }

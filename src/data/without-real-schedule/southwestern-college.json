@@ -22,7 +22,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.swccd.edu/classes-and-registration/class-schedule/index.aspx"
+      "url": "https://www.swccd.edu/classes-and-registration/class-schedule/index.aspx",
+      "source": "site"
     },
     {
       "code": "GROUP 5",
@@ -34,7 +35,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.swccd.edu/classes-and-registration/class-schedule/index.aspx"
+      "url": "https://www.swccd.edu/classes-and-registration/class-schedule/index.aspx",
+      "source": "site"
     }
   ]
 }

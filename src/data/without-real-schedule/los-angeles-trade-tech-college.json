@@ -3,146 +3,2573 @@
   "name": "Los Angeles Trade-Tech College",
   "url": "https://www.lattc.edu/",
   "live": true,
-  "courseCount": 11,
+  "courseCount": 41,
   "modalityCoverage": 0,
   "method": "auto",
   "source": "Exhaustive Google/DDG search sweep",
   "extractUrl": "https://www.lattc.edu/academics/pathways/bce/labor-center/class-schedule-listings",
   "status": "live",
-  "lastStatus": "ok: 11 courses via auto (solved)",
-  "reason": "Partial capture — only 11 course(s) scraped, not the full schedule.",
+  "lastStatus": "ok: 41 courses via cvc",
+  "reason": "Partial capture — only 41 course(s) scraped, not the full schedule.",
   "courses": [
     {
-      "code": "LS 1",
-      "title": "U.S. Labor History - Class 11130",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://www.lattc.edu/academics/pathways/bce/labor-center/class-schedule-listings"
+      "code": "PHYSICS12",
+      "title": "Physics Fundamentals",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Mahbubur Khan",
+      "section": "1025525",
+      "description": "This course provides a survey of physics including laws of motion, properties of matter, heat, sound, electricity and magnetism, light, atomic and nuclear physics, and relativity. There will be given a historic perspective and applications in today's culture.",
+      "url": "https://search.cvc.edu/courses/1025525?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=physics&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1025525",
+        "cvcUrl": "https://search.cvc.edu/courses/1025525?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=physics&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": {
+          "csu": [
+            "B1 Physical Science"
+          ],
+          "igetc": [
+            "5A Physical Science"
+          ],
+          "calGetc": [
+            "5A Physical Science"
+          ]
+        },
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Mahbubur Khan"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "11420",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Mahbubur Khan",
+            "format": "Asynchronous",
+            "notes": "Clarification: Please note that Physics 12, this class, is a lecture only class and it is combined with Dr. Khan's Asynchronous Physics 11 Lecture class, class number 11641(It is not combined with any other Physics 11 Lecture class)"
+          },
+          {
+            "crn": "11254",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Mahbubur Khan",
+            "format": "Asynchronous",
+            "notes": "Please note: This class, Physics 12, class number 11376, is a Lecture only class and it is combined with the lecture of Physics 11, class number 14527, Instructor Dr. M. Khan. (It is not combined with any other Physics 11 class, only with 11376)."
+          },
+          {
+            "crn": "11376",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Mahbubur Khan",
+            "format": "Asynchronous",
+            "notes": "Please note: This class, Physics 12, class number 11376, is a Lecture only class and it is combined with the lecture of Physics 11, class number 14527, Instructor Dr. M. Khan. (It is not combined with any other Physics 11 class, only with 11376)."
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
     },
     {
-      "code": "LS 21",
-      "title": "Working Class in Cinema** - Class 11131",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://www.lattc.edu/academics/pathways/bce/labor-center/class-schedule-listings"
+      "code": "ENGLISH203",
+      "title": "World Literature I",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Carmen Viliesid",
+      "section": "641743",
+      "description": "In this course, students read key works and ideas of the Western world, the Middle East, Africa, and Asia from antiquity to the seventeenth century. The course requires students to compare readings from different countries and to analyze poetic forms and literary themes significant to the cultural and social mores of the respective literary works.",
+      "url": "https://search.cvc.edu/courses/641743?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "641743",
+        "cvcUrl": "https://search.cvc.edu/courses/641743?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Carmen Viliesid"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "12968",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Carmen Viliesid",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "13252",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Carmen Viliesid",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
     },
     {
-      "code": "LS 127",
-      "title": "Workers’ Compensation - Class 14683",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://www.lattc.edu/academics/pathways/bce/labor-center/class-schedule-listings"
+      "code": "FASHDSN119B",
+      "title": "History Of Costume II",
+      "modality": "online",
+      "term": "Oct 26 - Dec 20",
+      "units": "1.5",
+      "instructor": "Maria Siccardi",
+      "section": "2215436",
+      "description": "This course will examine events of each period between 1800 and the present and their influence on fashion. Emphasis is placed upon fabrications and silhouettes which represent each period. The ongoing influence of vintage fashion, on contemporary design, will be analyzed.",
+      "url": "https://search.cvc.edu/courses/2215436?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 69,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Oct 26",
+        "endDate": "Dec 20",
+        "cvcCourseId": "2215436",
+        "cvcUrl": "https://search.cvc.edu/courses/2215436?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Maria Siccardi"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "11224",
+            "dates": "Oct 26 to Dec 20",
+            "professor": "Maria Siccardi",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
     },
     {
-      "code": "LS 127",
-      "title": "Workers’ Compensation - Class 14100",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://www.lattc.edu/academics/pathways/bce/labor-center/class-schedule-listings"
+      "code": "HISTORY11",
+      "title": "Political and Social History of the United States to 1877",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Not Listed, Georgina Gomez, Alicia Rodriquez Estrada, Filipe Melo",
+      "section": "1025586",
+      "description": "Political and Social History of the United States to 1877",
+      "url": "https://search.cvc.edu/courses/1025586?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1025586",
+        "cvcUrl": "https://search.cvc.edu/courses/1025586?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": {
+          "csu": [
+            "D6 History"
+          ],
+          "igetc": [
+            "4F History"
+          ],
+          "calGetc": []
+        },
+        "formats": [
+          "Asynchronous",
+          "Synchronous"
+        ],
+        "professors": [
+          "Not Listed",
+          "Georgina Gomez",
+          "Alicia Rodriquez Estrada",
+          "Filipe Melo"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "12448",
+            "dates": "Jan 5 to Feb 8",
+            "professor": "Not Listed",
+            "format": "Asynchronous",
+            "notes": "Your must be a registered apprentice and directed by your employer to be enrolled in this section."
+          },
+          {
+            "crn": "12570",
+            "dates": "Jan 5 to Feb 8",
+            "professor": "Georgina Gomez",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "12600",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Georgina Gomez",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "18354",
+            "dates": "Sep 15 to Nov 21",
+            "professor": "Alicia Rodriquez Estrada",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "12835",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Filipe Melo",
+            "format": "Synchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 5
+      },
+      "source": "cvc"
     },
     {
-      "code": "LS 1",
-      "title": "U.S. Labor History - Class 20308",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://www.lattc.edu/academics/pathways/bce/labor-center/class-schedule-listings"
+      "code": "HISTORY12",
+      "title": "Political and Social History of the United States from 1865",
+      "modality": "online",
+      "term": "Oct 26 - Dec 20",
+      "units": "3.0",
+      "instructor": "Alicia Rodriquez Estrada, Maria Martinez, Bethany Bird",
+      "section": "1025587",
+      "description": "Political and Social History of the United States from 1865",
+      "url": "https://search.cvc.edu/courses/1025587?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": true,
+        "startDate": "Oct 26",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1025587",
+        "cvcUrl": "https://search.cvc.edu/courses/1025587?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": {
+          "csu": [
+            "D6 History"
+          ],
+          "igetc": [
+            "4F History"
+          ],
+          "calGetc": [
+            "4 Social & Behavioral Sciences"
+          ]
+        },
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Alicia Rodriquez Estrada",
+          "Maria Martinez",
+          "Bethany Bird"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "25881",
+            "dates": "Apr 13 to Jun 8",
+            "professor": "Alicia Rodriquez Estrada",
+            "format": "Asynchronous",
+            "notes": "This section is designed for DMA students. Please contact Professor Martinez at MARTINME5@laccd.edu or Professor Javadyan at JAVADYA@LATTC.EDU for more information."
+          },
+          {
+            "crn": "15733",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Maria Martinez",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "21579",
+            "dates": "Oct 26 to Dec 20",
+            "professor": "Bethany Bird",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
     },
     {
-      "code": "LS 2",
-      "title": "Collective Bargaining - Class 20324",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://www.lattc.edu/academics/pathways/bce/labor-center/class-schedule-listings"
+      "code": "PSYCH2",
+      "title": "Biological Psychology",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Mara Bentley",
+      "section": "480008",
+      "description": "This course introduces the scientific study of the biological bases of behavior and its fundamental role in the neurosciences. Physiological, hormonal, and neurochemical mechanisms, and brain-behavior relationships underlying the psychological phenomena of sensation, perception, regulatory processes, emotion, learning, memory, and psychological disorders will be addressed. The course also notes historical scientific contributions and current research principles for studying brain-behavior relationships and mental processes. Ethical standards for human and animal research are discussed in the context of both invasive and non-invasive experimental research.",
+      "url": "https://search.cvc.edu/courses/480008?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "480008",
+        "cvcUrl": "https://search.cvc.edu/courses/480008?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": {
+          "csu": [
+            "B2 Life Science"
+          ],
+          "igetc": [
+            "5B Biological Science"
+          ],
+          "calGetc": [
+            "5B Biological Science"
+          ]
+        },
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Mara Bentley"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "21789",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Mara Bentley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "26153",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Mara Bentley",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
     },
     {
-      "code": "LS 10",
-      "title": "Identity & Diversity – Class 20310",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://www.lattc.edu/academics/pathways/bce/labor-center/class-schedule-listings"
+      "code": "PSYCH32",
+      "title": "Psychology of Women",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Lisa Cain, Jolene Martin, Leslee Koritzke",
+      "section": "1025585",
+      "description": "This course will provide a better understanding of the experiences of women through an exploration of cultural stereotypes, family structure, female sexuality, women's health and self-esteem issues. Moreover, this course will provide an overview of women's issues from a psychological perspective ranging from a re-examination of traditional theories of personality to current topics of research interest. Where applicable, the course draws heavily from the research literature on sex differences and sex role socialization.",
+      "url": "https://search.cvc.edu/courses/1025585?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1025585",
+        "cvcUrl": "https://search.cvc.edu/courses/1025585?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": {
+          "csu": [
+            "D4 Gender Studies",
+            "D9 Psychology"
+          ],
+          "igetc": [
+            "4I Psychology"
+          ],
+          "calGetc": []
+        },
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Lisa Cain",
+          "Jolene Martin",
+          "Leslee Koritzke"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "12762",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Lisa Cain",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "15797",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Jolene Martin",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "16531",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Leslee Koritzke",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
     },
     {
-      "code": "LS 13",
-      "title": "Union Leadership – Class 23905",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://www.lattc.edu/academics/pathways/bce/labor-center/class-schedule-listings"
+      "code": "SOC28",
+      "title": "The Family: A Sociological Approach",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Torisha Khonach",
+      "section": "1003550",
+      "description": "The Family: A Sociological Approach",
+      "url": "https://search.cvc.edu/courses/1003550?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=sociology&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1003550",
+        "cvcUrl": "https://search.cvc.edu/courses/1003550?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=sociology&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": {
+          "csu": [
+            "D0 Sociology/Criminology"
+          ],
+          "igetc": [
+            "4J Sociology/Criminology"
+          ],
+          "calGetc": []
+        },
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Torisha Khonach"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "19853",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Torisha Khonach",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "14438",
+            "dates": "Jun 15 to Jul 19",
+            "professor": "Torisha Khonach",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "12266",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Torisha Khonach",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "12476",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Torisha Khonach",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 4
+      },
+      "source": "cvc"
     },
     {
-      "code": "LS 24",
-      "title": "Enforcing Workers’ Rights - Class 20319",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://www.lattc.edu/academics/pathways/bce/labor-center/class-schedule-listings"
+      "code": "ANTHRO102",
+      "title": "Human Ways Of Life: Cultural Anthropology",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Santiago Garcia",
+      "section": "231229",
+      "description": "Comparative survey of human culture, including the study of human society, language, religion, political and economic organization, with examples drawn from contemporary preliterate, peasant, and urban societies.",
+      "url": "https://search.cvc.edu/courses/231229?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=anthropology&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "231229",
+        "cvcUrl": "https://search.cvc.edu/courses/231229?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=anthropology&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": {
+          "csu": [
+            "D1 Anthropology/Archeology"
+          ],
+          "igetc": [
+            "4A Anthropology/Archaeology"
+          ],
+          "calGetc": []
+        },
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Santiago Garcia"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "12228",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Santiago Garcia",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "17102",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Santiago Garcia",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "18083",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Santiago Garcia",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
     },
     {
-      "code": "LS 21",
-      "title": "Working Class in Cinema** - Class 11558",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://www.lattc.edu/academics/pathways/bce/labor-center/class-schedule-listings"
+      "code": "MGMT13",
+      "title": "Small Business Entrepreneurship",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Artina Mcintosh, Victoria Franklin",
+      "section": "1104195",
+      "description": "This course provides a systematic approach to developing and operating a successful small business. The areas of study include: personal qualifications for starting and managing a small business, determining the market opportunity, legal procedures, planning and marketing the business, location factors, capital requirements, protective factors to provide for risk, and personnel management. Students gain experience through the development of a business plan.",
+      "url": "https://search.cvc.edu/courses/1104195?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=business&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1104195",
+        "cvcUrl": "https://search.cvc.edu/courses/1104195?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=business&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous",
+          "Synchronous"
+        ],
+        "professors": [
+          "Artina Mcintosh",
+          "Victoria Franklin"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "10408",
+            "dates": "Jan 5 to Feb 8",
+            "professor": "Artina Mcintosh",
+            "format": "Asynchronous",
+            "notes": "This class section will meet synchronously on Zoom with mandatory meetings on Saturdays."
+          },
+          {
+            "crn": "10879",
+            "dates": "Feb 9 to Apr 3",
+            "professor": "Artina Mcintosh",
+            "format": "Asynchronous",
+            "notes": "This class section will meet 100% online with no mandatory meeting."
+          },
+          {
+            "crn": "10873",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Victoria Franklin",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "11574",
+            "dates": "Jun 15 to Jul 19",
+            "professor": "Artina Mcintosh",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "14402",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Artina Mcintosh",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "17126",
+            "dates": "Oct 26 to Dec 20",
+            "professor": "Artina Mcintosh",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "13663",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Victoria Franklin",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "14038",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Victoria Franklin",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "14885",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Artina Mcintosh",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "18109",
+            "dates": "Oct 27 to Dec 21",
+            "professor": "Artina Mcintosh",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 10
+      },
+      "source": "cvc"
     },
     {
-      "code": "LS 105",
-      "title": "Grievance Handling Skills - Class 12484",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://www.lattc.edu/academics/pathways/bce/labor-center/class-schedule-listings"
+      "code": "BUS22",
+      "title": "The Business Of Electronic Commerce",
+      "modality": "online",
+      "term": "Aug 31 - Oct 25",
+      "units": "3.0",
+      "instructor": "Artina Mcintosh, Yolanda Eatmon",
+      "section": "1103966",
+      "description": "This comprehensive course will provide students emerging online technologies and future trends with respect to e-commerce. In addition to the early development of e-commerce success, e-marketing, online payment methods, spamming, phishing, identity theft, and other e-commerce components will be explored.",
+      "url": "https://search.cvc.edu/courses/1103966?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=business&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Oct 25",
+        "cvcCourseId": "1103966",
+        "cvcUrl": "https://search.cvc.edu/courses/1103966?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=business&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Artina Mcintosh",
+          "Yolanda Eatmon"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "14093",
+            "dates": "Apr 13 to Jun 8",
+            "professor": "Artina Mcintosh",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "19415",
+            "dates": "Aug 31 to Oct 25",
+            "professor": "Yolanda Eatmon",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "21229",
+            "dates": "Sep 1 to Oct 26",
+            "professor": "Yolanda Eatmon",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "ACCTG21",
+      "title": "Bookkeeping And Accounting I",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "LATTC STAFF, Fredrick Ho",
+      "section": "1103928",
+      "description": "This course covers the basic accounting cycle including adjusting entries and closing entries as well as preparing basic financial statements.",
+      "url": "https://search.cvc.edu/courses/1103928?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=accounting&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1103928",
+        "cvcUrl": "https://search.cvc.edu/courses/1103928?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=accounting&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Synchronous"
+        ],
+        "professors": [
+          "LATTC STAFF",
+          "Fredrick Ho"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "11409",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "LATTC STAFF",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "11540",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Fredrick Ho",
+            "format": "Synchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "FASHMER45",
+      "title": "Fashion E-Commerce",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Nichole Dwyer",
+      "section": "12800003",
+      "description": "Students will develop an understanding of various eCommerce platforms and how they are used to sell fashion products. Platform specific lessons will be presented to cover digital selling methods, strategies, analytics, and marketing techniques in the changing online environment. Students will create an online eCommerce site using a hosted interface to present a fashion product assortment for online selling.",
+      "url": "https://search.cvc.edu/courses/12800003?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=marketing&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "12800003",
+        "cvcUrl": "https://search.cvc.edu/courses/12800003?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=marketing&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Nichole Dwyer"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "16811",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Nichole Dwyer",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "17733",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Nichole Dwyer",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "WATER102",
+      "title": "Calculations And Measurement For Water Technology Programs",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "John Kallo",
+      "section": "2229917",
+      "description": "This course covers the basic math skills needed to perform in the supply & waster water fields. Emphasis is placed on the basic operations and how they are applied to the industry. Measurement calculations will be performed in both standard and metric measurements.",
+      "url": "https://search.cvc.edu/courses/2229917?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=information+technology&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "2229917",
+        "cvcUrl": "https://search.cvc.edu/courses/2229917?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=information+technology&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Synchronous"
+        ],
+        "professors": [
+          "John Kallo"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "11115",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "John Kallo",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "10410",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "John Kallo",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "10444",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "John Kallo",
+            "format": "Synchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "DIESLTK301",
+      "title": "Introduction To Alternative Fuels & Hybrid and Electric Vehicle Technology",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Jesus Guerra",
+      "section": "2229898",
+      "description": "This course provides an introduction to various alternative fuel and powertrain technologies used in the automotive and heavy-duty vehicle fields. Description and basic operation of Bodies, renewable fuel alternatives, Compressed Natural Gas (CNG), Liquefied Natural Gas (LNG), Fuel Cell hybrid, and Electric vehicle technologies is covered in the course.",
+      "url": "https://search.cvc.edu/courses/2229898?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=information+technology&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "2229898",
+        "cvcUrl": "https://search.cvc.edu/courses/2229898?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=information+technology&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Jesus Guerra"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "10006",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Jesus Guerra",
+            "format": "Asynchronous",
+            "notes": "DIESLTK courses can be taken in ANY order.If you are taking morning classes, students are HIGHLY encouraged to take the A, B, and C parts of a given class to complete their full load for the semester (i.e. DIESLTK 112A, 112B, and 112C).This is an online class"
+          },
+          {
+            "crn": "10008",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Jesus Guerra",
+            "format": "Asynchronous",
+            "notes": "DIESLTK courses can be taken in ANY order.If you are taking morning classes, students are HIGHLY encouraged to take the A, B, and C parts of a given class to complete their full load for the semester (i.e. DIESLTK 112A, 112B, and 112C).This is an online class"
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "COUNSEL5",
+      "title": "College Survival",
+      "modality": "online",
+      "term": "Oct 26 - Dec 20",
+      "units": "2.0",
+      "instructor": "Jocelyn Nava, Linda Cole, Joseph Manafa, Steven Olguin",
+      "section": "1104047",
+      "description": "Provides the students with information enabling them to succeed in college program. Emphasis will be placed on development of making informed decisions, study skills, time management, financial literacy, an understanding of college terminology, utilization of college support services and development of a Student Educational Plan (SEP).",
+      "url": "https://search.cvc.edu/courses/1104047?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=information+technology&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 92,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Oct 26",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1104047",
+        "cvcUrl": "https://search.cvc.edu/courses/1104047?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=information+technology&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Jocelyn Nava",
+          "Linda Cole",
+          "Joseph Manafa",
+          "Steven Olguin"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "11003",
+            "dates": "Jan 5 to Feb 8",
+            "professor": "Jocelyn Nava",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "14422",
+            "dates": "Jun 15 to Jul 19",
+            "professor": "Linda Cole",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "14561",
+            "dates": "Jul 20 to Aug 23",
+            "professor": "Joseph Manafa",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "16093",
+            "dates": "Oct 26 to Dec 20",
+            "professor": "Steven Olguin",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 4
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "CLNART941",
+      "title": "Cooperative Education - Culinary Arts",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "4.0",
+      "instructor": "Marie Dam",
+      "section": "1104056",
+      "description": "Cooperative Education is a work experience program involving the employer, the student-employee and the college to insure that the student receives on the job training and the unit credit for work experience or volunteer work/internship. Completion of at least seven units, including Cooperative Education, at the end of the semester is required. Students must be employed or volunteering/interning in order to participate in program.",
+      "url": "https://search.cvc.edu/courses/1104056?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=art&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 184,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1104056",
+        "cvcUrl": "https://search.cvc.edu/courses/1104056?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=art&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Marie Dam"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "26316",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Marie Dam",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "RESTMGT100",
+      "title": "Restaurant Management",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Robert Wemischner",
+      "section": "2215482",
+      "description": "Introduction to managing in the restaurant industry. Effective communication, goal setting, management theory, problem solving and creating a team work environment will be discussed.",
+      "url": "https://search.cvc.edu/courses/2215482?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=communication&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "2215482",
+        "cvcUrl": "https://search.cvc.edu/courses/2215482?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=communication&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Synchronous"
+        ],
+        "professors": [
+          "Robert Wemischner"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "11013",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Robert Wemischner",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "19663",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Robert Wemischner",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "21842",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Robert Wemischner",
+            "format": "Synchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "COUNSEL2",
+      "title": "Interpersonal Relationships",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "1.0",
+      "instructor": "Linda Cole",
+      "section": "1104046",
+      "description": "Enhances interpersonal skills for building effective communication for personal and professional growth. It utilizes group dynamics by enhancing self-esteem through self-awareness, acceptance, ability to listen and workplace habits. An honest appraisal of individual strengths and weaknesses is made in an effort to help remove barriers to social and academic growth. A student educational plan (SEP) will be developed.",
+      "url": "https://search.cvc.edu/courses/1104046?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=communication&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 46,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1104046",
+        "cvcUrl": "https://search.cvc.edu/courses/1104046?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=communication&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Linda Cole"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "14519",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Linda Cole",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "17077",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Linda Cole",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "18055",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Linda Cole",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "ADMJUS2",
+      "title": "Concepts Of Criminal Law",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Melinda Vasquez, John Leung",
+      "section": "231210",
+      "description": "An introduction to the historical development, philosophy, and basic legal concepts of criminal law. The course includes an examination of constitutional provisions, legal research, legal analysis, and the functioning of criminal law as a social force. It also includes a detailed examination of legal definitions, classifications of law, penalties, corpus delicti, criminal intent, parties to a crime, defenses to crime, and a brief introduction to laws of arrest and judicial procedure.",
+      "url": "https://search.cvc.edu/courses/231210?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=philosophy&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "231210",
+        "cvcUrl": "https://search.cvc.edu/courses/231210?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=philosophy&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Synchronous"
+        ],
+        "professors": [
+          "Melinda Vasquez",
+          "John Leung"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "16606",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Melinda Vasquez",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "13470",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Melinda Vasquez",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "13822",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "John Leung",
+            "format": "Synchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "GEOLOGY1",
+      "title": "Physical Geology",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Ziad Sedki, Edith Rojas Salazar",
+      "section": "1025517",
+      "description": "Physical Geology is the study of the internal and external processes which shape the earth. Topics covered include plate tectonics, volcanism, earthquakes, mountain building, geologic structures, origin of rocks and minerals, and water and energy resources. A field trip is offered for this course.",
+      "url": "https://search.cvc.edu/courses/1025517?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=geology&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1025517",
+        "cvcUrl": "https://search.cvc.edu/courses/1025517?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=geology&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": {
+          "csu": [
+            "B1 Physical Science"
+          ],
+          "igetc": [
+            "5A Physical Science"
+          ],
+          "calGetc": [
+            "5A Physical Science"
+          ]
+        },
+        "formats": [
+          "Synchronous"
+        ],
+        "professors": [
+          "Ziad Sedki",
+          "Edith Rojas Salazar"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "13564",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Ziad Sedki",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "10939",
+            "dates": "Jun 15 to Jul 19",
+            "professor": "Edith Rojas Salazar",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "24856",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Ziad Sedki",
+            "format": "Synchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "HLTHOCC64",
+      "title": "Cultural And Legal Topics For Health Care Professionals",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "1.0",
+      "instructor": "Eleftherios Zarpas, Joseph O'Leary, LATTC STAFF, Leslie Holland, Mohammad Ali Rezaee Baroon",
+      "section": "2230042",
+      "description": "This course provides an overview of the concepts of health and illness, cultural diversity and legal issues that affect the health care professional.",
+      "url": "https://search.cvc.edu/courses/2230042?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 46,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "2230042",
+        "cvcUrl": "https://search.cvc.edu/courses/2230042?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Eleftherios Zarpas",
+          "Joseph O'Leary",
+          "LATTC STAFF",
+          "Leslie Holland",
+          "Mohammad Ali Rezaee Baroon"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "24873",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Eleftherios Zarpas",
+            "format": "Asynchronous",
+            "notes": "[k12 Partnership Program section]Birmingham Community Charter High School17000 Haynes St.,Van Nuys, CA 91406Enrollment and participation are open to all students. This class does not meet in real-time. All activities and work are completed online. For more information, feel free to stop by the k12 Partnership Program office in D3-109."
+          },
+          {
+            "crn": "25070",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Joseph O'Leary",
+            "format": "Asynchronous",
+            "notes": "[k12 Partnership Program section]Aspire Pacific Academy2565 E 58th St,Huntington Park, CA 90255Enrollment and participation are open to all students. This class does not meet in real-time. All activities and work are completed online. For more information, feel free to stop by the k12 Partnership Program office in D3-109."
+          },
+          {
+            "crn": "25044",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "LATTC STAFF",
+            "format": "Asynchronous",
+            "notes": "[k12 Partnership Program section]Aspire Ollin University Preparatory Academy2540 East 58th Street,Huntington Park, CA 90255Enrollment and participation are open to all students. This class does not meet in real-time. All activities and work are completed online. For more information, feel free to stop by the k12 Partnership Program office in D3-109."
+          },
+          {
+            "crn": "24942",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Leslie Holland",
+            "format": "Asynchronous",
+            "notes": "[k12 Partnership Program section]Aspire Pacific Academy2565 E 58th St.,Huntington Park, CA 90255Enrollment and participation only for Aspire Pacific Academy students as a part of a CCAP-AB288 agreement. This class does not meet in real-time. All activities and work are completed online.For more information, please contact the k12 Partnership Program at (213) 763-3966."
+          },
+          {
+            "crn": "24941",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Mohammad Ali Rezaee Baroon",
+            "format": "Asynchronous",
+            "notes": "[k12 Partnership Program section]Aspire Pacific Academy2565 E 58th St.,Huntington Park, CA 90255Enrollment and participation only for Aspire Pacific Academy students as a part of a CCAP-AB288 agreement. This class does not meet in real-time. All activities and work are completed online.For more information, please contact the k12 Partnership Program at (213) 763-3966."
+          }
+        ],
+        "sectionCount": 5
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "KINMAJ100",
+      "title": "Introduction To Kinesiology",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Joseph Ratcliff",
+      "section": "478451",
+      "description": "Students learn about the study of human movement through an interdisciplinary approach that includes discussing the importance of the sub-disciplines in kinesiology and the variety of career opportunities in the areas of teaching, allied health, and fitness professions.",
+      "url": "https://search.cvc.edu/courses/478451?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "478451",
+        "cvcUrl": "https://search.cvc.edu/courses/478451?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Joseph Ratcliff"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "17961",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Joseph Ratcliff",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "17952",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Joseph Ratcliff",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "19170",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Joseph Ratcliff",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "CLNART170",
+      "title": "Culinary Nutrition",
+      "modality": "online",
+      "term": "Aug 31 - Oct 25",
+      "units": "2.0",
+      "instructor": "Katherine Silberling, Federico Martinez-Reyes, LACCD STAFF, Luis Robles",
+      "section": "1104053",
+      "description": "This course provides a quick overview of applied culinary nutrition. Recipe and menu development including ingredient selection and cooking techniques will be discussed. Special diet (low fat, low sodium, diabetic, and caloric intake) will be discussed. Appropriate for food service professionals who would like to work as personal chefs, with sports teams, at spas and resorts, major hospital chains, entertainment or transportation industries or in health care.",
+      "url": "https://search.cvc.edu/courses/1104053?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 92,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Oct 25",
+        "cvcCourseId": "1104053",
+        "cvcUrl": "https://search.cvc.edu/courses/1104053?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous",
+          "Synchronous"
+        ],
+        "professors": [
+          "Katherine Silberling",
+          "Federico Martinez-Reyes",
+          "LACCD STAFF",
+          "Luis Robles"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "10965",
+            "dates": "Jan 5 to Feb 8",
+            "professor": "Katherine Silberling",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10869",
+            "dates": "Feb 9 to Apr 3",
+            "professor": "Federico Martinez-Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "14699",
+            "dates": "Aug 31 to Oct 25",
+            "professor": "LACCD STAFF",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20059",
+            "dates": "Oct 26 to Dec 20",
+            "professor": "Luis Robles",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "14701",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Katherine Silberling",
+            "format": "Synchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 5
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "PRPLTEK214",
+      "title": "Industry Trends: Employment And Regulations",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Manuel Acosta, Cash Sutton",
+      "section": "4684916",
+      "description": "The purpose of this course is to provide a career preparation through a relevant introductory overview involving process and laboratory validation and quality performance regulations for product and process operations in the biotechnology, biomanufacturing/biopharmaceutical, waste water treatment, cosmetic, food and beverage, biofuels, quality control, petroleum refining and other chemical and health industries. Some topics covered will be monitoring quality and process performance, operating consistency, continuous improvement, government regulations and guidelines. Additionally instruction will be offered in personal appearance, employment trends, professional organizations. The course also includes writing resumes, cover and thank you letters, as well as job search techniques.",
+      "url": "https://search.cvc.edu/courses/4684916?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "4684916",
+        "cvcUrl": "https://search.cvc.edu/courses/4684916?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Manuel Acosta",
+          "Cash Sutton"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "13588",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Manuel Acosta",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "25155",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Cash Sutton",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "CLNART118",
+      "title": "Principles of Plant Based Nutrition",
+      "modality": "online",
+      "term": "Aug 31 - Oct 25",
+      "units": "2.0",
+      "instructor": "Roslyn Spence, Federico Martinez-Reyes",
+      "section": "15972287",
+      "description": "This course offers a comprehensive overview of applied culinary nutrition with a specific focus on plant-based cooking. Participants will engage in an in-depth exploration of plant based nutrition, emphasizing the selection of high-quality, nutrient-dense plant-based ingredients. We will discuss various cooking techniques that enhance the flavors and textures of fruits, vegetables, grains, legumes, nuts, and seeds.",
+      "url": "https://search.cvc.edu/courses/15972287?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=nutrition&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 92,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Oct 25",
+        "cvcCourseId": "15972287",
+        "cvcUrl": "https://search.cvc.edu/courses/15972287?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=nutrition&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Roslyn Spence",
+          "Federico Martinez-Reyes"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "24973",
+            "dates": "Feb 9 to Apr 3",
+            "professor": "Roslyn Spence",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "21623",
+            "dates": "Aug 31 to Oct 25",
+            "professor": "Federico Martinez-Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "25924",
+            "dates": "Sep 1 to Oct 26",
+            "professor": "Federico Martinez-Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "COUNSEL20",
+      "title": "Post-Secondary Education: The Scope Of Career Planning",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Mariah Glenn, Ana Munoz, Ashraf Hosseini, Kimberly Soto, Toni Johnson",
+      "section": "1025597",
+      "description": "Introduces students to the role of higher education in society and to their role as students. Students explore personal attributes needed for college success, critical thinking and effective study strategies, relating to others in a diverse world, the career planning and decision making process, and transfer. This course will also provide students with an overview of campus resources and policies. A student educational plan (SEP) will be developed.",
+      "url": "https://search.cvc.edu/courses/1025597?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "CSU BREADTH"
+        ],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1025597",
+        "cvcUrl": "https://search.cvc.edu/courses/1025597?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": {
+          "csu": [
+            "E Lifelong Learning"
+          ],
+          "igetc": [],
+          "calGetc": []
+        },
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Mariah Glenn",
+          "Ana Munoz",
+          "Ashraf Hosseini",
+          "Kimberly Soto",
+          "Toni Johnson"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "25793",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Mariah Glenn",
+            "format": "Asynchronous",
+            "notes": "[k12 Partnership Program section]Harris Newmark High School1575 W 2nd St.,Los Angeles, CA 90026Enrollment and participation are open to all students. This class does not meet in real-time. All activities and work are completed online. For more information, feel free to stop by the k12 Partnership Program office in D3-109."
+          },
+          {
+            "crn": "24769",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Mariah Glenn",
+            "format": "Asynchronous",
+            "notes": "[k12 Partnership Program section]Harris Newmark High School1575 W 2nd St.,Los Angeles, CA 90026Enrollment and participation are open to all students. This class does not meet in real-time. All activities and work are completed online. For more information, feel free to stop by the k12 Partnership Program office in D3-109."
+          },
+          {
+            "crn": "25031",
+            "dates": "Sep 7 to Dec 20",
+            "professor": "Ana Munoz",
+            "format": "Asynchronous",
+            "notes": "[k12 Partnership Program section]STEAM AcademyEnrollment and participation are open to all students. This class section will not meet in-person at LATTC. All activities and coursework to be completed online.For more information, feel free to stop by the k12 Partnership Program office in D3-109."
+          },
+          {
+            "crn": "19469",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Ashraf Hosseini",
+            "format": "Asynchronous",
+            "notes": "[k12 Partnership Program section]Business and Entrepreneurship Virtual Academy18720 Linnet St.,Tarzana, CA 91356Enrollment and participation only for Business and Entrepreneurship Virtual Academy students as a part of a CCAP-AB288 agreement. This class does not meet in real-time. All activities and work are completed online.For more information, please contact the k12 Partnership Program at (213) 763-3966."
+          },
+          {
+            "crn": "25361",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Kimberly Soto",
+            "format": "Asynchronous",
+            "notes": "[k12 Partnership Program section]STEAM AcademyEnrollment and participation are open to all students. This class section will not meet in person. All activities and coursework to be completed online. For more information, please contact the k12 Partnership Program at (213) 763-3966."
+          },
+          {
+            "crn": "21351",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Ashraf Hosseini",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "25961",
+            "dates": "Sep 8 to Dec 21",
+            "professor": "Toni Johnson",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 7
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "CHDEV42",
+      "title": "Teaching In A Diverse Society",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Anett Patron, Hector Martinez",
+      "section": "1001478",
+      "description": "Students examine the development of social identities in diverse societies including theoretical and practical implications affecting young children, families, programs, teaching, education and schooling. Culturally relevant and linguistically appropriate anti-bias approaches supporting all children in becoming competent members of a diverse society. The course involves self-reflection of one's own understanding of educational principles in integrating anti-bias goals in order to better inform teaching practices and/or program development.",
+      "url": "https://search.cvc.edu/courses/1001478?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1001478",
+        "cvcUrl": "https://search.cvc.edu/courses/1001478?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Synchronous"
+        ],
+        "professors": [
+          "Anett Patron",
+          "Hector Martinez"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "18347",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Anett Patron",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "10684",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Hector Martinez",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "10753",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Hector Martinez",
+            "format": "Synchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "MARKET1",
+      "title": "Principles Of Selling",
+      "modality": "online",
+      "term": "Aug 31 - Oct 25",
+      "units": "3.0",
+      "instructor": "Artina Mcintosh",
+      "section": "1104198",
+      "description": "This course covers the basic principles of selling including wholesale and specialty goods. Topics include the development of the fundamental principles of wholesale and specialty selling, including the development of the sales plan, securing customers, effective goods and service presentation, product analysis, handling objections, closing the sale, follow-up and service after the sale, and the skills needed for successful sales work.",
+      "url": "https://search.cvc.edu/courses/1104198?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Oct 25",
+        "cvcCourseId": "1104198",
+        "cvcUrl": "https://search.cvc.edu/courses/1104198?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Artina Mcintosh"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "14086",
+            "dates": "Aug 31 to Oct 25",
+            "professor": "Artina Mcintosh",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "COMPLAN10",
+      "title": "Comprehensive Community Violence Prevention",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Jah'shams Abdul-Mu'min",
+      "section": "2234883",
+      "description": "The course provides students an overview of the larger issues of violence prevention and its impact on community development. The course prepares students for work in the field of community violence prevention.",
+      "url": "https://search.cvc.edu/courses/2234883?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "2234883",
+        "cvcUrl": "https://search.cvc.edu/courses/2234883?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Jah'shams Abdul-Mu'min"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "15353",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Jah'shams Abdul-Mu'min",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "19844",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Jah'shams Abdul-Mu'min",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "22393",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Jah'shams Abdul-Mu'min",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "MARKET11",
+      "title": "Fundamentals Of Advertising",
+      "modality": "online",
+      "term": "Oct 26 - Dec 20",
+      "units": "3.0",
+      "instructor": "Aileen Wilson-Aus, Artina Mcintosh",
+      "section": "479352",
+      "description": "This course introduces students to the role of advertising in our economy. It gives a comprehensive overview of the planning and managing of advertising. The course also covers how the major forms of social media, such as television, radio, newspapers, magazines, and the Internet are integrated into the advertising campaign.",
+      "url": "https://search.cvc.edu/courses/479352?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Oct 26",
+        "endDate": "Dec 20",
+        "cvcCourseId": "479352",
+        "cvcUrl": "https://search.cvc.edu/courses/479352?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Aileen Wilson-Aus",
+          "Artina Mcintosh"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "16614",
+            "dates": "Feb 9 to Apr 3",
+            "professor": "Aileen Wilson-Aus",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "14087",
+            "dates": "Oct 26 to Dec 20",
+            "professor": "Artina Mcintosh",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "14519",
+            "dates": "Oct 27 to Dec 21",
+            "professor": "Artina Mcintosh",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "SUPV1",
+      "title": "Elements Of Supervision",
+      "modality": "online",
+      "term": "Aug 31 - Oct 25",
+      "units": "3.0",
+      "instructor": "Aileen Wilson-Aus, Chi Gong",
+      "section": "1104239",
+      "description": "This course is a basic introductory course covering, in general terms, the total responsibilities of a supervisor in industry, such as organization, duties and responsibilities, human relations, grievances, training, rating, promotion, quality-quantity control, management-employee relations, and related topics.",
+      "url": "https://search.cvc.edu/courses/1104239?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Oct 25",
+        "cvcCourseId": "1104239",
+        "cvcUrl": "https://search.cvc.edu/courses/1104239?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Aileen Wilson-Aus",
+          "Chi Gong"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "15553",
+            "dates": "Feb 9 to Apr 3",
+            "professor": "Aileen Wilson-Aus",
+            "format": "Asynchronous",
+            "notes": "Contract Services Class, not open to the general public."
+          },
+          {
+            "crn": "28436",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Chi Gong",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "17297",
+            "dates": "Oct 26 to Dec 20",
+            "professor": "Chi Gong",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "12541",
+            "dates": "Aug 31 to Oct 25",
+            "professor": "Aileen Wilson-Aus",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "12772",
+            "dates": "Sep 1 to Oct 26",
+            "professor": "Aileen Wilson-Aus",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "18322",
+            "dates": "Oct 27 to Dec 21",
+            "professor": "Chi Gong",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 6
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "PUBREL1",
+      "title": "Principles Of Public Relations",
+      "modality": "online",
+      "term": "Oct 26 - Dec 20",
+      "units": "3.0",
+      "instructor": "Aileen Wilson-Aus",
+      "section": "1001472",
+      "description": "Principles Of Public Relations",
+      "url": "https://search.cvc.edu/courses/1001472?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Oct 26",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1001472",
+        "cvcUrl": "https://search.cvc.edu/courses/1001472?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Aileen Wilson-Aus"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "18835",
+            "dates": "Oct 26 to Dec 20",
+            "professor": "Aileen Wilson-Aus",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20338",
+            "dates": "Oct 27 to Dec 21",
+            "professor": "Aileen Wilson-Aus",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "KINMAJ106",
+      "title": "Sports Ethics",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Brian Pfiffner",
+      "section": "1025573",
+      "description": "Students will learn the wide range of moral and ethical issues in sports. Topics include racial and gender equity, commercialization, use of ergogenic aids, eligibility, violence, sportsmanship, and code of ethics, using an examination of historical and current events.",
+      "url": "https://search.cvc.edu/courses/1025573?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "CSU BREADTH"
+        ],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1025573",
+        "cvcUrl": "https://search.cvc.edu/courses/1025573?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Brian Pfiffner"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "20071",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Brian Pfiffner",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "18954",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Brian Pfiffner",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20502",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Brian Pfiffner",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "PRPLTEK102",
+      "title": "Process Measurement And Control Fundamentals",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "LACCD STAFF, Virgil Shields",
+      "section": "2240920",
+      "description": "The purpose of this course is to provide an introduction to the fundamentals of process variables and a variety of instruments used to sense, measure, transmit, and control process plant operations within chemical manufacturing, oil refineries, water processing and wastewater treatment industries, etc. Included is an introduction to industrial control systems, controller schemes and tuning, and process diagrams and P&IDs.",
+      "url": "https://search.cvc.edu/courses/2240920?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "2240920",
+        "cvcUrl": "https://search.cvc.edu/courses/2240920?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Synchronous"
+        ],
+        "professors": [
+          "LACCD STAFF",
+          "Virgil Shields"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "18590",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "LACCD STAFF",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "19989",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Virgil Shields",
+            "format": "Synchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "CHDEV48",
+      "title": "Positive Guidance In Early Childhood Settings",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Cecilia Vega-Ryan",
+      "section": "3867391",
+      "description": "Exploration of developmentally appropriate management techniques for children in early childhood settings. Emphasis is on developing culturally sensitive individualized plans for behavior management of children with traditional and exceptional needs.",
+      "url": "https://search.cvc.edu/courses/3867391?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "3867391",
+        "cvcUrl": "https://search.cvc.edu/courses/3867391?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Synchronous"
+        ],
+        "professors": [
+          "Cecilia Vega-Ryan"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "21332",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Cecilia Vega-Ryan",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "25495",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Cecilia Vega-Ryan",
+            "format": "Synchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "COUNSEL22",
+      "title": "The Transfer Process",
+      "modality": "online",
+      "term": "Oct 26 - Dec 20",
+      "units": "1.0",
+      "instructor": "LATTC STAFF, Mercis Ramirez",
+      "section": "1104049",
+      "description": "Provides an introduction to the transfer process. It is designed to enable students to become active participants in planning their long-term educational and career goals and will provide students with an understanding of the process and the requirements for transferring to a four-year college or university. These goals will enable the student to develop a transfer educational plan and to be prepared to apply to a transfer institution. The course will consist of lecture, use of internet resources, guest speakers and student assignments.",
+      "url": "https://search.cvc.edu/courses/1104049?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 46,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Oct 26",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1104049",
+        "cvcUrl": "https://search.cvc.edu/courses/1104049?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "LATTC STAFF",
+          "Mercis Ramirez"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "15223",
+            "dates": "Oct 26 to Dec 20",
+            "professor": "LATTC STAFF",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "15857",
+            "dates": "Oct 27 to Dec 21",
+            "professor": "Mercis Ramirez",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "CLNART112",
+      "title": "Sanitation And Safety",
+      "modality": "online",
+      "term": "Aug 31 - Oct 25",
+      "units": "2.0",
+      "instructor": "Katherine Silberling, Susan Feigenbaum, Gayle Marie Lachica, Edith Garnica Diaz",
+      "section": "479910",
+      "description": "This class discusses sanitation and safety as it applies to the restaurant industry; HACCP protocol, preventing food borne outbreaks, introduction to microbiology and establishing 'flow of food systems' will be covered, federal, state and local legislation and employee training. National Restaurant Association Serve Safe Test will be given at conclusion of this class.",
+      "url": "https://search.cvc.edu/courses/479910?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 92,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Oct 25",
+        "cvcCourseId": "479910",
+        "cvcUrl": "https://search.cvc.edu/courses/479910?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Katherine Silberling",
+          "Susan Feigenbaum",
+          "Gayle Marie Lachica",
+          "Edith Garnica Diaz"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "10737",
+            "dates": "Jan 5 to Feb 8",
+            "professor": "Katherine Silberling",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10460",
+            "dates": "Feb 9 to Apr 3",
+            "professor": "Susan Feigenbaum",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20881",
+            "dates": "Apr 13 to Jun 8",
+            "professor": "Gayle Marie Lachica",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10498",
+            "dates": "Feb 9 to Apr 3",
+            "professor": "Edith Garnica Diaz",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10061",
+            "dates": "Jun 15 to Jul 19",
+            "professor": "Katherine Silberling",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "17430",
+            "dates": "Aug 31 to Oct 25",
+            "professor": "Susan Feigenbaum",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "14821",
+            "dates": "Oct 26 to Dec 20",
+            "professor": "Susan Feigenbaum",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 7
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "OPMAINT229",
+      "title": "Steam Plant Operation II",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "6.0",
+      "instructor": "Ricardo Ramirez",
+      "section": "2230039",
+      "description": "Instruction is given in steam engines, valve operating mechanisms and governors, and operating characteristics of steam engines. Course covers steam turbines, pumps, and auxiliary power plant equipment, steam plant efficiencies, boiler water treatment, troubleshooting, and power transmission. Completion of this second course prepares trainee to take Los Angeles City examination for steam engineer's license.",
+      "url": "https://search.cvc.edu/courses/2230039?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 276,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "2230039",
+        "cvcUrl": "https://search.cvc.edu/courses/2230039?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Synchronous",
+          "Asynchronous"
+        ],
+        "professors": [
+          "Ricardo Ramirez"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "11235",
+            "dates": "Feb 9 to Jun 8",
+            "professor": "Ricardo Ramirez",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "11108",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Ricardo Ramirez",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "11209",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Ricardo Ramirez",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "SUPV3",
+      "title": "Human Relations (Developing Supervisory Leadership)",
+      "modality": "online",
+      "term": "Oct 26 - Dec 20",
+      "units": "3.0",
+      "instructor": "Artina Mcintosh",
+      "section": "1551115",
+      "description": "Instruction will focus on those human relation skills the supervisory student needs to be well rounded and thoroughly prepared for a work environment characterized by economic volatility, constant change and a new level of competitiveness. This interpersonal skills approach places greater emphasis on the application of knowledge through practice, followed by feedback and reinforcement.",
+      "url": "https://search.cvc.edu/courses/1551115?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Oct 26",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1551115",
+        "cvcUrl": "https://search.cvc.edu/courses/1551115?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Artina Mcintosh"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "14070",
+            "dates": "Feb 9 to Apr 3",
+            "professor": "Artina Mcintosh",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "14949",
+            "dates": "Oct 26 to Dec 20",
+            "professor": "Artina Mcintosh",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "15532",
+            "dates": "Oct 27 to Dec 21",
+            "professor": "Artina Mcintosh",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "CAOT44",
+      "title": "Medical Billing and Coding I",
+      "modality": "online",
+      "term": "Aug 31 - Dec 20",
+      "units": "3.0",
+      "instructor": "Ayesha Randall",
+      "section": "1104027",
+      "description": "Students will learn the practice of coding diagnoses and procedures from case studies and sample reports. Students will research local coverage determinations, process general insurance billing claims, and learn the Medicare eligibility guidelines.",
+      "url": "https://search.cvc.edu/courses/1104027?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 31",
+        "endDate": "Dec 20",
+        "cvcCourseId": "1104027",
+        "cvcUrl": "https://search.cvc.edu/courses/1104027?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=61&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Synchronous"
+        ],
+        "professors": [
+          "Ayesha Randall"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "15588",
+            "dates": "Aug 31 to Dec 20",
+            "professor": "Ayesha Randall",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "16298",
+            "dates": "Sep 1 to Dec 21",
+            "professor": "Ayesha Randall",
+            "format": "Synchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
     }
   ]
 }

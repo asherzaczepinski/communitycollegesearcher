@@ -9,7 +9,7 @@
   "source": "homepage",
   "extractUrl": "https://selfservice.butte.edu/Student/Courses/SearchResult",
   "status": "live",
-  "lastStatus": "ok: 30 courses via browser (auto-learned)",
+  "lastStatus": "ok: 30 courses via browser",
   "reason": "Partial capture — only 30 course(s) scraped, not the full schedule.",
   "courses": [
     {
@@ -22,7 +22,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "AB-20",
@@ -34,7 +35,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "AB-20",
@@ -46,7 +48,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "AB-20",
@@ -58,7 +61,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "AB-20",
@@ -70,7 +74,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "AB-22",
@@ -82,7 +87,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "AB-22",
@@ -94,7 +100,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "AB-22",
@@ -106,7 +113,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "AB-25",
@@ -118,7 +126,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "AB-25",
@@ -130,7 +139,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "AB-26",
@@ -142,7 +152,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "AB-50",
@@ -154,7 +165,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "AB-54",
@@ -166,7 +178,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "ACCT-100",
@@ -178,7 +191,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "ACCT-100",
@@ -190,7 +204,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "ACCT-100",
@@ -202,7 +217,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "ACCT-105",
@@ -214,7 +230,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "ACCT-105",
@@ -226,7 +243,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "ACCT-110",
@@ -238,7 +256,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "ACCT-110",
@@ -250,7 +269,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "ACCT-110",
@@ -262,7 +282,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "ACCT-128",
@@ -274,19 +295,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
-    },
-    {
-      "code": "ACCT-128",
-      "title": "C3917",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "ACCT-20",
@@ -298,7 +308,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "ACCT-20",
@@ -310,7 +321,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "ACCT-20",
@@ -322,7 +334,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "ACCT-20",
@@ -334,7 +347,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "ACCT-20",
@@ -346,7 +360,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "ACCT-20",
@@ -358,7 +373,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     },
     {
       "code": "ACCT-20",
@@ -370,7 +386,21 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult"
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
+    },
+    {
+      "code": "ACCT-20",
+      "title": "N7745",
+      "modality": "in_person",
+      "modalityKnown": false,
+      "term": null,
+      "units": null,
+      "instructor": null,
+      "section": null,
+      "description": null,
+      "url": "https://selfservice.butte.edu/Student/Courses/SearchResult",
+      "source": "site"
     }
   ]
 }

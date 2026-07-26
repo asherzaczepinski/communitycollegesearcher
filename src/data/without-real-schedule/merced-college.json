@@ -3,50 +3,511 @@
   "name": "Merced College",
   "url": "https://www.mccd.edu/",
   "live": true,
-  "courseCount": 3,
+  "courseCount": 9,
   "modalityCoverage": 0.333,
   "method": "auto",
   "source": "Explore real homepage links (HTTP)",
   "extractUrl": "https://www.mccd.edu/schools-programs/discover-your-path/honors-program/",
   "status": "live",
-  "lastStatus": "ok: 3 courses via auto (solved)",
-  "reason": "Partial capture — only 3 course(s) scraped, not the full schedule.",
+  "lastStatus": "ok: 9 courses via cvc",
+  "reason": "Partial capture — only 9 course(s) scraped, not the full schedule.",
   "courses": [
     {
-      "code": "HNRS-40B",
-      "title": "21407: Honors Native American Philosophy (W, 1:00PM-3:05PM in IAC 146) Professor Andrew Winters",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://www.mccd.edu/schools-programs/discover-your-path/honors-program/"
-    },
-    {
-      "code": "HUM-01H",
-      "title": "21408: Honors Studies in Humanities: Ancient Through Renaissance (TTH, 9:20AM-10:45AM in B&E-125) Professor Andrew Winters",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://www.mccd.edu/schools-programs/discover-your-path/honors-program/"
-    },
-    {
-      "code": "HNRS-40B",
-      "title": "21407: Honors Native American Philosophy (online) Professor Andrew Winters",
+      "code": "ENGL1C",
+      "title": "Critical Thinking Across the Curriculum",
       "modality": "online",
-      "modalityKnown": true,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://www.mccd.edu/schools-programs/discover-your-path/honors-program/"
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Molly R. Wilson, Sean Epstein-Corbin",
+      "section": "14040579",
+      "description": "Begins Fall 2025 Develops critical thinking, reading, and writing skills as they apply to textual analysis of primary and secondary sources, essays, articles, and a book-length work from a range of academic and cultural contexts. Theme based. Emphasis on the techniques and principles of effective written argument in research-based writing across the disciplines. Prerequisite: Take ENGL-C1000 (formerly ENGL-01A);ýMinimum grade C,P;",
+      "url": "https://search.cvc.edu/courses/14040579?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "14040579",
+        "cvcUrl": "https://search.cvc.edu/courses/14040579?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Molly R. Wilson",
+          "Sean Epstein-Corbin"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "ENGL-01C-22038",
+            "dates": "Jan 12 to May 1",
+            "professor": "Molly R. Wilson",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-01C-22821",
+            "dates": "Jun 29 to Aug 6",
+            "professor": "Sean Epstein-Corbin",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-01C-22030",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Molly R. Wilson",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "PHIL3",
+      "title": "Ancient Philosophy",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Andrew M. Winters",
+      "section": "1832243",
+      "description": "Begins Fall 2025 This course presents an introduction to the history of philosophy from the Pre-Socratics to the Renaissance, with emphasis on the Pre-Socratics through Aristotle. Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+      "url": "https://search.cvc.edu/courses/1832243?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1832243",
+        "cvcUrl": "https://search.cvc.edu/courses/1832243?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Andrew M. Winters"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+        "sections": [
+          {
+            "crn": "PHIL-03-22300",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Andrew M. Winters",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "FREN4",
+      "title": "Intermediate French II",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "5.0",
+      "instructor": "Amal Rida",
+      "section": "1832156",
+      "description": "Begins Fall 2025 This course is thorough review of the fundamentals of reading, writing, speaking and understanding French, designed to aid the student in preparing for advanced studies in French composition, grammar, and conversation as well as literature and French, history and culture. Prerequisite: Previously taken FREN-03 ýand passed with a minimum grade of Cýor received an equivalent.ýPreviously taken LRNR-30 is advised.",
+      "url": "https://search.cvc.edu/courses/1832156?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 230,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1832156",
+        "cvcUrl": "https://search.cvc.edu/courses/1832156?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Amal Rida"
+        ],
+        "prerequisites": "Prerequisite: Previously taken FREN-03 ýand passed with a minimum grade of Cýor received an equivalent.",
+        "sections": [
+          {
+            "crn": "FREN-04-22208",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Amal Rida",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "FIRE34",
+      "title": "Building Construction for Fire Protection",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Tony",
+      "section": "1264568",
+      "description": "Begins Fall 2025 This course examines the principles of building construction as they relate to fire protection and firefighter safety. Students will study construction methods, materials, and structural design features, with emphasis on how buildings respond under fire conditions. Topics include the five types of construction, fire resistance, occupancy classifications, structural collapse hazards, and the relationship between building design and fire behavior. Students will also analyze historic fires and case studies to understand the impact of construction on fire spread, suppression strategies, and firefighter survival. Fire 34 is a required course in the Merced College Fire Technology Program and provides students with the knowledge needed to evaluate building hazards, support fire prevention, and operate safely in fire suppression and rescue operations.",
+      "url": "https://search.cvc.edu/courses/1264568?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=information+technology&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1264568",
+        "cvcUrl": "https://search.cvc.edu/courses/1264568?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=information+technology&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Tony"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "FIRE-34-42312",
+            "dates": "Jan 12 to May 1",
+            "professor": "Tony",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "FIRE-34-42478",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Tony",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "FREN2",
+      "title": "Elementary French II",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "5.0",
+      "instructor": "Amal Rida",
+      "section": "1832153",
+      "description": "Begins Fall 2025 FREN-02 is the continuation of FREN-01. This course will focus on the further development of listening, speaking, reading, and writing in cultural context, with primary emphasis on communicative competency. Students will learn how to express in French basic functions of everyday life. This course is not recommended for native speakers. Prerequisite: Take FREN-01 ý---OR---ýTwo years of high school French.",
+      "url": "https://search.cvc.edu/courses/1832153?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=french&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": false,
+        "csuBreadth": true,
+        "tuition": 230,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1832153",
+        "cvcUrl": "https://search.cvc.edu/courses/1832153?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=french&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Amal Rida"
+        ],
+        "prerequisites": "Prerequisite: Take FREN-01 ý---OR---ýTwo years of high school French.",
+        "sections": [
+          {
+            "crn": "FREN-02-22207",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Amal Rida",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "FREN1",
+      "title": "Elementary French I",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "5.0",
+      "instructor": "Cho Ly, Amal Rida",
+      "section": "1832146",
+      "description": "Begins Fall 2025 This is a beginner's course. The course will focus on the development of listening, speaking, reading, and writing in a cultural context, with primary emphasis on communicative competency. Students will learn how to express in French the most basic functions of everyday life. This course is not recommended for native speakers.",
+      "url": "https://search.cvc.edu/courses/1832146?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=french&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": false,
+        "csuBreadth": true,
+        "tuition": 230,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1832146",
+        "cvcUrl": "https://search.cvc.edu/courses/1832146?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=french&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": {
+          "csu": [
+            "C2 Humanities"
+          ],
+          "igetc": [],
+          "calGetc": []
+        },
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Cho Ly",
+          "Amal Rida"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "FREN-01-22206",
+            "dates": "Jan 12 to May 1",
+            "professor": "Cho Ly",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "FREN-01-22208",
+            "dates": "Jan 12 to May 1",
+            "professor": "Amal Rida",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "FREN-01-22220",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Amal Rida",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "FREN-01-22206",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Amal Rida",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "FREN-01-22204",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Cho Ly",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "FREN-01-22204",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Cho Ly",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 6
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "CRIM30",
+      "title": "Juvenile Procedures",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Brandon C. Soto",
+      "section": "1264935",
+      "description": "Begins Fall 2025 This course is an examination of the origin, development, and organization of the Juvenile Justice System as it evolved in the American Justice System. The course explores the theories that focus on Juvenile Law, courts and processes, and the constitutional protections extended to juveniles administered in the American Justice System. Prerequisite: Previously taken CRIM-01 CRIM-02 or CRIM-11ýand passed with a minimum grade of Cýor received an equivalent",
+      "url": "https://search.cvc.edu/courses/1264935?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1264935",
+        "cvcUrl": "https://search.cvc.edu/courses/1264935?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Brandon C. Soto"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "CRIM-30-42484",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Brandon C. Soto",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "CRIM-30-42484",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Brandon C. Soto",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "GERN2",
+      "title": "Elementary German II",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "4.0",
+      "instructor": "Kathryn S. Weingand",
+      "section": "1832158",
+      "description": "Begins Fall 2026 GERN-02 is the continuation of GERN-01. This course will focus on the further development of listening, speaking, reading, and writing in a cultural context, with primary emphasis on communicative competency. Students will learn how to express in German basic functions of everyday life. Prerequisite: Previously taken GERN-01 or two years of high school Germanýand passed with a minimum grade of C or received anýequivalent.",
+      "url": "https://search.cvc.edu/courses/1832158?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 184,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1832158",
+        "cvcUrl": "https://search.cvc.edu/courses/1832158?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Kathryn S. Weingand"
+        ],
+        "prerequisites": "Prerequisite: Previously taken GERN-01 or two years of high school Germanýand passed with a minimum grade of C or received anýequivalent.",
+        "sections": [
+          {
+            "crn": "GERN-02-22203",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Kathryn S. Weingand",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "HMNG1",
+      "title": "Elementary Hmong I",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "5.0",
+      "instructor": "Cho Ly",
+      "section": "1832189",
+      "description": "Begins Fall 2025 This course is a beginner's course. It focuses on the study of the fundamentals of pronunciation, audio-lingual training, and phonology; syllabication; appreciation of basic elements of the Hmong culture, with primary emphasis on communicative competency. Students will learn how to express in Hmong the most basic functions of everyday life.",
+      "url": "https://search.cvc.edu/courses/1832189?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": false,
+        "csuBreadth": true,
+        "tuition": 230,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1832189",
+        "cvcUrl": "https://search.cvc.edu/courses/1832189?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Cho Ly"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "HMNG-01-22207",
+            "dates": "Jan 12 to May 1",
+            "professor": "Cho Ly",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "HMNG-01-22205",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Cho Ly",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "HMNG-01-22205",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Cho Ly",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
     }
   ]
 }

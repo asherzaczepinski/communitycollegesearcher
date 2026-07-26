@@ -3,13 +3,13 @@
   "name": "College of the Siskiyous",
   "url": "https://www.siskiyous.edu/",
   "live": true,
-  "courseCount": 235,
+  "courseCount": 254,
   "modalityCoverage": 0,
   "method": "college",
   "source": null,
   "extractUrl": null,
   "status": "live",
-  "lastStatus": "ok: 235 courses via college",
+  "lastStatus": "ok: 254 courses via college (+3 CVC online)",
   "courses": [
     {
       "code": "ADJ 1001",
@@ -20,7 +20,8 @@
       "instructor": "Moore, Leigh",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJ 1001",
@@ -31,7 +32,8 @@
       "instructor": "Moore, Leigh",
       "section": "02",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJ 1503",
@@ -42,7 +44,8 @@
       "instructor": "Moore, Leigh",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJ 2002",
@@ -53,7 +56,8 @@
       "instructor": "Moore, Leigh",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJ 2517",
@@ -64,7 +68,8 @@
       "instructor": "Boutin, Raymond",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJ 2528",
@@ -75,7 +80,8 @@
       "instructor": "Moore, Leigh",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJ 9079",
@@ -86,7 +92,8 @@
       "instructor": "Boutin, Raymond",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJ 9079",
@@ -97,7 +104,8 @@
       "instructor": "Boutin, Raymond",
       "section": "02",
       "description": "Lecture and/or discussion · Yreka",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJ 9079",
@@ -108,7 +116,8 @@
       "instructor": "Boutin, Raymond",
       "section": "03",
       "description": "Lecture and/or discussion · Yreka",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJ 9079",
@@ -119,7 +128,8 @@
       "instructor": "Boutin, Raymond",
       "section": "04",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJ 9079",
@@ -130,7 +140,8 @@
       "instructor": "Boutin, Raymond",
       "section": "05",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADHS 1010",
@@ -141,7 +152,8 @@
       "instructor": "INSTRUCTION-, TBA",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADHS 1517",
@@ -152,7 +164,8 @@
       "instructor": "INSTRUCTION-, TBA",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADHS 2018",
@@ -163,7 +176,8 @@
       "instructor": "INSTRUCTION-, TBA",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ASL 1020",
@@ -174,7 +188,8 @@
       "instructor": "Estes, John",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ART 1004",
@@ -185,7 +200,8 @@
       "instructor": "Clother, Christopher",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ART 1006",
@@ -196,7 +212,8 @@
       "instructor": "Thomas, Amanda",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ART 1006",
@@ -207,7 +224,8 @@
       "instructor": "Thomas, Amanda",
       "section": "02",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ART 1006",
@@ -218,7 +236,8 @@
       "instructor": "Crockett, Alan",
       "section": "03",
       "description": "Lecture and/or discussion · Happy Camp",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ART 1009",
@@ -229,7 +248,8 @@
       "instructor": "Clother, Christopher",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ART 1011",
@@ -240,7 +260,8 @@
       "instructor": "Thomas, Amanda",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ART 1032",
@@ -251,7 +272,8 @@
       "instructor": "Crockett, Alan",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ART 1041",
@@ -262,7 +284,8 @@
       "instructor": "Clother, Christopher",
       "section": "01",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ART 1504",
@@ -273,7 +296,8 @@
       "instructor": "Clother, Christopher",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ART 1506",
@@ -284,7 +308,8 @@
       "instructor": "Thomas, Amanda",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ART 1506",
@@ -295,7 +320,8 @@
       "instructor": "Thomas, Amanda",
       "section": "02",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ART 1506",
@@ -306,7 +332,8 @@
       "instructor": "Crockett, Alan",
       "section": "03",
       "description": "Lecture and/or discussion · Happy Camp",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ART 1509",
@@ -317,7 +344,8 @@
       "instructor": "Clother, Christopher",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ART 1511",
@@ -328,7 +356,8 @@
       "instructor": "Thomas, Amanda",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ART 2929",
@@ -339,7 +368,8 @@
       "instructor": "Thomas, Amanda",
       "section": "01",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ART 2929",
@@ -350,7 +380,8 @@
       "instructor": "Thomas, Amanda",
       "section": "02",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ARTH C1100",
@@ -361,7 +392,8 @@
       "instructor": "Clother, Christopher",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ARTH C1100",
@@ -372,7 +404,8 @@
       "instructor": "Privratsky, Ada",
       "section": "02",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ARTH C1100",
@@ -383,7 +416,8 @@
       "instructor": "Privratsky, Ada",
       "section": "03",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIO 1000",
@@ -394,7 +428,8 @@
       "instructor": "Womack, Ann",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIO 1000",
@@ -405,7 +440,8 @@
       "instructor": "Bray, Jennifer",
       "section": "02",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIO 1400",
@@ -416,7 +452,8 @@
       "instructor": "Wheat, Nancy",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIO 1500",
@@ -427,7 +464,8 @@
       "instructor": "Womack, Ann",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIO 2100",
@@ -438,7 +476,8 @@
       "instructor": "Varty, Alison",
       "section": "01",
       "description": "Hybrid · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIO 2600",
@@ -449,7 +488,8 @@
       "instructor": "Womack, Ann",
       "section": "01",
       "description": "Hybrid · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIO 2700",
@@ -460,7 +500,8 @@
       "instructor": "Criswell, Bryan",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIO 2700",
@@ -471,7 +512,8 @@
       "instructor": "Dewey, Shannamar",
       "section": "02",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIO 2700",
@@ -482,7 +524,8 @@
       "instructor": "Dewey, Shannamar",
       "section": "03",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIO 2800",
@@ -493,7 +536,8 @@
       "instructor": "Womack, Ann",
       "section": "01",
       "description": "Hybrid · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BA 0920",
@@ -504,7 +548,8 @@
       "instructor": "Bowman, Sean",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BA 1006",
@@ -515,7 +560,8 @@
       "instructor": "Bellamy, Sherice",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BA 1011",
@@ -526,7 +572,8 @@
       "instructor": "Bellamy, Sherice",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BA 1016",
@@ -537,7 +584,8 @@
       "instructor": "Bellamy, Sherice",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BA 1018",
@@ -548,7 +596,8 @@
       "instructor": "Bellamy, Sherice",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BA 1501",
@@ -559,7 +608,8 @@
       "instructor": "Bowman, Sean",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CHEM 1000",
@@ -570,7 +620,8 @@
       "instructor": "Heath, Jenny",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CHEM 2000",
@@ -581,7 +632,8 @@
       "instructor": "Heath, Jenny",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMS 1200",
@@ -592,7 +644,8 @@
       "instructor": "Gaddini, Michelle",
       "section": "02",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMS 1500",
@@ -603,7 +656,8 @@
       "instructor": "Gaddini, Michelle",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMS 1700",
@@ -614,7 +668,8 @@
       "instructor": "Turk, Jayne",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMS 2100",
@@ -625,7 +680,8 @@
       "instructor": "Turk, Jayne",
       "section": "01",
       "description": "Dist. Ed Internet Simultaneous · Zoom",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM C1000",
@@ -636,7 +692,8 @@
       "instructor": "Gaddini, Michelle",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM C1000",
@@ -647,7 +704,8 @@
       "instructor": "Gaddini, Michelle",
       "section": "02",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM C1000",
@@ -658,7 +716,8 @@
       "instructor": "Turk, Jayne",
       "section": "03",
       "description": "Dist. Ed Internet Simultaneous · Zoom",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM C1000",
@@ -669,7 +728,8 @@
       "instructor": "Gaddini, Michelle",
       "section": "04",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM C1004",
@@ -680,7 +740,8 @@
       "instructor": "Cooper Turner, Theresa",
       "section": "02",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM C1004",
@@ -691,7 +752,8 @@
       "instructor": "Cooper Turner, Theresa",
       "section": "03",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CSCI 1001",
@@ -702,7 +764,8 @@
       "instructor": "George, Christopher",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CSCI 1007",
@@ -713,7 +776,8 @@
       "instructor": "Cecil, Jesse",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CSCI 1038",
@@ -724,7 +788,8 @@
       "instructor": "Cecil, Jesse",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CSCI 2006",
@@ -735,7 +800,8 @@
       "instructor": "Cecil, Jesse",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CSCI 2010",
@@ -746,7 +812,8 @@
       "instructor": "Cecil, Jesse",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ECE 1001",
@@ -757,7 +824,8 @@
       "instructor": "Schnack, Meranda",
       "section": "01",
       "description": "Dist. Ed Internet Simultaneous · Zoom",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ECE 1002",
@@ -768,7 +836,8 @@
       "instructor": "Schnack, Meranda",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ECE 1003",
@@ -779,7 +848,8 @@
       "instructor": "Wheeler, Carolyn",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ECE 1999",
@@ -787,10 +857,11 @@
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
-      "instructor": "INSTRUCTION-, TBA",
+      "instructor": "Mero, Anne",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ECE 2000",
@@ -801,7 +872,8 @@
       "instructor": "Schnack, Meranda",
       "section": "01",
       "description": "Dist. Ed Internet Simultaneous · Zoom",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ECE 2002",
@@ -809,10 +881,11 @@
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
-      "instructor": "INSTRUCTION-, TBA",
+      "instructor": "Quintero, Monica",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESCI 0800",
@@ -823,7 +896,8 @@
       "instructor": "Hirt, William",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESCI 0820",
@@ -834,7 +908,20 @@
       "instructor": "Hirt, William",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "ESCI 1140",
+      "title": "Oceanography",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "3",
+      "instructor": "INSTRUCTION-, TBA",
+      "section": "01",
+      "description": "Dist. Ed Internet Delayed · Internet",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ECON C2001",
@@ -845,7 +932,8 @@
       "instructor": "Bellamy, Sherice",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "EDUC 0894",
@@ -856,7 +944,8 @@
       "instructor": "Zeller, Carly",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "EMS 0950",
@@ -867,7 +956,8 @@
       "instructor": "Duffle, Constance",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "EMS 1001",
@@ -878,7 +968,8 @@
       "instructor": "Witherell, Brian",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "EMS 1001",
@@ -889,7 +980,8 @@
       "instructor": "Stacher, Amy",
       "section": "02",
       "description": "Lecture and/or discussion · Yreka",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "EMS 1952",
@@ -900,7 +992,8 @@
       "instructor": "Duffle, Constance",
       "section": "01",
       "description": "Laboratory/Studio/Activity · Other Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "EMS 1954",
@@ -911,7 +1004,8 @@
       "instructor": "Gowan, Theresa",
       "section": "01",
       "description": "Lecture and/or discussion · Mendicino",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "EMS 1954A",
@@ -922,7 +1016,8 @@
       "instructor": "Duffle, Constance",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "EMS 2957",
@@ -933,7 +1028,8 @@
       "instructor": "Duffle, Constance",
       "section": "01",
       "description": "Field Experience · Other Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "EMS 2957",
@@ -944,7 +1040,8 @@
       "instructor": "Gowan, Theresa",
       "section": "02",
       "description": "Field Experience · Other Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "EMS 9060",
@@ -955,7 +1052,8 @@
       "instructor": "Witherell, Brian",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "EMS 9060",
@@ -966,7 +1064,8 @@
       "instructor": "Stacher, Amy",
       "section": "02",
       "description": "Lecture and/or discussion · Yreka",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 0999",
@@ -977,7 +1076,8 @@
       "instructor": "Carlyle, Elizabeth",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1019",
@@ -988,7 +1088,8 @@
       "instructor": "Steger, Sarah",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 2043",
@@ -999,7 +1100,8 @@
       "instructor": "Scott, Caroline",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL C1000",
@@ -1010,7 +1112,8 @@
       "instructor": "Carlyle, Elizabeth",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL C1000",
@@ -1021,7 +1124,8 @@
       "instructor": "Scott, Caroline",
       "section": "02",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL C1000",
@@ -1032,7 +1136,8 @@
       "instructor": "Scott, Caroline",
       "section": "03",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL C1000",
@@ -1043,7 +1148,8 @@
       "instructor": "Steger, Sarah",
       "section": "04",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL C1000",
@@ -1054,7 +1160,8 @@
       "instructor": "Tischler, Michael",
       "section": "05",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL C1000",
@@ -1065,7 +1172,8 @@
       "instructor": "Carlyle, Elizabeth",
       "section": "06",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL C1000",
@@ -1076,7 +1184,8 @@
       "instructor": "Steger, Sarah",
       "section": "07",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL C1000",
@@ -1087,7 +1196,8 @@
       "instructor": "Huynh, Rose",
       "section": "08",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL C1000",
@@ -1098,7 +1208,8 @@
       "instructor": "Huynh, Rose",
       "section": "09",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL C1000",
@@ -1109,7 +1220,8 @@
       "instructor": "Arias, Daniel",
       "section": "10",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL C1000",
@@ -1120,7 +1232,8 @@
       "instructor": "Gomes, Jennifer",
       "section": "11",
       "description": "Lecture and/or discussion · Etna",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL C1001",
@@ -1131,7 +1244,8 @@
       "instructor": "Steger, Sarah",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL C1001",
@@ -1142,7 +1256,8 @@
       "instructor": "Scott, Caroline",
       "section": "02",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL C1001",
@@ -1153,7 +1268,20 @@
       "instructor": "Steger, Sarah",
       "section": "03",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "ENGL C1001",
+      "title": "Critical Thinking and Writing",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "3",
+      "instructor": "Scott, Caroline",
+      "section": "04",
+      "description": "Dist. Ed Internet Delayed · Internet",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 0561",
@@ -1164,7 +1292,56 @@
       "instructor": "Pastore-Nikitenko, Angela",
       "section": "01",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "ESL 0561",
+      "title": "ESL Level I",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Reveles, Miriam",
+      "section": "02",
+      "description": "Dist. Ed Internet Delayed · Internet",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "ESL 0561",
+      "title": "ESL Level I",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Reveles, Miriam",
+      "section": "03",
+      "description": "Dist. Ed Internet Delayed · Internet",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "ESL 0561",
+      "title": "ESL Level I",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Garcia, Gabriela",
+      "section": "04",
+      "description": "Dist. Ed Internet Delayed · Internet",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "ESL 0561",
+      "title": "ESL Level I",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Garcia, Gabriela",
+      "section": "05",
+      "description": "Dist. Ed Internet Delayed · Internet",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 0562",
@@ -1175,7 +1352,56 @@
       "instructor": "Pastore-Nikitenko, Angela",
       "section": "01",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "ESL 0562",
+      "title": "ESL Level 2",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Reveles, Miriam",
+      "section": "02",
+      "description": "Dist. Ed Internet Delayed · Internet",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "ESL 0562",
+      "title": "ESL Level 2",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Reveles, Miriam",
+      "section": "03",
+      "description": "Dist. Ed Internet Delayed · Internet",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "ESL 0562",
+      "title": "ESL Level 2",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Garcia, Gabriela",
+      "section": "04",
+      "description": "Dist. Ed Internet Delayed · Internet",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "ESL 0562",
+      "title": "ESL Level 2",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Garcia, Gabriela",
+      "section": "05",
+      "description": "Dist. Ed Internet Delayed · Internet",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 0563",
@@ -1186,7 +1412,56 @@
       "instructor": "Pastore-Nikitenko, Angela",
       "section": "01",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "ESL 0563",
+      "title": "ESL Level 3",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Reveles, Miriam",
+      "section": "02",
+      "description": "Dist. Ed Internet Delayed · Internet",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "ESL 0563",
+      "title": "ESL Level 3",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Reveles, Miriam",
+      "section": "03",
+      "description": "Dist. Ed Internet Delayed · Internet",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "ESL 0563",
+      "title": "ESL Level 3",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Garcia, Gabriela",
+      "section": "04",
+      "description": "Dist. Ed Internet Delayed · Internet",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "ESL 0563",
+      "title": "ESL Level 3",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Garcia, Gabriela",
+      "section": "05",
+      "description": "Dist. Ed Internet Delayed · Internet",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENVS 1002",
@@ -1197,7 +1472,8 @@
       "instructor": "Varty, Alison",
       "section": "01",
       "description": "Hybrid · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ETHN 1001",
@@ -1208,7 +1484,8 @@
       "instructor": "Seals, Bobby",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ETHN 1001",
@@ -1219,7 +1496,8 @@
       "instructor": "Tanaka, Takahito",
       "section": "02",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ETHN 1001",
@@ -1230,7 +1508,8 @@
       "instructor": "Tanaka, Takahito",
       "section": "03",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ETHN 1004",
@@ -1241,7 +1520,8 @@
       "instructor": "Seals, Bobby",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "FIRE 0950",
@@ -1252,7 +1532,8 @@
       "instructor": "Delcour, Chris",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "FIRE 1001",
@@ -1263,7 +1544,8 @@
       "instructor": "Roberts, Jesse",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "FIRE 1004",
@@ -1274,7 +1556,8 @@
       "instructor": "Roberts, Jesse",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "FIRE 1005",
@@ -1285,7 +1568,8 @@
       "instructor": "Roberts, Jesse",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "FIRE 1006",
@@ -1296,18 +1580,8 @@
       "instructor": "Roberts, Jesse",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
-    },
-    {
-      "code": "FIRE 9189",
-      "title": "Fire Department Practical Training - Weed",
-      "modality": "in_person",
-      "term": "Fall 2026",
-      "units": "1",
-      "instructor": "Carter, Brian",
-      "section": "01",
-      "description": "Laboratory/Studio/Activity · Weed Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "FIRE 9189",
@@ -1318,7 +1592,8 @@
       "instructor": "Pappas, Steven",
       "section": "02",
       "description": "Laboratory/Studio/Activity · Other Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "FIRE 9189",
@@ -1329,7 +1604,8 @@
       "instructor": "Paul, Bernie",
       "section": "03",
       "description": "Laboratory/Studio/Activity · Yreka Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "GEOG 1110",
@@ -1340,7 +1616,8 @@
       "instructor": "Hansen, Cassandra",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "GUID 1005",
@@ -1351,7 +1628,8 @@
       "instructor": "Ramming, Tanja",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "GUID 1005",
@@ -1362,7 +1640,8 @@
       "instructor": "Greene, Sunny",
       "section": "02",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HEA 1010",
@@ -1373,7 +1652,8 @@
       "instructor": "Collier, Noelle",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HEA 1010",
@@ -1384,7 +1664,8 @@
       "instructor": "Frisbie, Tim",
       "section": "02",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HEA 1010",
@@ -1395,7 +1676,8 @@
       "instructor": "Frisbie, Tim",
       "section": "03",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HIST 1004",
@@ -1406,7 +1688,8 @@
       "instructor": "Bush, David",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HIST 1023",
@@ -1417,7 +1700,8 @@
       "instructor": "Vancil, Chris",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HIST C1001",
@@ -1428,7 +1712,8 @@
       "instructor": "Bush, David",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HIST C1002",
@@ -1439,7 +1724,8 @@
       "instructor": "Vancil, Chris",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HIST C1002",
@@ -1450,7 +1736,8 @@
       "instructor": "Vancil, Chris",
       "section": "02",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HIST C1002",
@@ -1461,7 +1748,8 @@
       "instructor": "Dean, Jacob",
       "section": "03",
       "description": "Lecture and/or discussion · Weed Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HUM 1001",
@@ -1472,7 +1760,8 @@
       "instructor": "Harden, Marc",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HUM 1001",
@@ -1483,7 +1772,8 @@
       "instructor": "Harden, Marc",
       "section": "02",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HUM 1001",
@@ -1494,7 +1784,8 @@
       "instructor": "Tischler, Michael",
       "section": "03",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HUM 1005",
@@ -1505,7 +1796,8 @@
       "instructor": "Vancil, Chris",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINE 1000",
@@ -1516,7 +1808,8 @@
       "instructor": "Heath, Kyle",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINE 1004",
@@ -1527,7 +1820,8 @@
       "instructor": "Cadola, Tevin",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINE 1005",
@@ -1538,7 +1832,8 @@
       "instructor": "Knudsen, Tyler",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINE 1011",
@@ -1549,7 +1844,8 @@
       "instructor": "Frisbie, Tim",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINE 1011",
@@ -1560,7 +1856,8 @@
       "instructor": "Frisbie, Tim",
       "section": "02",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINE 1011",
@@ -1571,7 +1868,8 @@
       "instructor": "Frisbie, Tim",
       "section": "03",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINE 1030",
@@ -1582,7 +1880,8 @@
       "instructor": "Frisbie, Tim",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINE 1035",
@@ -1593,7 +1892,8 @@
       "instructor": "Myers, Zachary",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 1100",
@@ -1604,7 +1904,8 @@
       "instructor": "Louie, Shirley",
       "section": "01",
       "description": "Hybrid · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 1100",
@@ -1615,18 +1916,8 @@
       "instructor": "Scott, Laura",
       "section": "02",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
-    },
-    {
-      "code": "MATH 1400",
-      "title": "Calculus and Analytic Geometry I",
-      "modality": "hybrid",
-      "term": "Fall 2026",
-      "units": "4",
-      "instructor": "Healey, Jennifer",
-      "section": "01",
-      "description": "Hybrid · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 1400",
@@ -1637,7 +1928,8 @@
       "instructor": "Chang, Wenli",
       "section": "02",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 2400",
@@ -1648,7 +1940,8 @@
       "instructor": "Scott, Robert",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUS 0506",
@@ -1659,7 +1952,8 @@
       "instructor": "Harle, Monica",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUS 0511",
@@ -1670,7 +1964,8 @@
       "instructor": "Seiler, Eric",
       "section": "01",
       "description": "Lecture and/or discussion · Yreka Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUS 0588",
@@ -1681,7 +1976,8 @@
       "instructor": "Harle, Monica",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUS 1035",
@@ -1692,7 +1988,8 @@
       "instructor": "Harle, Monica",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUS 1105",
@@ -1703,7 +2000,8 @@
       "instructor": "Harle, Monica",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUS 1111",
@@ -1714,7 +2012,8 @@
       "instructor": "Seiler, Eric",
       "section": "01",
       "description": "Lecture and/or discussion · Yreka Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUS 1131",
@@ -1725,7 +2024,8 @@
       "instructor": "Eastridge, Jessica",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUS 1234",
@@ -1736,7 +2036,8 @@
       "instructor": "Eastridge, Jessica",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUS 1508",
@@ -1747,7 +2048,8 @@
       "instructor": "Harle, Monica",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUS 1535",
@@ -1758,7 +2060,8 @@
       "instructor": "Harle, Monica",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUS 2035",
@@ -1769,7 +2072,8 @@
       "instructor": "Harle, Monica",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "NURS 0853",
@@ -1780,7 +2084,8 @@
       "instructor": "Healy, Scott",
       "section": "01",
       "description": "Laboratory/Studio/Activity · Yreka",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "NURS 0953",
@@ -1791,7 +2096,20 @@
       "instructor": "Friedman, Bliss",
       "section": "01",
       "description": "Lecture and/or discussion · Yreka",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "NURS 0962",
+      "title": "Certified Nurse Assistant",
+      "modality": "in_person",
+      "term": "Fall 2026",
+      "units": "6",
+      "instructor": "Nelson, Brittany",
+      "section": "01",
+      "description": "Lecture and/or discussion · Yreka",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "NURS 1031",
@@ -1802,7 +2120,8 @@
       "instructor": "Jacobson, Dawn",
       "section": "01",
       "description": "Lecture and/or discussion · Yreka",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "NURS 1032",
@@ -1813,7 +2132,8 @@
       "instructor": "Akana, Robyn",
       "section": "01",
       "description": "Lecture and/or discussion · Yreka",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "NURS 1045",
@@ -1824,7 +2144,20 @@
       "instructor": "Harmse, Jessica",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "NURS 1045",
+      "title": "Medical Terminology",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "3",
+      "instructor": "Harmse, Jessica",
+      "section": "02",
+      "description": "Dist. Ed Internet Delayed · Internet",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PHIL 1001",
@@ -1835,7 +2168,8 @@
       "instructor": "Chatman, Timothy",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PHIL 1003",
@@ -1846,7 +2180,8 @@
       "instructor": "Chatman, Timothy",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PEFI 0519",
@@ -1857,7 +2192,8 @@
       "instructor": "Collier, Noelle",
       "section": "01",
       "description": "Laboratory/Studio/Activity · Yreka Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PEFI 0519",
@@ -1868,7 +2204,8 @@
       "instructor": "Powers, Thomas",
       "section": "02",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PEFI 0519",
@@ -1879,7 +2216,8 @@
       "instructor": "Johnson, Kristine",
       "section": "03",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PEFI 0519",
@@ -1890,7 +2228,8 @@
       "instructor": "Heath, Kyle",
       "section": "04",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PEFI 0519",
@@ -1901,7 +2240,8 @@
       "instructor": "Collier, Noelle",
       "section": "05",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PEFI 0519",
@@ -1912,7 +2252,8 @@
       "instructor": "Cadola, Lyndi",
       "section": "06",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PEFI 0519",
@@ -1923,7 +2264,8 @@
       "instructor": "Cadola, Tevin",
       "section": "07",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PEFI 0519",
@@ -1934,18 +2276,8 @@
       "instructor": "INSTRUCTION-, TBA",
       "section": "08",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
-    },
-    {
-      "code": "PEFI 0519",
-      "title": "Lifelong Fitness (STC - Women&#39;s Soccer)",
-      "modality": "in_person",
-      "term": "Fall 2026",
-      "units": "0",
-      "instructor": "Kephart, Edward",
-      "section": "09",
-      "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PEFI 0519",
@@ -1956,7 +2288,8 @@
       "instructor": "Kephart, Edward",
       "section": "10",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PEFI 0519",
@@ -1967,7 +2300,32 @@
       "instructor": "Groppi, Adam",
       "section": "11",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "PEFI 0525",
+      "title": "Mat Pilates",
+      "modality": "in_person",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Coots, Veronica",
+      "section": "01",
+      "description": "Laboratory/Studio/Activity · Weed",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "PEFI 0525",
+      "title": "Mat Pilates",
+      "modality": "in_person",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Coots, Veronica",
+      "section": "02",
+      "description": "Laboratory/Studio/Activity · Weed",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PEMA 1006",
@@ -1978,7 +2336,8 @@
       "instructor": "Heath, Kyle",
       "section": "01",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PEMA 1008",
@@ -1989,7 +2348,8 @@
       "instructor": "Groppi, Adam",
       "section": "01",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PEMA 1014",
@@ -2000,7 +2360,8 @@
       "instructor": "Collier, Noelle",
       "section": "01",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PEMA 1015",
@@ -2011,18 +2372,8 @@
       "instructor": "Cadola, Lyndi",
       "section": "01",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
-    },
-    {
-      "code": "PEMA 1017",
-      "title": "Women&#39;s Varsity Soccer",
-      "modality": "in_person",
-      "term": "Fall 2026",
-      "units": "3",
-      "instructor": "Kephart, Edward",
-      "section": "01",
-      "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PEMA 1018",
@@ -2033,7 +2384,8 @@
       "instructor": "Kephart, Edward",
       "section": "01",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PEMA 1107",
@@ -2044,7 +2396,8 @@
       "instructor": "Cadola, Tevin",
       "section": "01",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PEMA 1116",
@@ -2055,7 +2408,8 @@
       "instructor": "Cox, Jon",
       "section": "01",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PHYS 1010",
@@ -2066,7 +2420,8 @@
       "instructor": "Wilton, Amy",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PHYS 1105",
@@ -2077,7 +2432,8 @@
       "instructor": "Wilton, Amy",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PHYS 2115",
@@ -2088,7 +2444,8 @@
       "instructor": "Wilton, Amy",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "POLS C1000",
@@ -2099,7 +2456,8 @@
       "instructor": "Vancil, Chris",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "POLS C1000",
@@ -2110,7 +2468,8 @@
       "instructor": "Peterson, Brian",
       "section": "02",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSY 1003",
@@ -2121,7 +2480,8 @@
       "instructor": "Aguilera, Peter",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC C1000",
@@ -2129,10 +2489,11 @@
       "modality": "in_person",
       "term": "Fall 2026",
       "units": "3",
-      "instructor": "Healey, Jennifer",
+      "instructor": "INSTRUCTION-, TBA",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC C1000",
@@ -2140,10 +2501,11 @@
       "modality": "in_person",
       "term": "Fall 2026",
       "units": "3",
-      "instructor": "Healey, Jennifer",
+      "instructor": "INSTRUCTION-, TBA",
       "section": "02",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC C1000",
@@ -2154,7 +2516,8 @@
       "instructor": "Aguilera, Peter",
       "section": "03",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC C1000",
@@ -2165,7 +2528,8 @@
       "instructor": "Aguilera, Peter",
       "section": "04",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "SOC 1001",
@@ -2176,7 +2540,8 @@
       "instructor": "Aguilera, Peter",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "SOC 1002",
@@ -2187,7 +2552,8 @@
       "instructor": "Aguilera, Peter",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "SPAN 1010",
@@ -2198,7 +2564,8 @@
       "instructor": "Adams, Bryson",
       "section": "01",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "STAT C1000",
@@ -2209,7 +2576,8 @@
       "instructor": "Louie, Shirley",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "STAT C1000",
@@ -2217,10 +2585,11 @@
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "4",
-      "instructor": "Healey, Jennifer",
+      "instructor": "Louie, Shirley",
       "section": "02",
       "description": "Hybrid · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "STAT C1000",
@@ -2231,7 +2600,8 @@
       "instructor": "Chang, Wenli",
       "section": "03",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "STAT C1000",
@@ -2242,7 +2612,8 @@
       "instructor": "Chang, Wenli",
       "section": "04",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "STAT C1000",
@@ -2253,7 +2624,20 @@
       "instructor": "Louie, Shirley",
       "section": "05",
       "description": "Dist. Ed Internet Delayed · Internet",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "STAT C1000",
+      "title": "Introduction to Statistics",
+      "modality": "in_person",
+      "term": "Fall 2026",
+      "units": "4",
+      "instructor": "Holderfield, Deidre",
+      "section": "06",
+      "description": "Lecture and/or discussion · Yreka Off",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "THEA 0531",
@@ -2264,7 +2648,8 @@
       "instructor": "Nile, Kimberly",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "THEA 0531",
@@ -2275,7 +2660,8 @@
       "instructor": "Nile, Kimberly",
       "section": "02",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "THEA 0531",
@@ -2286,7 +2672,8 @@
       "instructor": "Young, Kathryn",
       "section": "03",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "THEA 0531",
@@ -2297,7 +2684,8 @@
       "instructor": "Nile, Kimberly",
       "section": "04",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "THEA 1001",
@@ -2308,7 +2696,8 @@
       "instructor": "Nile, Kimberly",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "THEA 1001",
@@ -2319,7 +2708,8 @@
       "instructor": "Young, Kathryn",
       "section": "02",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "THEA 1100",
@@ -2330,7 +2720,8 @@
       "instructor": "Nile, Kimberly",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "THEA 1150",
@@ -2341,7 +2732,8 @@
       "instructor": "Carpentier-Alting, Neil",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "THEA 1200",
@@ -2352,7 +2744,8 @@
       "instructor": "Nile, Kimberly",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "THEA 1501",
@@ -2363,7 +2756,8 @@
       "instructor": "Carpentier-Alting, Neil",
       "section": "01",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "THEA 1501",
@@ -2374,7 +2768,8 @@
       "instructor": "Carpentier-Alting, Neil",
       "section": "02",
       "description": "Laboratory/Studio/Activity · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "THEA 2000",
@@ -2385,7 +2780,8 @@
       "instructor": "Carpentier-Alting, Neil",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 0957",
@@ -2396,7 +2792,8 @@
       "instructor": "Wallace, Thad",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 1101",
@@ -2407,7 +2804,8 @@
       "instructor": "Wallace, Thad",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 1101",
@@ -2418,7 +2816,8 @@
       "instructor": "Krooms, Arnold",
       "section": "02",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 1102",
@@ -2429,7 +2828,8 @@
       "instructor": "Wallace, Thad",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 1103",
@@ -2440,7 +2840,8 @@
       "instructor": "Wallace, Thad",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 2101",
@@ -2451,7 +2852,20 @@
       "instructor": "Wallace, Thad",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "WELD 2102",
+      "title": "Advanced Welding Applications",
+      "modality": "in_person",
+      "term": "Fall 2026",
+      "units": "2",
+      "instructor": "Krooms, Arnold",
+      "section": "01",
+      "description": "Lecture and/or discussion · Weed",
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WEE 2010",
@@ -2462,7 +2876,8 @@
       "instructor": "Ramming, Tanja",
       "section": "01",
       "description": "Work experience credits · Other Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WEE 2010",
@@ -2473,7 +2888,8 @@
       "instructor": "Ramming, Tanja",
       "section": "02",
       "description": "Work experience credits · Other Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WEE 2010",
@@ -2484,7 +2900,8 @@
       "instructor": "Ramming, Tanja",
       "section": "03",
       "description": "Work experience credits · Other Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WEE 2010",
@@ -2495,7 +2912,8 @@
       "instructor": "Ramming, Tanja",
       "section": "04",
       "description": "Work experience credits · Other Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WEE 2010",
@@ -2506,7 +2924,8 @@
       "instructor": "Ramming, Tanja",
       "section": "05",
       "description": "Work experience credits · Other Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WEE 2010",
@@ -2517,7 +2936,8 @@
       "instructor": "Ramming, Tanja",
       "section": "06",
       "description": "Work experience credits · Other Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WEE 2010",
@@ -2528,7 +2948,8 @@
       "instructor": "Ramming, Tanja",
       "section": "07",
       "description": "Work experience credits · Other Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WEE 2020",
@@ -2539,7 +2960,8 @@
       "instructor": "Ramming, Tanja",
       "section": "01",
       "description": "Work experience credits · Other Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WEE 2020",
@@ -2550,7 +2972,8 @@
       "instructor": "Ramming, Tanja",
       "section": "02",
       "description": "Work experience credits · Other Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WEE 2020",
@@ -2561,7 +2984,8 @@
       "instructor": "Ramming, Tanja",
       "section": "03",
       "description": "Work experience credits · Other Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WEE 2020",
@@ -2572,7 +2996,8 @@
       "instructor": "Ramming, Tanja",
       "section": "04",
       "description": "Work experience credits · Other Off",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WORK 0541",
@@ -2583,7 +3008,8 @@
       "instructor": "Neronha, Pamela",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WORK 0542",
@@ -2594,7 +3020,180 @@
       "instructor": "Neronha, Pamela",
       "section": "01",
       "description": "Lecture and/or discussion · Weed",
-      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://reg-prod.cloud.siskiyous.edu/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "ENGL999",
+      "title": "Academic Reading and Writing Instructional Support",
+      "modality": "online",
+      "term": "Aug 17 - Dec 10",
+      "units": "1.0",
+      "instructor": "Elizabeth J Carlyle",
+      "section": "11975292",
+      "description": "This course is designed to support students who are enrolled in Academic Reading and Writing courses. Students who enroll in this course will also be enrolled in the corresponding linked section of ENGL C1000. This course provides instructional support in academic reading, writing and research skills. Students will learn strategies and received guided instruction on assignments in the transfer-level writing intensive course. Co-Requisite: This course is intended to support students in English C1000 if guided self-placement indicates a need or if they wish to build confidence in college composition. Students who enroll in this course will be enrolled in the corresponding, linked section of ENGL C1000.",
+      "url": "https://search.cvc.edu/courses/11975292?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=711&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 46,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 10",
+        "cvcCourseId": "11975292",
+        "cvcUrl": "https://search.cvc.edu/courses/11975292?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=711&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Elizabeth J Carlyle"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "3163",
+            "dates": "Jan 26 to May 21",
+            "professor": "Elizabeth J Carlyle",
+            "format": "Asynchronous",
+            "notes": "This course is designed to assist students who want to build confidence in academic reading and writing. It provides support in developing skills and strategies for success in transfer-level writing intensive courses. Students who enroll in this course will also be enrolled in the corresponding, linked section of ENGL C1000."
+          },
+          {
+            "crn": "7080",
+            "dates": "Aug 17 to Dec 10",
+            "professor": "Elizabeth J Carlyle",
+            "format": "Asynchronous",
+            "notes": "Must be taken with ENGL C1000 (CRN 7081)"
+          },
+          {
+            "crn": "7154",
+            "dates": "Aug 18 to Dec 11",
+            "professor": "Elizabeth J Carlyle",
+            "format": "Asynchronous",
+            "notes": "Students enrolling in this section will need effective computer skills with reliable internet access. This course may use an online proctoring service, Honorlock, that requires the use of a webcam during exams and quizzes. There is no charge for the proctoring service, but students may be asked to provide their own webcam. Check the COS online course website at www.siskiyous.edu/online prior to the first day of the semester for specific course information. Must be taken with ENGL C1000 CRN 7155"
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "BA920",
+      "title": "Practical Accounting",
+      "modality": "online",
+      "term": "Aug 17 - Dec 10",
+      "units": "3.0",
+      "instructor": "Sherice L Bellamy, Sean P Bowman",
+      "section": "1267152",
+      "description": "Provides an introduction to accounting, suitable for students interested in pursuing additional business and accounting courses as well as for students interested in establishing a practical understanding of accounting. BA 0920 includes the application of the double-entry system in the preparation and use of journals, ledgers, worksheets and financial statements. Banking and payroll issues are also explored. (AA)",
+      "url": "https://search.cvc.edu/courses/1267152?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=business&filter%5Btarget_school_ids%5D%5B%5D=711&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 10",
+        "cvcCourseId": "1267152",
+        "cvcUrl": "https://search.cvc.edu/courses/1267152?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=business&filter%5Btarget_school_ids%5D%5B%5D=711&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Sherice L Bellamy",
+          "Sean P Bowman"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "3140",
+            "dates": "Jan 26 to May 21",
+            "professor": "Sherice L Bellamy",
+            "format": "Asynchronous",
+            "notes": "Provides an introduction to accounting, suitable for students interested in pursuing additional business and accounting courses as well as for students interested in establishing a practical understanding of accounting. BA 0920 includes the application of the double-entry system in the preparation and use of journals, ledgers, worksheets and financial statements. Banking and payroll issues are also explored. (AA)"
+          },
+          {
+            "crn": "7030",
+            "dates": "Aug 17 to Dec 10",
+            "professor": "Sean P Bowman",
+            "format": "Asynchronous",
+            "notes": "Provides an introduction to accounting, suitable for students interested in pursuing additional business and accounting courses as well as for students interested in establishing a practical understanding of accounting. BA 0920 includes the application of the double-entry system in the preparation and use of journals, ledgers, worksheets and financial statements. Banking and payroll issues are also explored. (AA)"
+          },
+          {
+            "crn": "7044",
+            "dates": "Aug 18 to Dec 11",
+            "professor": "Sean P Bowman",
+            "format": "Asynchronous",
+            "notes": "Students enrolling in this section will need effective computer skills with reliable internet access. This course may use an online proctoring service, Honorlock, that requires the use of a webcam during exams and quizzes. There is no charge for the proctoring service, but students may be asked to provide their own webcam. Check the COS online course website at www.siskiyous.edu/online prior to the first day of the semester for specific course information."
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "EDUC894",
+      "title": "Tutor Training",
+      "modality": "online",
+      "term": "Aug 17 - Dec 10",
+      "units": "1.0",
+      "instructor": "Carly A. Zeller",
+      "section": "1122084",
+      "description": "This course introduces the core principles of tutoring for aspiring peer and professional tutors. Students examine inclusive learning theories, culturally responsive communication, and ethical standards that guide effective and professional tutoring. Emphasis is placed on active learning strategies, student-centered practices, and the role of tutoring in promoting confidence and independence. (NDA)",
+      "url": "https://search.cvc.edu/courses/1122084?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=communication&filter%5Btarget_school_ids%5D%5B%5D=711&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 46,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 10",
+        "cvcCourseId": "1122084",
+        "cvcUrl": "https://search.cvc.edu/courses/1122084?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=communication&filter%5Btarget_school_ids%5D%5B%5D=711&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Carly A. Zeller"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "3069",
+            "dates": "Jan 26 to May 21",
+            "professor": "Carly A. Zeller",
+            "format": "Asynchronous",
+            "notes": "This course emphasizes styles of learning and appropriate techniques in tutoring individually or small groups. (NDA)"
+          },
+          {
+            "crn": "7128",
+            "dates": "Aug 17 to Dec 10",
+            "professor": "Carly A. Zeller",
+            "format": "Asynchronous",
+            "notes": "This course introduces the core principles of tutoring for aspiring peer and professional tutors. Students examine inclusive learning theories, culturally responsive communication, and ethical standards that guide effective and professional tutoring. Emphasis is placed on active learning strategies, student-centered practices, and the role of tutoring in promoting confidence and independence. (NDA)"
+          },
+          {
+            "crn": "7150",
+            "dates": "Aug 18 to Dec 11",
+            "professor": "Carly A. Zeller",
+            "format": "Asynchronous",
+            "notes": "Students enrolling in this section will need effective computer skills with reliable internet access. This course may use an online proctoring service, Honorlock, that requires the use of a webcam during exams and quizzes. There is no charge for the proctoring service, but students may be asked to provide their own webcam. Check the COS online course website at www.siskiyous.edu/online prior to the first day of the semester for specific course information."
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "name": "Barstow Community College",
   "url": "https://www.barstow.edu/",
   "live": true,
-  "courseCount": 287,
+  "courseCount": 293,
   "modalityCoverage": 0,
   "method": "college",
   "source": null,
@@ -20,7 +20,8 @@
       "instructor": "Tonya Peak",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ACCT 1",
@@ -31,7 +32,8 @@
       "instructor": "Tonya Peak",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ACCT 1",
@@ -42,7 +44,8 @@
       "instructor": "Ramon Vasconcellos",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ACCT 4",
@@ -53,7 +56,8 @@
       "instructor": "Danielle Jeffers",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ACCT 4",
@@ -64,7 +68,8 @@
       "instructor": "Ramon Vasconcellos",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ACCT 68",
@@ -75,7 +80,8 @@
       "instructor": "Ramon Vasconcellos",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 1",
@@ -86,7 +92,8 @@
       "instructor": "Ronan Colleoc",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 1",
@@ -97,7 +104,8 @@
       "instructor": "Michael Beshears",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 1",
@@ -108,7 +116,8 @@
       "instructor": "Ronan Colleoc",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 1",
@@ -119,7 +128,8 @@
       "instructor": "Ronan Colleoc",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 1",
@@ -130,7 +140,8 @@
       "instructor": "Ronan Colleoc",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 14",
@@ -141,7 +152,8 @@
       "instructor": "Michelle Beshears",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 17",
@@ -152,7 +164,8 @@
       "instructor": "Frankie Lozano",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 2",
@@ -163,7 +176,8 @@
       "instructor": "Ronan Colleoc",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 2",
@@ -174,7 +188,8 @@
       "instructor": "Ronan Colleoc",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 2",
@@ -185,7 +200,8 @@
       "instructor": "Michael Beshears",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 3",
@@ -196,7 +212,8 @@
       "instructor": "David Tomenes",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 3",
@@ -207,7 +224,8 @@
       "instructor": "Ronan Colleoc",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 3",
@@ -218,7 +236,8 @@
       "instructor": "Ronan Colleoc",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 3",
@@ -229,7 +248,8 @@
       "instructor": "Ronan Colleoc",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 4",
@@ -240,7 +260,8 @@
       "instructor": "Michelle Beshears",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 5",
@@ -251,7 +272,8 @@
       "instructor": "Frankie Lozano",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 6",
@@ -262,7 +284,8 @@
       "instructor": "Michelle Beshears",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ADJU 8",
@@ -273,7 +296,8 @@
       "instructor": "Michael Beshears",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "AHLT 51",
@@ -284,7 +308,8 @@
       "instructor": "Ellis Taylor Puryear",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "AHLT 51",
@@ -295,7 +320,8 @@
       "instructor": "Ellis Taylor Puryear",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "AHLT 55A",
@@ -306,7 +332,8 @@
       "instructor": "Arthur Rodriguez",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "AHLT 62A",
@@ -317,7 +344,8 @@
       "instructor": "Arthur Rodriguez",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "AHLT 63",
@@ -328,7 +356,8 @@
       "instructor": "Ellis Taylor Puryear",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "AHLT 63",
@@ -339,7 +368,8 @@
       "instructor": "Ellis Taylor Puryear",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ANTH 1",
@@ -350,7 +380,8 @@
       "instructor": "Michael Coffey",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ARTS 10A",
@@ -361,7 +392,8 @@
       "instructor": "Lewis Goldstein",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ARTS 10B",
@@ -372,7 +404,8 @@
       "instructor": "Lewis Goldstein",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ARTS 16",
@@ -383,7 +416,8 @@
       "instructor": "Brigham Allebes",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ARTS 17",
@@ -394,7 +428,8 @@
       "instructor": "Brigham Allebes",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ARTS 18A",
@@ -405,7 +440,8 @@
       "instructor": "Mark Romano",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ARTS 18B",
@@ -416,7 +452,8 @@
       "instructor": "Mark Romano",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ARTS 18C",
@@ -427,7 +464,8 @@
       "instructor": "Mark Romano",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ARTS 19",
@@ -438,7 +476,8 @@
       "instructor": "Mark Romano",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ARTS 3",
@@ -446,65 +485,59 @@
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
-      "instructor": "Valerie Colston",
+      "instructor": "Lewis Goldstein",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ARTH C1100",
-      "title": "Survey of Art from Prehistory to the Medieval Era (Formerly offered as ARTS 1)",
+      "title": "Survey of Art from Prehistory to the Medieval Era (formerly offered as ARTS 1)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Lewis Goldstein",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ARTH C1100",
-      "title": "Survey of Art from Prehistory to the Medieval Era (Formerly offered as ARTS 1)",
+      "title": "Survey of Art from Prehistory to the Medieval Era (formerly offered as ARTS 1)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Lewis Goldstein",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
-    },
-    {
-      "code": "ARTH C1100",
-      "title": "Survey of Art from Prehistory to the Medieval Era (Formerly offered as ARTS 1)",
-      "modality": "online",
-      "term": "Fall 2026",
-      "units": "3",
-      "instructor": "Valerie Colston",
-      "section": "0",
-      "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ARTH C1200",
-      "title": "Survey of Art from the Renaissance to Contemporary (Formerly offered as ARTS 2",
+      "title": "Survey of Art from the Renaissance to Contemporary (formerly offered as ARTS 2)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Lewis Goldstein",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ARTH C1200",
-      "title": "Survey of Art from the Renaissance to Contemporary (Formerly offered as ARTS 2",
+      "title": "Survey of Art from the Renaissance to Contemporary (formerly offered as ARTS 2)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Lewis Goldstein",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ASTR 1",
@@ -515,7 +548,8 @@
       "instructor": "Alireza Farahmandi",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ASTR 1",
@@ -526,18 +560,8 @@
       "instructor": "Antonio Garcia Vallejo",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
-    },
-    {
-      "code": "ASTR 1",
-      "title": "Introduction to Astronomy with Lab",
-      "modality": "hybrid",
-      "term": "Fall 2026",
-      "units": "4",
-      "instructor": "Antonio Garcia Vallejo",
-      "section": "0",
-      "description": "Hybrid(Synch&Asynch) ·    Ft. Irwin",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ATHL 1",
@@ -548,7 +572,8 @@
       "instructor": "Nicholas Hilton",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ATHL 2",
@@ -559,7 +584,20 @@
       "instructor": "Kaitlyn Parks",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "ATHL 20",
+      "title": "Intercollegiate Basketball (Men) &quot;Out-of-season&quot;",
+      "modality": "in_person",
+      "term": "Fall 2026",
+      "units": "0.5",
+      "instructor": "Nicholas Hilton",
+      "section": "0",
+      "description": "Traditional (Fully In-Person) · Barstow",
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ATHL 23",
@@ -570,7 +608,8 @@
       "instructor": "Dylan Bradford",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ATHL 25",
@@ -581,7 +620,8 @@
       "instructor": "Reginald Garland Jr.",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ATHL 31",
@@ -592,7 +632,8 @@
       "instructor": "Dylan Bradford",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ATHL 31",
@@ -603,7 +644,8 @@
       "instructor": "Reginald Garland Jr.",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ATHL 7",
@@ -614,7 +656,8 @@
       "instructor": "Kristian Oatman",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ATHL 8",
@@ -625,7 +668,8 @@
       "instructor": "Kristian Oatman",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "AUTO 51A",
@@ -636,7 +680,8 @@
       "instructor": "Eric Blaine",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "AUTO 52",
@@ -647,7 +692,8 @@
       "instructor": "Mark Weller",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "AUTO 53",
@@ -658,7 +704,8 @@
       "instructor": "Eric Blaine",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "AUTO 55",
@@ -669,7 +716,8 @@
       "instructor": "Mark Weller",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIOL 1",
@@ -680,7 +728,8 @@
       "instructor": "Beverly Ranney",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIOL 1",
@@ -691,7 +740,8 @@
       "instructor": "Beverly Ranney",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIOL 2",
@@ -702,7 +752,8 @@
       "instructor": "Kateri McKinney",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIOL 2",
@@ -713,7 +764,8 @@
       "instructor": "Beverly Ranney",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIOL 2",
@@ -724,7 +776,8 @@
       "instructor": "Beverly Ranney",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIOL 2",
@@ -735,7 +788,8 @@
       "instructor": "Beverly Ranney",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIOL 20B",
@@ -746,7 +800,8 @@
       "instructor": "Paola Gonzalez Rodriguez",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIOL 4",
@@ -757,7 +812,8 @@
       "instructor": "Erica Cain",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIOL 4",
@@ -768,7 +824,8 @@
       "instructor": "Erica Cain",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIOL 4",
@@ -779,7 +836,8 @@
       "instructor": "Bret Sage",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIOL 5",
@@ -790,7 +848,8 @@
       "instructor": "Bret Sage",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIOL 5",
@@ -801,7 +860,8 @@
       "instructor": "Erica Cain",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIOL 5",
@@ -812,7 +872,8 @@
       "instructor": "Eric Ellison",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIOL 8",
@@ -823,7 +884,8 @@
       "instructor": "Bret Sage",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BIOL 8",
@@ -834,7 +896,8 @@
       "instructor": "Bret Sage",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BCTT 54",
@@ -845,7 +908,8 @@
       "instructor": "Joshua O&#39;Neal Sr.",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BCTT 54",
@@ -856,7 +920,8 @@
       "instructor": "Joshua O&#39;Neal Sr.",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BADM 1",
@@ -867,7 +932,8 @@
       "instructor": "Ramon Vasconcellos",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BADM 1",
@@ -878,7 +944,8 @@
       "instructor": "Denise Pasley",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BADM 1",
@@ -886,10 +953,11 @@
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
-      "instructor": "Denise Pasley",
+      "instructor": "Ola Abuelhassan",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BADM 5",
@@ -900,7 +968,8 @@
       "instructor": "Denise Pasley",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BADM 5",
@@ -911,7 +980,8 @@
       "instructor": "Denise Pasley",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BADM 5",
@@ -922,7 +992,8 @@
       "instructor": "Denise Pasley",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BADM 5",
@@ -933,7 +1004,8 @@
       "instructor": "Denise Pasley",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "BADM 6",
@@ -944,7 +1016,8 @@
       "instructor": "Denise Pasley",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CHEM 10",
@@ -955,7 +1028,8 @@
       "instructor": "Ashley Vizenor",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CHEM 1A",
@@ -966,7 +1040,8 @@
       "instructor": "Christopher Nalbandian",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CHEM 1B",
@@ -977,7 +1052,8 @@
       "instructor": "Christopher Nalbandian",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CHEM 1B",
@@ -988,7 +1064,8 @@
       "instructor": "Ashley Vizenor",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CHEM 2A",
@@ -999,7 +1076,8 @@
       "instructor": "Ashley Vizenor",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CHEM 3A",
@@ -1010,40 +1088,44 @@
       "instructor": "Christopher Nalbandian",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
-      "code": "CHLD 12A",
-      "title": "Creative Activities for Early Childhood Education",
+      "code": "CDEV 12A",
+      "title": "Creative Activities for Early Childhood Education (formerly offered as CHLD 12A)",
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Sarah ShaBazz-Ugwumba",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
-      "code": "CHLD 12A",
-      "title": "Creative Activities for Early Childhood Education",
+      "code": "CDEV 12A",
+      "title": "Creative Activities for Early Childhood Education (formerly offered as CHLD 12A)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Sarah ShaBazz-Ugwumba",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
-      "code": "CHLD 15",
-      "title": "Infants and Toddlers: Care and Education",
+      "code": "CDEV 15",
+      "title": "Infants and Toddlers: Care and Education (formerly  offered as CHLD 15)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Rochelle Himmelrick",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CHLD 17A",
@@ -1054,172 +1136,188 @@
       "instructor": "Rochelle Himmelrick",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
-      "code": "CHLD 19A",
-      "title": "Administration I: Programs in Early Childhood Education",
+      "code": "CDEV 19A",
+      "title": "Administration I: Programs in Early Childhood Education (formerly  offered as CHLD 19A)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "William Paul",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
-      "code": "CHLD 20",
-      "title": "Observation and Assessment",
+      "code": "CDEV 20",
+      "title": "Observation and Assessment (formerly  offered as CHLD 20)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Pamela Shane",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
-      "code": "CHLD 25",
-      "title": "Teaching in a Diverse Society",
+      "code": "CDEV 25",
+      "title": "Teaching in a Diverse Society (formerly  offered as CHLD 25)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "William Paul",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
-      "code": "CHLD 30",
-      "title": "Child Language Development",
+      "code": "CDEV 30",
+      "title": "Child Language Development (formerly  offered as CHLD 30)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Deborah Harris",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
-      "code": "CHLD 35",
-      "title": "Introduction to Children with Special Needs",
+      "code": "CDEV 35",
+      "title": "Introduction to Children with Special Needs (formerly  offered as CHLD 35)",
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Sarah ShaBazz-Ugwumba",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
-      "code": "CHLD 35",
-      "title": "Introduction to Children with Special Needs",
+      "code": "CDEV 35",
+      "title": "Introduction to Children with Special Needs (formerly  offered as CHLD 35)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Sarah ShaBazz-Ugwumba",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
-      "code": "CHLD 49",
-      "title": "Practicum - Field Experience",
+      "code": "CDEV 49",
+      "title": "Practicum - Field Experience (formerly  offered as CHLD 49)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "4",
       "instructor": "Nancy Nunes-Gill",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
-      "code": "CHLD 6",
-      "title": "Child, Family, Community",
+      "code": "CDEV 6",
+      "title": "Child, Family, Community (formerly  offered as CHLD 6)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Sarah ShaBazz-Ugwumba",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
-      "code": "CHLD 6",
-      "title": "Child, Family, Community",
+      "code": "CDEV 6",
+      "title": "Child, Family, Community (formerly  offered as CHLD 6)",
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Sarah ShaBazz-Ugwumba",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
-      "code": "CHLD 6",
-      "title": "Child, Family, Community",
+      "code": "CDEV 6",
+      "title": "Child, Family, Community (formerly  offered as CHLD 6)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Sarah ShaBazz-Ugwumba",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
-      "code": "CHLD 9",
-      "title": "Introduction to Early Childhood Curriculum",
+      "code": "CDEV 9",
+      "title": "Introduction to Early Childhood Curriculum (formerly  offered as CHLD 9)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Deborah Harris",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CDEV C1000",
-      "title": "Child Growth and Development (Formerly offered as CHLD 4)",
+      "title": "Child Growth and Development (formerly offered as  offered as CHLD 4)",
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Sarah ShaBazz-Ugwumba",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CDEV C1000",
-      "title": "Child Growth and Development (Formerly offered as CHLD 4)",
+      "title": "Child Growth and Development (formerly offered as  offered as CHLD 4)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Sarah ShaBazz-Ugwumba",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CDEV C1000",
-      "title": "Child Growth and Development (Formerly offered as CHLD 4)",
+      "title": "Child Growth and Development (formerly offered as  offered as CHLD 4)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Rochelle Himmelrick",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CDEV C1000",
-      "title": "Child Growth and Development (Formerly offered as CHLD 4)",
+      "title": "Child Growth and Development (formerly offered as  offered as CHLD 4)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Sarah ShaBazz-Ugwumba",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM 1",
@@ -1230,7 +1328,8 @@
       "instructor": "Timothy Syrek",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM 1",
@@ -1241,7 +1340,8 @@
       "instructor": "Nadiyah Herron",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM 1",
@@ -1252,7 +1352,8 @@
       "instructor": "Leslie Murillo Leach",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM 1",
@@ -1263,7 +1364,8 @@
       "instructor": "Timothy Syrek",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM 1",
@@ -1274,7 +1376,8 @@
       "instructor": "Nadiyah Herron",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM 1",
@@ -1285,7 +1388,8 @@
       "instructor": "Timothy Syrek",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM 1",
@@ -1296,7 +1400,8 @@
       "instructor": "Leslie Murillo Leach",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM 1",
@@ -1307,7 +1412,8 @@
       "instructor": "Nadiyah Herron",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM 1",
@@ -1318,7 +1424,8 @@
       "instructor": "Jennafer Worland",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM 1",
@@ -1329,7 +1436,8 @@
       "instructor": "Jennafer Worland",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM 1",
@@ -1340,7 +1448,8 @@
       "instructor": "Jennafer Worland",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM 1",
@@ -1351,7 +1460,8 @@
       "instructor": "Julian Bhebhe",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) ·    Ft. Irwin",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM 1",
@@ -1362,18 +1472,20 @@
       "instructor": "Gregory Cheek",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM 1",
-      "title": "Introduction to Public Speaking (Formerly offered as COMM 1)",
+      "title": "Introduction to Public Speaking (formerly offered as COMM 1)",
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Julian Bhebhe",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM 3",
@@ -1384,7 +1496,8 @@
       "instructor": "Gregory Cheek",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM 3",
@@ -1395,7 +1508,8 @@
       "instructor": "Gregory Cheek",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COMM 5",
@@ -1406,7 +1520,8 @@
       "instructor": "Julian Bhebhe",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CBIS 1",
@@ -1417,7 +1532,8 @@
       "instructor": "Timothy Brinkley",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CBIS 1",
@@ -1428,7 +1544,8 @@
       "instructor": "Ayoub Batarseh",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CBIS 1",
@@ -1439,7 +1556,8 @@
       "instructor": "Mike Haenelt",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) ·    Ft. Irwin",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CBIS 1",
@@ -1450,7 +1568,8 @@
       "instructor": "Timothy Brinkley",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CBIS 101",
@@ -1461,7 +1580,8 @@
       "instructor": "Marilyn Maestas",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Probation Dept",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CBIS 13",
@@ -1472,7 +1592,8 @@
       "instructor": "Timothy Brinkley",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CBIS 15",
@@ -1483,7 +1604,8 @@
       "instructor": "Timothy Brinkley",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CBIS 15",
@@ -1494,7 +1616,8 @@
       "instructor": "Timothy Brinkley",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CBIS 17",
@@ -1505,7 +1628,8 @@
       "instructor": "Wesley Frogge",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CBIS 19",
@@ -1516,7 +1640,8 @@
       "instructor": "Marie Downing",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CSIS 10",
@@ -1527,7 +1652,8 @@
       "instructor": "Ayoub Batarseh",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CSIS 33",
@@ -1538,7 +1664,8 @@
       "instructor": "Ayoub Batarseh",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COSM 50A",
@@ -1549,7 +1676,8 @@
       "instructor": "Patricia Gardner",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COSM 50B",
@@ -1560,7 +1688,8 @@
       "instructor": "Patricia Gardner",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COSM 50C",
@@ -1571,7 +1700,8 @@
       "instructor": "Austin Spangler",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COSM 51A",
@@ -1582,7 +1712,8 @@
       "instructor": "Austin Spangler",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COSM 51B",
@@ -1593,7 +1724,8 @@
       "instructor": "Jamese Holmes",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COSM 51C",
@@ -1604,18 +1736,8 @@
       "instructor": "Austin Spangler",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
-    },
-    {
-      "code": "COSM 52",
-      "title": "State Board Preparation",
-      "modality": "hybrid",
-      "term": "Fall 2026",
-      "units": "6",
-      "instructor": "Elaine Peralta",
-      "section": "0",
-      "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COUN 5",
@@ -1626,7 +1748,8 @@
       "instructor": "Lourdes Maldonado",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COUN 5",
@@ -1637,7 +1760,8 @@
       "instructor": "Api Lealofi",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COUN 5",
@@ -1648,7 +1772,8 @@
       "instructor": "Api Lealofi",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COUN 5",
@@ -1659,7 +1784,8 @@
       "instructor": "Melissa Matteson",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COUN 5",
@@ -1670,18 +1796,20 @@
       "instructor": "Melissa Matteson",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "COUN 5",
-      "title": "Career and Life Planning (formerly offered as SDEV 5)",
+      "title": "Career and Life Planning",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Ryan Bishop",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CUST 100",
@@ -1692,7 +1820,8 @@
       "instructor": "Danielle Jeffers",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CUST 100",
@@ -1703,7 +1832,8 @@
       "instructor": "Marilyn Maestas",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Probation Dept",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CUST 110",
@@ -1714,7 +1844,8 @@
       "instructor": "Danielle Jeffers",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "CUST 110",
@@ -1725,7 +1856,8 @@
       "instructor": "Marilyn Maestas",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Probation Dept",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "DESL 63",
@@ -1736,7 +1868,8 @@
       "instructor": "Steven Locke",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "DESL 70",
@@ -1747,7 +1880,8 @@
       "instructor": "Eric Blaine",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ECON 1",
@@ -1758,7 +1892,8 @@
       "instructor": "Michael Coffey",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ECON 1",
@@ -1769,7 +1904,8 @@
       "instructor": "Ramon Vasconcellos",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ECON 2",
@@ -1780,7 +1916,8 @@
       "instructor": "Ramon Vasconcellos",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ECON 2",
@@ -1791,7 +1928,8 @@
       "instructor": "Steve McQueen",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "EDUC 1",
@@ -1802,7 +1940,8 @@
       "instructor": "Heather Bradford",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "EDUC 1",
@@ -1813,7 +1952,8 @@
       "instructor": "Heather Bradford",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ELCT 70A",
@@ -1824,7 +1964,8 @@
       "instructor": "Toby Hill",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ELCT 70B",
@@ -1835,7 +1976,8 @@
       "instructor": "Toby Hill",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ELCT 70C",
@@ -1846,7 +1988,8 @@
       "instructor": "Toby Hill",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ELCT 70D",
@@ -1857,7 +2000,8 @@
       "instructor": "Toby Hill",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ELCT 70E",
@@ -1868,7 +2012,8 @@
       "instructor": "Toby Hill",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 12",
@@ -1879,18 +2024,20 @@
       "instructor": "Christie Firtha",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 13A",
-      "title": "African American Literature",
+      "title": "African-American Literature",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Susan Nylander",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -1901,7 +2048,8 @@
       "instructor": "Ibrahim Aboud",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -1912,7 +2060,8 @@
       "instructor": "Susan Nylander",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -1923,7 +2072,8 @@
       "instructor": "Melissa Valen",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -1934,7 +2084,8 @@
       "instructor": "Shaila Walker",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -1945,7 +2096,8 @@
       "instructor": "Michele Mitchell",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -1956,7 +2108,8 @@
       "instructor": "Rhea Sanchez",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -1967,7 +2120,8 @@
       "instructor": "S Staff",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -1978,7 +2132,8 @@
       "instructor": "Melanie Hanson",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -1989,7 +2144,8 @@
       "instructor": "Michele Mitchell",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -2000,7 +2156,8 @@
       "instructor": "Leontine Jefferies",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -2008,10 +2165,11 @@
       "modality": "online",
       "term": "Fall 2026",
       "units": "4",
-      "instructor": "Blake Love",
+      "instructor": "S Staff",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -2022,7 +2180,8 @@
       "instructor": "Ibrahim Aboud",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex ·    Ft. Irwin",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -2030,10 +2189,11 @@
       "modality": "online",
       "term": "Fall 2026",
       "units": "4",
-      "instructor": "Blake Love",
+      "instructor": "Christie Firtha",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -2044,7 +2204,8 @@
       "instructor": "Lisa Mellado",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -2055,7 +2216,8 @@
       "instructor": "Christie Firtha",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -2066,7 +2228,8 @@
       "instructor": "S Staff",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -2077,7 +2240,8 @@
       "instructor": "S Staff",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -2088,7 +2252,8 @@
       "instructor": "Ibrahim Aboud",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -2099,7 +2264,8 @@
       "instructor": "S Staff",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -2110,7 +2276,8 @@
       "instructor": "Ibrahim Aboud",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -2121,7 +2288,8 @@
       "instructor": "Susan Nylander",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -2132,7 +2300,8 @@
       "instructor": "Elisa Urmston",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -2143,7 +2312,8 @@
       "instructor": "Michael Brady",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -2154,7 +2324,8 @@
       "instructor": "Penny Shreve",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) ·    Ft. Irwin",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -2165,7 +2336,8 @@
       "instructor": "Ibrahim Aboud",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
@@ -2176,18 +2348,20 @@
       "instructor": "S Staff",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1A",
-      "title": "Academic Reading and Writing (Formerly offered as ENGL 1A)",
+      "title": "Academic Reading and Writing (formerly offered as ENGL 1A)",
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "4",
       "instructor": "Chere Smith",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1B",
@@ -2198,7 +2372,8 @@
       "instructor": "Christie Firtha",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1C",
@@ -2209,7 +2384,8 @@
       "instructor": "Ibrahim Aboud",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1C",
@@ -2220,7 +2396,8 @@
       "instructor": "Susan Nylander",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1C",
@@ -2231,7 +2408,8 @@
       "instructor": "Shaila Walker",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1C",
@@ -2242,7 +2420,8 @@
       "instructor": "Leontine Jefferies",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1C",
@@ -2253,7 +2432,8 @@
       "instructor": "Christie Firtha",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1C",
@@ -2264,7 +2444,8 @@
       "instructor": "Ibrahim Aboud",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex ·    Ft. Irwin",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1C",
@@ -2275,7 +2456,8 @@
       "instructor": "Lisa Mellado",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1C",
@@ -2286,7 +2468,8 @@
       "instructor": "Melissa Valen",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1C",
@@ -2297,7 +2480,8 @@
       "instructor": "Nathan Lindsay",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1C",
@@ -2308,7 +2492,8 @@
       "instructor": "Nathan Lindsay",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1C",
@@ -2319,7 +2504,8 @@
       "instructor": "Ibrahim Aboud",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1C",
@@ -2330,40 +2516,44 @@
       "instructor": "Susan Nylander",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1C",
-      "title": "Critical Thinking and Writing (Formerly offered as ENGL 1C)",
+      "title": "Critical Thinking and Writing (formerly offered as ENGL 1C)",
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "4",
       "instructor": "Michael Brady",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1C",
-      "title": "Critical Thinking and Writing (Formerly offered as ENGL 1C)",
+      "title": "Critical Thinking and Writing (formerly offered as ENGL 1C)",
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "4",
       "instructor": "Elisa Urmston",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 1C",
-      "title": "Critical Thinking and Writing (Formerly offered as ENGL 1C)",
+      "title": "Critical Thinking and Writing (formerly offered as ENGL 1C)",
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "4",
       "instructor": "Chere Smith",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENGL 4",
@@ -2374,7 +2564,8 @@
       "instructor": "Melanie Hanson",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 150",
@@ -2385,7 +2576,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 150",
@@ -2396,7 +2588,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 151",
@@ -2407,7 +2600,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 151",
@@ -2418,7 +2612,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 156",
@@ -2429,7 +2624,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 156",
@@ -2440,7 +2636,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 157",
@@ -2451,7 +2648,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 157",
@@ -2462,7 +2660,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 158",
@@ -2473,7 +2672,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 158",
@@ -2484,7 +2684,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 160",
@@ -2495,7 +2696,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 160",
@@ -2506,7 +2708,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 166",
@@ -2517,7 +2720,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 166",
@@ -2528,7 +2732,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 168",
@@ -2539,7 +2744,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 168",
@@ -2550,7 +2756,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 170",
@@ -2561,7 +2768,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 170",
@@ -2572,7 +2780,8 @@
       "instructor": "Gabriella Paleo",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) ·    Ft. Irwin",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 170",
@@ -2583,7 +2792,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 176",
@@ -2594,7 +2804,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 176",
@@ -2605,7 +2816,8 @@
       "instructor": "Gabriella Paleo",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) ·    Ft. Irwin",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 176",
@@ -2616,7 +2828,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 178",
@@ -2627,7 +2840,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 178",
@@ -2638,7 +2852,8 @@
       "instructor": "Gabriella Paleo",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) ·    Ft. Irwin",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 178",
@@ -2649,7 +2864,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 180",
@@ -2660,7 +2876,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 180",
@@ -2671,7 +2888,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 186",
@@ -2682,7 +2900,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 186",
@@ -2693,7 +2912,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 188",
@@ -2704,7 +2924,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 188",
@@ -2715,7 +2936,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 190",
@@ -2726,7 +2948,8 @@
       "instructor": "Paloma Duran",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 190",
@@ -2737,7 +2960,8 @@
       "instructor": "Claudia Salamanca",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 190",
@@ -2748,7 +2972,8 @@
       "instructor": "Paloma Duran",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 190",
@@ -2759,7 +2984,8 @@
       "instructor": "Claudia Salamanca",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 192",
@@ -2770,7 +2996,8 @@
       "instructor": "Claudia Salamanca",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 192",
@@ -2781,7 +3008,8 @@
       "instructor": "Paloma Duran",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 192",
@@ -2792,7 +3020,8 @@
       "instructor": "Paloma Duran",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 192",
@@ -2803,7 +3032,8 @@
       "instructor": "Claudia Salamanca",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ESL 1A",
@@ -2814,7 +3044,8 @@
       "instructor": "Jill Murphy",
       "section": "0",
       "description": "Hybrid/Web Conf (F2F/Synch) ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENTR 1",
@@ -2825,7 +3056,8 @@
       "instructor": "Denise Pasley",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENTR 1",
@@ -2836,7 +3068,8 @@
       "instructor": "Denise Pasley",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENTR 2",
@@ -2847,7 +3080,8 @@
       "instructor": "Denise Pasley",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ENTR 2",
@@ -2858,7 +3092,8 @@
       "instructor": "Denise Pasley",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ETHN 1",
@@ -2869,7 +3104,8 @@
       "instructor": "Christie Firtha",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ETHN 1",
@@ -2880,7 +3116,8 @@
       "instructor": "Christie Firtha",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ETHN 1",
@@ -2891,7 +3128,8 @@
       "instructor": "Eduardo Vasquez",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ETHN 1",
@@ -2902,7 +3140,8 @@
       "instructor": "Alaina Gallegos",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ETHN 1",
@@ -2913,7 +3152,8 @@
       "instructor": "Penny Shreve",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ETHN 1",
@@ -2924,7 +3164,8 @@
       "instructor": "Alaina Gallegos",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ETHN 1",
@@ -2935,7 +3176,8 @@
       "instructor": "Penny Shreve",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex ·    Ft. Irwin",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ETHN 1",
@@ -2946,7 +3188,8 @@
       "instructor": "Penny Shreve",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ETHN 1",
@@ -2957,7 +3200,8 @@
       "instructor": "S Staff",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ETHN 1",
@@ -2968,7 +3212,8 @@
       "instructor": "S Staff",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ETHN 1",
@@ -2979,7 +3224,8 @@
       "instructor": "S Staff",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ETHN 5",
@@ -2990,7 +3236,8 @@
       "instructor": "Eduardo Vasquez",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "ETHN 6",
@@ -3001,7 +3248,8 @@
       "instructor": "Talib Abdul-Khabir",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "GEOL 1L",
@@ -3012,7 +3260,8 @@
       "instructor": "Eric Tangumonkem",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HEAL 1",
@@ -3023,7 +3272,8 @@
       "instructor": "Mike Karpel",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HEAL 1",
@@ -3034,7 +3284,8 @@
       "instructor": "Ellis Taylor Puryear",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HEAL 1",
@@ -3045,7 +3296,8 @@
       "instructor": "Mike Karpel",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HEAL 2",
@@ -3056,7 +3308,8 @@
       "instructor": "Ellis Taylor Puryear",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HEAL 2",
@@ -3067,7 +3320,8 @@
       "instructor": "Ellis Taylor Puryear",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HEAL 2",
@@ -3078,7 +3332,8 @@
       "instructor": "Mike Karpel",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HIST 1A",
@@ -3089,7 +3344,8 @@
       "instructor": "Paul Rittman",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HIST 2A",
@@ -3100,7 +3356,8 @@
       "instructor": "Jacob Lenerville",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HIST 2A",
@@ -3111,7 +3368,8 @@
       "instructor": "Joe Radzikowski",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HIST 2A",
@@ -3122,18 +3380,20 @@
       "instructor": "Todd Menzing",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HIST 2A",
-      "title": "United States History to 1877 (Formerly offered as HIST 2A)",
+      "title": "United States History to 1877 (formerly offered as HIST 2A)",
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Jacob Lenerville",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HIST 2B",
@@ -3144,7 +3404,8 @@
       "instructor": "Jacob Lenerville",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HIST 2B",
@@ -3155,7 +3416,8 @@
       "instructor": "Tomasz Stanek",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HIST 2B",
@@ -3166,18 +3428,20 @@
       "instructor": "Mike Hill",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HIST 2B",
-      "title": "United States History since 1865 (Formerly offered as HIST 2B)",
+      "title": "United States History since 1865 (formerly offered as HIST 2B)",
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Jacob Lenerville",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HIST 4",
@@ -3188,7 +3452,8 @@
       "instructor": "Mike Hill",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HIST 8A",
@@ -3199,7 +3464,8 @@
       "instructor": "Jacob Lenerville",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HUMA 1",
@@ -3210,7 +3476,8 @@
       "instructor": "Kyri Freeman",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HUMA 1",
@@ -3221,7 +3488,8 @@
       "instructor": "Andrew Rehfeld",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HUMA 1",
@@ -3232,7 +3500,8 @@
       "instructor": "Vanessa Medrano",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HUMA 2",
@@ -3243,7 +3512,8 @@
       "instructor": "Marc Harden",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HUMA 4",
@@ -3254,7 +3524,8 @@
       "instructor": "Jennafer Worland",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HUMA 4",
@@ -3265,7 +3536,8 @@
       "instructor": "Jennafer Worland",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HUMA 5",
@@ -3276,7 +3548,8 @@
       "instructor": "Penny Shreve",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "HUMA 5",
@@ -3287,7 +3560,8 @@
       "instructor": "Penny Shreve",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "IMMT 60",
@@ -3298,7 +3572,8 @@
       "instructor": "Robert Sheldon",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "IMMT 62",
@@ -3309,7 +3584,8 @@
       "instructor": "Robert Sheldon",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "IMMT 64",
@@ -3320,7 +3596,8 @@
       "instructor": "Robert Sheldon",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "IMMT 66",
@@ -3331,7 +3608,8 @@
       "instructor": "Robert Sheldon",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "IMMT 68",
@@ -3342,7 +3620,8 @@
       "instructor": "Robert Sheldon",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "IMMT 69",
@@ -3353,7 +3632,8 @@
       "instructor": "Robert Sheldon",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINA 10A",
@@ -3364,7 +3644,8 @@
       "instructor": "Mike Karpel",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINA 150",
@@ -3375,7 +3656,8 @@
       "instructor": "Griffin Jumonville III",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINA 17A",
@@ -3386,7 +3668,8 @@
       "instructor": "Mike Karpel",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINA 22A",
@@ -3397,7 +3680,8 @@
       "instructor": "Ellis Taylor Puryear",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINA 2A",
@@ -3408,7 +3692,8 @@
       "instructor": "Mike Karpel",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINA 9A",
@@ -3419,7 +3704,8 @@
       "instructor": "Ellis Taylor Puryear",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINL 1",
@@ -3430,7 +3716,8 @@
       "instructor": "Mike Karpel",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINL 2",
@@ -3441,7 +3728,8 @@
       "instructor": "Ellis Taylor Puryear",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINL 23",
@@ -3452,7 +3740,8 @@
       "instructor": "Ellis Taylor Puryear",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "KINL 6",
@@ -3463,7 +3752,8 @@
       "instructor": "Mike Karpel",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WARE 100",
@@ -3474,7 +3764,8 @@
       "instructor": "Alicia Lyons",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WARE 51",
@@ -3485,7 +3776,8 @@
       "instructor": "S Staff",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WARE 52",
@@ -3496,7 +3788,8 @@
       "instructor": "Jessica Borjorquez",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WARE 54",
@@ -3507,7 +3800,8 @@
       "instructor": "Alicia Lyons",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WARE 55",
@@ -3518,7 +3812,8 @@
       "instructor": "S Staff",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WARE 59",
@@ -3529,7 +3824,8 @@
       "instructor": "Jessica Borjorquez",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MGMT 1",
@@ -3540,7 +3836,8 @@
       "instructor": "Angela Green",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MGMT 5",
@@ -3551,7 +3848,8 @@
       "instructor": "Rokesha Green",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 1",
@@ -3562,7 +3860,8 @@
       "instructor": "Nelson Ramos",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 1",
@@ -3573,7 +3872,8 @@
       "instructor": "Nelson Ramos",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 1A",
@@ -3584,7 +3884,8 @@
       "instructor": "Peter Esperanza",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 3",
@@ -3595,7 +3896,8 @@
       "instructor": "Ayoub Batarseh",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) ·    Ft. Irwin",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 3",
@@ -3606,7 +3908,8 @@
       "instructor": "Sam Pearsall",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 3",
@@ -3617,7 +3920,8 @@
       "instructor": "Nelson Ramos",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 3",
@@ -3628,7 +3932,8 @@
       "instructor": "Nelson Ramos",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 3",
@@ -3639,7 +3944,8 @@
       "instructor": "Jose Rubio",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 3",
@@ -3650,40 +3956,44 @@
       "instructor": "Rodolfo Duque Jr.",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 4A",
-      "title": "Calculus I",
+      "title": "Calculus I: Early Transcendentals (formerly offered as MATH 4A)",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "4",
+      "instructor": "Peter Esperanza",
+      "section": "0",
+      "description": "Online - Asynchronous ·  Online",
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "MATH 4A",
+      "title": "Calculus I: Early Transcendentals (formerly offered as MATH 4A)",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "4",
+      "instructor": "Peter Esperanza",
+      "section": "0",
+      "description": "Online - Asynchronous ·  Online",
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "MATH 4A",
+      "title": "Calculus I: Early Transcendentals (formerly offered as MATH 4A)",
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "4",
       "instructor": "Peter Esperanza",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
-    },
-    {
-      "code": "MATH 4A",
-      "title": "Calculus I",
-      "modality": "online",
-      "term": "Fall 2026",
-      "units": "4",
-      "instructor": "Peter Esperanza",
-      "section": "0",
-      "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
-    },
-    {
-      "code": "MATH 4A",
-      "title": "Calculus I",
-      "modality": "online",
-      "term": "Fall 2026",
-      "units": "4",
-      "instructor": "Peter Esperanza",
-      "section": "0",
-      "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 4C",
@@ -3694,7 +4004,8 @@
       "instructor": "Nelson Ramos",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 4D",
@@ -3705,7 +4016,8 @@
       "instructor": "Rodolfo Duque Jr.",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 5",
@@ -3716,18 +4028,20 @@
       "instructor": "Peter Esperanza",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 6",
-      "title": "Mathematical Concepts for Elementary Teachers",
+      "title": "Mathematical Concepts for Elementary Teachers - Number Systems",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Brice Scott",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MATH 7",
@@ -3738,7 +4052,20 @@
       "instructor": "Joseph Wilson",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "MATH 90S",
+      "title": "Corequisite Support for Calculus I",
+      "modality": "in_person",
+      "term": "Fall 2026",
+      "units": "2",
+      "instructor": "Peter Esperanza",
+      "section": "0",
+      "description": "Traditional (Fully In-Person) · Barstow",
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUSI 12A",
@@ -3749,7 +4076,8 @@
       "instructor": "Ed Will Jr.",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUSI 12B",
@@ -3760,7 +4088,8 @@
       "instructor": "Ed Will Jr.",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUSI 12C",
@@ -3771,7 +4100,8 @@
       "instructor": "Ed Will Jr.",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUSI 2",
@@ -3782,7 +4112,8 @@
       "instructor": "Jonathan Pate",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUSI 3",
@@ -3793,7 +4124,8 @@
       "instructor": "Amy Ross",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUSI 4A",
@@ -3804,7 +4136,8 @@
       "instructor": "Amy Ross",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUSI 4B",
@@ -3815,7 +4148,8 @@
       "instructor": "Amy Ross",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUSI 4C",
@@ -3826,7 +4160,8 @@
       "instructor": "Amy Ross",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUSI 4D",
@@ -3837,7 +4172,8 @@
       "instructor": "Amy Ross",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUSI 5A",
@@ -3848,7 +4184,8 @@
       "instructor": "Ed Will Jr.",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUSI 5B",
@@ -3859,7 +4196,8 @@
       "instructor": "Ed Will Jr.",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUSI 5C",
@@ -3870,7 +4208,8 @@
       "instructor": "Ed Will Jr.",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUSI 5D",
@@ -3881,7 +4220,8 @@
       "instructor": "Ed Will Jr.",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUSI 7A",
@@ -3892,7 +4232,8 @@
       "instructor": "Ed Will Jr.",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUSI 7B",
@@ -3903,7 +4244,8 @@
       "instructor": "Ed Will Jr.",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUSI 7C",
@@ -3914,7 +4256,8 @@
       "instructor": "Ed Will Jr.",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "MUSI 7D",
@@ -3925,7 +4268,8 @@
       "instructor": "Ed Will Jr.",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "OCEA 1",
@@ -3936,7 +4280,8 @@
       "instructor": "Eric Tangumonkem",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "OCEA 1",
@@ -3947,7 +4292,8 @@
       "instructor": "Ewa Burchard",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "OCEA 1",
@@ -3958,7 +4304,8 @@
       "instructor": "Ewa Burchard",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PHIL 1",
@@ -3969,7 +4316,8 @@
       "instructor": "Andrew Rehfeld",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PHIL 1",
@@ -3980,7 +4328,8 @@
       "instructor": "Andrew Rehfeld",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PHIL 1C",
@@ -3991,7 +4340,8 @@
       "instructor": "Timothy Chatman",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PHIL 1C",
@@ -4002,7 +4352,8 @@
       "instructor": "Andrew Rehfeld",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PHIL 3",
@@ -4013,7 +4364,8 @@
       "instructor": "Miguel Endara Jr",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PHIL 4",
@@ -4024,7 +4376,8 @@
       "instructor": "Andrew Rehfeld",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PHIL 6",
@@ -4035,7 +4388,8 @@
       "instructor": "Andrew Rehfeld",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PHIL 7",
@@ -4046,7 +4400,8 @@
       "instructor": "Andrew Rehfeld",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PHIL 9",
@@ -4057,7 +4412,8 @@
       "instructor": "Timothy Chatman",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PHSC 2",
@@ -4068,7 +4424,8 @@
       "instructor": "Lisa Schmidt",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PHSC 2",
@@ -4079,7 +4436,8 @@
       "instructor": "Ashley Vizenor",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PHYS 2A",
@@ -4090,18 +4448,32 @@
       "instructor": "Antonio Garcia Vallejo",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "PHYS 2A",
+      "title": "General Physics I: Mechanics of Solids and Fluids",
+      "modality": "in_person",
+      "term": "Fall 2026",
+      "units": "4",
+      "instructor": "Antonio Garcia Vallejo",
+      "section": "0",
+      "description": "Traditional (Fully In-Person) · Barstow",
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "POLS 3",
-      "title": "Introduction to International Relations (Formerly offered as POLI 3)",
+      "title": "Introduction to International Relations (formerly offered as POLI 3)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Vincent Lovato",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "POLS C1000",
@@ -4112,7 +4484,8 @@
       "instructor": "Roger Marietta",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "POLS C1000",
@@ -4123,7 +4496,8 @@
       "instructor": "Angela Cranon-Charles",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "POLS C1000",
@@ -4134,7 +4508,8 @@
       "instructor": "Vincent Lovato",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 1",
@@ -4145,7 +4520,8 @@
       "instructor": "Gustavo Bento",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 1",
@@ -4156,7 +4532,8 @@
       "instructor": "Robin Cornell",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 1",
@@ -4167,7 +4544,8 @@
       "instructor": "Violet Rudd",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 1",
@@ -4178,7 +4556,8 @@
       "instructor": "Jaime Rodriguez",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 1",
@@ -4189,7 +4568,8 @@
       "instructor": "Emaly Brann",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 1",
@@ -4200,7 +4580,8 @@
       "instructor": "Nicole Ulivarri Locke",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex ·    Ft. Irwin",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 1",
@@ -4211,7 +4592,8 @@
       "instructor": "Nicole Ulivarri Locke",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 1",
@@ -4222,7 +4604,8 @@
       "instructor": "Brittany Edmond",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 1",
@@ -4233,7 +4616,8 @@
       "instructor": "Gustavo Bento",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 11",
@@ -4244,7 +4628,8 @@
       "instructor": "Gustavo Bento",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 11",
@@ -4255,7 +4640,8 @@
       "instructor": "Tanja Addison",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 11",
@@ -4266,7 +4652,8 @@
       "instructor": "Gustavo Bento",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 12",
@@ -4277,7 +4664,8 @@
       "instructor": "Kristina Tyler",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 14",
@@ -4288,7 +4676,8 @@
       "instructor": "Deborah Faulkenberry",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 14",
@@ -4299,7 +4688,8 @@
       "instructor": "Deborah Faulkenberry",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 15",
@@ -4310,7 +4700,8 @@
       "instructor": "Emaly Brann",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 2",
@@ -4321,7 +4712,8 @@
       "instructor": "Erika Ortiz",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 2",
@@ -4332,7 +4724,8 @@
       "instructor": "Aleah Jameson Goodvich",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 2",
@@ -4343,7 +4736,8 @@
       "instructor": "Gustavo Bento",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 2",
@@ -4354,7 +4748,8 @@
       "instructor": "Tanja Addison",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 2",
@@ -4365,7 +4760,8 @@
       "instructor": "Nicole Ulivarri Locke",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) Hyflex ·    Ft. Irwin",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "PSYC 2",
@@ -4376,7 +4772,8 @@
       "instructor": "Nicole Ulivarri Locke",
       "section": "0",
       "description": "Hyb/Web Conf (F2F/Synch) Hyflx ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "SOCI 1",
@@ -4387,7 +4784,8 @@
       "instructor": "Dawn Howey",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "SOCI 1",
@@ -4398,7 +4796,8 @@
       "instructor": "Dawn Howey",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "SOCI 1",
@@ -4409,7 +4808,8 @@
       "instructor": "Dawn Howey",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "SOCI 1",
@@ -4420,18 +4820,20 @@
       "instructor": "Amy Andrada",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "SOCI 1",
-      "title": "Introduction to Sociology (Formerly offered as SOCI 1)",
+      "title": "Introduction to Sociology (formerly offered as SOCI 1)",
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "3",
       "instructor": "Dawn Howey",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "SOCI 10",
@@ -4442,7 +4844,8 @@
       "instructor": "Dawn Howey",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "SOCI 2",
@@ -4453,7 +4856,8 @@
       "instructor": "Dawn Howey",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "SOCI 20",
@@ -4464,7 +4868,8 @@
       "instructor": "Joanna Escalante",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "SOCI 9",
@@ -4475,7 +4880,8 @@
       "instructor": "Dawn Howey",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "SPAN 1A",
@@ -4486,7 +4892,8 @@
       "instructor": "Hortencia Mancilla",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "SPAN 1A",
@@ -4497,7 +4904,8 @@
       "instructor": "Claudia Salamanca",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "STAT C1000",
@@ -4508,7 +4916,8 @@
       "instructor": "Peter Esperanza",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "STAT C1000",
@@ -4519,7 +4928,8 @@
       "instructor": "Carl Yuan",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "STAT C1000",
@@ -4530,7 +4940,8 @@
       "instructor": "Sona Vartanian",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "STAT C1000",
@@ -4541,7 +4952,8 @@
       "instructor": "Jose Rubio",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "STAT C1000",
@@ -4552,7 +4964,8 @@
       "instructor": "Rozaena Naim",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "STAT C1000",
@@ -4563,7 +4976,8 @@
       "instructor": "Sona Vartanian",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "STAT C1000",
@@ -4574,7 +4988,8 @@
       "instructor": "Sona Vartanian",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "STAT C1000",
@@ -4585,7 +5000,8 @@
       "instructor": "Carlos Orrala",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "STAT C1000",
@@ -4596,40 +5012,44 @@
       "instructor": "Duy Tran",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "STAT C1000",
-      "title": "Introduction to Statistics (Formerly offered as MATH 2)",
+      "title": "Introduction to Statistics (formerly offered as MATH 2)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "4",
       "instructor": "Rodolfo Duque Jr.",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "STAT C1000",
-      "title": "Introduction to Statistics (Formerly offered as MATH 2)",
+      "title": "Introduction to Statistics (formerly offered as MATH 2)",
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "4",
       "instructor": "Rodolfo Duque Jr.",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "STAT C1000",
-      "title": "Introduction to Statistics (Formerly offered as MATH 2)",
+      "title": "Introduction to Statistics (formerly offered as MATH 2)",
       "modality": "online",
       "term": "Fall 2026",
       "units": "4",
       "instructor": "Ayoub Batarseh",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "TART 1",
@@ -4640,7 +5060,8 @@
       "instructor": "Amy Ross",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "TART 14A",
@@ -4651,7 +5072,8 @@
       "instructor": "Amy Ross",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "TART 14B",
@@ -4662,7 +5084,8 @@
       "instructor": "Amy Ross",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "TART 14C",
@@ -4673,7 +5096,8 @@
       "instructor": "Amy Ross",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "TART 14D",
@@ -4684,7 +5108,8 @@
       "instructor": "Amy Ross",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "TART 3",
@@ -4695,7 +5120,8 @@
       "instructor": "Amy Ross",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "TART 5A",
@@ -4706,7 +5132,8 @@
       "instructor": "Amy Ross",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "TART 5B",
@@ -4717,7 +5144,8 @@
       "instructor": "Amy Ross",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "TART 5C",
@@ -4728,7 +5156,8 @@
       "instructor": "Amy Ross",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "TART 5D",
@@ -4739,7 +5168,8 @@
       "instructor": "Amy Ross",
       "section": "0",
       "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 50A",
@@ -4750,7 +5180,8 @@
       "instructor": "Brian Packer",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 50A",
@@ -4761,7 +5192,8 @@
       "instructor": "Robert Sheldon",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 50A",
@@ -4772,7 +5204,8 @@
       "instructor": "Michael Ocampo",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 51",
@@ -4783,7 +5216,8 @@
       "instructor": "Brian Packer",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 52",
@@ -4794,7 +5228,8 @@
       "instructor": "Brian Packer",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 54A",
@@ -4805,7 +5240,8 @@
       "instructor": "Brian Packer",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 56",
@@ -4816,7 +5252,8 @@
       "instructor": "Cody Jeffers",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 56",
@@ -4827,7 +5264,8 @@
       "instructor": "Joshua O&#39;Neal Sr.",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 57A",
@@ -4838,7 +5276,8 @@
       "instructor": "Michael Ocampo",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 57B",
@@ -4849,7 +5288,8 @@
       "instructor": "Michael Ocampo",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 58A",
@@ -4860,7 +5300,8 @@
       "instructor": "Erik Langarica",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 58B",
@@ -4871,7 +5312,8 @@
       "instructor": "Erik Langarica",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     },
     {
       "code": "WELD 58C",
@@ -4882,7 +5324,8 @@
       "instructor": "Erik Langarica",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch"
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
     }
   ]
 }

@@ -3,26 +3,1123 @@
   "name": "Imperial Valley College",
   "url": "https://www.imperial.edu/",
   "live": true,
-  "courseCount": 1,
+  "courseCount": 12,
   "modalityCoverage": 0,
   "method": "auto",
   "source": "web-search",
   "extractUrl": "https://kxoradio.com/index.php/news/15648-imperial-valley-college",
   "status": "live",
-  "lastStatus": "ok: 1 courses via auto (auto-learned)",
-  "reason": "Partial capture — only 1 course(s) scraped, not the full schedule.",
+  "lastStatus": "ok: 12 courses via cvc",
+  "reason": "Partial capture — only 12 course(s) scraped, not the full schedule.",
   "courses": [
     {
-      "code": "FM107",
-      "title": "5 Playlist",
-      "modality": "in_person",
-      "modalityKnown": false,
-      "term": null,
-      "units": null,
-      "instructor": null,
-      "section": null,
-      "description": null,
-      "url": "https://kxoradio.com/index.php/news/15648-imperial-valley-college"
+      "code": "AIS106",
+      "title": "Indigenous Peoples of North America",
+      "modality": "online",
+      "term": "Aug 17 - Oct 9",
+      "units": "3.0",
+      "instructor": "Yuumi Danner, Arturo Marquez Jr.",
+      "section": "1820871",
+      "description": "An introductory course studying native cultures of the United States, northern Mexico, and Canada. This course covers the history of research based on archaeological and ethno-historical data, such as prehistory and early migration into the Americas. Linguistic, cultural, and religious diversity of the various Native American nations; the diverse geography and environment from the Arctic to the deserts of the American Southwest; the Great Basin; the Columbia Plateau region, and the Great Plains. Coastal areas of the Atlantic and Pacific regions, the impact of European colonialism on Native American cultures and contemporary issues will be discussed. (Same as ANTH 106) (CSU/UC)",
+      "url": "https://search.cvc.edu/courses/1820871?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Oct 9",
+        "cvcCourseId": "1820871",
+        "cvcUrl": "https://search.cvc.edu/courses/1820871?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Yuumi Danner",
+          "Arturo Marquez Jr."
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "15359",
+            "dates": "Jan 5 to Feb 4",
+            "professor": "Yuumi Danner",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "21271",
+            "dates": "Feb 17 to Apr 17",
+            "professor": "Arturo Marquez Jr.",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "30295",
+            "dates": "Jun 22 to Jul 30",
+            "professor": "Arturo Marquez Jr.",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10738",
+            "dates": "Aug 17 to Oct 9",
+            "professor": "Arturo Marquez Jr.",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "11423",
+            "dates": "Aug 11 to Oct 4",
+            "professor": "Arturo Marquez Jr.",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 5
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "ANTH106",
+      "title": "Indigenous Peoples of North America",
+      "modality": "online",
+      "term": "Aug 17 - Oct 9",
+      "units": "3.0",
+      "instructor": "Yuumi Danner, Arturo Marquez Jr.",
+      "section": "1055225",
+      "description": "An introductory course studying native cultures of the United States, northern Mexico, and Canada. This course covers the history of research based on archaeological and ethno-historical data, such as prehistory and early migration into the Americas. Linguistic, cultural, and religious diversity of the various Native American nations; the diverse geography and environment from the Arctic to the deserts of the American Southwest; the Great Basin; the Columbia Plateau region, and the Great Plains. Coastal areas of the Atlantic and Pacific regions, the impact of European colonialism on Native American cultures and contemporary issues will be discussed. (Same as AIS 106) (CSU/UC)",
+      "url": "https://search.cvc.edu/courses/1055225?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Oct 9",
+        "cvcCourseId": "1055225",
+        "cvcUrl": "https://search.cvc.edu/courses/1055225?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Yuumi Danner",
+          "Arturo Marquez Jr."
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "15360",
+            "dates": "Jan 5 to Feb 4",
+            "professor": "Yuumi Danner",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "21272",
+            "dates": "Feb 17 to Apr 17",
+            "professor": "Arturo Marquez Jr.",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10739",
+            "dates": "Aug 17 to Oct 9",
+            "professor": "Arturo Marquez Jr.",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "11424",
+            "dates": "Aug 11 to Oct 4",
+            "professor": "Arturo Marquez Jr.",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 4
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "PSY206",
+      "title": "Social Psychology",
+      "modality": "online",
+      "term": "Oct 12 - Dec 12",
+      "units": "3.0",
+      "instructor": "Brenda Estrada, Nicole Rodiles, Robert Wyatt",
+      "section": "1059693",
+      "description": "The study of how personality and behavior are influenced by the social environment. The conceptual and research focus is on the relationship between the individual and society. This course includes such topics as: self-concept and social identity, group behavior and group membership. (Same as SOC 206) (C-ID: PSY 170) (CSU/UC)",
+      "url": "https://search.cvc.edu/courses/1059693?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Oct 12",
+        "endDate": "Dec 12",
+        "cvcCourseId": "1059693",
+        "cvcUrl": "https://search.cvc.edu/courses/1059693?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Synchronous",
+          "Asynchronous"
+        ],
+        "professors": [
+          "Brenda Estrada",
+          "Nicole Rodiles",
+          "Robert Wyatt"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "21449",
+            "dates": "Mar 2 to Jun 12",
+            "professor": "Brenda Estrada",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "10179",
+            "dates": "Oct 12 to Dec 12",
+            "professor": "Nicole Rodiles",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10330",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Nicole Rodiles",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "11494",
+            "dates": "Aug 25 to Dec 6",
+            "professor": "Robert Wyatt",
+            "format": "Synchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 4
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "SOC206",
+      "title": "Social Psychology",
+      "modality": "online",
+      "term": "Oct 12 - Dec 12",
+      "units": "3.0",
+      "instructor": "Nicole Rodiles",
+      "section": "1059694",
+      "description": "The study of how personality and behavior are influenced by the social environment. The conceptual and research focus is on the relationship between the individual and society. This course includes such topics as: self-concept and social identity, group behavior and group membership. (Same as PSY 206) (C-ID: PSY 170) (CSU/UC)",
+      "url": "https://search.cvc.edu/courses/1059694?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Oct 12",
+        "endDate": "Dec 12",
+        "cvcCourseId": "1059694",
+        "cvcUrl": "https://search.cvc.edu/courses/1059694?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Nicole Rodiles"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "10178",
+            "dates": "Oct 12 to Dec 12",
+            "professor": "Nicole Rodiles",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10329",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Nicole Rodiles",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "SOC180",
+      "title": "La Chicana",
+      "modality": "online",
+      "term": "Aug 17 - Oct 9",
+      "units": "3.0",
+      "instructor": "Barbara Reyes",
+      "section": "12805434",
+      "description": "This course provides students with a basic understanding of the Chicana/Mexican-American women in American society in historical and sociological perspective. The course explores the intersections of gender, race, ethnicity, and socio-economic class in Chicana identity and experiences. Themes include power and resistance; work, family and culture; cultural representations, and the interplay of social process on the development of identity. This course is designed for all students interested in Chicana(o) studies and students who are interested in a broader understanding of the principles, methodologies, value systems, and ethics employed in social scientific inquiry. (Same as CHIC 180) (CSU/UC)",
+      "url": "https://search.cvc.edu/courses/12805434?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=sociology&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Oct 9",
+        "cvcCourseId": "12805434",
+        "cvcUrl": "https://search.cvc.edu/courses/12805434?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=sociology&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Barbara Reyes"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "21482",
+            "dates": "Apr 20 to Jun 12",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20932",
+            "dates": "Feb 17 to Apr 17",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20934",
+            "dates": "Feb 17 to Jun 12",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "30168",
+            "dates": "Jun 22 to Jul 30",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10826",
+            "dates": "Oct 12 to Dec 12",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10453",
+            "dates": "Oct 12 to Dec 12",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10451",
+            "dates": "Aug 17 to Oct 9",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10952",
+            "dates": "Oct 6 to Dec 6",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10950",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "11525",
+            "dates": "Oct 6 to Dec 6",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 10
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "ENVS110",
+      "title": "Environmental Science",
+      "modality": "online",
+      "term": "Aug 17 - Dec 12",
+      "units": "3.0",
+      "instructor": "Patrick Pauley, Baldev Singh, Michael Kanyi",
+      "section": "1055221",
+      "description": "This course is designed to provide students with an overview and understanding of the relationships between human populations and the natural environment. The class will focus on basic concepts of science and ecosystem theory, human impacts on the biosphere, air, water, land, and environmental problems faced by the Imperial Valley that have regional and global consequences, and some of the proposed solutions. Field trips and activities may be included in this course. (Same as AG 110) (CSU, UC)",
+      "url": "https://search.cvc.edu/courses/1055221?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 12",
+        "cvcCourseId": "1055221",
+        "cvcUrl": "https://search.cvc.edu/courses/1055221?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous",
+          "Synchronous"
+        ],
+        "professors": [
+          "Patrick Pauley",
+          "Baldev Singh",
+          "Michael Kanyi"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "15015",
+            "dates": "Jan 5 to Feb 4",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20005",
+            "dates": "Feb 17 to Apr 17",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20009",
+            "dates": "Feb 17 to Jun 12",
+            "professor": "Baldev Singh",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "21182",
+            "dates": "Feb 17 to Jun 12",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20011",
+            "dates": "Feb 17 to Jun 12",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20003",
+            "dates": "Feb 17 to Jun 12",
+            "professor": "Michael Kanyi",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20013",
+            "dates": "Feb 17 to Jun 12",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20007",
+            "dates": "Apr 20 to Jun 12",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "30013",
+            "dates": "Jun 22 to Jul 30",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10288",
+            "dates": "Aug 17 to Dec 12",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10568",
+            "dates": "Aug 17 to Dec 12",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10006",
+            "dates": "Aug 17 to Dec 12",
+            "professor": "Michael Kanyi",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10256",
+            "dates": "Aug 17 to Dec 12",
+            "professor": "Baldev Singh",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "10267",
+            "dates": "Aug 17 to Dec 12",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10004",
+            "dates": "Oct 12 to Dec 12",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10002",
+            "dates": "Aug 17 to Oct 9",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10469",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "11235",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Michael Kanyi",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10004",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10006",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10002",
+            "dates": "Aug 11 to Oct 4",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10448",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Baldev Singh",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "10526",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 23
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "AG110",
+      "title": "Environmental Science",
+      "modality": "online",
+      "term": "Aug 17 - Dec 12",
+      "units": "3.0",
+      "instructor": "Patrick Pauley, Baldev Singh, Michael Kanyi",
+      "section": "1066072",
+      "description": "This course is designed to provide students with an overview and understanding of the relationships between human populations and the natural environment. The class will focus on basic concepts of science and ecosystem theory, human impacts on the biosphere, air, water, land, and environmental problems faced by the Imperial Valley that have regional and global consequences, and some of the proposed solutions. Field trips and activities may be included in this course. (Same as ENVS 110) (CSU, UC)",
+      "url": "https://search.cvc.edu/courses/1066072?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 12",
+        "cvcCourseId": "1066072",
+        "cvcUrl": "https://search.cvc.edu/courses/1066072?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous",
+          "Synchronous"
+        ],
+        "professors": [
+          "Patrick Pauley",
+          "Baldev Singh",
+          "Michael Kanyi"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "15014",
+            "dates": "Jan 5 to Feb 4",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20006",
+            "dates": "Apr 20 to Jun 12",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20012",
+            "dates": "Feb 17 to Jun 12",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20010",
+            "dates": "Feb 17 to Jun 12",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20004",
+            "dates": "Feb 17 to Apr 17",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20008",
+            "dates": "Feb 17 to Jun 12",
+            "professor": "Baldev Singh",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "21181",
+            "dates": "Feb 17 to Jun 12",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20002",
+            "dates": "Feb 17 to Jun 12",
+            "professor": "Michael Kanyi",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "30014",
+            "dates": "Jun 22 to Jul 30",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10001",
+            "dates": "Aug 17 to Oct 9",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10005",
+            "dates": "Aug 17 to Dec 12",
+            "professor": "Michael Kanyi",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10567",
+            "dates": "Aug 17 to Dec 12",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10287",
+            "dates": "Aug 17 to Dec 12",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10266",
+            "dates": "Aug 17 to Dec 12",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10255",
+            "dates": "Aug 17 to Dec 12",
+            "professor": "Baldev Singh",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "10003",
+            "dates": "Oct 12 to Dec 12",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10447",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Baldev Singh",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "10003",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10468",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10525",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10001",
+            "dates": "Aug 11 to Oct 4",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10005",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Patrick Pauley",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "11234",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Michael Kanyi",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 23
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "ART220",
+      "title": "Drawing III",
+      "modality": "online",
+      "term": "Aug 17 - Dec 12",
+      "units": "3.0",
+      "instructor": "Douglas Angulo",
+      "section": "12805341",
+      "description": "Prerequisite: ART 120 and ART 122 with a grade of 'C' or better. An exploration of personalized approaches to content and materials to address complex subject matter and concepts using a variety of drawing mediums, techniques, and methodologies at an advanced intermediate drawing level. Additional materials fee applies. (CSU, UC)",
+      "url": "https://search.cvc.edu/courses/12805341?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=art&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 12",
+        "cvcCourseId": "12805341",
+        "cvcUrl": "https://search.cvc.edu/courses/12805341?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=art&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Synchronous"
+        ],
+        "professors": [
+          "Douglas Angulo"
+        ],
+        "prerequisites": "Prerequisite: ART 120 and ART 122 with a grade of 'C' or better.",
+        "sections": [
+          {
+            "crn": "20212",
+            "dates": "Feb 17 to Jun 12",
+            "professor": "Douglas Angulo",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "10112",
+            "dates": "Aug 17 to Dec 12",
+            "professor": "Douglas Angulo",
+            "format": "Synchronous",
+            "notes": null
+          },
+          {
+            "crn": "10216",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Douglas Angulo",
+            "format": "Synchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "MUS220",
+      "title": "Music Theory III",
+      "modality": "online",
+      "term": "Aug 17 - Dec 12",
+      "units": "3.0",
+      "instructor": "Hope Davis",
+      "section": "1059687",
+      "description": "Prerequisite: MUS 122 with a grade of 'C' or better. A comprehensive study of the theory of music to include skills and creative experiences in traditional harmony. An introduction to 20th century harmonic and melodic systems. (C-ID: MUS 140) (CSU/UC)",
+      "url": "https://search.cvc.edu/courses/1059687?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=music&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 12",
+        "cvcCourseId": "1059687",
+        "cvcUrl": "https://search.cvc.edu/courses/1059687?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=music&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Hope Davis"
+        ],
+        "prerequisites": "Prerequisite: MUS 122 with a grade of 'C' or better.",
+        "sections": [
+          {
+            "crn": "10128",
+            "dates": "Aug 17 to Dec 12",
+            "professor": "Hope Davis",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10243",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Hope Davis",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "MUS110",
+      "title": "Musicianship I",
+      "modality": "online",
+      "term": "Aug 17 - Oct 9",
+      "units": "1.0",
+      "instructor": "Hope Davis",
+      "section": "1055237",
+      "description": "This course is designed to present basic skills and theory of music for persons interested in a background for appreciation of or further studies in music. Skills to be studied and developed are sight-singing, ear-training, and keyboard harmony. (C-ID: MUS 125) (CSU/UC)",
+      "url": "https://search.cvc.edu/courses/1055237?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=music&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 46,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Oct 9",
+        "cvcCourseId": "1055237",
+        "cvcUrl": "https://search.cvc.edu/courses/1055237?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=music&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Hope Davis"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "10124",
+            "dates": "Aug 17 to Oct 9",
+            "professor": "Hope Davis",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10231",
+            "dates": "Aug 11 to Oct 18",
+            "professor": "Hope Davis",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "MUS210",
+      "title": "Musicianship III",
+      "modality": "online",
+      "term": "Aug 17 - Oct 9",
+      "units": "1.0",
+      "instructor": "Hope Davis",
+      "section": "1055239",
+      "description": "This course applies and develops rhythmic, melodic, and harmonic skills through sight-singing, ear-training, analysis, and dictation. (C-ID: MUS 145) (CSU/UC)",
+      "url": "https://search.cvc.edu/courses/1055239?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=music&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 46,
+        "zeroTextbookCost": true,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Oct 9",
+        "cvcCourseId": "1055239",
+        "cvcUrl": "https://search.cvc.edu/courses/1055239?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=music&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Hope Davis"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "10127",
+            "dates": "Aug 17 to Oct 9",
+            "professor": "Hope Davis",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10242",
+            "dates": "Aug 11 to Oct 18",
+            "professor": "Hope Davis",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "CHIC180",
+      "title": "La Chicana",
+      "modality": "online",
+      "term": "Aug 17 - Oct 9",
+      "units": "3.0",
+      "instructor": "Barbara Reyes",
+      "section": "12805366",
+      "description": "This course provides students with a basic understanding of the Chicana/Mexican-American women in American society in historical and sociological perspective. The course explores the intersections of gender, race, ethnicity, and socio-economic class in Chicana identity and experiences. Themes include power and resistance; work, family and culture; cultural representations, and the interplay of social process on the development of identity. This course is designed for all students interested in Chicana(o) studies and students who are interested in a broader understanding of the principles, methodologies, value systems, and ethics employed in social scientific inquiry. (Same as SOC 180) (CSU/UC)",
+      "url": "https://search.cvc.edu/courses/12805366?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Oct 9",
+        "cvcCourseId": "12805366",
+        "cvcUrl": "https://search.cvc.edu/courses/12805366?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=557&filter%5Btransferability%5D%5B%5D=articulation",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Barbara Reyes"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "20933",
+            "dates": "Feb 17 to Apr 17",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "20935",
+            "dates": "Feb 17 to Jun 12",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "30200",
+            "dates": "Jun 22 to Jul 30",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "30169",
+            "dates": "Jun 22 to Jul 30",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10452",
+            "dates": "Oct 12 to Dec 12",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10827",
+            "dates": "Oct 12 to Dec 12",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10450",
+            "dates": "Aug 17 to Oct 9",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10951",
+            "dates": "Oct 6 to Dec 6",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "11526",
+            "dates": "Oct 6 to Dec 6",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "10949",
+            "dates": "Aug 11 to Dec 6",
+            "professor": "Barbara Reyes",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 10
+      },
+      "source": "cvc"
     }
   ]
 }

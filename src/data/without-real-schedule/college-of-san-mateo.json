@@ -9,7 +9,7 @@
   "source": "web-search",
   "extractUrl": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp",
   "status": "live",
-  "lastStatus": "ok: 7 courses via auto (auto-learned)",
+  "lastStatus": "ok: 7 courses via auto",
   "reason": "Partial capture — only 7 course(s) scraped, not the full schedule.",
   "courses": [
     {
@@ -22,7 +22,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp"
+      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp",
+      "source": "site"
     },
     {
       "code": "May 21",
@@ -34,7 +35,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp"
+      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp",
+      "source": "site"
     },
     {
       "code": "May 18",
@@ -46,7 +48,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp"
+      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp",
+      "source": "site"
     },
     {
       "code": "May 19",
@@ -58,7 +61,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp"
+      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp",
+      "source": "site"
     },
     {
       "code": "May 20",
@@ -70,7 +74,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp"
+      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp",
+      "source": "site"
     },
     {
       "code": "May 18",
@@ -82,7 +87,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp"
+      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp",
+      "source": "site"
     },
     {
       "code": "May 15",
@@ -94,7 +100,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp"
+      "url": "https://www.collegeofsanmateo.edu/finalexams/spring2026.asp",
+      "source": "site"
     }
   ]
 }

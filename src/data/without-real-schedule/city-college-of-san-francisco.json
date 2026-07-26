@@ -9,7 +9,7 @@
   "source": "homepage",
   "extractUrl": "https://www.ccsf.edu/courses",
   "status": "live",
-  "lastStatus": "ok: 16 courses via auto (auto-learned)",
+  "lastStatus": "ok: 16 courses via auto",
   "reason": "Partial capture — only 16 course(s) scraped, not the full schedule.",
   "courses": [
     {
@@ -22,7 +22,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.ccsf.edu/courses"
+      "url": "https://www.ccsf.edu/courses",
+      "source": "site"
     },
     {
       "code": "Units 5",
@@ -34,7 +35,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.ccsf.edu/courses"
+      "url": "https://www.ccsf.edu/courses",
+      "source": "site"
     },
     {
       "code": "Units 5",
@@ -46,7 +48,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.ccsf.edu/courses"
+      "url": "https://www.ccsf.edu/courses",
+      "source": "site"
     },
     {
       "code": "Units 5",
@@ -58,7 +61,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.ccsf.edu/courses"
+      "url": "https://www.ccsf.edu/courses",
+      "source": "site"
     },
     {
       "code": "Units 5",
@@ -70,7 +74,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.ccsf.edu/courses"
+      "url": "https://www.ccsf.edu/courses",
+      "source": "site"
     },
     {
       "code": "Units 5",
@@ -82,7 +87,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.ccsf.edu/courses"
+      "url": "https://www.ccsf.edu/courses",
+      "source": "site"
     },
     {
       "code": "Units 5",
@@ -94,7 +100,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.ccsf.edu/courses"
+      "url": "https://www.ccsf.edu/courses",
+      "source": "site"
     },
     {
       "code": "Units 3",
@@ -106,7 +113,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.ccsf.edu/courses"
+      "url": "https://www.ccsf.edu/courses",
+      "source": "site"
     },
     {
       "code": "Units 3",
@@ -118,7 +126,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.ccsf.edu/courses"
+      "url": "https://www.ccsf.edu/courses",
+      "source": "site"
     },
     {
       "code": "Units 3",
@@ -130,7 +139,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.ccsf.edu/courses"
+      "url": "https://www.ccsf.edu/courses",
+      "source": "site"
     },
     {
       "code": "Units 3",
@@ -142,7 +152,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.ccsf.edu/courses"
+      "url": "https://www.ccsf.edu/courses",
+      "source": "site"
     },
     {
       "code": "Units 3",
@@ -154,7 +165,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.ccsf.edu/courses"
+      "url": "https://www.ccsf.edu/courses",
+      "source": "site"
     },
     {
       "code": "Units 3",
@@ -166,7 +178,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.ccsf.edu/courses"
+      "url": "https://www.ccsf.edu/courses",
+      "source": "site"
     },
     {
       "code": "Units 3",
@@ -178,7 +191,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.ccsf.edu/courses"
+      "url": "https://www.ccsf.edu/courses",
+      "source": "site"
     },
     {
       "code": "Units 3",
@@ -190,7 +204,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.ccsf.edu/courses"
+      "url": "https://www.ccsf.edu/courses",
+      "source": "site"
     },
     {
       "code": "Units 3",
@@ -202,7 +217,8 @@
       "instructor": null,
       "section": null,
       "description": null,
-      "url": "https://www.ccsf.edu/courses"
+      "url": "https://www.ccsf.edu/courses",
+      "source": "site"
     }
   ]
 }

@@ -1,6 +1,6 @@
 ================================================================================
  CALIFORNIA COMMUNITY COLLEGE COURSE SEARCHER — PROCESS SUMMARY
- Last updated: 2026-06-06
+ Last updated: 2026-07-26 (full Fall 2026 re-scrape)
 ================================================================================
 
 WHAT THIS IS
@@ -20,12 +20,23 @@ Node.js (Node 24), one HTML/JS/CSS frontend, and a couple of npm packages
 
 
 ================================================================================
- WHERE THINGS STAND RIGHT NOW
+ WHERE THINGS STAND RIGHT NOW  (Fall 2026 refresh, 2026-07-26)
 ================================================================================
 
   Colleges total ............ 118  (the full official CCC list)
-  LIVE (real scraped data) .. 30 colleges, ~14,131 real courses
-  SAMPLE (placeholder) ...... 88 colleges
+  With real course data ..... 109 colleges, 33,141 courses (all Fall 2026)
+                              in person 17,209 / online 14,804 / hybrid 1,128
+  Empty right now ........... 9 colleges — legitimately no data at scrape time:
+                              solano (Banner portal in summer maintenance),
+                              calbright (not on CVC, no scrapable schedule),
+                              cypress / feather-river / mendocino /
+                              mt-san-jacinto / napa-valley / riverside-city /
+                              skyline (no Fall sections posted on CVC yet —
+                              re-run `npm run scrape -- <slug>` in a few weeks)
+  Supabase (live site DB) ... PAUSED — project smypyppfwanhukvejevu rejects
+                              connections ("tenant not found"). Restore it in
+                              the Supabase dashboard, then push with:
+                              node --env-file=web/.env.local src/migrateToSupabase.js
   Server .................... http://localhost:3000
 
 In the web page, every result is tagged so you always know what's real:
