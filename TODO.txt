@@ -1,0 +1,80 @@
+================================================================================
+ TODO — Community College Searcher
+ Written: 2026-07-26 (after the Fall 2026 refresh)
+================================================================================
+
+DONE 2026-07-26 (for context)
+  - Full re-scrape of all 118 colleges for Fall 2026: 33,141 courses
+    (17,209 in person / 14,804 online / 1,128 hybrid), zero stale
+    Spring 2026 / Fall 2025 rows left.
+  - CVC online supplement run (+2,706 online courses across 27 colleges).
+  - Organized folders rebuilt (72 colleges with full real schedules).
+  - Supabase restored + refreshed dataset pushed; web app verified in the
+    browser end-to-end (page loads, Fall 2026 results render, no errors).
+
+--------------------------------------------------------------------------------
+ 1. RE-SCRAPE THE 9 EMPTY COLLEGES  (~mid-August 2026)
+--------------------------------------------------------------------------------
+These returned 0 courses on 2026-07-26 for legitimate reasons, not bugs.
+Re-run them once their Fall listings appear (check weekly until full):
+
+    npm run scrape -- solano-community-college cypress-college \
+      feather-river-college mendocino-college mt-san-jacinto-college \
+      napa-valley-college riverside-city-college skyline-college
+
+  - solano-community-college .. Banner portal was in summer maintenance
+                                (ssb.solano.edu redirected to a maintenance
+                                page). Was previously live with real modality —
+                                should come back on its own.
+  - cypress / feather-river / mendocino / mt-san-jacinto / napa-valley /
+    riverside-city / skyline .. CVC Exchange showed "0 courses" for them
+                                (Fall sections not posted to the exchange yet).
+  - calbright-college ......... permanently empty: not on CVC, no scrapable
+                                schedule. Nothing to do.
+
+Then push to Supabase again (step 3).
+
+--------------------------------------------------------------------------------
+ 2. KEEP THE DATA FRESH THROUGH THE SEMESTER
+--------------------------------------------------------------------------------
+Schedules keep changing until (and after) classes start:
+
+  - Re-run the full pipeline every few weeks during Aug-Sep:
+        npm run scrape
+        npm run cvc:supplement
+        npm run organize
+  - Around Oct-Nov 2026: Spring 2027 registration opens. The Banner adapter
+    auto-picks the newest open term, so a scrape then will start returning
+    Spring 2027 — decide whether that's wanted or whether to pin Fall 2026
+    (would need a small change to chooseTerm() in
+    src/scraper/adapters/banner.js to prefer a target term by name).
+
+--------------------------------------------------------------------------------
+ 3. PUSH TO SUPABASE AFTER EVERY LOCAL REFRESH
+--------------------------------------------------------------------------------
+The deployed site reads Supabase, not the local SQLite file. After any
+scrape, publish with:
+
+    node --env-file=web/.env.local src/migrateToSupabase.js
+
+  - NOTE: `source web/.env.local` breaks in zsh (unquoted `&` in a value on
+    line 6) — use Node's --env-file flag as above, or quote that value.
+  - NOTE: the free-tier Supabase project auto-pauses after ~1 week of
+    inactivity ("tenant not found" from the pooler = paused). Restore it in
+    the Supabase dashboard first. Regular pushes also keep it awake.
+
+--------------------------------------------------------------------------------
+ 4. NICE-TO-HAVES / BACKLOG
+--------------------------------------------------------------------------------
+  - Find more Banner colleges: only the ones linking Banner from their
+    homepage were auto-detected. Probing reg-prod / ssb host patterns could
+    add more colleges with REAL modality data for free (adapter exists).
+  - Catalog-sourced colleges have real courses but default "in person"
+    modality — real modality only comes from live schedules (Banner/CVC).
+  - Port 3000 conflict: another project (Race Hawks backend_v2) often runs
+    on :3000. Run this app's local server with PORT=3456 node src/server.js
+    or the web app with: cd web && npx next dev -p 3457
+  - Consider automating the refresh (cron / scheduled job) instead of
+    running it by hand each time.
+
+================================================================================
