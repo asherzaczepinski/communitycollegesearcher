@@ -139,7 +139,7 @@ export async function GET(req) {
 
   const rows = await query(
     `SELECT co.code, co.title, co.modality, co.term, co.units, co.instructor, co.description,
-            co.meta, c.name AS college, c.url AS college_url, c.slug AS college_slug,
+            co.url, co.meta, c.name AS college, c.url AS college_url, c.slug AS college_slug,
             ${distExpr} AS distance_mi
      FROM courses co JOIN colleges c ON c.id = co.college_id
      WHERE ${whereSql}

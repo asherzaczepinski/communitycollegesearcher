@@ -227,7 +227,13 @@ function Row({ c }) {
     <article className="row">
       <div className="row-head">
         <h3>
-          <span className="code">{c.code}</span>{c.title}
+          {c.url ? (
+            <a className="course-link" href={c.url} target="_blank" rel="noopener">
+              <span className="code">{c.code}</span>{c.title}
+            </a>
+          ) : (
+            <><span className="code">{c.code}</span>{c.title}</>
+          )}
         </h3>
         <span className={`fmt ${c.modality}`}>{c.modality === 'in_person' ? 'In person' : c.modality === 'online' ? 'Online' : 'Hybrid'}</span>
       </div>

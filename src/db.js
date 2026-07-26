@@ -124,6 +124,26 @@ export function markScraped(collegeId, status) {
 
 // --- Courses --------------------------------------------------------------
 
+// Some sources (Banner's JSON API especially) return text HTML-encoded, e.g.
+// "Business Organization &amp; Mgmt". Decode entities once, centrally, so no
+// adapter can leak them into the DB. `&amp;` is decoded last so a literal
+// "&amp;#39;" can't double-decode.
+const NAMED_ENTITIES = {
+  lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ',
+  ndash: '–', mdash: '—', rsquo: '’', lsquo: '‘', rdquo: '”', ldquo: '“',
+  aacute: 'á', eacute: 'é', iacute: 'í', oacute: 'ó', uacute: 'ú',
+  Aacute: 'Á', Eacute: 'É', Iacute: 'Í', Oacute: 'Ó', Uacute: 'Ú',
+  ntilde: 'ñ', Ntilde: 'Ñ', uuml: 'ü', Uuml: 'Ü', ccedil: 'ç', Ccedil: 'Ç',
+};
+export function decodeEntities(s) {
+  if (s == null) return s;
+  return String(s)
+    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
+    .replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(Number(d)))
+    .replace(/&([a-zA-Z]+);/g, (m, n) => NAMED_ENTITIES[n] ?? NAMED_ENTITIES[n.toLowerCase()] ?? m)
+    .replace(/&amp;/gi, '&');
+}
+
 const insertCourseStmt = db.prepare(`
   INSERT INTO courses (college_id, code, title, modality, term, units, instructor, section, description, url, source, meta, updated_at)
   VALUES (@college_id, @code, @title, @modality, @term, @units, @instructor, @section, @description, @url, @source, @meta, @updated_at)
@@ -151,14 +171,14 @@ export function replaceCourses(collegeId, courses) {
     for (const c of courses) {
       insertCourseStmt.run({
         college_id: collegeId,
-        code: c.code || null,
-        title: c.title,
+        code: decodeEntities(c.code) || null,
+        title: decodeEntities(c.title),
         modality: c.modality,
         term: c.term || null,
         units: c.units || null,
-        instructor: c.instructor || null,
+        instructor: decodeEntities(c.instructor) || null,
         section: c.section || null,
-        description: c.description || null,
+        description: decodeEntities(c.description) || null,
         url: c.url || null,
         source: c.source || null,
         meta: metaJson(c),
@@ -184,14 +204,14 @@ export function addCourses(collegeId, courses) {
     for (const c of courses) {
       insertCourseStmt.run({
         college_id: collegeId,
-        code: c.code || null,
-        title: c.title,
+        code: decodeEntities(c.code) || null,
+        title: decodeEntities(c.title),
         modality: c.modality,
         term: c.term || null,
         units: c.units || null,
-        instructor: c.instructor || null,
+        instructor: decodeEntities(c.instructor) || null,
         section: c.section || null,
-        description: c.description || null,
+        description: decodeEntities(c.description) || null,
         url: c.url || null,
         source: c.source || null,
         meta: metaJson(c),

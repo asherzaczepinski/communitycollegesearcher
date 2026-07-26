@@ -104,6 +104,8 @@ a:hover { text-decoration: underline; text-underline-offset: 2px; }
 .row-head { display: flex; justify-content: space-between; align-items: baseline; gap: 14px; }
 .row-head h3 { font-family: var(--serif); font-weight: 600; font-size: 1.16rem; margin: 0; line-height: 1.25; }
 .row-head .code { color: var(--accent); margin-right: 9px; font-feature-settings: "tnum"; }
+.row-head .course-link { color: inherit; text-decoration: none; }
+.row-head .course-link:hover { text-decoration: underline; text-underline-offset: 3px; }
 .fmt { font-size: 0.74rem; flex: none; color: var(--ink-soft); }
 .fmt.online { color: var(--accent); }
 .fmt.in_person { color: var(--rust); }
