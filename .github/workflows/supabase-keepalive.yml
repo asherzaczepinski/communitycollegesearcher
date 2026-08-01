@@ -9,6 +9,8 @@ on:
 jobs:
   ping:
     runs-on: ubuntu-latest
+    permissions:
+      actions: write   # lets the keepalive step re-enable this workflow via the API
     steps:
       - name: Query Supabase to reset the inactivity timer
         env:
@@ -20,3 +22,8 @@ jobs:
           PGSSLMODE: require
         run: |
           psql -tAc "select 'alive: ' || count(*) || ' courses' from courses;"
+
+      # GitHub disables scheduled workflows after 60 days without repo activity.
+      # This re-enables the workflow via the API on every run, resetting that clock.
+      - name: Keep this workflow enabled
+        uses: gautamkrishnar/keepalive-workflow@v2
