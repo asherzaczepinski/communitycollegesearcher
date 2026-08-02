@@ -24,6 +24,13 @@ jobs:
           psql -tAc "select 'alive: ' || count(*) || ' courses' from courses;"
 
       # GitHub disables scheduled workflows after 60 days without repo activity.
-      # This re-enables the workflow via the API on every run, resetting that clock.
+      # Re-enabling the workflow via the API on every run resets that clock.
+      # (Done inline — the keepalive-workflow action this used to rely on was
+      # TOS-blocked by GitHub, which made every run fail at setup.)
       - name: Keep this workflow enabled
-        uses: gautamkrishnar/keepalive-workflow@v2
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api --method PUT \
+            "repos/${GITHUB_REPOSITORY}/actions/workflows/supabase-keepalive.yml/enable"
+          echo "Workflow re-enabled; 60-day inactivity clock reset."
