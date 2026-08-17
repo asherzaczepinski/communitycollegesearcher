@@ -120,6 +120,7 @@ a:hover { text-decoration: underline; text-underline-offset: 2px; }
 .tag.area { color: var(--accent-ink); border-color: #c4dccb; }
 .tag.ztc { color: var(--accent-ink); border-color: #c4dccb; }
 .tag.quality { color: #6b4ba8; border-color: #d8cdef; }
+.tag.cid { color: #1d4ed8; background: #eaf0ff; border-color: #bcd0ff; font-weight: 600; }
 
 .more { margin-top: 10px; padding: 0; background: none; border: none; color: var(--accent); font: inherit; font-size: 0.86rem; cursor: pointer; }
 .more:hover { text-decoration: underline; text-underline-offset: 2px; }

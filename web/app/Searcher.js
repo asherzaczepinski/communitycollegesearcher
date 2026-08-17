@@ -11,7 +11,7 @@ const PAGE = 60;
 
 const blank = {
   q: '', subject: '', college: 'all', modality: 'all', transfer: '',
-  ztc: false, quality: false, format: '', sort: 'relevance',
+  ztc: false, quality: false, cid: false, format: '', sort: 'relevance',
 };
 
 function useDebounced(value, ms) {
@@ -62,13 +62,14 @@ export default function Searcher() {
     if (f.transfer) sp.set('transfer', f.transfer);
     if (f.ztc) sp.set('ztc', '1');
     if (f.quality) sp.set('quality', '1');
+    if (f.cid) sp.set('cid', '1');
     if (f.format) sp.set('format', f.format);
     if (loc) { sp.set('lat', String(loc.lat)); sp.set('lng', String(loc.lng)); }
     sp.set('sort', f.sort);
     sp.set('limit', String(PAGE));
     sp.set('offset', String(off));
     return sp.toString();
-  }, [debouncedQ, f.subject, f.college, f.modality, f.transfer, f.ztc, f.quality, f.format, f.sort, loc]);
+  }, [debouncedQ, f.subject, f.college, f.modality, f.transfer, f.ztc, f.quality, f.cid, f.format, f.sort, loc]);
 
   // Race guard: only the most recent request is allowed to update the results,
   // so an out-of-order response can never leave stale results on screen.
@@ -91,7 +92,7 @@ export default function Searcher() {
 
   const hasMore = data.results.length < data.total;
   const activeFilters = !!f.subject + (f.college !== 'all') + (f.modality !== 'all') + !!f.transfer
-    + !!f.ztc + !!f.quality + !!f.format;
+    + !!f.ztc + !!f.quality + !!f.cid + !!f.format;
 
   return (
     <>
@@ -166,6 +167,7 @@ export default function Searcher() {
             )}
             <label className="tick"><input type="checkbox" checked={f.ztc} onChange={(e) => set('ztc', e.target.checked)} /> Zero textbook cost</label>
             <label className="tick"><input type="checkbox" checked={f.quality} onChange={(e) => set('quality', e.target.checked)} /> Quality reviewed</label>
+            <label className="tick"><input type="checkbox" checked={f.cid} onChange={(e) => set('cid', e.target.checked)} /> C-ID transfer-approved</label>
           </div>
         </div>
 
@@ -243,8 +245,9 @@ function Row({ c }) {
       </div>
       {bits && <div className="row-meta">{bits}</div>}
 
-      {(m.transferable?.length || m.zeroTextbookCost || m.qualityReviewed || areaChips.length > 0) && (
+      {(m.transferable?.length || m.zeroTextbookCost || m.qualityReviewed || m.cIdApproved || areaChips.length > 0) && (
         <div className="tags">
+          {m.cIdApproved && <span className="tag cid" title={m.cIdTitle ? `C-ID ${m.cId}: ${m.cIdTitle} — approved for transfer/articulation` : 'Approved for transfer/articulation'}>C-ID {m.cId}</span>}
           {(m.transferable || []).map((t) => <span key={t} className="tag transfer">{t}</span>)}
           {areaChips.map((a) => <span key={a} className="tag area">{a}</span>)}
           {m.zeroTextbookCost && <span className="tag ztc">$0 textbooks</span>}

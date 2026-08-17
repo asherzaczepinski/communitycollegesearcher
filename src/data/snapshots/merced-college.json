@@ -1,8 +1,580 @@
 {
   "slug": "merced-college",
-  "scrapedAt": "2026-07-26T17:22:45.616Z",
-  "count": 9,
+  "scrapedAt": "2026-08-16T22:55:18.500Z",
+  "count": 40,
   "courses": [
+    {
+      "code": "PSYC22",
+      "title": "Human Sexuality",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Sorenson, Rosa N. Hernandez, Rene Salazar",
+      "section": "1159484",
+      "description": "Begins Fall 2025 This course explores the psychology of human sexuality. Human sexuality is examined from psychological, biological, sociocultural, and historical perspectives. Scientific research is presented concerning all aspects of human sexuality in contemporary society. Specific topics include sexual anatomy and physiology, gender, sexual orientations, contraception, sexually transmitted infections, sexual dysfunction, and sex for sale. Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+      "url": "https://search.cvc.edu/courses/1159484",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": false,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1159484",
+        "cvcUrl": "https://search.cvc.edu/courses/1159484",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Sorenson",
+          "Rosa N. Hernandez",
+          "Rene Salazar"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+        "sections": [
+          {
+            "crn": "PSYC-22-52831",
+            "dates": "Mar 9 to May 1",
+            "professor": "Sorenson",
+            "format": "Asynchronous",
+            "notes": "This 8-week course is held 03/09/26 to 05/01/26."
+          },
+          {
+            "crn": "PSYC-22-52830",
+            "dates": "Mar 9 to May 1",
+            "professor": "Rosa N. Hernandez",
+            "format": "Asynchronous",
+            "notes": "This 8-week course is held 03/09/26 to 05/01/26."
+          },
+          {
+            "crn": "PSYC-22-52093",
+            "dates": "Jan 12 to May 1",
+            "professor": "Sorenson",
+            "format": "Asynchronous",
+            "notes": "This 8 week class is held from 10/20/25-12/12/25."
+          },
+          {
+            "crn": "PSYC-22-52080",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Sorenson",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "PSYC-22-52081",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Rene Salazar",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "PSYC-22-52813",
+            "dates": "Oct 20 to Dec 12",
+            "professor": "Rene Salazar",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 6
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "STATC1000",
+      "title": "Introduction to Statistics",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Bassem A. Saad, John P. Montoya, Patrick T. Mitchell, Caroline L. Dawson, Kyle B. Sugimoto, Lisa A. Diaz, Jeanne M. Witt, Lakhvir K. Atwal, Sean Golbad, Mark R. Sutterfield, Cher Yang",
+      "section": "15919955",
+      "description": "Begins Fall 2025. Effective Fall 2025, STAT-C1000 replaces MATH-10 This course is an introduction to statistical thinking and processes, including methods and concepts for discovery and decision-making using data. Topics include descriptive statistics; probability and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis including the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines. Prerequisite: Placement as determined by the college's multiple measuresýassessment process or completion of a course taught at orýabove the level of intermediate algebra.ýPreviously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+      "url": "https://search.cvc.edu/courses/15919955",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "15919955",
+        "cvcUrl": "https://search.cvc.edu/courses/15919955",
+        "geAreas": {
+          "csu": [
+            "B4 Mathematics/Quantitative Reasoning"
+          ],
+          "igetc": [
+            "2A Math"
+          ],
+          "calGetc": [
+            "2 Math/Quantitative Reasoning"
+          ]
+        },
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Bassem A. Saad",
+          "John P. Montoya",
+          "Patrick T. Mitchell",
+          "Caroline L. Dawson",
+          "Kyle B. Sugimoto",
+          "Lisa A. Diaz",
+          "Jeanne M. Witt",
+          "Lakhvir K. Atwal",
+          "Sean Golbad",
+          "Mark R. Sutterfield",
+          "Cher Yang"
+        ],
+        "prerequisites": "Prerequisite: Placement as determined by the college's multiple measuresýassessment process or completion of a course taught at orýabove the level of intermediate algebra.",
+        "sections": [
+          {
+            "crn": "STAT-C1000-12826",
+            "dates": "Jan 12 to Apr 3",
+            "professor": "Bassem A. Saad",
+            "format": "Asynchronous",
+            "notes": "This 12-week class is held from 01/12/26 to 04/03/26."
+          },
+          {
+            "crn": "STAT-C1000-12214",
+            "dates": "Jan 12 to May 1",
+            "professor": "John P. Montoya",
+            "format": "Asynchronous",
+            "notes": "Scientific calculator required; see syllabus for specifics."
+          },
+          {
+            "crn": "STAT-C1000-12210",
+            "dates": "Jan 12 to May 1",
+            "professor": "John P. Montoya",
+            "format": "Asynchronous",
+            "notes": "Scientific calculator required; see syllabus for specifics."
+          },
+          {
+            "crn": "STAT-C1000-12213",
+            "dates": "Jan 12 to May 1",
+            "professor": "Patrick T. Mitchell",
+            "format": "Asynchronous",
+            "notes": "Scientific calculator required; see syllabus for specifics."
+          },
+          {
+            "crn": "STAT-C1000-12211",
+            "dates": "Jan 12 to May 1",
+            "professor": "Caroline L. Dawson",
+            "format": "Asynchronous",
+            "notes": "Scientific calculator required; see syllabus for specifics."
+          },
+          {
+            "crn": "STAT-C1000-12222",
+            "dates": "Jan 12 to May 1",
+            "professor": "Kyle B. Sugimoto",
+            "format": "Asynchronous",
+            "notes": "Scientific calculator required; see syllabus for specifics."
+          },
+          {
+            "crn": "STAT-C1000-12215",
+            "dates": "Jan 12 to May 1",
+            "professor": "Lisa A. Diaz",
+            "format": "Asynchronous",
+            "notes": "This 8-week class is held from 03/09/26 to 05/01/26."
+          },
+          {
+            "crn": "STAT-C1000-12216",
+            "dates": "Jan 12 to May 1",
+            "professor": "Lisa A. Diaz",
+            "format": "Asynchronous",
+            "notes": "This 12-week class is held from 02/09/26 to 05/01/26. Scientific calculator required; see syllabus for specifics."
+          },
+          {
+            "crn": "STAT-C1000-12830",
+            "dates": "Mar 9 to May 1",
+            "professor": "Lisa A. Diaz",
+            "format": "Asynchronous",
+            "notes": "Scientific calculator required; see syllabus for specifics."
+          },
+          {
+            "crn": "STAT-C1000-12827",
+            "dates": "Feb 9 to May 1",
+            "professor": "Patrick T. Mitchell",
+            "format": "Asynchronous",
+            "notes": "Scientific calculator required: $10-20."
+          },
+          {
+            "crn": "STAT-C1000-12212",
+            "dates": "Jan 12 to May 1",
+            "professor": "Caroline L. Dawson",
+            "format": "Asynchronous",
+            "notes": "Scientific calculator needed; see syllabus for specifics. Webcam or ability to record video is required for this course."
+          },
+          {
+            "crn": "STAT-C1000-12224",
+            "dates": "Jan 12 to May 1",
+            "professor": "Jeanne M. Witt",
+            "format": "Asynchronous",
+            "notes": "Scientific calculator needed; see syllabus for specifics."
+          },
+          {
+            "crn": "STAT-C1000-12224",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Lakhvir K. Atwal",
+            "format": "Asynchronous",
+            "notes": "This 12-week class meets from 08/25/25 to 11/14/25. Scientific calculator needed; see syllabus for specifics."
+          },
+          {
+            "crn": "STAT-C1000-12211",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Caroline L. Dawson",
+            "format": "Asynchronous",
+            "notes": "Scientific calculator needed; see syllabus for specifics. Webcam or ability to record video is required for this course."
+          },
+          {
+            "crn": "STAT-C1000-12209",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Patrick T. Mitchell",
+            "format": "Asynchronous",
+            "notes": "Scientific calculator needed; see syllabus for specifics."
+          },
+          {
+            "crn": "STAT-C1000-12841",
+            "dates": "Aug 25 to Nov 14",
+            "professor": "John P. Montoya",
+            "format": "Asynchronous",
+            "notes": "Scientific calculator needed; see syllabus for specifics."
+          },
+          {
+            "crn": "STAT-C1000-12212",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Caroline L. Dawson",
+            "format": "Asynchronous",
+            "notes": "This 12-week class meets from 09/22/25 to 12/12/25."
+          },
+          {
+            "crn": "STAT-C1000-12207",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Sean Golbad",
+            "format": "Asynchronous",
+            "notes": "This 12-week class meets from 08/25/25 to 11/14/25."
+          },
+          {
+            "crn": "STAT-C1000-12208",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Mark R. Sutterfield",
+            "format": "Asynchronous",
+            "notes": "This 8-week class meets from 10/20/25 to 12/12/25. Scientific calculator needed; see syllabus for specifics. Open Education Resources (OER) with no additional software fees."
+          },
+          {
+            "crn": "STAT-C1000-12216",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "John P. Montoya",
+            "format": "Asynchronous",
+            "notes": "Scientific calculator needed; see syllabus for specifics."
+          },
+          {
+            "crn": "STAT-C1000-12215",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "John P. Montoya",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "STAT-C1000-12840",
+            "dates": "Sep 22 to Dec 12",
+            "professor": "Cher Yang",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "STAT-C1000-12843",
+            "dates": "Aug 25 to Nov 14",
+            "professor": "Bassem A. Saad",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "STAT-C1000-12845",
+            "dates": "Oct 20 to Dec 12",
+            "professor": "Lisa A. Diaz",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "STAT-C1000-12210",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Patrick T. Mitchell",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 25
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "PSYCC1000",
+      "title": "Introduction to Psychology",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Gwynne M. McBride, Karina Ortega, Antonio A. Rodriguez, Joanna R. Grimes, James Z. Sullivan, Rene Salazar, Jeanie M. Clifford, Rosa N. Hernandez, Alesia Marie Lindsey, Linda Suzanne Wilson",
+      "section": "15919970",
+      "description": "Begins Fall 2025. Effective Fall 2025, PSYC-C1000 replaces PYSC-01A This course is an introduction to psychology, which is the study of the mind and behavior. Students focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations. Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+      "url": "https://search.cvc.edu/courses/15919970",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "15919970",
+        "cvcUrl": "https://search.cvc.edu/courses/15919970",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Gwynne M. McBride",
+          "Karina Ortega",
+          "Antonio A. Rodriguez",
+          "Joanna R. Grimes",
+          "James Z. Sullivan",
+          "Rene Salazar",
+          "Jeanie M. Clifford",
+          "Rosa N. Hernandez",
+          "Alesia Marie Lindsey",
+          "Linda Suzanne Wilson"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+        "sections": [
+          {
+            "crn": "PSYC-C1000-52077",
+            "dates": "Jan 12 to May 1",
+            "professor": "Gwynne M. McBride",
+            "format": "Asynchronous",
+            "notes": "This 8-week course is held 03/09/26 to 05/01/26."
+          },
+          {
+            "crn": "PSYC-C1000-52073",
+            "dates": "Jan 12 to May 1",
+            "professor": "Gwynne M. McBride",
+            "format": "Asynchronous",
+            "notes": "This class is linked to STAT-C1000E-10233; registration in both sections is required."
+          },
+          {
+            "crn": "PSYC-C1000-52078",
+            "dates": "Jan 12 to May 1",
+            "professor": "Karina Ortega",
+            "format": "Asynchronous",
+            "notes": "This 8-week course is held 03/09/26 to 05/01/26."
+          },
+          {
+            "crn": "PSYC-C1000-52075",
+            "dates": "Jan 12 to May 1",
+            "professor": "Antonio A. Rodriguez",
+            "format": "Asynchronous",
+            "notes": "This 8-week class is held from 10/19/2026 to 12/11/2026"
+          },
+          {
+            "crn": "PSYC-C1000-52826",
+            "dates": "Mar 9 to May 1",
+            "professor": "Joanna R. Grimes",
+            "format": "Asynchronous",
+            "notes": "Open Educational Resources/Zero Textbook Cost: All learning materials provided at no cost to students."
+          },
+          {
+            "crn": "PSYC-C1000-52074",
+            "dates": "Jan 12 to May 1",
+            "professor": "Antonio A. Rodriguez",
+            "format": "Asynchronous",
+            "notes": "Open Educational Resources/Zero Textbook Cost: All learning materials provided at no cost to students."
+          },
+          {
+            "crn": "PSYC-C1000-52076",
+            "dates": "Jan 12 to May 1",
+            "professor": "James Z. Sullivan",
+            "format": "Asynchronous",
+            "notes": "This 8 week class is held from 10/20/25-12/12/25."
+          },
+          {
+            "crn": "PSYC-C1000-52081",
+            "dates": "Jan 12 to May 1",
+            "professor": "Rene Salazar",
+            "format": "Asynchronous",
+            "notes": "This 8 week class is held from 8/25/25-10/17/25."
+          },
+          {
+            "crn": "PSYC-C1000-52801",
+            "dates": "Mar 9 to May 1",
+            "professor": "Jeanie M. Clifford",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "PSYC-C1000-52125",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Antonio A. Rodriguez",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "PSYC-C1000-52109",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Joanna R. Grimes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "PSYC-C1000-52841",
+            "dates": "Oct 19 to Dec 11",
+            "professor": "Antonio A. Rodriguez",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "PSYC-C1000-52070",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Joanna R. Grimes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "PSYC-C1000-52110",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Rosa N. Hernandez",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "PSYC-C1000-52110",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Antonio A. Rodriguez",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "PSYC-C1000-52067",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Gwynne M. McBride",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "PSYC-C1000-52066",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Alesia Marie Lindsey",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "PSYC-C1000-52071",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Jeanie M. Clifford",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "PSYC-C1000-52070",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Antonio A. Rodriguez",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "PSYC-C1000-52825",
+            "dates": "Oct 20 to Dec 12",
+            "professor": "Joanna R. Grimes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "PSYC-C1000-52841",
+            "dates": "Aug 25 to Oct 17",
+            "professor": "Linda Suzanne Wilson",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 21
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "ENGL12",
+      "title": "Creative Writing",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Diana F. Truesdale, Jeremy T. Mumford",
+      "section": "1264547",
+      "description": "Begins Fall 2025 A course designed to provide experience in the writing of poetry, drama, fiction, and creative non-fiction and to aid the student in becoming aware of the craft of writing as described and/or demonstrated by professional writers. The class is conducted primarily as a workshop in which students read their works for constructive criticism. Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) andýENGL-C1002 (formerly ENGL-01B)ýis advised.",
+      "url": "https://search.cvc.edu/courses/1264547",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1264547",
+        "cvcUrl": "https://search.cvc.edu/courses/1264547",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Diana F. Truesdale",
+          "Jeremy T. Mumford"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) andýENGL-C1002 (formerly ENGL-01B)ýis advised.",
+        "sections": [
+          {
+            "crn": "ENGL-12-22001",
+            "dates": "Jan 12 to May 1",
+            "professor": "Diana F. Truesdale",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-12-22008",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Diana F. Truesdale",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-12-22019",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Jeremy T. Mumford",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
     {
       "code": "ENGL1C",
       "title": "Critical Thinking Across the Curriculum",
@@ -12,7 +584,7 @@
       "instructor": "Molly R. Wilson, Sean Epstein-Corbin",
       "section": "14040579",
       "description": "Begins Fall 2025 Develops critical thinking, reading, and writing skills as they apply to textual analysis of primary and secondary sources, essays, articles, and a book-length work from a range of academic and cultural contexts. Theme based. Emphasis on the techniques and principles of effective written argument in research-based writing across the disciplines. Prerequisite: Take ENGL-C1000 (formerly ENGL-01A);ýMinimum grade C,P;",
-      "url": "https://search.cvc.edu/courses/14040579?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/14040579",
       "meta": {
         "transferable": [
           "IGETC",
@@ -28,7 +600,7 @@
         "startDate": "Aug 24",
         "endDate": "Dec 11",
         "cvcCourseId": "14040579",
-        "cvcUrl": "https://search.cvc.edu/courses/14040579?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=english&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/14040579",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -66,15 +638,15 @@
       "source": "cvc"
     },
     {
-      "code": "PHIL3",
-      "title": "Ancient Philosophy",
+      "code": "ENGLC1002",
+      "title": "Introduction to Literature",
       "modality": "online",
       "term": "Aug 24 - Dec 11",
       "units": "3.0",
-      "instructor": "Andrew M. Winters",
-      "section": "1832243",
-      "description": "Begins Fall 2025 This course presents an introduction to the history of philosophy from the Pre-Socratics to the Renaissance, with emphasis on the Pre-Socratics through Aristotle. Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
-      "url": "https://search.cvc.edu/courses/1832243?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "instructor": "Melissa A. Rocha",
+      "section": "15993812",
+      "description": "Begins Fall 2026. Effective Fall 2026, ENGL-C1002 replaces ENGL-01B In this course, students are introduced to works by diverse authors and major literary genres, developing close reading and analytical writing skills. Students also develop appreciation for and critical understanding of the cultural, historical, and aesthetic qualities of literature. Prerequisite: Take ENGL-C1000 (formerly ENGL-01A)ýMinimum grade C,P;",
+      "url": "https://search.cvc.edu/courses/15993812",
       "meta": {
         "transferable": [
           "IGETC",
@@ -89,21 +661,21 @@
         "qualityReviewed": false,
         "startDate": "Aug 24",
         "endDate": "Dec 11",
-        "cvcCourseId": "1832243",
-        "cvcUrl": "https://search.cvc.edu/courses/1832243?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcCourseId": "15993812",
+        "cvcUrl": "https://search.cvc.edu/courses/15993812",
         "geAreas": null,
         "formats": [
           "Asynchronous"
         ],
         "professors": [
-          "Andrew M. Winters"
+          "Melissa A. Rocha"
         ],
-        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+        "prerequisites": null,
         "sections": [
           {
-            "crn": "PHIL-03-22300",
+            "crn": "ENGL-C1002-22029",
             "dates": "Aug 24 to Dec 11",
-            "professor": "Andrew M. Winters",
+            "professor": "Melissa A. Rocha",
             "format": "Asynchronous",
             "notes": null
           }
@@ -121,7 +693,7 @@
       "instructor": "Amal Rida",
       "section": "1832156",
       "description": "Begins Fall 2025 This course is thorough review of the fundamentals of reading, writing, speaking and understanding French, designed to aid the student in preparing for advanced studies in French composition, grammar, and conversation as well as literature and French, history and culture. Prerequisite: Previously taken FREN-03 ýand passed with a minimum grade of Cýor received an equivalent.ýPreviously taken LRNR-30 is advised.",
-      "url": "https://search.cvc.edu/courses/1832156?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1832156",
       "meta": {
         "transferable": [
           "IGETC",
@@ -137,7 +709,7 @@
         "startDate": "Aug 24",
         "endDate": "Dec 11",
         "cvcCourseId": "1832156",
-        "cvcUrl": "https://search.cvc.edu/courses/1832156?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1832156",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -160,65 +732,506 @@
       "source": "cvc"
     },
     {
-      "code": "FIRE34",
-      "title": "Building Construction for Fire Protection",
+      "code": "ENGLC1000",
+      "title": "Academic Reading and Writing",
       "modality": "online",
       "term": "Aug 24 - Dec 11",
-      "units": "3.0",
-      "instructor": "Tony",
-      "section": "1264568",
-      "description": "Begins Fall 2025 This course examines the principles of building construction as they relate to fire protection and firefighter safety. Students will study construction methods, materials, and structural design features, with emphasis on how buildings respond under fire conditions. Topics include the five types of construction, fire resistance, occupancy classifications, structural collapse hazards, and the relationship between building design and fire behavior. Students will also analyze historic fires and case studies to understand the impact of construction on fire spread, suppression strategies, and firefighter survival. Fire 34 is a required course in the Merced College Fire Technology Program and provides students with the knowledge needed to evaluate building hazards, support fire prevention, and operate safely in fire suppression and rescue operations.",
-      "url": "https://search.cvc.edu/courses/1264568?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=information+technology&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "units": "4.0",
+      "instructor": "Susan A. Flatt, Victor E. Smith, Stephanie C. Muniz, Molly R. Wilson, Joshua G. Daughdrill, William E. Baker, Melissa A. Rocha, Susannah I. Kopecky, Sean Epstein-Corbin, Jocias A. Zamora, II, Diana F. Truesdale, Elisabeth Kinsey, Daniel R. Ayala, Michelle A. Toconis, Heather L. Gonzalez, Orlando H. Taylor, Alicia Contreras, Gregory J. Brown, Vanessa M. Stretch, Olujide Osikomaiya, Kathleen T. Bowler",
+      "section": "15919863",
+      "description": "Begins Fall 2025. Effective Fall 2025, ENGL-C1000 replaces ENGL-01A In this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic research. Students also receive instruction in reading processes, information literacy, and disciplinary documentation practices. Prerequisite: Previously taken LRNR-30 is advised.",
+      "url": "https://search.cvc.edu/courses/15919863",
       "meta": {
-        "transferable": [],
-        "igetc": false,
-        "calGetc": false,
-        "csuBreadth": false,
-        "tuition": 138,
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 184,
         "zeroTextbookCost": false,
         "qualityReviewed": false,
         "startDate": "Aug 24",
         "endDate": "Dec 11",
-        "cvcCourseId": "1264568",
-        "cvcUrl": "https://search.cvc.edu/courses/1264568?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=information+technology&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcCourseId": "15919863",
+        "cvcUrl": "https://search.cvc.edu/courses/15919863",
         "geAreas": null,
         "formats": [
           "Asynchronous"
         ],
         "professors": [
-          "Tony"
+          "Susan A. Flatt",
+          "Victor E. Smith",
+          "Stephanie C. Muniz",
+          "Molly R. Wilson",
+          "Joshua G. Daughdrill",
+          "William E. Baker",
+          "Melissa A. Rocha",
+          "Susannah I. Kopecky",
+          "Sean Epstein-Corbin",
+          "Jocias A. Zamora, II",
+          "Diana F. Truesdale",
+          "Elisabeth Kinsey",
+          "Daniel R. Ayala",
+          "Michelle A. Toconis",
+          "Heather L. Gonzalez",
+          "Orlando H. Taylor",
+          "Alicia Contreras",
+          "Gregory J. Brown",
+          "Vanessa M. Stretch",
+          "Olujide Osikomaiya",
+          "Kathleen T. Bowler"
         ],
-        "prerequisites": null,
+        "prerequisites": "Prerequisite: Previously taken LRNR-30 is advised.",
         "sections": [
           {
-            "crn": "FIRE-34-42312",
+            "crn": "ENGL-C1000-22004",
             "dates": "Jan 12 to May 1",
-            "professor": "Tony",
+            "professor": "Susan A. Flatt",
             "format": "Asynchronous",
             "notes": null
           },
           {
-            "crn": "FIRE-34-42478",
+            "crn": "ENGL-C1000-22027",
+            "dates": "Jan 12 to May 1",
+            "professor": "Victor E. Smith",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22028",
+            "dates": "Jan 12 to May 1",
+            "professor": "Stephanie C. Muniz",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22030",
+            "dates": "Jan 12 to May 1",
+            "professor": "Molly R. Wilson",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22029",
+            "dates": "Jan 12 to May 1",
+            "professor": "Joshua G. Daughdrill",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22003",
+            "dates": "Jan 12 to May 1",
+            "professor": "William E. Baker",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22012",
+            "dates": "Jan 12 to May 1",
+            "professor": "Melissa A. Rocha",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22031",
+            "dates": "Jan 12 to May 1",
+            "professor": "Susannah I. Kopecky",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22006",
+            "dates": "Jan 12 to May 1",
+            "professor": "Sean Epstein-Corbin",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22013",
+            "dates": "Jan 12 to May 1",
+            "professor": "Melissa A. Rocha",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22002",
+            "dates": "Jan 12 to May 1",
+            "professor": "William E. Baker",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22009",
+            "dates": "Jan 12 to May 1",
+            "professor": "Sean Epstein-Corbin",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22011",
+            "dates": "Jan 12 to May 1",
+            "professor": "Jocias A. Zamora, II",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22008",
+            "dates": "Jan 12 to May 1",
+            "professor": "Diana F. Truesdale",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22005",
+            "dates": "Jan 12 to May 1",
+            "professor": "Susan A. Flatt",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22010",
+            "dates": "Jan 12 to May 1",
+            "professor": "Jocias A. Zamora, II",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22803",
+            "dates": "May 18 to Aug 6",
+            "professor": "Elisabeth Kinsey",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22817",
+            "dates": "Jun 29 to Aug 6",
+            "professor": "Molly R. Wilson",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22818",
+            "dates": "Jun 29 to Aug 6",
+            "professor": "Daniel R. Ayala",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22819",
+            "dates": "Jun 29 to Aug 6",
+            "professor": "Michelle A. Toconis",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22802",
+            "dates": "May 18 to Aug 6",
+            "professor": "Jocias A. Zamora, II",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22801",
+            "dates": "May 18 to Aug 6",
+            "professor": "Victor E. Smith",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22800",
+            "dates": "May 18 to Aug 6",
+            "professor": "Heather L. Gonzalez",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22804",
+            "dates": "May 18 to Aug 6",
+            "professor": "Orlando H. Taylor",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22816",
+            "dates": "Jun 29 to Aug 6",
+            "professor": "Heather L. Gonzalez",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22010",
             "dates": "Aug 24 to Dec 11",
-            "professor": "Tony",
+            "professor": "Sean Epstein-Corbin",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22019",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Alicia Contreras",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22018",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Victor E. Smith",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22012",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Susan A. Flatt",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22015",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Jocias A. Zamora, II",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22013",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "William E. Baker",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22011",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Susan A. Flatt",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22014",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Gregory J. Brown",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22017",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Victor E. Smith",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22009",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "William E. Baker",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22016",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Jocias A. Zamora, II",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22011",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "William E. Baker",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22030",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Vanessa M. Stretch",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22028",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Olujide Osikomaiya",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22005",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Diana F. Truesdale",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22009",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Victor E. Smith",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22010",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "William E. Baker",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22004",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Heather L. Gonzalez",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22000",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Sean Epstein-Corbin",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22006",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Diana F. Truesdale",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22029",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Susannah I. Kopecky",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22027",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Michelle A. Toconis",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22007",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Gregory J. Brown",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22003",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Susan A. Flatt",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22026",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Molly R. Wilson",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22001",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Sean Epstein-Corbin",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22008",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Kathleen T. Bowler",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-22002",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Susan A. Flatt",
             "format": "Asynchronous",
             "notes": null
           }
         ],
-        "sectionCount": 2
+        "sectionCount": 53
       },
       "source": "cvc"
     },
     {
-      "code": "FREN2",
-      "title": "Elementary French II",
+      "code": "GERN1",
+      "title": "Elementary German I",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "4.0",
+      "instructor": "Kathryn S. Weingand",
+      "section": "1832157",
+      "description": "Begins Fall 2025 This is a beginner's course. The course will focus on the development of listening, speaking, reading, and writing in a cultural context, with primary emphasis on communicative competency. Students will learn how to express in German the most basic functions of everyday life.",
+      "url": "https://search.cvc.edu/courses/1832157",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": false,
+        "csuBreadth": true,
+        "tuition": 184,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1832157",
+        "cvcUrl": "https://search.cvc.edu/courses/1832157",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Kathryn S. Weingand"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "GERN-01-22202",
+            "dates": "Jan 12 to May 1",
+            "professor": "Kathryn S. Weingand",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "GERN-01-22201",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Kathryn S. Weingand",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "GERN-01-22200",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Kathryn S. Weingand",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "SPAN1",
+      "title": "Elementary Spanish I",
       "modality": "online",
       "term": "Aug 24 - Dec 11",
       "units": "5.0",
-      "instructor": "Amal Rida",
-      "section": "1832153",
-      "description": "Begins Fall 2025 FREN-02 is the continuation of FREN-01. This course will focus on the further development of listening, speaking, reading, and writing in cultural context, with primary emphasis on communicative competency. Students will learn how to express in French basic functions of everyday life. This course is not recommended for native speakers. Prerequisite: Take FREN-01 ý---OR---ýTwo years of high school French.",
-      "url": "https://search.cvc.edu/courses/1832153?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=french&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "instructor": "Natalie M. Sobalvarro-Butler, Maria D. Gonzalez-Mercado, Mara J. Colomer-Flores, Silvia, Alberto E. Zarate, Sandra M. Cortes, Maria D. Garcia Diaz",
+      "section": "1159641",
+      "description": "Begins Fall 2025 This course will focus on the development of listening, speaking, reading, and writing in a cultural context, with primary emphasis on communicative competency. Students will learn how to express in Spanish the most basic functions of everyday life. This course is not recommended for native speakers - native speakers should enroll in SPAN-10.",
+      "url": "https://search.cvc.edu/courses/1159641",
       "meta": {
         "transferable": [
           "IGETC",
@@ -232,26 +1245,157 @@
         "qualityReviewed": false,
         "startDate": "Aug 24",
         "endDate": "Dec 11",
-        "cvcCourseId": "1832153",
-        "cvcUrl": "https://search.cvc.edu/courses/1832153?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=french&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
-        "geAreas": null,
+        "cvcCourseId": "1159641",
+        "cvcUrl": "https://search.cvc.edu/courses/1159641",
+        "geAreas": {
+          "csu": [
+            "C2 Humanities"
+          ],
+          "igetc": [],
+          "calGetc": []
+        },
         "formats": [
           "Asynchronous"
         ],
         "professors": [
-          "Amal Rida"
+          "Natalie M. Sobalvarro-Butler",
+          "Maria D. Gonzalez-Mercado",
+          "Mara J. Colomer-Flores",
+          "Silvia",
+          "Alberto E. Zarate",
+          "Sandra M. Cortes",
+          "Maria D. Garcia Diaz"
         ],
-        "prerequisites": "Prerequisite: Take FREN-01 ý---OR---ýTwo years of high school French.",
+        "prerequisites": null,
         "sections": [
           {
-            "crn": "FREN-02-22207",
+            "crn": "SPAN-01-22210",
+            "dates": "Jan 12 to May 1",
+            "professor": "Natalie M. Sobalvarro-Butler",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-01-22217",
+            "dates": "Jan 12 to May 1",
+            "professor": "Maria D. Gonzalez-Mercado",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-01-22211",
+            "dates": "Jan 12 to May 1",
+            "professor": "Mara J. Colomer-Flores",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-01-22218",
+            "dates": "Jan 12 to May 1",
+            "professor": "Silvia",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-01-22213",
+            "dates": "Jan 12 to May 1",
+            "professor": "Alberto E. Zarate",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-01-22212",
+            "dates": "Jan 12 to May 1",
+            "professor": "Mara J. Colomer-Flores",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-01-22827",
+            "dates": "Jun 29 to Aug 6",
+            "professor": "Sandra M. Cortes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-01-22834",
+            "dates": "May 18 to Aug 6",
+            "professor": "Silvia",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-01-22826",
+            "dates": "Jun 29 to Aug 6",
+            "professor": "Maria D. Garcia Diaz",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-01-22833",
+            "dates": "May 18 to Aug 6",
+            "professor": "Maria D. Garcia Diaz",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-01-22825",
+            "dates": "Jun 29 to Aug 6",
+            "professor": "Alberto E. Zarate",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-01-22832",
+            "dates": "May 18 to Aug 6",
+            "professor": "Alberto E. Zarate",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-01-22210",
             "dates": "Aug 24 to Dec 11",
-            "professor": "Amal Rida",
+            "professor": "Mara J. Colomer-Flores",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-01-22212",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Alberto E. Zarate",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-01-22211",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Natalie M. Sobalvarro-Butler",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-01-22213",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Sandra M. Cortes",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-01-22209",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Mara J. Colomer-Flores",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-01-22218",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Maria D. Garcia Diaz",
             "format": "Asynchronous",
             "notes": null
           }
         ],
-        "sectionCount": 1
+        "sectionCount": 18
       },
       "source": "cvc"
     },
@@ -264,7 +1408,7 @@
       "instructor": "Cho Ly, Amal Rida",
       "section": "1832146",
       "description": "Begins Fall 2025 This is a beginner's course. The course will focus on the development of listening, speaking, reading, and writing in a cultural context, with primary emphasis on communicative competency. Students will learn how to express in French the most basic functions of everyday life. This course is not recommended for native speakers.",
-      "url": "https://search.cvc.edu/courses/1832146?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=french&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1832146",
       "meta": {
         "transferable": [
           "IGETC",
@@ -279,7 +1423,7 @@
         "startDate": "Aug 24",
         "endDate": "Dec 11",
         "cvcCourseId": "1832146",
-        "cvcUrl": "https://search.cvc.edu/courses/1832146?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=french&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1832146",
         "geAreas": {
           "csu": [
             "C2 Humanities"
@@ -311,13 +1455,6 @@
             "notes": null
           },
           {
-            "crn": "FREN-01-22220",
-            "dates": "Aug 24 to Dec 11",
-            "professor": "Amal Rida",
-            "format": "Asynchronous",
-            "notes": null
-          },
-          {
             "crn": "FREN-01-22206",
             "dates": "Aug 24 to Dec 11",
             "professor": "Amal Rida",
@@ -328,6 +1465,13 @@
             "crn": "FREN-01-22204",
             "dates": "Aug 24 to Dec 11",
             "professor": "Cho Ly",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "FREN-01-22220",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Amal Rida",
             "format": "Asynchronous",
             "notes": null
           },
@@ -344,6 +1488,1435 @@
       "source": "cvc"
     },
     {
+      "code": "GERN2",
+      "title": "Elementary German II",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "4.0",
+      "instructor": "Kathryn S. Weingand",
+      "section": "1832158",
+      "description": "Begins Fall 2026 GERN-02 is the continuation of GERN-01. This course will focus on the further development of listening, speaking, reading, and writing in a cultural context, with primary emphasis on communicative competency. Students will learn how to express in German basic functions of everyday life. Prerequisite: Previously taken GERN-01 or two years of high school Germanýand passed with a minimum grade of C or received anýequivalent.",
+      "url": "https://search.cvc.edu/courses/1832158",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 184,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1832158",
+        "cvcUrl": "https://search.cvc.edu/courses/1832158",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Kathryn S. Weingand"
+        ],
+        "prerequisites": "Prerequisite: Previously taken GERN-01 or two years of high school Germanýand passed with a minimum grade of C or received anýequivalent.",
+        "sections": [
+          {
+            "crn": "GERN-02-22203",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Kathryn S. Weingand",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "FREN2",
+      "title": "Elementary French II",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "5.0",
+      "instructor": "Amal Rida",
+      "section": "1832153",
+      "description": "Begins Fall 2025 FREN-02 is the continuation of FREN-01. This course will focus on the further development of listening, speaking, reading, and writing in cultural context, with primary emphasis on communicative competency. Students will learn how to express in French basic functions of everyday life. This course is not recommended for native speakers. Prerequisite: Take FREN-01 ý---OR---ýTwo years of high school French.",
+      "url": "https://search.cvc.edu/courses/1832153",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": false,
+        "csuBreadth": true,
+        "tuition": 230,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1832153",
+        "cvcUrl": "https://search.cvc.edu/courses/1832153",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Amal Rida"
+        ],
+        "prerequisites": "Prerequisite: Take FREN-01 ý---OR---ýTwo years of high school French.",
+        "sections": [
+          {
+            "crn": "FREN-02-22207",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Amal Rida",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "SPAN2",
+      "title": "Elementary Spanish II",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "5.0",
+      "instructor": "Maria D. Garcia Diaz",
+      "section": "1832252",
+      "description": "Begins Fall 2026 SPAN-02 is the continuation of SPAN-01. This course will focus on the further development of listening, speaking, reading, and writing in a cultural context, with primary emphasis on communicative competency. Students will learn how to express in Spanish the most basic functions of everyday life. This course is recommended for students who have completed two years of high school Spanish; it is not recommended for native speakers. Native speakers should enroll in SPAN-11. Prerequisite: Take SPAN-01 or two years of high school Spanish.",
+      "url": "https://search.cvc.edu/courses/1832252",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 230,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1832252",
+        "cvcUrl": "https://search.cvc.edu/courses/1832252",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Maria D. Garcia Diaz"
+        ],
+        "prerequisites": "Prerequisite: Take SPAN-01 or two years of high school Spanish.",
+        "sections": [
+          {
+            "crn": "SPAN-02-22214",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Maria D. Garcia Diaz",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "ENGLC1001",
+      "title": "Critical Thinking and Writing",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Daniel R. Ayala, Jeremy T. Mumford, Kathleen T. Bowler, Jacki Alvarez, Adrian K. Ekizian Barton, Molly R. Wilson, Melissa A. Rocha, Jocias A. Zamora, II, James F. Flanagan, Michelle A. Toconis",
+      "section": "15919880",
+      "description": "Begins Fall 2025. Effective Fall 2025, ENGL-C1001 replaces ENGL/PHIL-13 In this course, students receive instruction in critical thinking for purposes of constructing, evaluating, and composing arguments in a variety of rhetorical forms, using primarily non-fiction texts, refining writing skills and research strategies developed in ENGL C1000 College Reading and Writing (C-ID ENGL 100) or similar first-year college writing course. Readings feature mostly non-fictional essays and books that reflect diverse cultural perspectives on a variety of contemporary issues, such as those involving race, ethnicity, and gender. Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A)ýand passsed with a minimum grade of C.",
+      "url": "https://search.cvc.edu/courses/15919880",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "15919880",
+        "cvcUrl": "https://search.cvc.edu/courses/15919880",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Daniel R. Ayala",
+          "Jeremy T. Mumford",
+          "Kathleen T. Bowler",
+          "Jacki Alvarez",
+          "Adrian K. Ekizian Barton",
+          "Molly R. Wilson",
+          "Melissa A. Rocha",
+          "Jocias A. Zamora, II",
+          "James F. Flanagan",
+          "Michelle A. Toconis"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A)ýand passsed with a minimum grade of C.",
+        "sections": [
+          {
+            "crn": "ENGL-C1001-22021",
+            "dates": "Jan 12 to May 1",
+            "professor": "Daniel R. Ayala",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22022",
+            "dates": "Jan 12 to May 1",
+            "professor": "Jeremy T. Mumford",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22023",
+            "dates": "Jan 12 to May 1",
+            "professor": "Kathleen T. Bowler",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22024",
+            "dates": "Jan 12 to May 1",
+            "professor": "Jacki Alvarez",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22025",
+            "dates": "Jan 12 to May 1",
+            "professor": "Adrian K. Ekizian Barton",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22809",
+            "dates": "May 18 to Aug 6",
+            "professor": "Jacki Alvarez",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22824",
+            "dates": "Jun 29 to Aug 6",
+            "professor": "Molly R. Wilson",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22808",
+            "dates": "May 18 to Aug 6",
+            "professor": "Melissa A. Rocha",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22823",
+            "dates": "Jun 29 to Aug 6",
+            "professor": "Adrian K. Ekizian Barton",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22032",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Kathleen T. Bowler",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22031",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Jeremy T. Mumford",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22033",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Jocias A. Zamora, II",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22035",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Melissa A. Rocha",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22034",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Melissa A. Rocha",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22022",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Melissa A. Rocha",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22034",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Adrian K. Ekizian Barton",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-72872",
+            "dates": "Oct 20 to Dec 12",
+            "professor": "James F. Flanagan",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22021",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Jacki Alvarez",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22025",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Michelle A. Toconis",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22023",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Melissa A. Rocha",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1001-22024",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Jocias A. Zamora, II",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 21
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "SPAN10",
+      "title": "Spanish for Spanish Speakers I",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "5.0",
+      "instructor": "Natalie M. Sobalvarro-Butler",
+      "section": "1264770",
+      "description": "Begins Fall 2025 This course is designed for native and heritage speakers, as well as other linguistically qualified students, whose formal training in the language is not complete. The course will focus on extensive reading of all types of texts and their reworking in written form with the intention of expanding the vocabulary, creating an incipient awareness of linguistic registers, discussing items beyond the familial routine, improving written expression, and developing an appreciation for Hispanic culture as manifested in Spanish speaking countries and the U.S. This course is entirely conducted in Spanish. Prerequisite: Take SPAN-02 or the equivalent;ýMinimum Grade C,P;ýPreviously taken LRNR-30 is advised.",
+      "url": "https://search.cvc.edu/courses/1264770",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 230,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1264770",
+        "cvcUrl": "https://search.cvc.edu/courses/1264770",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Natalie M. Sobalvarro-Butler"
+        ],
+        "prerequisites": "Prerequisite: Take SPAN-02 or the equivalent;ýMinimum Grade C,P;ýPreviously taken LRNR-30 is advised.",
+        "sections": [
+          {
+            "crn": "SPAN-10-22215",
+            "dates": "Jan 12 to May 1",
+            "professor": "Natalie M. Sobalvarro-Butler",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "SPAN-10-22216",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Natalie M. Sobalvarro-Butler",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "HIST22",
+      "title": "History of African Americans",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Marvin J. Jackson",
+      "section": "1264597",
+      "description": "Begins Fall 2025 This course is a social, cultural, political, and intellectual history of the African American experience in America. This survey course examines the African American experience through the dual lens of ethnic studies and historical perspectives-combining both to provide a deep range of views into the complex interaction of Black Americans in the American context. Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+      "url": "https://search.cvc.edu/courses/1264597",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1264597",
+        "cvcUrl": "https://search.cvc.edu/courses/1264597",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Marvin J. Jackson"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+        "sections": [
+          {
+            "crn": "HIST-22-52046",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Marvin J. Jackson",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "HIST-22-52046",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Marvin J. Jackson",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "HIST4B",
+      "title": "World History Part 2",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Caleb M. Hampton, Jake S. Wheeler",
+      "section": "1832166",
+      "description": "Begins Fall 2025 This course provides a broad historical survey of humanity's social political, economic, and intellectual experiences for all major world civilizations from approximately the 16th century to the present. Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+      "url": "https://search.cvc.edu/courses/1832166",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1832166",
+        "cvcUrl": "https://search.cvc.edu/courses/1832166",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Caleb M. Hampton",
+          "Jake S. Wheeler"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+        "sections": [
+          {
+            "crn": "HIST-04B-52024",
+            "dates": "Jan 12 to May 1",
+            "professor": "Caleb M. Hampton",
+            "format": "Asynchronous",
+            "notes": "Open Educational Resources/Zero Textbook Cost: All learning materials provided at no cost to students."
+          },
+          {
+            "crn": "HIST-04B-52029",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Jake S. Wheeler",
+            "format": "Asynchronous",
+            "notes": "This 8 week class is held from 10/20/25-12/12/25."
+          },
+          {
+            "crn": "HIST-04B-52802",
+            "dates": "Oct 20 to Dec 12",
+            "professor": "Jake S. Wheeler",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "HIST-04B-52029",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Caleb M. Hampton",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 4
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "HISTC1001",
+      "title": "United States History to 1877 Constitution",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Kathryn A. Eigen",
+      "section": "15999773",
+      "description": "Begins Fall 2026. Effective Fall 2026, HIST-C1001 replaces HIST-17A This course is a historical survey of the United States, from Indigenous North America to the end of Reconstruction. The course also introduces students to historical reasoning skills. Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+      "url": "https://search.cvc.edu/courses/15999773",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "15999773",
+        "cvcUrl": "https://search.cvc.edu/courses/15999773",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Kathryn A. Eigen"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+        "sections": [
+          {
+            "crn": "HIST-C1001-52803",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Kathryn A. Eigen",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "HISTC1002",
+      "title": "United States History Since 1865 State and Local Government",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Andrew D. Hoyt",
+      "section": "15999774",
+      "description": "Begins Fall 2026. Effective Fall 2026, HIST-C1002 replaces HIST-17B This course is a historical survey of the United States from the end of the Civil War to the present. The course also introduces students to historical reasoning skills. Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+      "url": "https://search.cvc.edu/courses/15999774",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "15999774",
+        "cvcUrl": "https://search.cvc.edu/courses/15999774",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Andrew D. Hoyt"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+        "sections": [
+          {
+            "crn": "HIST-C1002-52039",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Andrew D. Hoyt",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "PHIL3",
+      "title": "Ancient Philosophy",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Andrew M. Winters",
+      "section": "1832243",
+      "description": "Begins Fall 2025 This course presents an introduction to the history of philosophy from the Pre-Socratics to the Renaissance, with emphasis on the Pre-Socratics through Aristotle. Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+      "url": "https://search.cvc.edu/courses/1832243",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1832243",
+        "cvcUrl": "https://search.cvc.edu/courses/1832243",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Andrew M. Winters"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+        "sections": [
+          {
+            "crn": "PHIL-03-22300",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Andrew M. Winters",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "CRIM2",
+      "title": "Introduction to Criminal Justice",
+      "modality": "online",
+      "term": "Aug 24 - Oct 16",
+      "units": "3.0",
+      "instructor": "David C. Noblett, Mark A. Johnson",
+      "section": "1988566",
+      "description": "Begins Fall 2025 The course will emphasize the three major components of the system: court, corrections, law enforcement, and will then examine the role of each.This course pertains to the history and philosophy of criminal justice in America.",
+      "url": "https://search.cvc.edu/courses/1988566",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Oct 16",
+        "cvcCourseId": "1988566",
+        "cvcUrl": "https://search.cvc.edu/courses/1988566",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "David C. Noblett",
+          "Mark A. Johnson"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "CRIM-02-42300",
+            "dates": "Jan 12 to May 1",
+            "professor": "David C. Noblett",
+            "format": "Asynchronous",
+            "notes": "This 8wk course is held from 8/24/25-10/16/25."
+          },
+          {
+            "crn": "CRIM-02-42813",
+            "dates": "Aug 24 to Oct 16",
+            "professor": "David C. Noblett",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "CRIM-02-42482",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Mark A. Johnson",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "CRIM-02-42482",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Mark A. Johnson",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "CRIM-02-42813",
+            "dates": "Aug 25 to Oct 17",
+            "professor": "David C. Noblett",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 5
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "ANTH2",
+      "title": "Cultural Anthropology",
+      "modality": "online",
+      "term": "Oct 19 - Dec 11",
+      "units": "3.0",
+      "instructor": "Sean H. Osborn",
+      "section": "1832279",
+      "description": "Begins Fall 2026 This course is an introduction to the study of human culture and the concepts, theories, and methods used in the comparative study of socio-cultural systems. Subjects include subsistence patterns, social and political organization, language and communication, family and kinship, religion, the arts, social inequality, ethnicity, gender, and culture change. The course applies anthropological perspectives to contemporary issues. Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+      "url": "https://search.cvc.edu/courses/1832279",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Oct 19",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1832279",
+        "cvcUrl": "https://search.cvc.edu/courses/1832279",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Sean H. Osborn"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+        "sections": [
+          {
+            "crn": "ANTH-02-52026",
+            "dates": "Jan 12 to May 1",
+            "professor": "Sean H. Osborn",
+            "format": "Asynchronous",
+            "notes": "This 8-week class is held from 10/19/2026 to 12/11/2026"
+          },
+          {
+            "crn": "ANTH-02-52025",
+            "dates": "Jan 12 to May 1",
+            "professor": "Sean H. Osborn",
+            "format": "Asynchronous",
+            "notes": "This 8 week class is held from 10/20/25-12/12/25."
+          },
+          {
+            "crn": "ANTH-02-52002",
+            "dates": "Oct 19 to Dec 11",
+            "professor": "Sean H. Osborn",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ANTH-02-52001",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Sean H. Osborn",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ANTH-02-52817",
+            "dates": "Oct 20 to Dec 12",
+            "professor": "Sean H. Osborn",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 5
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "FIRE31",
+      "title": "Fire Behavior and Combustion",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Larry R. Madoski, Donald P. Roe",
+      "section": "1265062",
+      "description": "Begins Fall 2025 This course introduces students to the fundamental principles of fire behavior and combustion, providing a scientific foundation for understanding how and why fires start, spread, and are controlled. Students will study the physical and chemical properties of fire, the combustion process, ignition, heat transfer, flame spread, and the stages of fire development. The course also examines fire dynamics in different fuel types and building environments, as well as the influence of oxygen, fuel, heat, and chemical reactions on fire growth. Emphasis is placed on applying these concepts to firefighter safety, suppression strategies, and community risk reduction. Fire 31 is a core requirement in the Merced College Fire Technology Program and prepares students for more advanced fire science courses and professional fire service training.",
+      "url": "https://search.cvc.edu/courses/1265062",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1265062",
+        "cvcUrl": "https://search.cvc.edu/courses/1265062",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Larry R. Madoski",
+          "Donald P. Roe"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "FIRE-31-42469",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Larry R. Madoski",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "FIRE-31-42473",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Larry R. Madoski",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "FIRE-31-42469",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Donald P. Roe",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "FIRE33",
+      "title": "Fire Protection Equipment and Systems",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Jeremy G. Franklin",
+      "section": "1265066",
+      "description": "Begins Fall 2025 This course introduces students to the design, operation, inspection, and maintenance of fire protection equipment and systems used in modern fire protection and life safety. Topics include water supply systems, standpipes, sprinklers, fire pumps, special extinguishing systems, detection and alarm systems, and portable fire extinguishers. Students will examine how these systems function individually and as part of an integrated fire protection plan, with emphasis on their role in safeguarding life and property while supporting fire service operations. Using current fire protection standards and codes, students will learn the fundamentals of system testing, maintenance, and acceptance procedures. Fire 33 is a core requirement in the Merced College Fire Technology Program and prepares students for careers in suppression, inspection, prevention, and fire protection system management.",
+      "url": "https://search.cvc.edu/courses/1265066",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1265066",
+        "cvcUrl": "https://search.cvc.edu/courses/1265066",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Jeremy G. Franklin"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "FIRE-33-42477",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Jeremy G. Franklin",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "COMM14",
+      "title": "Small Group Communication",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Reed Ramsey",
+      "section": "15919786",
+      "description": "Begins Fall 2025. Effective Fall 2025, COMM-14 replaces COMM-04. This course emphasizes the principles of public speaking within a democratic society, focusing on the foundational knowledge and practice of delivering effective informative and persuasive messages in a small group context. Students develop speaking, participation, and leadership skills through faculty supervised and faculty-evaluated presentations. The course introduces rhetorical theory, small group theory, and methods of rhetorical analysis, enabling students to discover, develop, and critically analyze ideas and information in public discourse. Students also explore and evaluate group communication processes,including problem-solving, conflict management, decision-making, and leadership, while considering the historical roots and key rhetorical theories that ground the study of public speaking. Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+      "url": "https://search.cvc.edu/courses/15919786",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "15919786",
+        "cvcUrl": "https://search.cvc.edu/courses/15919786",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Reed Ramsey"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+        "sections": [
+          {
+            "crn": "COMM-14-22107",
+            "dates": "Jan 12 to May 1",
+            "professor": "Reed Ramsey",
+            "format": "Asynchronous",
+            "notes": "COMM-14 does not fullfill any CALGETC breath areas. Students taking this course should be COMM majors. For non-majors, this class will only provide 3 elective units."
+          },
+          {
+            "crn": "COMM-14-22107",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Reed Ramsey",
+            "format": "Asynchronous",
+            "notes": "COMM-14 does not fullfill any CALGETC breath areas. Students taking this course should be COMM majors. For non-majors, this class will only provide 3 elective units."
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "CRIM8",
+      "title": "Introduction to Investigation",
+      "modality": "online",
+      "term": "Oct 19 - Dec 11",
+      "units": "3.0",
+      "instructor": "Sammy J. Joseph",
+      "section": "1988950",
+      "description": "Begins Fall 2025 This course covers the fundamentals of investigation; techniques procedures, and ethical issues of investigation of crime, including organization of the investigative process, crime scene searches, recording, collection, and preservation of physical evidence, interviewing and interrogating, surveillance, source of information, utility of evidence, scientific analysis of evidence and the role of the investigator in the trial process. Prerequisite: Take CRIM-02;ýMinimum grade C,P;ýPreviously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+      "url": "https://search.cvc.edu/courses/1988950",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Oct 19",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1988950",
+        "cvcUrl": "https://search.cvc.edu/courses/1988950",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Sammy J. Joseph"
+        ],
+        "prerequisites": "Prerequisite: Take CRIM-02;ýMinimum grade C,P;ýPreviously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+        "sections": [
+          {
+            "crn": "CRIM-08-42297",
+            "dates": "Jan 12 to May 1",
+            "professor": "Sammy J. Joseph",
+            "format": "Asynchronous",
+            "notes": "This class is a 8wk course held from 10/19/25-12/11/2025."
+          },
+          {
+            "crn": "CRIM-08-42811",
+            "dates": "Oct 19 to Dec 11",
+            "professor": "Sammy J. Joseph",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "CRIM-08-42811",
+            "dates": "Oct 20 to Dec 12",
+            "professor": "Sammy J. Joseph",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "FIRE34",
+      "title": "Building Construction for Fire Protection",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Tony",
+      "section": "1264568",
+      "description": "Begins Fall 2025 This course examines the principles of building construction as they relate to fire protection and firefighter safety. Students will study construction methods, materials, and structural design features, with emphasis on how buildings respond under fire conditions. Topics include the five types of construction, fire resistance, occupancy classifications, structural collapse hazards, and the relationship between building design and fire behavior. Students will also analyze historic fires and case studies to understand the impact of construction on fire spread, suppression strategies, and firefighter survival. Fire 34 is a required course in the Merced College Fire Technology Program and provides students with the knowledge needed to evaluate building hazards, support fire prevention, and operate safely in fire suppression and rescue operations.",
+      "url": "https://search.cvc.edu/courses/1264568",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1264568",
+        "cvcUrl": "https://search.cvc.edu/courses/1264568",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Tony"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "FIRE-34-42312",
+            "dates": "Jan 12 to May 1",
+            "professor": "Tony",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "FIRE-34-42478",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Tony",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "COMM30",
+      "title": "Introduction to Intercultural Communication",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Lee Anne Hobbs",
+      "section": "1159006",
+      "description": "Begins Fall 2025 Introduction to intercultural communication in domestic and/or global contexts. Influence of cultures, languages, and social patterns on how members of groups relate among themselves and with members of different ethnic and cultural groups. Theory and knowledge of effective communication within and between cultures. Appreciation and comparison of communication among diverse groups within the larger context of American culture. (Approved for C-ID COMM 150) Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+      "url": "https://search.cvc.edu/courses/1159006",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1159006",
+        "cvcUrl": "https://search.cvc.edu/courses/1159006",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Lee Anne Hobbs"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+        "sections": [
+          {
+            "crn": "COMM-30-22123",
+            "dates": "Jan 12 to May 1",
+            "professor": "Lee Anne Hobbs",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-30-22124",
+            "dates": "Mar 9 to May 1",
+            "professor": "Lee Anne Hobbs",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-30-22122",
+            "dates": "Jan 12 to May 1",
+            "professor": "Lee Anne Hobbs",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-30-22112",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Lee Anne Hobbs",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-30-22113",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Lee Anne Hobbs",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-30-22114",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Lee Anne Hobbs",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 6
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "PHIL15",
+      "title": "Comparative Religions",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Adrian K. Ekizian Barton",
+      "section": "1159465",
+      "description": "Begins Fall 2025 This course surveys the historical background and fundamental philosophical concepts of the major religions of the world, including Hinduism, Buddhism, Shinto, Confucianism, Judaism, Christianity, Islam, and some typical basic religions. Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+      "url": "https://search.cvc.edu/courses/1159465",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1159465",
+        "cvcUrl": "https://search.cvc.edu/courses/1159465",
+        "geAreas": {
+          "csu": [
+            "C2 Humanities"
+          ],
+          "igetc": [
+            "3B Humanities"
+          ],
+          "calGetc": [
+            "3B Humanities"
+          ]
+        },
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Adrian K. Ekizian Barton"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+        "sections": [
+          {
+            "crn": "PHIL-15-22303",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Adrian K. Ekizian Barton",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "PHIL5",
+      "title": "Contemporary Ethical Issues",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Andrew M. Winters, Jacki Alvarez",
+      "section": "1832250",
+      "description": "Begins Fall 2025 This course examines the concept of morality and values, representative ethical theories, and their application to contemporary ethical issues such as capital punishment, abortion, war, animal rights and economic justice. Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) isýrecommended.",
+      "url": "https://search.cvc.edu/courses/1832250",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1832250",
+        "cvcUrl": "https://search.cvc.edu/courses/1832250",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Andrew M. Winters",
+          "Jacki Alvarez"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) isýrecommended.",
+        "sections": [
+          {
+            "crn": "PHIL-05-22300",
+            "dates": "Jan 12 to May 1",
+            "professor": "Andrew M. Winters",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "PHIL-05-22301",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Jacki Alvarez",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "PHIL12",
+      "title": "Introduction to Logic",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Andrew M. Winters",
+      "section": "1159463",
+      "description": "Begins Fall 2025 This course explores symbolic logic, focusing on translating natural language arguments into formal symbolic form and evaluating their validity. Topics include deductive reasoning, truth tables, formal proofs, quantifiers, and rules of inference. Alongside formal exercises, students will write essays analyzing arguments, explaining logical methods, and reflecting on broader applications, with an emphasis on clarity, structure, and revision. Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+      "url": "https://search.cvc.edu/courses/1159463",
+      "meta": {
+        "transferable": [
+          "CSU BREADTH"
+        ],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1159463",
+        "cvcUrl": "https://search.cvc.edu/courses/1159463",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Andrew M. Winters"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+        "sections": [
+          {
+            "crn": "PHIL-12-22302",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Andrew M. Winters",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "CRIM4",
+      "title": "Criminal Law",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Mark A. Johnson, Kalisa D. McClure",
+      "section": "1988949",
+      "description": "Begins Fall 2025 This course offers an analysis of the doctrines of criminal liability in the United States and the classification of crimes against persons, property, morals, and public welfare. Special emphasis is placed on the classification of crime, the general elements of crime, the definitions of common and statutory law, and the nature of acceptable evidence. This course utilizes case law and case studies to introduce students to criminal law. The completion of this course offers a foundation upon which upper-division criminal justice courses will build. The course will also include some limited discussion of prosecution and defense decision making, criminal culpability, and defenses to crime. Prerequisite: Previously taken CRIM-02 and passedýwith a minimum grade of Cý ---OR---ýConcurrently enrolled in CRIM-02",
+      "url": "https://search.cvc.edu/courses/1988949",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1988949",
+        "cvcUrl": "https://search.cvc.edu/courses/1988949",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Mark A. Johnson",
+          "Kalisa D. McClure"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "CRIM-04-42309",
+            "dates": "Jan 12 to May 1",
+            "professor": "Mark A. Johnson",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "CRIM-04-42476",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Mark A. Johnson",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "CRIM-04-42480",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Kalisa D. McClure",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "CRIM-04-42476",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Mark A. Johnson",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "CRIM-04-42480",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Kalisa D. McClure",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 5
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "ASLG1",
+      "title": "Beginning American Sign Language",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Krystle Chambers",
+      "section": "1264388",
+      "description": "Begins Fall 2025 This course is an introduction to understanding and signing American Sign Language and appreciating the basic elements of the Deaf culture. Emphasis is on obtaining a practical command of the language, including major grammatical components, basic ASL sentence structures, nonmanual gestures, expression of spatial relationships in a visual-gestural language, and beginning conversational skills. Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+      "url": "https://search.cvc.edu/courses/1264388",
+      "meta": {
+        "transferable": [
+          "CSU BREADTH"
+        ],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1264388",
+        "cvcUrl": "https://search.cvc.edu/courses/1264388",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Krystle Chambers"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+        "sections": [
+          {
+            "crn": "ASLG-01-22200",
+            "dates": "Jan 12 to May 1",
+            "professor": "Krystle Chambers",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ASLG-01-22200",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Krystle Chambers",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ASLG-01-22217",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Krystle Chambers",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
       "code": "CRIM30",
       "title": "Juvenile Procedures",
       "modality": "online",
@@ -352,7 +2925,7 @@
       "instructor": "Brandon C. Soto",
       "section": "1264935",
       "description": "Begins Fall 2025 This course is an examination of the origin, development, and organization of the Juvenile Justice System as it evolved in the American Justice System. The course explores the theories that focus on Juvenile Law, courts and processes, and the constitutional protections extended to juveniles administered in the American Justice System. Prerequisite: Previously taken CRIM-01 CRIM-02 or CRIM-11ýand passed with a minimum grade of Cýor received an equivalent",
-      "url": "https://search.cvc.edu/courses/1264935?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1264935",
       "meta": {
         "transferable": [],
         "igetc": false,
@@ -364,7 +2937,7 @@
         "startDate": "Aug 24",
         "endDate": "Dec 11",
         "cvcCourseId": "1264935",
-        "cvcUrl": "https://search.cvc.edu/courses/1264935?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1264935",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -394,49 +2967,141 @@
       "source": "cvc"
     },
     {
-      "code": "GERN2",
-      "title": "Elementary German II",
+      "code": "CRIM33",
+      "title": "Violence in the Family",
       "modality": "online",
       "term": "Aug 24 - Dec 11",
-      "units": "4.0",
-      "instructor": "Kathryn S. Weingand",
-      "section": "1832158",
-      "description": "Begins Fall 2026 GERN-02 is the continuation of GERN-01. This course will focus on the further development of listening, speaking, reading, and writing in a cultural context, with primary emphasis on communicative competency. Students will learn how to express in German basic functions of everyday life. Prerequisite: Previously taken GERN-01 or two years of high school Germanýand passed with a minimum grade of C or received anýequivalent.",
-      "url": "https://search.cvc.edu/courses/1832158?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "units": "3.0",
+      "instructor": "Brandon C. Soto, Jeffrey C. Castleton",
+      "section": "1264484",
+      "description": "Begins Fall 2025 This course examines criminal law and the psycho-socio dynamics of child abuse, elder abuse, spousal abuse, and sexual assault. Prerequisite: Previously taken CRIM-02 is advised.",
+      "url": "https://search.cvc.edu/courses/1264484",
       "meta": {
-        "transferable": [
-          "IGETC",
-          "Cal-GETC",
-          "CSU BREADTH"
-        ],
-        "igetc": true,
-        "calGetc": true,
-        "csuBreadth": true,
-        "tuition": 184,
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
         "zeroTextbookCost": false,
         "qualityReviewed": false,
         "startDate": "Aug 24",
         "endDate": "Dec 11",
-        "cvcCourseId": "1832158",
-        "cvcUrl": "https://search.cvc.edu/courses/1832158?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcCourseId": "1264484",
+        "cvcUrl": "https://search.cvc.edu/courses/1264484",
         "geAreas": null,
         "formats": [
           "Asynchronous"
         ],
         "professors": [
-          "Kathryn S. Weingand"
+          "Brandon C. Soto",
+          "Jeffrey C. Castleton"
         ],
-        "prerequisites": "Prerequisite: Previously taken GERN-01 or two years of high school Germanýand passed with a minimum grade of C or received anýequivalent.",
+        "prerequisites": "Prerequisite: Previously taken CRIM-02 is advised.",
         "sections": [
           {
-            "crn": "GERN-02-22203",
+            "crn": "CRIM-33-42293",
+            "dates": "Jan 12 to May 1",
+            "professor": "Brandon C. Soto",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "CRIM-33-42485",
             "dates": "Aug 24 to Dec 11",
-            "professor": "Kathryn S. Weingand",
+            "professor": "Jeffrey C. Castleton",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "CRIM-33-42485",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Jeffrey C. Castleton",
             "format": "Asynchronous",
             "notes": null
           }
         ],
-        "sectionCount": 1
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "CRIM1",
+      "title": "Criminology",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "David C. Noblett, Mark A. Johnson",
+      "section": "1832273",
+      "description": "Begins Fall 2025 This course is an analysis of the nature and patterning of criminality and theories of criminal behavior. Crime control policies are critically examined regarding linkages among 1) social conflicts and inequalities, 2) criminal laws and enforcement practices, and 3) social deviance.",
+      "url": "https://search.cvc.edu/courses/1832273",
+      "meta": {
+        "transferable": [
+          "CSU BREADTH"
+        ],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1832273",
+        "cvcUrl": "https://search.cvc.edu/courses/1832273",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "David C. Noblett",
+          "Mark A. Johnson"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "CRIM-01-42867",
+            "dates": "Jan 12 to Mar 6",
+            "professor": "David C. Noblett",
+            "format": "Asynchronous",
+            "notes": "This 8wk course is held from 8/24/26-10/16/26."
+          },
+          {
+            "crn": "CRIM-01-42292",
+            "dates": "Jan 12 to May 1",
+            "professor": "Mark A. Johnson",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "CRIM-01-42471",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Mark A. Johnson",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "CRIM-01-42830",
+            "dates": "Aug 24 to Oct 16",
+            "professor": "David C. Noblett",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "CRIM-01-42830",
+            "dates": "Aug 25 to Oct 17",
+            "professor": "David C. Noblett",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "CRIM-01-42471",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Mark A. Johnson",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 6
       },
       "source": "cvc"
     },
@@ -449,7 +3114,7 @@
       "instructor": "Cho Ly",
       "section": "1832189",
       "description": "Begins Fall 2025 This course is a beginner's course. It focuses on the study of the fundamentals of pronunciation, audio-lingual training, and phonology; syllabication; appreciation of basic elements of the Hmong culture, with primary emphasis on communicative competency. Students will learn how to express in Hmong the most basic functions of everyday life.",
-      "url": "https://search.cvc.edu/courses/1832189?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1832189",
       "meta": {
         "transferable": [
           "IGETC",
@@ -464,7 +3129,7 @@
         "startDate": "Aug 24",
         "endDate": "Dec 11",
         "cvcCourseId": "1832189",
-        "cvcUrl": "https://search.cvc.edu/courses/1832189?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=599&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1832189",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -497,6 +3162,406 @@
           }
         ],
         "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "CRIM35",
+      "title": "Narcotics",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Raymond Framstad",
+      "section": "1264486",
+      "description": "Begins Fall 2025 This course is a review of the laws restricting and governing the use of narcotics and dangerous drugs, the psychological and physiological effects of the use and addiction to narcotics and dangerous drugs, and the procedures used to combat the problems facing law enforcement and society in relation to narcotics and dangerous drugs. Prerequisite: Previously take CRIM-02 is advised.",
+      "url": "https://search.cvc.edu/courses/1264486",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "1264486",
+        "cvcUrl": "https://search.cvc.edu/courses/1264486",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Raymond Framstad"
+        ],
+        "prerequisites": "Prerequisite: Previously take CRIM-02 is advised.",
+        "sections": [
+          {
+            "crn": "CRIM-35-42486",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Raymond Framstad",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "CRIM-35-42486",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Raymond Framstad",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "COMMC1000",
+      "title": "Introduction to Public Speaking",
+      "modality": "online",
+      "term": "Aug 24 - Dec 11",
+      "units": "3.0",
+      "instructor": "Mary C. Frederick, Matthew M. Ward, Jessica E. Bonstein, Melissa J. Amarillas, Jordan R. Pierce, Malcolm Gamble, Lila C. Romero, Jonathan M. Sahlman, James L. Bonstein, Reed Ramsey, Janee L. Young, Daniel J. Cavallero",
+      "section": "15919803",
+      "description": "Begins Fall 2025. Effective Fall 2025, COMM-C1000 replaces COMM-01 In this course, students learn and apply foundational rhetorical theories and techniques ofpublic speaking in a multicultural democratic society. Students discover, develop, andcritically analyze ideas in public discourse through research, reasoning, organization,composition, delivery to a live audience and evaluation of various types of speeches,including informative and persuasive speeches. (Approved for C-ID COMM 110) Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+      "url": "https://search.cvc.edu/courses/15919803",
+      "meta": {
+        "transferable": [
+          "Cal-GETC"
+        ],
+        "igetc": false,
+        "calGetc": true,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 24",
+        "endDate": "Dec 11",
+        "cvcCourseId": "15919803",
+        "cvcUrl": "https://search.cvc.edu/courses/15919803",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Mary C. Frederick",
+          "Matthew M. Ward",
+          "Jessica E. Bonstein",
+          "Melissa J. Amarillas",
+          "Jordan R. Pierce",
+          "Malcolm Gamble",
+          "Lila C. Romero",
+          "Jonathan M. Sahlman",
+          "James L. Bonstein",
+          "Reed Ramsey",
+          "Janee L. Young",
+          "Daniel J. Cavallero"
+        ],
+        "prerequisites": "Prerequisite: Previously taken ENGL-C1000 (formerly ENGL-01A) is advised.",
+        "sections": [
+          {
+            "crn": "COMM-C1000-22811",
+            "dates": "Mar 9 to May 1",
+            "professor": "Mary C. Frederick",
+            "format": "Asynchronous",
+            "notes": "Open Educational Resources/Zero Textbook Cost This course requires online access and a webcam. For course-specific questions, please contact daniel.cavallero@mccd.edu"
+          },
+          {
+            "crn": "COMM-C1000-22102",
+            "dates": "Jan 12 to May 1",
+            "professor": "Matthew M. Ward",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22105",
+            "dates": "Jan 12 to May 1",
+            "professor": "Jessica E. Bonstein",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22101",
+            "dates": "Jan 12 to May 1",
+            "professor": "Matthew M. Ward",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22106",
+            "dates": "Jan 12 to May 1",
+            "professor": "Melissa J. Amarillas",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22116",
+            "dates": "Jan 12 to May 1",
+            "professor": "Jordan R. Pierce",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22103",
+            "dates": "Jan 12 to May 1",
+            "professor": "Malcolm Gamble",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22114",
+            "dates": "Jan 12 to May 1",
+            "professor": "Jordan R. Pierce",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22113",
+            "dates": "Jan 12 to May 1",
+            "professor": "Jessica E. Bonstein",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22104",
+            "dates": "Jan 12 to May 1",
+            "professor": "Lila C. Romero",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22115",
+            "dates": "Jan 12 to May 1",
+            "professor": "Jonathan M. Sahlman",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22100",
+            "dates": "Jan 12 to May 1",
+            "professor": "Matthew M. Ward",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22810",
+            "dates": "Jan 12 to Mar 6",
+            "professor": "James L. Bonstein",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22112",
+            "dates": "Jan 12 to May 1",
+            "professor": "Reed Ramsey",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22831",
+            "dates": "Jun 29 to Aug 6",
+            "professor": "Reed Ramsey",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22806",
+            "dates": "May 18 to Aug 6",
+            "professor": "Jordan R. Pierce",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22807",
+            "dates": "May 18 to Aug 6",
+            "professor": "Melissa J. Amarillas",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22830",
+            "dates": "Jun 29 to Aug 6",
+            "professor": "Jonathan M. Sahlman",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22805",
+            "dates": "May 18 to Aug 6",
+            "professor": "Mary C. Frederick",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22829",
+            "dates": "Jun 29 to Aug 6",
+            "professor": "Matthew M. Ward",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22835",
+            "dates": "Jun 29 to Aug 6",
+            "professor": "James L. Bonstein",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22102",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Janee L. Young",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22103",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Janee L. Young",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22104",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Melissa J. Amarillas",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22106",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Jonathan M. Sahlman",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22100",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Matthew M. Ward",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22105",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Matthew M. Ward",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22810",
+            "dates": "Aug 24 to Oct 16",
+            "professor": "James L. Bonstein",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22101",
+            "dates": "Aug 24 to Dec 11",
+            "professor": "Matthew M. Ward",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22117",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Reed Ramsey",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22118",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Mary C. Frederick",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22103",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Jonathan M. Sahlman",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22105",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Malcolm Gamble",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22104",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Jessica E. Bonstein",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22101",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Matthew M. Ward",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22100",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Matthew M. Ward",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22102",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Matthew M. Ward",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22106",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Janee L. Young",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-29101",
+            "dates": "Oct 20 to Dec 12",
+            "professor": "Melissa J. Amarillas",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22115",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Matthew M. Ward",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-72870",
+            "dates": "Oct 20 to Dec 12",
+            "professor": "Daniel J. Cavallero",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-29100",
+            "dates": "Aug 25 to Oct 17",
+            "professor": "James L. Bonstein",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-22116",
+            "dates": "Aug 25 to Dec 12",
+            "professor": "Lila C. Romero",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 43
       },
       "source": "cvc"
     }

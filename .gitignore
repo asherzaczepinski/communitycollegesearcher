@@ -2,6 +2,9 @@ node_modules/
 src/data/*.db
 src/data/*.db-wal
 src/data/*.db-shm
+src/data/*.db.bak-*
+# C-ID transfer CSVs are regenerable via `npm run cid:fetch`.
+src/data/cid/
 # Learned recipes and snapshots are kept by default (they ARE the knowledge base).
 # Uncomment to treat them as regenerable cache instead:
 # src/data/learned/

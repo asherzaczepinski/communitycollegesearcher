@@ -1,7 +1,7 @@
 {
   "slug": "lassen-college",
-  "scrapedAt": "2026-07-26T17:21:39.734Z",
-  "count": 35,
+  "scrapedAt": "2026-08-16T22:53:42.821Z",
+  "count": 44,
   "courses": [
     {
       "code": "BIOL32",
@@ -12,7 +12,7 @@
       "instructor": "Harris, Larry, Avilla, Jordan",
       "section": "1059832",
       "description": "A general survey of the living world with emphasis on the basic biological principles as illustrated in plant and animal groups. This course has been approved for online, hybrid and correspondence delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1059832?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=biology&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1059832",
       "meta": {
         "transferable": [
           "IGETC",
@@ -28,7 +28,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "1059832",
-        "cvcUrl": "https://search.cvc.edu/courses/1059832?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=biology&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1059832",
         "geAreas": {
           "csu": [
             "B2 Life Science"
@@ -91,7 +91,7 @@
       "instructor": "Thapa, Mahendra, Wilson, Theresa A.",
       "section": "1055648",
       "description": "A brief introduction to physics, chemistry, geology, and astronomy. Not intended for science majors. This course has been approved for online delivery. This course has been approved for online delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1055648?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=chemistry&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1055648",
       "meta": {
         "transferable": [
           "IGETC",
@@ -107,7 +107,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "1055648",
-        "cvcUrl": "https://search.cvc.edu/courses/1055648?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=chemistry&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1055648",
         "geAreas": {
           "csu": [
             "B1 Physical Science"
@@ -163,7 +163,7 @@
       "instructor": "Keady, Monte B.",
       "section": "1287213",
       "description": "This course of study presents theories and fundamentals of how and why fires start, spread and are controlled; an in-depth study of fire chemistry and physics; fire characteristics of materials; extinguishing agents; and fire control techniques. This course meets the National Fire Academy, Fire and Emergency Services Higher Education (FESHE) curriculum model for Fire Behavior and Combustion. This course has been approved for online, hybrid and correspondence delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1287213?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=chemistry&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1287213",
       "meta": {
         "transferable": [],
         "igetc": false,
@@ -175,7 +175,7 @@
         "startDate": "Oct 5",
         "endDate": "Dec 7",
         "cvcCourseId": "1287213",
-        "cvcUrl": "https://search.cvc.edu/courses/1287213?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=chemistry&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1287213",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -206,7 +206,7 @@
       "instructor": "Keady, Monte B.",
       "section": "2023648",
       "description": "This course provides an overview to fire protection and emergency services; career opportunities in fire protection and related fields; culture and history of emergency services; fire loss analysis; organization and function of public and private fire protection services; fire departments as part of local government; laws and regulations affecting the fire service; fire service nomenclature; specific fire protection functions; basic fire chemistry and physics; introduction to fire protection systems; introduction to fire strategy and tactics; life safety initiatives. This course meets the National Fire Academy, Fire and Emergency Services Higher Education (FESHE) curriculum model for Principles of Emergency Services. This course has been approved for online, hybrid and correspondence delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/2023648?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=chemistry&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/2023648",
       "meta": {
         "transferable": [],
         "igetc": false,
@@ -218,7 +218,7 @@
         "startDate": "Oct 13",
         "endDate": "Dec 11",
         "cvcCourseId": "2023648",
-        "cvcUrl": "https://search.cvc.edu/courses/2023648?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=chemistry&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/2023648",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -248,6 +248,74 @@
       "source": "cvc"
     },
     {
+      "code": "PHYS2A",
+      "title": "General College Physics I",
+      "modality": "online",
+      "term": "Aug 17 - Dec 18",
+      "units": "4.0",
+      "instructor": "Schulte, Bruce, Bruce Schulte",
+      "section": "1059841",
+      "description": "This course is intended for students not majoring in physics or engineering but needing a one-year course in physics as a requirement for their major program. The course is part of a two-semester sequence whose contents may be offered in other sequences or combinations. Core topics include kinematics, dynamics, work and energy, momentum, fluids, and simple harmonic motion. Access to a computer with internet access is required. This course has been approved for web-enhanced, online, and hybrid delivery This course uses an OER resource Prerequisite:",
+      "url": "https://search.cvc.edu/courses/1059841",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 184,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 18",
+        "cvcCourseId": "1059841",
+        "cvcUrl": "https://search.cvc.edu/courses/1059841",
+        "geAreas": {
+          "csu": [
+            "B1 Physical Science",
+            "B3 Laboratory Activity"
+          ],
+          "igetc": [
+            "5A Physical Science",
+            "5C Science Laboratory"
+          ],
+          "calGetc": [
+            "5A Physical Science",
+            "5C Laboratory"
+          ]
+        },
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Schulte, Bruce",
+          "Bruce Schulte"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "PHYS-2A-N0761",
+            "dates": "Aug 17 to Dec 18",
+            "professor": "Schulte, Bruce",
+            "format": "Asynchronous",
+            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at bschulte@lassencollege.edu."
+          },
+          {
+            "crn": "PHYS-2A-N0761",
+            "dates": "Aug 18 to Dec 19",
+            "professor": "Bruce Schulte",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
       "code": "MATH24",
       "title": "College Algebra for Liberal Arts",
       "modality": "online",
@@ -256,7 +324,7 @@
       "instructor": "Eid, Melissa L., Nelson, Cliff, George K. Nzenge",
       "section": "15974822",
       "description": "This is a college level course in algebra for majors in the Liberal Arts. The course will cover topics on functions, including polynomial, rational, radical, exponential, absolute value, and logarithmic functions. Solving various types of equations, linear systems, and their applications for problem solving will also be discussed and reflected upon. This course has been approved for hybrid, correspondence and online delivery. It is recommended that students enroll into a math support lab for transferable math classes . Prerequisite:",
-      "url": "https://search.cvc.edu/courses/15974822?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=mathematics&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/15974822",
       "meta": {
         "transferable": [
           "Cal-GETC"
@@ -270,7 +338,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "15974822",
-        "cvcUrl": "https://search.cvc.edu/courses/15974822?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=mathematics&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/15974822",
         "geAreas": {
           "csu": [],
           "igetc": [],
@@ -315,6 +383,603 @@
       "source": "cvc"
     },
     {
+      "code": "STATC1000",
+      "title": "Introduction to Statistics",
+      "modality": "online",
+      "term": "Aug 17 - Dec 18",
+      "units": "3.0",
+      "instructor": "Gaye, Elhadji D., Elhadji D. Gaye",
+      "section": "15956803",
+      "description": "This course is an introduction to statistical thinking and processes, including methods and con-cepts for discovery and decision-making using data. Topics include descriptive statistics; proba-bility and sampling distributions; statistical inference; correlation and linear regression; analysis of variance, chi-squared, and t-tests; and application of technology for statistical analysis includ-ing the interpretation of the relevance of the statistical findings. Students apply methods and processes to applications using data from a broad range of disciplines. This course has been approved for online, hybrid and correspondence delivery. Prerequisite:",
+      "url": "https://search.cvc.edu/courses/15956803",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 18",
+        "cvcCourseId": "15956803",
+        "cvcUrl": "https://search.cvc.edu/courses/15956803",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Gaye, Elhadji D.",
+          "Elhadji D. Gaye"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "STAT-C1000-N3899",
+            "dates": "Jan 8 to May 22",
+            "professor": "Gaye, Elhadji D.",
+            "format": "Asynchronous",
+            "notes": "This class is held online. For more information, please contact the instructor at egaye@lassencollege.edu. **OER TEXTBOOK**This course uses an Open Educational Resource (OER) text. Students will be able to access the textbook FREE online or may request a printed copy from the book store for a minimal fee.**"
+          },
+          {
+            "crn": "STAT-C1000-N3709",
+            "dates": "Jan 8 to May 22",
+            "professor": "Gaye, Elhadji D.",
+            "format": "Asynchronous",
+            "notes": "This class is held online. For more information, please contact the instructor at egaye@lassencollege.edu. **OER TEXTBOOK**This course uses an Open Educational Resource (OER) text. Students will be able to access the textbook FREE online or may request a printed copy from the book store for a minimal fee.**"
+          },
+          {
+            "crn": "STAT-C1000-N8337",
+            "dates": "Jun 8 to Jul 31",
+            "professor": "Gaye, Elhadji D.",
+            "format": "Asynchronous",
+            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at egaye@lassencollege.edu. **THIS SECTION USES A FREE OPEN EDUCATIONAL RESOURCES (OER) TEXTBOOK. Student will be able to access the textbook FREE online or may request a printed copy from the LCC Book Store for a minimal fee."
+          },
+          {
+            "crn": "STAT-C1000-N0324",
+            "dates": "Aug 17 to Dec 18",
+            "professor": "Gaye, Elhadji D.",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "STAT-C1000-N0324",
+            "dates": "Aug 18 to Dec 19",
+            "professor": "Elhadji D. Gaye",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 5
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "CD31",
+      "title": "Child Development: Conception Through Adolescence",
+      "modality": "online",
+      "term": "Aug 17 - Dec 18",
+      "units": "3.0",
+      "instructor": "Greer, Laura E., Cox, Laura E., Laura E. Greer",
+      "section": "1074448",
+      "description": "This course examines the major physical, psychological, and cognitive/language developmental milestones for children, both typical and atypical, from conception through adolescence. Emphasis will be on interactions between the maturational process and environmental factors. Students will be expected to observe children, analyze characteristic of children at different developmental stages and investigate research methodologies. This course has been approved for online, hybrid and correspondence delivery. Prerequisite:",
+      "url": "https://search.cvc.edu/courses/1074448",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 18",
+        "cvcCourseId": "1074448",
+        "cvcUrl": "https://search.cvc.edu/courses/1074448",
+        "geAreas": {
+          "csu": [
+            "D Social Sciences"
+          ],
+          "igetc": [
+            "4 Social Sciences"
+          ],
+          "calGetc": []
+        },
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Greer, Laura E.",
+          "Cox, Laura E.",
+          "Laura E. Greer"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "CD-31-N4563",
+            "dates": "Jan 8 to May 22",
+            "professor": "Greer, Laura E.",
+            "format": "Asynchronous",
+            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at lgreer@lassencollege.edu. **THIS SECTION USES A FREE OPEN EDUCATIONAL RESOURCES (OER) TEXTBOOK. Student will be able to access the textbook FREE online or may request a printed copy from the LCC Book Store for a minimal fee."
+          },
+          {
+            "crn": "CD-31-N5551",
+            "dates": "Jun 8 to Jul 31",
+            "professor": "Cox, Laura E.",
+            "format": "Asynchronous",
+            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at lgreer@lassencollege.edu. **THIS SECTION USES A FREE OPEN EDUCATIONAL RESOURCES (OER) TEXTBOOK. Student will be able to access the textbook FREE online or may request a printed copy from the LCC Book Store for a minimal fee."
+          },
+          {
+            "crn": "CD-31-N0755",
+            "dates": "Aug 17 to Dec 18",
+            "professor": "Cox, Laura E.",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "CD-31-N0755",
+            "dates": "Aug 18 to Dec 19",
+            "professor": "Laura E. Greer",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 4
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "PSYCC1000",
+      "title": "Introduction to Psychology",
+      "modality": "online",
+      "term": "Aug 17 - Dec 18",
+      "units": "3.0",
+      "instructor": "Freeman, Micah J., Micah J. Freeman",
+      "section": "15956801",
+      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Stu-dents focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations. Psychology is the scientific study of behavior and mental processes. The content focuses on the exploration of major psychological theories and concepts, methods, and research findings in psychology. Topics include the biological bases of behavior, perception, cognition and consciousness, learning, memory, emotion, motivation, development, personality, social psychology, psychological disorders and therapeutic approaches, and applied psychology. This course has been approved for online, correspondence, and hybrid delivery. This course uses an Open Educational Resource Textbook. Prerequisite:",
+      "url": "https://search.cvc.edu/courses/15956801",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 18",
+        "cvcCourseId": "15956801",
+        "cvcUrl": "https://search.cvc.edu/courses/15956801",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Freeman, Micah J.",
+          "Micah J. Freeman"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "PSYC-C1000-N4854",
+            "dates": "Jan 8 to May 22",
+            "professor": "Freeman, Micah J.",
+            "format": "Asynchronous",
+            "notes": "**OER TEXTBOOK**This course uses an Open Educational Resource (OER) text. Students will be able to access the textbook FREE online or may request a printed copy from the book store for a minimal fee. **This class is offered online. For more information, please contact the instructor at mfreeman@lassencollege.edu."
+          },
+          {
+            "crn": "PSYC-C1000-N4337",
+            "dates": "Feb 2 to May 22",
+            "professor": "Freeman, Micah J.",
+            "format": "Asynchronous",
+            "notes": "**OER TEXTBOOK**This course uses an Open Educational Resource (OER) text. Students will be able to access the textbook FREE online or may request a printed copy from the book store for a minimal fee. **This class is offered online. For more information, please contact the instructor at mfreeman@lassencollege.edu."
+          },
+          {
+            "crn": "PSYC-C1000-N5620",
+            "dates": "Jun 8 to Jul 31",
+            "professor": "Freeman, Micah J.",
+            "format": "Asynchronous",
+            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at mfreeman@lassencollege.edu.**THIS SECTION USES A FREE OPEN EDUCATIONAL RESOURCES (OER) TEXTBOOK. Student will be able to access the textbook FREE online or may request a printed copy from the LCC Book Store for a minimal fee."
+          },
+          {
+            "crn": "PSYC-C1000-N0406",
+            "dates": "Aug 17 to Dec 18",
+            "professor": "Freeman, Micah J.",
+            "format": "Asynchronous",
+            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at mfreeman@lassencollege.edu.**THIS SECTION USES A FREE OPEN EDUCATIONAL RESOURCES (OER) TEXTBOOK. Student will be able to access the textbook FREE online or may request a printed copy from the LCC Book Store for a minimal fee."
+          },
+          {
+            "crn": "PSYC-C1000-N0408",
+            "dates": "Aug 18 to Dec 19",
+            "professor": "Micah J. Freeman",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "PSYC-C1000-N0406",
+            "dates": "Aug 18 to Oct 17",
+            "professor": "Micah J. Freeman",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 6
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "COMMC1000",
+      "title": "Introduction to Public Speaking",
+      "modality": "online",
+      "term": "Aug 17 - Dec 18",
+      "units": "3.0",
+      "instructor": "Aschenbach, Cheryl L., Huisman, Melanie, Cheryl L. Aschenbach",
+      "section": "15956804",
+      "description": "In this course, students learn and apply foundational rhetorical theories and techniques of pub-lic speaking in a multicultural democratic society. Students discover, develop, and critically ana-lyze ideas in public discourse through research, reasoning, organization, composition, delivery to a live audience and evaluation of various types of speeches, including informative and persua-sive speeches. Theory and techniques of public speaking in democratic society. Discovery, development, and criticism of ideas in public discourse through research, reasoning, organization, composition, presentation, and evaluation of various types of speeches including informative and persuasive speeches. This course has been approved for hybrid and online delivery. Students must have regular access to a computer with internet and be able to navigate an online learning system. The course has also been approved for incarcerated correspondence delivery with speeches rec-orded in front of a live audience. All speeches will be observed and graded by the professor. Speeches are to be delivered in English. Prerequisite:",
+      "url": "https://search.cvc.edu/courses/15956804",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 18",
+        "cvcCourseId": "15956804",
+        "cvcUrl": "https://search.cvc.edu/courses/15956804",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Aschenbach, Cheryl L.",
+          "Huisman, Melanie",
+          "Cheryl L. Aschenbach"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "COMM-C1000-N3685",
+            "dates": "Jan 8 to May 22",
+            "professor": "Aschenbach, Cheryl L.",
+            "format": "Asynchronous",
+            "notes": "In addition to assignments to be completed asynchronously within each unit (work on your own time while meeting unit deadlines), STUDENTS WILL BE EXPECTED TO DELIVER SPEECHES LIVE ONLINE synchronously via Zoom to instructor and classmates on the following dates: 2/11, 3/4, 3/25, 4/22, and 5/13. The instructor will announce the times of synchronous online classes upon surveying students during the first week of class. ZOOM MEETING, SNC, Students will be required to attend a minimum of one hour on each day listed to deliver their speech and listen to classmates' speeches, for a total of 5 hours synchronous scheduled participation online. Speech time sign-ups will occur during the first week of class. For more information, please contact the instructor at caschenbach@lassencollege.edu. **OER TEXTBOOK**This course uses an Open Educational Resource (OER) text."
+          },
+          {
+            "crn": "COMM-C1000-N3786",
+            "dates": "Mar 18 to May 22",
+            "professor": "Aschenbach, Cheryl L.",
+            "format": "Asynchronous",
+            "notes": "This is a short-term fast-paced class held the second 8 weeks of the semester. In addition to assignments to be completed asynchronously within each unit (work on your own time while meeting unit deadlines), STUDENTS WILL BE EXPECTED TO DELIVER SPEECHES LIVE ONLINE synchronously via Zoom to instructor and classmates on the following dates: 3/23, 4/1, 4/15, 4/29, and 5/14. The instructor will announce the times of synchronous online classes upon surveying students during the first week of class. ZOOM MEETING, SNC, Students will be required to attend a minimum of one hour on each day listed to deliver their speech and listen to classmates' speeches, for a total of 5 hours synchronous scheduled participation online. Speech time sign-ups will occur during the first week of class. For more information, please contact the instructor at caschenbach@lassencollege.edu. **OER TEXTBOOK**This course uses an Open Educational Resource (OER) text."
+          },
+          {
+            "crn": "COMM-C1000-N3992",
+            "dates": "Jan 8 to May 22",
+            "professor": "Aschenbach, Cheryl L.",
+            "format": "Asynchronous",
+            "notes": "In addition to assignments to be completed asynchronously within each unit (work on your own time while meeting unit deadlines), STUDENTS WILL BE EXPECTED TO DELIVER SPEECHES LIVE ONLINE synchronously via Zoom to instructor and classmates. The instructor will announce the times of synchronous online classes upon surveying students during the first week of class. ZOOM MEETING, SNC, Students will be required to attend a minimum of one hour on each day listed to deliver their speech and listen to classmates' speeches, for a total of 5 hours synchronous scheduled participation online. Speech time sign-ups will occur during the first week of class. For more information, please contact the instructor at caschenbach@lassencollege.edu. **OER TEXTBOOK**This course uses an Open Educational Resource (OER) text."
+          },
+          {
+            "crn": "COMM-C1000-N5391",
+            "dates": "Jun 8 to Jul 31",
+            "professor": "Huisman, Melanie",
+            "format": "Asynchronous",
+            "notes": "In addition to assignments to be completed asynchronously within each unit (work on your own time while meeting unit deadlines), students will be expected to deliver speeches live online synchronously to instructor and classmates. Speeches will be delivered by students on camera via Zoom. The instructor will announce the dates and times of synchronous online classes upon surveying students during the first week of class. ZOOM MEETING, Class times will be announced in Canvas once students are surveyed during the first week. Students will be required to attend a minimum of one hour on each day listed to deliver their speech and listen to classmates' speeches, for a total of 6 hours synchronous scheduled participation online. Speech time sign-ups will occur during the first week of class. For more information, please contact the instructor at caschenbach@lassencollege.edu. **OER TEXTBOOK**This course uses an Open Educational Resource (OER) text. Students will be able to access the textbook FREE online or may request a printed copy from the book store for a minimal fee."
+          },
+          {
+            "crn": "COMM-C1000-N1176",
+            "dates": "Aug 17 to Dec 18",
+            "professor": "Aschenbach, Cheryl L.",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "COMM-C1000-N1176",
+            "dates": "Aug 18 to Dec 19",
+            "professor": "Cheryl L. Aschenbach",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 6
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "MUS6",
+      "title": "Music History From Antiquity to 1750",
+      "modality": "online",
+      "term": "Aug 17 - Dec 18",
+      "units": "3.0",
+      "instructor": "Mullin, Liudmila V.",
+      "section": "1084596",
+      "description": "This course is a survey of music history and literature from Antiquity to 1750, including cultural, intellectual, and social influences, and provides an in-depth examination of the development of Western European music through analysis and synthesizing of historical details and stylistic elements of the musical trends or the era. This course has been approved for correspondence, hybrid, and online delivery. Prerequisite:",
+      "url": "https://search.cvc.edu/courses/1084596",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 18",
+        "cvcCourseId": "1084596",
+        "cvcUrl": "https://search.cvc.edu/courses/1084596",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Mullin, Liudmila V."
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "MUS-6-N0811",
+            "dates": "Aug 17 to Dec 18",
+            "professor": "Mullin, Liudmila V.",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "ENGLC1000",
+      "title": "Academic Reading and Writing",
+      "modality": "online",
+      "term": "Aug 17 - Dec 18",
+      "units": "3.0",
+      "instructor": "Vincent, Rachel R., Owens, Jeffrey L., Ramser, Dean A., Bertucci, Christopher P., Rotlisberger, Laura A., Rachel R. Vincent, Melanie Huisman, Dean A. Ramser, Jeffrey L. Owens",
+      "section": "15956802",
+      "description": "In this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic re-search. A refinement of the skills of writing and critical reading, emphasizing the relationship between purpose and form, clarity, coherence and unity, accuracy of expression, the development of the writer's voice and style, the elements of critical thinking, and the development of the research paper and its specific strategies to prepare for university studies. This course has been approved for online, hybrid and correspondence delivery.",
+      "url": "https://search.cvc.edu/courses/15956802",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": true,
+        "startDate": "Aug 17",
+        "endDate": "Dec 18",
+        "cvcCourseId": "15956802",
+        "cvcUrl": "https://search.cvc.edu/courses/15956802",
+        "geAreas": {
+          "csu": [
+            "A2 Written Communication"
+          ],
+          "igetc": [
+            "1A English Composition"
+          ],
+          "calGetc": [
+            "1A English Composition"
+          ]
+        },
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Vincent, Rachel R.",
+          "Owens, Jeffrey L.",
+          "Ramser, Dean A.",
+          "Bertucci, Christopher P.",
+          "Rotlisberger, Laura A.",
+          "Rachel R. Vincent",
+          "Melanie Huisman",
+          "Dean A. Ramser",
+          "Jeffrey L. Owens"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "ENGL-C1000-N3878",
+            "dates": "Jan 8 to May 22",
+            "professor": "Vincent, Rachel R.",
+            "format": "Asynchronous",
+            "notes": "This class is offered online. For more information, please contact the instructor at rvincent@lassencollege.edu."
+          },
+          {
+            "crn": "ENGL-C1000-N4561",
+            "dates": "Jan 8 to May 22",
+            "professor": "Owens, Jeffrey L.",
+            "format": "Asynchronous",
+            "notes": "This class is offered online. For more information, please contact the instructor at jowens@lassencollege.edu."
+          },
+          {
+            "crn": "ENGL-C1000-N5156",
+            "dates": "Jun 8 to Jul 31",
+            "professor": "Ramser, Dean A.",
+            "format": "Asynchronous",
+            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at rvincent@lassencollege.edu."
+          },
+          {
+            "crn": "ENGL-C1000-N1335",
+            "dates": "Aug 17 to Dec 18",
+            "professor": "Vincent, Rachel R.",
+            "format": "Asynchronous",
+            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at mhuisman@lassencollege.edu."
+          },
+          {
+            "crn": "ENGL-C1000-N1387",
+            "dates": "Aug 17 to Dec 18",
+            "professor": "Bertucci, Christopher P.",
+            "format": "Asynchronous",
+            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at dramser@lassencollege.edu."
+          },
+          {
+            "crn": "ENGL-C1000-N0184",
+            "dates": "Aug 17 to Dec 18",
+            "professor": "Bertucci, Christopher P.",
+            "format": "Asynchronous",
+            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at jowens@lassencollege.edu."
+          },
+          {
+            "crn": "ENGL-C1000-N0182",
+            "dates": "Aug 31 to Dec 18",
+            "professor": "Rotlisberger, Laura A.",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-N1335",
+            "dates": "Aug 18 to Dec 19",
+            "professor": "Rachel R. Vincent",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-N1387",
+            "dates": "Aug 18 to Dec 19",
+            "professor": "Melanie Huisman",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-N0184",
+            "dates": "Aug 18 to Dec 19",
+            "professor": "Dean A. Ramser",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ENGL-C1000-N1388",
+            "dates": "Aug 18 to Dec 19",
+            "professor": "Jeffrey L. Owens",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 11
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "ENGLC1001",
+      "title": "Critical Thinking and Writing",
+      "modality": "online",
+      "term": "Aug 17 - Dec 18",
+      "units": "3.0",
+      "instructor": "Huisman, Melanie, Bertucci, Christopher P., Owens, Jeffrey L., Melanie Huisman, Christopher P. Bertucci",
+      "section": "15956799",
+      "description": "In this course, students receive instruction in critical thinking for purposes of constructing, evaluating, and composing arguments in a variety of rhetorical forms, using primarily non-fiction texts, refining writing skills and research strategies developed in ENGL C1000 College Reading and Writing (C-ID ENGL 100) or similar first-year college writing course. This course will focus on the development of logical reasoning and analytical argumentative writing skills in conjunction with predominantly nonfiction prose and discussion of readings. Students will be expected to write a minimum of 6,000 words comprised of essays and homework assignments. This course has been approved for correspondence, online and hybrid delivery. This course uses an OER resource. Prerequisite:",
+      "url": "https://search.cvc.edu/courses/15956799",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 18",
+        "cvcCourseId": "15956799",
+        "cvcUrl": "https://search.cvc.edu/courses/15956799",
+        "geAreas": {
+          "csu": [],
+          "igetc": [
+            "1B Critical Thinking-English"
+          ],
+          "calGetc": [
+            "1B Critical Thinking & Composition"
+          ]
+        },
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Huisman, Melanie",
+          "Bertucci, Christopher P.",
+          "Owens, Jeffrey L.",
+          "Melanie Huisman",
+          "Christopher P. Bertucci"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "ENGL-C1001-N3893",
+            "dates": "Jan 8 to May 22",
+            "professor": "Huisman, Melanie",
+            "format": "Asynchronous",
+            "notes": "This class is offered online. For more information, please contact the instructor at mhuisman@lassencollege.edu."
+          },
+          {
+            "crn": "ENGL-C1001-N3989",
+            "dates": "Jan 19 to May 22",
+            "professor": "Bertucci, Christopher P.",
+            "format": "Asynchronous",
+            "notes": "This class is offered online. For more information, please contact the instructor at cbertucchi@lassencollege.edu."
+          },
+          {
+            "crn": "ENGL-C1001-N4176",
+            "dates": "Jan 8 to May 22",
+            "professor": "Huisman, Melanie",
+            "format": "Asynchronous",
+            "notes": "This class is offered online. For more information, please contact the instructor at mhuisman@lassencollege.edu."
+          },
+          {
+            "crn": "ENGL-C1001-N1150",
+            "dates": "Aug 17 to Dec 18",
+            "professor": "Owens, Jeffrey L.",
+            "format": "Asynchronous",
+            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at mhuisman@lassencollege.edu."
+          },
+          {
+            "crn": "ENGL-C1001-N1150",
+            "dates": "Aug 18 to Dec 19",
+            "professor": "Melanie Huisman",
+            "format": "Asynchronous",
+            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at cbertucci@lassencollege.edu."
+          },
+          {
+            "crn": "ENGL-C1001-N0188",
+            "dates": "Aug 18 to Dec 19",
+            "professor": "Christopher P. Bertucci",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 6
+      },
+      "source": "cvc"
+    },
+    {
       "code": "HIST14",
       "title": "World History, Beginning 1500",
       "modality": "online",
@@ -323,7 +988,7 @@
       "instructor": "Di Gerlando, Steven, Steven Di Gerlando",
       "section": "1051228",
       "description": "A study of the major civilizations of the world from the beginning of civilization to 1500. Covers the classical and medieval traditions of the West and the major non-western cultures of the world. This course meets a requirement for the California Elementary School Teaching Credential. This course has been approved for correspondence and online delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1051228?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1051228",
       "meta": {
         "transferable": [
           "IGETC",
@@ -339,7 +1004,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "1051228",
-        "cvcUrl": "https://search.cvc.edu/courses/1051228?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1051228",
         "geAreas": {
           "csu": [
             "D6 History"
@@ -393,7 +1058,7 @@
       "instructor": "Di Gerlando, Steven, Steven Di Gerlando",
       "section": "1051229",
       "description": "A study of the major civilizations of the world from 1500 to the present. Stresses the dynamism and expansion of the West, the cross-cultural interaction in the modern era and the resurgence of non-western independence into the 20th century. This course meets a requirement for the California Elementary School Teaching Credential. This course has been approved for correspondence and online delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1051229?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1051229",
       "meta": {
         "transferable": [
           "IGETC",
@@ -409,7 +1074,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "1051229",
-        "cvcUrl": "https://search.cvc.edu/courses/1051229?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1051229",
         "geAreas": {
           "csu": [
             "C2 Humanities",
@@ -459,15 +1124,15 @@
       "source": "cvc"
     },
     {
-      "code": "MUS6",
-      "title": "Music History From Antiquity to 1750",
+      "code": "HISTC1001",
+      "title": "United States History to 1877",
       "modality": "online",
       "term": "Aug 17 - Dec 18",
       "units": "3.0",
-      "instructor": "Mullin, Liudmila V.",
-      "section": "1084596",
-      "description": "This course is a survey of music history and literature from Antiquity to 1750, including cultural, intellectual, and social influences, and provides an in-depth examination of the development of Western European music through analysis and synthesizing of historical details and stylistic elements of the musical trends or the era. This course has been approved for correspondence, hybrid, and online delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1084596?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "instructor": "Poulsen, Toni",
+      "section": "15999787",
+      "description": "This course is a historical survey of the United States, from Indigenous North America to the end of Reconstruction. The course also introduces students to historical reasoning skills. It traces the transition of the U.S. into a nation, stressing the development of political and economic institutions, social movements, the challenge of sectionalism and geography. This course has been approved for hybrid, online and correspondence delivery. Prerequisite:",
+      "url": "https://search.cvc.edu/courses/15999787",
       "meta": {
         "transferable": [
           "IGETC",
@@ -482,21 +1147,67 @@
         "qualityReviewed": false,
         "startDate": "Aug 17",
         "endDate": "Dec 18",
-        "cvcCourseId": "1084596",
-        "cvcUrl": "https://search.cvc.edu/courses/1084596?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcCourseId": "15999787",
+        "cvcUrl": "https://search.cvc.edu/courses/15999787",
         "geAreas": null,
         "formats": [
           "Asynchronous"
         ],
         "professors": [
-          "Mullin, Liudmila V."
+          "Poulsen, Toni"
         ],
         "prerequisites": null,
         "sections": [
           {
-            "crn": "MUS-6-N0811",
+            "crn": "HIST-C1001-N0815",
             "dates": "Aug 17 to Dec 18",
-            "professor": "Mullin, Liudmila V.",
+            "professor": "Poulsen, Toni",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "HISTC1002",
+      "title": "United States History Since 1865",
+      "modality": "online",
+      "term": "Aug 17 - Dec 18",
+      "units": "3.0",
+      "instructor": "Poulsen, Toni",
+      "section": "15999788",
+      "description": "This course is a historical survey of the United States from the end of the Civil War to the present. The course also introduces students to historical reasoning skills. A course tracing the development of the U.S. into a world power, stressing growth in territory, population, industry and world influence from reconstruction to the present. Also traces the continuing development of the political institution brought about by industrialization and becoming a world power. This course has been approved for hybrid, online and correspondence delivery. Prerequisite:",
+      "url": "https://search.cvc.edu/courses/15999788",
+      "meta": {
+        "transferable": [
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": false,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 18",
+        "cvcCourseId": "15999788",
+        "cvcUrl": "https://search.cvc.edu/courses/15999788",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Poulsen, Toni"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "HIST-C1002-N0822",
+            "dates": "Aug 17 to Dec 18",
+            "professor": "Poulsen, Toni",
             "format": "Asynchronous",
             "notes": null
           }
@@ -514,7 +1225,7 @@
       "instructor": "Arazi, Heather, Jack T. Minkler, Heather Arazi",
       "section": "14925500",
       "description": "This course is a study of the fundamentals of American Sign Language as it is used within Deaf culture. Students will develop expressive and receptive language skills through the learning of basic vocabulary, grammatical structures, and fingerspelling. The history, values, culture and attitudes of Deaf community are explored. ASL 1 is equivalent to two years of high school ASL. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/14925500?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/14925500",
       "meta": {
         "transferable": [
           "IGETC"
@@ -528,7 +1239,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "14925500",
-        "cvcUrl": "https://search.cvc.edu/courses/14925500?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=history&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/14925500",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -562,13 +1273,6 @@
             "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor harazi@lassencollege.edu."
           },
           {
-            "crn": "ASL-1-N1463",
-            "dates": "Aug 17 to Dec 18",
-            "professor": "Arazi, Heather",
-            "format": "Asynchronous",
-            "notes": null
-          },
-          {
             "crn": "ASL-1-N1334",
             "dates": "Aug 18 to Dec 19",
             "professor": "Jack T. Minkler",
@@ -583,7 +1287,7 @@
             "notes": null
           }
         ],
-        "sectionCount": 6
+        "sectionCount": 5
       },
       "source": "cvc"
     },
@@ -596,7 +1300,7 @@
       "instructor": "Kareck, Thomas J., Thomas J. Kareck",
       "section": "15969705",
       "description": "This course introduces the scientific study of psychopathology and atypical behaviors, broadly defined. Students investigate abnormal behavior from a variety of perspectives including biolog-ical, psychological, and sociocultural approaches. An integrative survey of theory and research in abnormal behavior, and intervention and prevention strategies for psychological disorders are also introduced. This course has been approved for correspondence, online and hybrid delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/15969705?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/15969705",
       "meta": {
         "transferable": [
           "IGETC",
@@ -612,7 +1316,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "15969705",
-        "cvcUrl": "https://search.cvc.edu/courses/15969705?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/15969705",
         "geAreas": {
           "csu": [],
           "igetc": [],
@@ -649,96 +1353,6 @@
       "source": "cvc"
     },
     {
-      "code": "PSYCC1000",
-      "title": "Introduction to Psychology",
-      "modality": "online",
-      "term": "Aug 17 - Dec 18",
-      "units": "3.0",
-      "instructor": "Freeman, Micah J., Micah J. Freeman",
-      "section": "15956801",
-      "description": "This course is an introduction to psychology, which is the study of the mind and behavior. Stu-dents focus on theories and concepts of biological, cognitive, developmental, environmental, social, and cultural influences; their applications; and their research foundations. Psychology is the scientific study of behavior and mental processes. The content focuses on the exploration of major psychological theories and concepts, methods, and research findings in psychology. Topics include the biological bases of behavior, perception, cognition and consciousness, learning, memory, emotion, motivation, development, personality, social psychology, psychological disorders and therapeutic approaches, and applied psychology. This course has been approved for online, correspondence, and hybrid delivery. This course uses an Open Educational Resource Textbook. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/15956801?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
-      "meta": {
-        "transferable": [
-          "IGETC",
-          "Cal-GETC",
-          "CSU BREADTH"
-        ],
-        "igetc": true,
-        "calGetc": true,
-        "csuBreadth": true,
-        "tuition": 138,
-        "zeroTextbookCost": false,
-        "qualityReviewed": false,
-        "startDate": "Aug 17",
-        "endDate": "Dec 18",
-        "cvcCourseId": "15956801",
-        "cvcUrl": "https://search.cvc.edu/courses/15956801?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
-        "geAreas": null,
-        "formats": [
-          "Asynchronous"
-        ],
-        "professors": [
-          "Freeman, Micah J.",
-          "Micah J. Freeman"
-        ],
-        "prerequisites": null,
-        "sections": [
-          {
-            "crn": "PSYC-C1000-N4337",
-            "dates": "Feb 2 to May 22",
-            "professor": "Freeman, Micah J.",
-            "format": "Asynchronous",
-            "notes": "**OER TEXTBOOK**This course uses an Open Educational Resource (OER) text. Students will be able to access the textbook FREE online or may request a printed copy from the book store for a minimal fee. **This class is offered online. For more information, please contact the instructor at mfreeman@lassencollege.edu."
-          },
-          {
-            "crn": "PSYC-C1000-N4854",
-            "dates": "Jan 8 to May 22",
-            "professor": "Freeman, Micah J.",
-            "format": "Asynchronous",
-            "notes": "**OER TEXTBOOK**This course uses an Open Educational Resource (OER) text. Students will be able to access the textbook FREE online or may request a printed copy from the book store for a minimal fee. **This class is offered online. For more information, please contact the instructor at mfreeman@lassencollege.edu."
-          },
-          {
-            "crn": "PSYC-C1000-N5620",
-            "dates": "Jun 8 to Jul 31",
-            "professor": "Freeman, Micah J.",
-            "format": "Asynchronous",
-            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at mfreeman@lassencollege.edu.**THIS SECTION USES A FREE OPEN EDUCATIONAL RESOURCES (OER) TEXTBOOK. Student will be able to access the textbook FREE online or may request a printed copy from the LCC Book Store for a minimal fee."
-          },
-          {
-            "crn": "PSYC-C1000-N0408",
-            "dates": "Aug 17 to Dec 18",
-            "professor": "Freeman, Micah J.",
-            "format": "Asynchronous",
-            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at mfreeman@lassencollege.edu.**THIS SECTION USES A FREE OPEN EDUCATIONAL RESOURCES (OER) TEXTBOOK. Student will be able to access the textbook FREE online or may request a printed copy from the LCC Book Store for a minimal fee."
-          },
-          {
-            "crn": "PSYC-C1000-N0406",
-            "dates": "Aug 17 to Dec 18",
-            "professor": "Freeman, Micah J.",
-            "format": "Asynchronous",
-            "notes": null
-          },
-          {
-            "crn": "PSYC-C1000-N0408",
-            "dates": "Aug 18 to Dec 19",
-            "professor": "Micah J. Freeman",
-            "format": "Asynchronous",
-            "notes": null
-          },
-          {
-            "crn": "PSYC-C1000-N0406",
-            "dates": "Aug 18 to Oct 17",
-            "professor": "Micah J. Freeman",
-            "format": "Asynchronous",
-            "notes": null
-          }
-        ],
-        "sectionCount": 7
-      },
-      "source": "cvc"
-    },
-    {
       "code": "PSYC33",
       "title": "Psychology of Personal and Social Adjust",
       "modality": "online",
@@ -747,7 +1361,7 @@
       "instructor": "Wattenburg, Amanda J., Amanda J. Wattenburg",
       "section": "15969704",
       "description": "This course provides an introduction to theory, research, and practical application relevant to personal fulfillment, human relationships, and social functioning. Topics explored in this course include personality development, interpersonal relationships including intimate relationships, stress and stress management, traditional and changing gender roles, and adjusting to our ever changing modern society. This course has been approved for online, hybrid and correspondence delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/15969704?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/15969704",
       "meta": {
         "transferable": [
           "CSU BREADTH"
@@ -761,7 +1375,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "15969704",
-        "cvcUrl": "https://search.cvc.edu/courses/15969704?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/15969704",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -800,7 +1414,7 @@
       "instructor": "Kareck, Thomas J., Friedrichsen, Debra, Debra Friedrichsen",
       "section": "15965796",
       "description": "This course is designed to provide an overview of human development from conception through the life span. The emphasis will be on the practical application of developmental principles. Theories and research of physical, cognitive, personality, and social development are examined, as well as attention to developmental problems. This course has been approved for online and hybrid delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/15965796?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/15965796",
       "meta": {
         "transferable": [
           "IGETC",
@@ -816,7 +1430,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "15965796",
-        "cvcUrl": "https://search.cvc.edu/courses/15965796?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/15965796",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -862,15 +1476,15 @@
       "source": "cvc"
     },
     {
-      "code": "PSYC31",
-      "title": "Child Development: Conception Through Adolescence",
+      "code": "SOC2",
+      "title": "Social Problems",
       "modality": "online",
-      "term": "Aug 17 - Dec 18",
+      "term": "Sep 14 - Dec 18",
       "units": "3.0",
-      "instructor": "Greer, Laura E., Cox, Laura E., Laura E. Greer",
-      "section": "15965797",
-      "description": "This course examines the major physical, psychological, and cognitive/language developmental milestones for children, both typical and atypical, from conception through adolescence. Emphasis will be on interactions between the maturational process and environmental factors. Students will be expected to observe children, analyze characteristic of children at different developmental stages and investigate research methodologies. This course has been approved for online, hybrid and correspondence delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/15965797?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "instructor": "Jordan, Rebecca D., Rebecca D. Jordan",
+      "section": "1051243",
+      "description": "An identification and analysis of contemporary social problems including (1) the role of power and ideology in the definition of social problems, (2) their causes and consequences, (3) evaluations of proposed solutions, and (4) methods of intervention. This course has been approved for hybrid, online and correspondence delivery. Prerequisite:",
+      "url": "https://search.cvc.edu/courses/1051243",
       "meta": {
         "transferable": [
           "IGETC",
@@ -883,59 +1497,98 @@
         "tuition": 138,
         "zeroTextbookCost": false,
         "qualityReviewed": false,
-        "startDate": "Aug 17",
+        "startDate": "Sep 14",
         "endDate": "Dec 18",
-        "cvcCourseId": "15965797",
-        "cvcUrl": "https://search.cvc.edu/courses/15965797?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=psychology&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
-        "geAreas": {
-          "csu": [
-            "D Social Sciences"
-          ],
-          "igetc": [
-            "4 Social Sciences"
-          ],
-          "calGetc": []
-        },
+        "cvcCourseId": "1051243",
+        "cvcUrl": "https://search.cvc.edu/courses/1051243",
+        "geAreas": null,
         "formats": [
           "Asynchronous"
         ],
         "professors": [
-          "Greer, Laura E.",
-          "Cox, Laura E.",
-          "Laura E. Greer"
+          "Jordan, Rebecca D.",
+          "Rebecca D. Jordan"
         ],
         "prerequisites": null,
         "sections": [
           {
-            "crn": "PSYC-31-N4428",
+            "crn": "SOC-2-N4111",
             "dates": "Jan 8 to May 22",
-            "professor": "Greer, Laura E.",
+            "professor": "Jordan, Rebecca D.",
             "format": "Asynchronous",
-            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at lgreer@lassencollege.edu. **THIS SECTION USES A FREE OPEN EDUCATIONAL RESOURCES (OER) TEXTBOOK. Student will be able to access the textbook FREE online or may request a printed copy from the LCC Book Store for a minimal fee."
+            "notes": "This class is offered online. For more information, please contact the instructor at rjordan@lassencollege.edu."
           },
           {
-            "crn": "PSYC-31-N5208",
-            "dates": "Jun 8 to Jul 31",
-            "professor": "Cox, Laura E.",
+            "crn": "SOC-2-N0428",
+            "dates": "Sep 14 to Dec 18",
+            "professor": "Jordan, Rebecca D.",
             "format": "Asynchronous",
-            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at lgreer@lassencollege.edu."
+            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at rjordan@lassencollege.edu."
           },
           {
-            "crn": "PSYC-31-N0416",
-            "dates": "Aug 17 to Dec 18",
-            "professor": "Cox, Laura E.",
-            "format": "Asynchronous",
-            "notes": null
-          },
-          {
-            "crn": "PSYC-31-N0416",
-            "dates": "Aug 18 to Dec 19",
-            "professor": "Laura E. Greer",
+            "crn": "SOC-2-N1394",
+            "dates": "Oct 6 to Dec 19",
+            "professor": "Rebecca D. Jordan",
             "format": "Asynchronous",
             "notes": null
           }
         ],
-        "sectionCount": 4
+        "sectionCount": 3
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "SOC4",
+      "title": "Introduction to Gender",
+      "modality": "online",
+      "term": "Sep 29 - Dec 18",
+      "units": "3.0",
+      "instructor": "Hollandsworth, Krystle, Krystle Hollandsworth",
+      "section": "1084595",
+      "description": "Sociological analysis of the social construction of gender, masculinity and femininity historically and cross-culturally. It examines the debates on sex and gender. It analyzes the impact of economic and political change on gender expectations and practices. It focuses on macro-analysis of how institutions shape gender and microanalyses of how individuals are socialized and how they do and practice gender. This course has been approved for hybrid, online and correspondence delivery. Prerequisite:",
+      "url": "https://search.cvc.edu/courses/1084595",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Sep 29",
+        "endDate": "Dec 18",
+        "cvcCourseId": "1084595",
+        "cvcUrl": "https://search.cvc.edu/courses/1084595",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Hollandsworth, Krystle",
+          "Krystle Hollandsworth"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "SOC-4-N1056",
+            "dates": "Sep 29 to Dec 18",
+            "professor": "Hollandsworth, Krystle",
+            "format": "Asynchronous",
+            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at hollandsworth@lassencollege.edu."
+          },
+          {
+            "crn": "SOC-4-N1016",
+            "dates": "Sep 15 to Dec 19",
+            "professor": "Krystle Hollandsworth",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
       },
       "source": "cvc"
     },
@@ -948,7 +1601,7 @@
       "instructor": "Duerksen, Melinda M., Melinda M. Duerksen",
       "section": "15582891",
       "description": "This course has been approved for online delivery This course provides an introduction to the computer hardware and software skills needed to help meet the growing demand for entry-level Information & Communication Technology (ICT) professionals. The fundamentals of computer hardware and software as well as advanced concepts such as security, networking, cloud computing, and the responsibilities of an ICT professional will be introduced. A special emphasis is placed on software, hardware, and network troubleshooting techniques. This course is intended to help students prepare for the CompTIA A+ certification This course has been approved for online delivery This course uses an OER resource",
-      "url": "https://search.cvc.edu/courses/15582891?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/15582891",
       "meta": {
         "transferable": [],
         "igetc": false,
@@ -960,7 +1613,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "15582891",
-        "cvcUrl": "https://search.cvc.edu/courses/15582891?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/15582891",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -999,7 +1652,7 @@
       "instructor": "Duerksen, Melinda M., Melinda M. Duerksen",
       "section": "15582895",
       "description": "This course introduces cloud computing which shifts IT from on premises computing infrastructure to elastic cloud systems. The course provides a foundation of cloud computing technologies and provides students with the ability to evaluate and assess the business and technical benefits of cloud computing and cloud applications. The course will include labs to provide hands on training.",
-      "url": "https://search.cvc.edu/courses/15582895?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/15582895",
       "meta": {
         "transferable": [],
         "igetc": false,
@@ -1011,7 +1664,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "15582895",
-        "cvcUrl": "https://search.cvc.edu/courses/15582895?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/15582895",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -1050,7 +1703,7 @@
       "instructor": "Duerksen, Melinda M., Melinda M. Duerksen",
       "section": "15582892",
       "description": "This course teaches technical support skills for those seeking employment in the computer and information systems field. The emphasis of this course will be on soft skills, career planning and customer business related knowledge to help the IT student prepare for and succeed in the industry. It also Includes training in the various means of delivering technical support and tools for gathering, organizing and disseminating technical information, and help desk organization. This course has been approved for online delivery.",
-      "url": "https://search.cvc.edu/courses/15582892?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/15582892",
       "meta": {
         "transferable": [],
         "igetc": false,
@@ -1062,7 +1715,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "15582892",
-        "cvcUrl": "https://search.cvc.edu/courses/15582892?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/15582892",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -1101,7 +1754,7 @@
       "instructor": "Duerksen, Melinda M., Melinda M. Duerksen",
       "section": "15582894",
       "description": "This course introduces the network security specialist to the various methodologies for attacking a network. Students will be introduced to the concepts, principles, and techniques, supplemented by hands-on exercises, for attacking and disabling a network within the context of properly securing a network. The course will emphasize network attack methodologies with the emphasis on student use of network attack techniques and tools and appropriate defenses and countermeasures. Students will receive course content information through a variety of methods: lecture and demonstration of hacking tools will be used in addition to a virtual environment. Students will experience a hands-on practical approach to penetration testing measures and ethical hacking. This course has been approved for online and hybrid delivery . This course uses an OER resource",
-      "url": "https://search.cvc.edu/courses/15582894?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/15582894",
       "meta": {
         "transferable": [],
         "igetc": false,
@@ -1113,7 +1766,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "15582894",
-        "cvcUrl": "https://search.cvc.edu/courses/15582894?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/15582894",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -1152,7 +1805,7 @@
       "instructor": "Cox, Laura E., Laura E. Greer",
       "section": "1063527",
       "description": "This course presents an overview of knowledge and skills related to providing appropriate curriculum and environments for all young children from birth to 6. Students will examine teachers' role in supporting development and fostering the joy of learning for all young children using observation and assessment strategies emphasizing the essential role of play. An overview of content areas will include but not be limited to: language and literacy, social and emotional learning, sensory learning, art and creativity, math and science. This course has been approved for online, hybrid and correspondence delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1063527?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1063527",
       "meta": {
         "transferable": [],
         "igetc": false,
@@ -1164,7 +1817,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "1063527",
-        "cvcUrl": "https://search.cvc.edu/courses/1063527?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=political+science&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1063527",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -1195,6 +1848,99 @@
       "source": "cvc"
     },
     {
+      "code": "BUS2",
+      "title": "Introduction to Business",
+      "modality": "online",
+      "term": "Aug 17 - Dec 18",
+      "units": "3.0",
+      "instructor": "Anthis, Keli J.",
+      "section": "1055053",
+      "description": "A survey in business providing a multidisciplinary examination of how culture, society, economic systems, legal, international, political, financial institutions, and human behavior interact to affect a business organization's policy and practices within the U.S. and a global society. Demonstrates how these influences impact the primary areas of business including: organizational structure and design; leadership, human resource management, organized labor practices; marketing; organizational communication; technology; entrepreneurship; legal, accounting, financial practices; the stock and securities market; and therefore affect a business' ability to achieve its organizational goals. This course has been approved for correspondence, hybrid and online delivery. This course uses a free Open Education Resource textbook. Prerequisite:",
+      "url": "https://search.cvc.edu/courses/1055053",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 18",
+        "cvcCourseId": "1055053",
+        "cvcUrl": "https://search.cvc.edu/courses/1055053",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Anthis, Keli J."
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "BUS-2-N0087",
+            "dates": "Aug 17 to Dec 18",
+            "professor": "Anthis, Keli J.",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 1
+      },
+      "source": "cvc"
+    },
+    {
+      "code": "BUS1A",
+      "title": "Accounting Principles - Financial",
+      "modality": "online",
+      "term": "Aug 17 - Dec 18",
+      "units": "3.0",
+      "instructor": "Anthis, Keli J.",
+      "section": "1051232",
+      "description": "This is the study of accounting as an information system, examining why it is important and how it is used by investors, creditors, and others to make decisions. The course covers the ac-counting information system, including recording and reporting of business transactions with a focus on the accounting cycle, the application of generally accepted accounting principles, the fi-nancial statements, and statement analysis. Includes issues relating to asset, liability, and equity valuation, revenue and expense recognition, cash flow, internal controls, and ethics. This course has been approved for correspondence, online and hybrid delivery. This course uses a free Open Education Resources textbook. Prerequisite:",
+      "url": "https://search.cvc.edu/courses/1051232",
+      "meta": {
+        "transferable": [],
+        "igetc": false,
+        "calGetc": false,
+        "csuBreadth": false,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 18",
+        "cvcCourseId": "1051232",
+        "cvcUrl": "https://search.cvc.edu/courses/1051232",
+        "geAreas": null,
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Anthis, Keli J."
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "BUS-1A-N0085",
+            "dates": "Aug 17 to Dec 18",
+            "professor": "Anthis, Keli J.",
+            "format": "Asynchronous",
+            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at kanthis@lassencollege.edu. Please contact instructor before purchasing textbook. **THIS SECTION USES A FREE OPEN EDUCATIONAL RESOURCES (OER) TEXTBOOK. Student will be able to access the textbook FREE online or may request a printed copy from the LCC Book Store for a minimal fee."
+          },
+          {
+            "crn": "BUS-1A-N0085",
+            "dates": "Aug 18 to Dec 19",
+            "professor": "Anthis, Keli J.",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 2
+      },
+      "source": "cvc"
+    },
+    {
       "code": "BUS10",
       "title": "Managing Diversity and Human Resource",
       "modality": "online",
@@ -1203,7 +1949,7 @@
       "instructor": "Anthis, Keli J.",
       "section": "1155069",
       "description": "A course for practicing, newly-appointed, or potential supervisors and managers who hold or who will hold from first-line up to middle-management positions. Course will develop broader perspectives and new insights in managerial skills to manage a multicultural workplace. It focuses on the workplace impact of various historical, social, and cultural experience/perspectives related to gender, age, ethnicity, and disability. This course has been approved for online, hybrid and correspondence delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1155069?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=business&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1155069",
       "meta": {
         "transferable": [],
         "igetc": false,
@@ -1215,7 +1961,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "1155069",
-        "cvcUrl": "https://search.cvc.edu/courses/1155069?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=business&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1155069",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -1253,7 +1999,7 @@
       "instructor": "Anthis, Keli J.",
       "section": "1087588",
       "description": "The study of the principles of agricultural accounting systems and types of records, their use and how to compute and use measures of earnings and cost of production to improve agribusiness efficiency. Also included are farm income tax, Social Security, and employee payroll records. Application of these concepts and methods through hands-on projects developing computer-based solutions for agriculture business. This course has been approved for hybrid delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1087588?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=business&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1087588",
       "meta": {
         "transferable": [],
         "igetc": false,
@@ -1265,7 +2011,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "1087588",
-        "cvcUrl": "https://search.cvc.edu/courses/1087588?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=business&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1087588",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -1296,7 +2042,7 @@
       "instructor": "Duerksen, Melinda M., Melinda M. Duerksen",
       "section": "1059843",
       "description": "Use of currently and widely-used application software, including spreadsheets, data bases, word processors and graphics programs. Practical experience for familiarity and skill in operating software as well as problem solving in business applications will be stressed. Course is designed to meet the prepatory needs of students seeking to pass the Microsoft Office Specialist [MOS] exams in Word, Access, and Excel. This course has been approved for online and hybrid delivery. Access to a computer with internet access is required.",
-      "url": "https://search.cvc.edu/courses/1059843?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=business&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1059843",
       "meta": {
         "transferable": [],
         "igetc": false,
@@ -1308,7 +2054,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "1059843",
-        "cvcUrl": "https://search.cvc.edu/courses/1059843?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=business&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1059843",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -1346,6 +2092,163 @@
       "source": "cvc"
     },
     {
+      "code": "ES1",
+      "title": "Introduction to Ethnic Studies",
+      "modality": "online",
+      "term": "Aug 17 - Dec 18",
+      "units": "3.0",
+      "instructor": "Bright, Lisa N., Jacinto, Charlene, Lawler, Jennifer N., Lisa N. Bright, Jennifer N. Lawler",
+      "section": "1055646",
+      "description": "A survey course designed to promote academic and professional knowledge of, and sensitivity to, historical and cultural developments important to understanding ethnic groups and their experiences in the United States. Students examine the specific historical and contemporary legacies of race, class, prejudice, diversity, and immigration. The course introduces topics such as multiculturalism, ethnocentrism, cultural relativism, and migration. Prerequisite:",
+      "url": "https://search.cvc.edu/courses/1055646",
+      "meta": {
+        "transferable": [
+          "IGETC",
+          "Cal-GETC",
+          "CSU BREADTH"
+        ],
+        "igetc": true,
+        "calGetc": true,
+        "csuBreadth": true,
+        "tuition": 138,
+        "zeroTextbookCost": false,
+        "qualityReviewed": false,
+        "startDate": "Aug 17",
+        "endDate": "Dec 18",
+        "cvcCourseId": "1055646",
+        "cvcUrl": "https://search.cvc.edu/courses/1055646",
+        "geAreas": {
+          "csu": [
+            "D Social Sciences"
+          ],
+          "igetc": [
+            "4C Ethnic Studies"
+          ],
+          "calGetc": []
+        },
+        "formats": [
+          "Asynchronous"
+        ],
+        "professors": [
+          "Bright, Lisa N.",
+          "Jacinto, Charlene",
+          "Lawler, Jennifer N.",
+          "Lisa N. Bright",
+          "Jennifer N. Lawler"
+        ],
+        "prerequisites": null,
+        "sections": [
+          {
+            "crn": "ES-1-N3334",
+            "dates": "Jan 8 to May 22",
+            "professor": "Bright, Lisa N.",
+            "format": "Asynchronous",
+            "notes": "This class is offered online. For more information, please contact the instructor at lbright@lassencollege.edu."
+          },
+          {
+            "crn": "ES-1-N3330",
+            "dates": "Mar 30 to May 22",
+            "professor": "Jacinto, Charlene",
+            "format": "Asynchronous",
+            "notes": "This class is offered online. For more information, please contact the instructor at cjacinto@lassencollege.edu."
+          },
+          {
+            "crn": "ES-1-N3841",
+            "dates": "Jan 8 to May 22",
+            "professor": "Bright, Lisa N.",
+            "format": "Asynchronous",
+            "notes": "This class is offered online. For more information, please contact the instructor at lbright@lassencollege.edu."
+          },
+          {
+            "crn": "ES-1-N3900",
+            "dates": "Jan 8 to May 22",
+            "professor": "Bright, Lisa N.",
+            "format": "Asynchronous",
+            "notes": "This class is offered online. For more information, please contact the instructor at lbright@lassencollege.edu."
+          },
+          {
+            "crn": "ES-1-N4461",
+            "dates": "Jan 8 to Mar 6",
+            "professor": "Lawler, Jennifer N.",
+            "format": "Asynchronous",
+            "notes": "This class is offered online. For more information, please contact the instructor at jlawler@lassencollege.edu."
+          },
+          {
+            "crn": "ES-1-N5036",
+            "dates": "Jun 8 to Jul 31",
+            "professor": "Bright, Lisa N.",
+            "format": "Asynchronous",
+            "notes": "Please email instructor at lbright@lassencollege.edu PRIOR TO PURCHASING TEXTBOOK. This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at lbright@lassencollege.edu. TEXBOOK NOTE: Students may qualify for free textbooks through EOP&S or other programs. Please contact your counselor for more information. The Lassen College Library has a limited supply of textbooks to lend free of charge. Please contact the library at cmadrid@lassencollege.edu for more information."
+          },
+          {
+            "crn": "ES-1-N0203",
+            "dates": "Aug 17 to Dec 18",
+            "professor": "Bright, Lisa N.",
+            "format": "Asynchronous",
+            "notes": "This class is offered Online starting in the fall semester and continuing through Winter Intercession. This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at jlawler@lassencollege.edu."
+          },
+          {
+            "crn": "ES-1-N0513",
+            "dates": "Oct 19 to Dec 18",
+            "professor": "Jacinto, Charlene",
+            "format": "Asynchronous",
+            "notes": "Please email instructor at lbright@lassencollege.edu PRIOR TO PURCHASING TEXTBOOK. This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at lbright@lassencollege.edu. TEXBOOK NOTE: Students may qualify for free textbooks through EOP&S or other programs. Please contact your counselor for more information. The Lassen College Library has a limited supply of textbooks to lend free of charge. Please contact the library at cmadrid@lassencollege.edu for more information."
+          },
+          {
+            "crn": "ES-1-N0202",
+            "dates": "Aug 17 to Dec 18",
+            "professor": "Bright, Lisa N.",
+            "format": "Asynchronous",
+            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at jlawler@lassencollege.edu."
+          },
+          {
+            "crn": "ES-1-N0508",
+            "dates": "Nov 30 to Jan 14",
+            "professor": "Lawler, Jennifer N.",
+            "format": "Asynchronous",
+            "notes": "Please email instructor at lbright@lassencollege.edu PRIOR TO PURCHASING TEXTBOOK. This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at lbright@lassencollege.edu. TEXBOOK NOTE: Students may qualify for free textbooks through EOP&S or other programs. Please contact your counselor for more information. The Lassen College Library has a limited supply of textbooks to lend free of charge. Please contact the library at cmadrid@lassencollege.edu for more information."
+          },
+          {
+            "crn": "ES-1-N0203",
+            "dates": "Aug 18 to Dec 19",
+            "professor": "Lisa N. Bright",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ES-1-N3450",
+            "dates": "Nov 24 to Jan 6",
+            "professor": "Jennifer N. Lawler",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ES-1-N0202",
+            "dates": "Aug 18 to Dec 19",
+            "professor": "Lisa N. Bright",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ES-1-N0513",
+            "dates": "Oct 20 to Dec 19",
+            "professor": "Jennifer N. Lawler",
+            "format": "Asynchronous",
+            "notes": null
+          },
+          {
+            "crn": "ES-1-N0821",
+            "dates": "Aug 18 to Dec 19",
+            "professor": "Lisa N. Bright",
+            "format": "Asynchronous",
+            "notes": null
+          }
+        ],
+        "sectionCount": 15
+      },
+      "source": "cvc"
+    },
+    {
       "code": "ASTR1",
       "title": "Introduction to Astronomy",
       "modality": "online",
@@ -1354,7 +2257,7 @@
       "instructor": "Thapa, Mahendra, Mahendra Thapa",
       "section": "1055051",
       "description": "A survey of astronomy including the solar system, stars and stellar evolution, the Milky Way, galaxies, the universe and cosmology. This course has been approved for online and correspondence delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1055051?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=astronomy&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1055051",
       "meta": {
         "transferable": [
           "IGETC",
@@ -1370,7 +2273,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "1055051",
-        "cvcUrl": "https://search.cvc.edu/courses/1055051?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=astronomy&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1055051",
         "geAreas": {
           "csu": [
             "B1 Physical Science",
@@ -1429,7 +2332,7 @@
       "instructor": "Avilla, Frank M., Frank M. Avilla, Jr.",
       "section": "1055636",
       "description": "Scientific concepts of nutrition related to the function of nutrients in basic life processes and current health issues with emphasis on individual needs. Analyze your diet, construct a nutritional diet, and interpret eating disorders, plan adequate diets for children, infants, pregnancy, athletes, adults and the elderly. Evaluate food additives. Appraise world hunger problems. This course has been approved for correspondence, hybrid and online delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1055636?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1055636",
       "meta": {
         "transferable": [
           "CSU BREADTH"
@@ -1443,7 +2346,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "1055636",
-        "cvcUrl": "https://search.cvc.edu/courses/1055636?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=health&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1055636",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -1489,7 +2392,7 @@
       "instructor": "Cox, Laura E., Laura E. Greer",
       "section": "1080368",
       "description": "This course adresses early childhood education competencies related to the role of the family in the care and education of the child, and the role of community in providing services to children and their families. Key concepts include acknowledgement that children develop in the context of their families and communities and that building relationships with families in an integral part of competent and professional early childhood practice. This course has been approved for online, hybrid and correspondence delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1080368?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1080368",
       "meta": {
         "transferable": [],
         "igetc": false,
@@ -1501,7 +2404,7 @@
         "startDate": "Aug 17",
         "endDate": "Oct 16",
         "cvcCourseId": "1080368",
-        "cvcUrl": "https://search.cvc.edu/courses/1080368?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1080368",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -1540,7 +2443,7 @@
       "instructor": "Keady, Monte B.",
       "section": "1287215",
       "description": "This course provides for the study of the components of building construction that relate to fire safety. The elements of construction and design of structures are shown to be key factors when inspecting buildings, preplanning fire operations and operating at fires. The development and evolution of building and fire codes will be studied in relationship to past fires in residential, commercial, and industrial occupancies. This course meets the National Fire Academy, Fire and Emergency Services Higher Education (FESHE) curriculum model for Building Construction for Fire Prevention. This course has been approved for hybrid and correspondence delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1287215?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1287215",
       "meta": {
         "transferable": [],
         "igetc": false,
@@ -1552,7 +2455,7 @@
         "startDate": "Oct 5",
         "endDate": "Dec 7",
         "cvcCourseId": "1287215",
-        "cvcUrl": "https://search.cvc.edu/courses/1287215?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=education&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1287215",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -1583,7 +2486,7 @@
       "instructor": "Cox, Laura E., Laura E. Greer",
       "section": "1063525",
       "description": "An examination of the underlying theoretical principles of developmentally appropriate practices applied to programs, environments, emphasizing the key role of relationships, constructive adult-child interactions, and teaching strategies in supporting physical, social, creative, and intellectual development for all children. This course has been approved for online, hybrid and correspondence delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1063525?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1063525",
       "meta": {
         "transferable": [],
         "igetc": false,
@@ -1595,7 +2498,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "1063525",
-        "cvcUrl": "https://search.cvc.edu/courses/1063525?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1063525",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -1634,7 +2537,7 @@
       "instructor": "Porter, Joelle E., Joelle E. Porter",
       "section": "1055063",
       "description": "Survey of the development of western culture and civilization to the Reformation. This course has been approved for correspondence and on-line delivery Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1055063?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1055063",
       "meta": {
         "transferable": [
           "IGETC",
@@ -1650,7 +2553,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "1055063",
-        "cvcUrl": "https://search.cvc.edu/courses/1055063?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1055063",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -1688,141 +2591,6 @@
       "source": "cvc"
     },
     {
-      "code": "ENGLC1000",
-      "title": "Academic Reading and Writing",
-      "modality": "online",
-      "term": "Aug 17 - Dec 18",
-      "units": "3.0",
-      "instructor": "Vincent, Rachel R., Owens, Jeffrey L., Ramser, Dean A., Bertucci, Christopher P., Huisman, Melanie, Rachel R. Vincent, Jeffrey L. Owens, Melanie Huisman, Dean A. Ramser",
-      "section": "15956802",
-      "description": "In this course, students receive instruction in academic reading and writing, including writing processes, effective use of language, analytical thinking, and the foundations of academic re-search. A refinement of the skills of writing and critical reading, emphasizing the relationship between purpose and form, clarity, coherence and unity, accuracy of expression, the development of the writer's voice and style, the elements of critical thinking, and the development of the research paper and its specific strategies to prepare for university studies. This course has been approved for online, hybrid and correspondence delivery.",
-      "url": "https://search.cvc.edu/courses/15956802?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
-      "meta": {
-        "transferable": [
-          "IGETC",
-          "Cal-GETC",
-          "CSU BREADTH"
-        ],
-        "igetc": true,
-        "calGetc": true,
-        "csuBreadth": true,
-        "tuition": 138,
-        "zeroTextbookCost": false,
-        "qualityReviewed": true,
-        "startDate": "Aug 17",
-        "endDate": "Dec 18",
-        "cvcCourseId": "15956802",
-        "cvcUrl": "https://search.cvc.edu/courses/15956802?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
-        "geAreas": {
-          "csu": [
-            "A2 Written Communication"
-          ],
-          "igetc": [
-            "1A English Composition"
-          ],
-          "calGetc": [
-            "1A English Composition"
-          ]
-        },
-        "formats": [
-          "Asynchronous"
-        ],
-        "professors": [
-          "Vincent, Rachel R.",
-          "Owens, Jeffrey L.",
-          "Ramser, Dean A.",
-          "Bertucci, Christopher P.",
-          "Huisman, Melanie",
-          "Rachel R. Vincent",
-          "Jeffrey L. Owens",
-          "Melanie Huisman",
-          "Dean A. Ramser"
-        ],
-        "prerequisites": null,
-        "sections": [
-          {
-            "crn": "ENGL-C1000-N3878",
-            "dates": "Jan 8 to May 22",
-            "professor": "Vincent, Rachel R.",
-            "format": "Asynchronous",
-            "notes": "This class is offered online. For more information, please contact the instructor at rvincent@lassencollege.edu."
-          },
-          {
-            "crn": "ENGL-C1000-N4561",
-            "dates": "Jan 8 to May 22",
-            "professor": "Owens, Jeffrey L.",
-            "format": "Asynchronous",
-            "notes": "This class is offered online. For more information, please contact the instructor at jowens@lassencollege.edu."
-          },
-          {
-            "crn": "ENGL-C1000-N5156",
-            "dates": "Jun 8 to Jul 31",
-            "professor": "Ramser, Dean A.",
-            "format": "Asynchronous",
-            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at rvincent@lassencollege.edu."
-          },
-          {
-            "crn": "ENGL-C1000-N1335",
-            "dates": "Aug 17 to Dec 18",
-            "professor": "Vincent, Rachel R.",
-            "format": "Asynchronous",
-            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at jowens@lassencollege.edu."
-          },
-          {
-            "crn": "ENGL-C1000-N0184",
-            "dates": "Aug 17 to Dec 18",
-            "professor": "Bertucci, Christopher P.",
-            "format": "Asynchronous",
-            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at mhuisman@lassencollege.edu."
-          },
-          {
-            "crn": "ENGL-C1000-N1387",
-            "dates": "Aug 17 to Dec 18",
-            "professor": "Huisman, Melanie",
-            "format": "Asynchronous",
-            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at dramser@lassencollege.edu."
-          },
-          {
-            "crn": "ENGL-C1000-N1388",
-            "dates": "Aug 17 to Dec 18",
-            "professor": "Huisman, Melanie",
-            "format": "Asynchronous",
-            "notes": null
-          },
-          {
-            "crn": "ENGL-C1000-N1335",
-            "dates": "Aug 18 to Dec 19",
-            "professor": "Rachel R. Vincent",
-            "format": "Asynchronous",
-            "notes": null
-          },
-          {
-            "crn": "ENGL-C1000-N1388",
-            "dates": "Aug 18 to Dec 19",
-            "professor": "Jeffrey L. Owens",
-            "format": "Asynchronous",
-            "notes": null
-          },
-          {
-            "crn": "ENGL-C1000-N1387",
-            "dates": "Aug 18 to Dec 19",
-            "professor": "Melanie Huisman",
-            "format": "Asynchronous",
-            "notes": null
-          },
-          {
-            "crn": "ENGL-C1000-N0184",
-            "dates": "Aug 18 to Dec 19",
-            "professor": "Dean A. Ramser",
-            "format": "Asynchronous",
-            "notes": null
-          }
-        ],
-        "sectionCount": 11
-      },
-      "source": "cvc"
-    },
-    {
       "code": "CD11",
       "title": "Observation and Assessment",
       "modality": "online",
@@ -1831,7 +2599,7 @@
       "instructor": "Cox, Laura E., Laura E. Greer",
       "section": "1063526",
       "description": "This course focuses on the appropriate use of assessment and observation strategies to document development, growth, play, and learning in order to join with families and professionals in promoting children's success and maintaining quality programs. Recording strategies, rating scales, portfolio, and multiple assessment methods are explored. This course has been approved for online and hybrid delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1063526?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1063526",
       "meta": {
         "transferable": [],
         "igetc": false,
@@ -1843,7 +2611,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "1063526",
-        "cvcUrl": "https://search.cvc.edu/courses/1063526?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=child+development&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1063526",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -1882,7 +2650,7 @@
       "instructor": "Downing, Tom",
       "section": "1066290",
       "description": "This course explores the roots of our current justice system and the interaction of its various subsystems (law enforcement/prosecution, judicial and corrections). It emphasizes the organizational structure and legal considerations relevant to each subsystem. Topics include the origin of law, theories of crime causation, criminal procedure, and sentencing philosophies and alternatives. This course has been approved for hybrid and online delivery. This course uses an Open Educational Resource Textbook. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1066290?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1066290",
       "meta": {
         "transferable": [
           "IGETC",
@@ -1898,7 +2666,7 @@
         "startDate": "Nov 16",
         "endDate": "Jan 8",
         "cvcCourseId": "1066290",
-        "cvcUrl": "https://search.cvc.edu/courses/1066290?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1066290",
         "geAreas": {
           "csu": [
             "D Social Sciences"
@@ -1946,7 +2714,7 @@
       "instructor": "Downing, Tom, Tom Downing",
       "section": "1079199",
       "description": "This course examines the complex, dynamic relationship between communities and the justice system in addressing crime and conflict with an emphasis on the challenges and prospects of administering justice within a diverse multicultural population. An overview of multicultural concepts and issues, including those related to gender, age, and sexual preference is covered as well as an examination of strategies to overcome these problems. This course has been approved for hybrid and online delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1079199?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1079199",
       "meta": {
         "transferable": [],
         "igetc": false,
@@ -1958,7 +2726,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "1079199",
-        "cvcUrl": "https://search.cvc.edu/courses/1079199?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1079199",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -1989,70 +2757,6 @@
       "source": "cvc"
     },
     {
-      "code": "HO3",
-      "title": "Medical Terminology",
-      "modality": "online",
-      "term": "Aug 17 - Dec 18",
-      "units": "3.0",
-      "instructor": "Myers, Christi S.",
-      "section": "1087534",
-      "description": "This course covers basic medical terminology and the vocabulary of medical specialties. Special emphasis is on the use of prefixes and suffixes, and non-technical explanations of medical terms and descriptions of anatomy, physiology, and pathology. Students learn to utilize medical terminology as it applies to the structure of the human body, common laboratory tests, radiological and operative procedures, as well as basic pharmacology. This course has been approved for online and hybrid delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1087534?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
-      "meta": {
-        "transferable": [],
-        "igetc": false,
-        "calGetc": false,
-        "csuBreadth": false,
-        "tuition": 138,
-        "zeroTextbookCost": false,
-        "qualityReviewed": false,
-        "startDate": "Aug 17",
-        "endDate": "Dec 18",
-        "cvcCourseId": "1087534",
-        "cvcUrl": "https://search.cvc.edu/courses/1087534?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
-        "geAreas": null,
-        "formats": [
-          "Asynchronous"
-        ],
-        "professors": [
-          "Myers, Christi S."
-        ],
-        "prerequisites": null,
-        "sections": [
-          {
-            "crn": "HO-3-N3996",
-            "dates": "Jan 8 to May 22",
-            "professor": "Myers, Christi S.",
-            "format": "Asynchronous",
-            "notes": "This class is offered online. For more information, please contact the instructor at cmyers@lassencollege.edu. **THIS SECTION USES A FREE OPEN EDUCATIONAL RESOURCES (OER) TEXTBOOK. Students will be able to access the textbook FREE online or may request a printed copy from the LCC Book Store for a minimal fee."
-          },
-          {
-            "crn": "HO-3-N5131",
-            "dates": "Jun 8 to Jul 31",
-            "professor": "Myers, Christi S.",
-            "format": "Asynchronous",
-            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at cmyers@lassencollege.edu. **THIS SECTION USES A FREE OPEN EDUCATIONAL RESOURCES (OER) TEXTBOOK. Student will be able to access the textbook FREE online or may request a printed copy from the LCC Book Store for a minimal fee."
-          },
-          {
-            "crn": "HO-3-N0273",
-            "dates": "Aug 17 to Dec 18",
-            "professor": "Myers, Christi S.",
-            "format": "Asynchronous",
-            "notes": null
-          },
-          {
-            "crn": "HO-3-N0273",
-            "dates": "Aug 18 to Dec 19",
-            "professor": "Myers, Christi S.",
-            "format": "Asynchronous",
-            "notes": null
-          }
-        ],
-        "sectionCount": 4
-      },
-      "source": "cvc"
-    },
-    {
       "code": "AJ23",
       "title": "Criminal Evidence",
       "modality": "online",
@@ -2061,7 +2765,7 @@
       "instructor": "Booth, Glenn G.",
       "section": "1070521",
       "description": "A course dealing with the concepts of evidence, types, and rules governing admissibility. Judicial decisions, interpretation of individual rights and prosecution decisions are examined. Developing trends in the laws of criminal evidence are discussed. This course has been approved for hybrid and online delivery. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1070521?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+      "url": "https://search.cvc.edu/courses/1070521",
       "meta": {
         "transferable": [],
         "igetc": false,
@@ -2073,7 +2777,7 @@
         "startDate": "Aug 17",
         "endDate": "Dec 18",
         "cvcCourseId": "1070521",
-        "cvcUrl": "https://search.cvc.edu/courses/1070521?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
+        "cvcUrl": "https://search.cvc.edu/courses/1070521",
         "geAreas": null,
         "formats": [
           "Asynchronous"
@@ -2092,149 +2796,6 @@
           }
         ],
         "sectionCount": 1
-      },
-      "source": "cvc"
-    },
-    {
-      "code": "ES1",
-      "title": "Introduction to Ethnic Studies",
-      "modality": "online",
-      "term": "Aug 17 - Dec 18",
-      "units": "3.0",
-      "instructor": "Bright, Lisa N., Jacinto, Charlene, Lawler, Jennifer N., Lisa N. Bright, Jennifer N. Lawler",
-      "section": "1055646",
-      "description": "A survey course designed to promote academic and professional knowledge of, and sensitivity to, historical and cultural developments important to understanding ethnic groups and their experiences in the United States. Students examine the specific historical and contemporary legacies of race, class, prejudice, diversity, and immigration. The course introduces topics such as multiculturalism, ethnocentrism, cultural relativism, and migration. Prerequisite:",
-      "url": "https://search.cvc.edu/courses/1055646?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
-      "meta": {
-        "transferable": [
-          "IGETC",
-          "Cal-GETC",
-          "CSU BREADTH"
-        ],
-        "igetc": true,
-        "calGetc": true,
-        "csuBreadth": true,
-        "tuition": 138,
-        "zeroTextbookCost": false,
-        "qualityReviewed": false,
-        "startDate": "Aug 17",
-        "endDate": "Dec 18",
-        "cvcCourseId": "1055646",
-        "cvcUrl": "https://search.cvc.edu/courses/1055646?filter%5Bday_ids%5D%5B%5D=1&filter%5Bday_ids%5D%5B%5D=2&filter%5Bday_ids%5D%5B%5D=3&filter%5Bday_ids%5D%5B%5D=4&filter%5Bday_ids%5D%5B%5D=5&filter%5Bday_ids%5D%5B%5D=6&filter%5Bday_ids%5D%5B%5D=7&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_sync&filter%5Bdelivery_method_subtypes%5D%5B%5D=online_async&filter%5Bdelivery_methods%5D%5B%5D=Online&filter%5Bdisplay_home_school%5D=true&filter%5Bdistance%5D=70&filter%5Bmin_credits_range%5D=0.1&filter%5Boei_phase_2_filter%5D=true&filter%5Bprerequisites%5D%5B%5D=has_prereqs&filter%5Bprerequisites%5D%5B%5D=no_prereqs&filter%5Bresidency_id%5D=5&filter%5Bsearch_all_universities%5D=true&filter%5Bsearch_type%5D=open_search&filter%5Bsession_names%5D%5B%5D=Fall+2025&filter%5Bsession_names%5D%5B%5D=Winter+2026&filter%5Bsession_names%5D%5B%5D=Spring+2026&filter%5Bsession_names%5D%5B%5D=Summer+2026&filter%5Bsession_names%5D%5B%5D=Fall+2026&filter%5Bshow_only_available%5D=true&filter%5Bshow_self_paced%5D=true&filter%5Bshow_untimed%5D=true&filter%5Bsort%5D=oei&filter%5Bstart_date%5D=2026-07-27&filter%5Bsubject%5D=administration+of+justice&filter%5Btarget_school_ids%5D%5B%5D=573&filter%5Btransferability%5D%5B%5D=articulation",
-        "geAreas": {
-          "csu": [
-            "D Social Sciences"
-          ],
-          "igetc": [
-            "4C Ethnic Studies"
-          ],
-          "calGetc": []
-        },
-        "formats": [
-          "Asynchronous"
-        ],
-        "professors": [
-          "Bright, Lisa N.",
-          "Jacinto, Charlene",
-          "Lawler, Jennifer N.",
-          "Lisa N. Bright",
-          "Jennifer N. Lawler"
-        ],
-        "prerequisites": null,
-        "sections": [
-          {
-            "crn": "ES-1-N3841",
-            "dates": "Jan 8 to May 22",
-            "professor": "Bright, Lisa N.",
-            "format": "Asynchronous",
-            "notes": "This class is offered online. For more information, please contact the instructor at lbright@lassencollege.edu."
-          },
-          {
-            "crn": "ES-1-N3334",
-            "dates": "Jan 8 to May 22",
-            "professor": "Bright, Lisa N.",
-            "format": "Asynchronous",
-            "notes": "This class is offered online. For more information, please contact the instructor at lbright@lassencollege.edu."
-          },
-          {
-            "crn": "ES-1-N3330",
-            "dates": "Mar 30 to May 22",
-            "professor": "Jacinto, Charlene",
-            "format": "Asynchronous",
-            "notes": "This class is offered online. For more information, please contact the instructor at cjacinto@lassencollege.edu."
-          },
-          {
-            "crn": "ES-1-N4461",
-            "dates": "Jan 8 to Mar 6",
-            "professor": "Lawler, Jennifer N.",
-            "format": "Asynchronous",
-            "notes": "This class is offered online. For more information, please contact the instructor at jlawler@lassencollege.edu."
-          },
-          {
-            "crn": "ES-1-N3900",
-            "dates": "Jan 8 to May 22",
-            "professor": "Bright, Lisa N.",
-            "format": "Asynchronous",
-            "notes": "This class is offered online. For more information, please contact the instructor at lbright@lassencollege.edu."
-          },
-          {
-            "crn": "ES-1-N5036",
-            "dates": "Jun 8 to Jul 31",
-            "professor": "Bright, Lisa N.",
-            "format": "Asynchronous",
-            "notes": "Please email instructor at lbright@lassencollege.edu PRIOR TO PURCHASING TEXTBOOK. This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at lbright@lassencollege.edu. TEXBOOK NOTE: Students may qualify for free textbooks through EOP&S or other programs. Please contact your counselor for more information. The Lassen College Library has a limited supply of textbooks to lend free of charge. Please contact the library at cmadrid@lassencollege.edu for more information."
-          },
-          {
-            "crn": "ES-1-N0513",
-            "dates": "Oct 19 to Dec 18",
-            "professor": "Jacinto, Charlene",
-            "format": "Asynchronous",
-            "notes": "Please email instructor at lbright@lassencollege.edu PRIOR TO PURCHASING TEXTBOOK. This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at lbright@lassencollege.edu. TEXBOOK NOTE: Students may qualify for free textbooks through EOP&S or other programs. Please contact your counselor for more information. The Lassen College Library has a limited supply of textbooks to lend free of charge. Please contact the library at cmadrid@lassencollege.edu for more information."
-          },
-          {
-            "crn": "ES-1-N0202",
-            "dates": "Aug 17 to Dec 18",
-            "professor": "Bright, Lisa N.",
-            "format": "Asynchronous",
-            "notes": "This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at jlawler@lassencollege.edu."
-          },
-          {
-            "crn": "ES-1-N0821",
-            "dates": "Aug 18 to Dec 19",
-            "professor": "Lisa N. Bright",
-            "format": "Asynchronous",
-            "notes": "Please email instructor at lbright@lassencollege.edu PRIOR TO PURCHASING TEXTBOOK. This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at lbright@lassencollege.edu. TEXBOOK NOTE: Students may qualify for free textbooks through EOP&S or other programs. Please contact your counselor for more information. The Lassen College Library has a limited supply of textbooks to lend free of charge. Please contact the library at cmadrid@lassencollege.edu for more information."
-          },
-          {
-            "crn": "ES-1-N0203",
-            "dates": "Aug 18 to Dec 19",
-            "professor": "Lisa N. Bright",
-            "format": "Asynchronous",
-            "notes": "This class is offered Online starting in the fall semester and continuing through Winter Intercession. This class is offered asynchronously online (set your own hours while meeting unit deadlines set by the instructor. No mandatory Zoom meetings to attend). For more information, please contact the instructor at jlawler@lassencollege.edu."
-          },
-          {
-            "crn": "ES-1-N0513",
-            "dates": "Oct 20 to Dec 19",
-            "professor": "Jennifer N. Lawler",
-            "format": "Asynchronous",
-            "notes": null
-          },
-          {
-            "crn": "ES-1-N0202",
-            "dates": "Aug 18 to Dec 19",
-            "professor": "Lisa N. Bright",
-            "format": "Asynchronous",
-            "notes": null
-          },
-          {
-            "crn": "ES-1-N3450",
-            "dates": "Nov 24 to Jan 6",
-            "professor": "Jennifer N. Lawler",
-            "format": "Asynchronous",
-            "notes": null
-          }
-        ],
-        "sectionCount": 13
       },
       "source": "cvc"
     }

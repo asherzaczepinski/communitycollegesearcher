@@ -106,6 +106,10 @@ function fromTextBlocks($) {
     if (!/\d/.test(m[1])) return;
     const title = clean(m[2]).replace(/\(\s*[\d.]+\s*units?\s*\)/i, '').trim();
     if (title.length < 3 || title.length > 160) return;
+    // Reject prose fragments mis-parsed as courses, e.g. "A 17-year effort, the
+    // Kirsch Center was ..." → code "A 17", title "year effort, the ...". Real
+    // catalog titles begin with an uppercase letter or digit; sentence tails don't.
+    if (!/^[A-Z0-9]/.test(title)) return;
     const modalityHit = MODALITY_WORD.test(text) ? text : '';
     out.push({
       code: clean(m[1]),

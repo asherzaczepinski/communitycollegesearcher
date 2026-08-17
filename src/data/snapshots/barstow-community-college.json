@@ -1,6 +1,6 @@
 {
   "slug": "barstow-community-college",
-  "scrapedAt": "2026-07-26T17:16:03.955Z",
+  "scrapedAt": "2026-08-16T22:43:42.108Z",
   "count": 443,
   "courses": [
     {
@@ -568,18 +568,6 @@
       "source": "site"
     },
     {
-      "code": "ATHL 2",
-      "title": "Intercollegiate Basketball (Women) &quot;In-Season&quot;",
-      "modality": "in_person",
-      "term": "Fall 2026",
-      "units": "0.5",
-      "instructor": "Kaitlyn Parks",
-      "section": "0",
-      "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
-      "source": "site"
-    },
-    {
       "code": "ATHL 20",
       "title": "Intercollegiate Basketball (Men) &quot;Out-of-season&quot;",
       "modality": "in_person",
@@ -1008,6 +996,42 @@
       "instructor": "Denise Pasley",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "NUAS 100",
+      "title": "Nursing Assistant Theory",
+      "modality": "in_person",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Tami Lash",
+      "section": "0",
+      "description": "Traditional (Fully In-Person) · Barstow",
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "NUAS 101",
+      "title": "Nursing Assistant Clinical",
+      "modality": "in_person",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Anitra Gonzalez",
+      "section": "0",
+      "description": "Traditional (Fully In-Person) · Barstow",
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "NUAS 102",
+      "title": "Nursing Assistant Skills Lab",
+      "modality": "in_person",
+      "term": "Fall 2026",
+      "units": "0",
+      "instructor": "Anitra Gonzalez",
+      "section": "0",
+      "description": "Traditional (Fully In-Person) · Barstow",
       "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
       "source": "site"
     },
@@ -1725,7 +1749,7 @@
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "6",
-      "instructor": "Austin Spangler",
+      "instructor": "Caylee Murphy",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
       "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
@@ -3064,6 +3088,18 @@
       "source": "site"
     },
     {
+      "code": "ENTR 1",
+      "title": "Entrepreneurial Mindset",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "3",
+      "instructor": "Ola Abuelhassan",
+      "section": "0",
+      "description": "Online - Asynchronous ·  Online",
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
       "code": "ENTR 2",
       "title": "Entrepreneurship Basic: Design Thinking and Supply Chain",
       "modality": "hybrid",
@@ -3376,18 +3412,6 @@
       "source": "site"
     },
     {
-      "code": "HIST 2A",
-      "title": "United States History to 1877 (formerly offered as HIST 2A)",
-      "modality": "hybrid",
-      "term": "Fall 2026",
-      "units": "3",
-      "instructor": "Jacob Lenerville",
-      "section": "0",
-      "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
-      "source": "site"
-    },
-    {
       "code": "HIST 2B",
       "title": "Survey of US History II: From the End of Reconstruction to the 21st Century",
       "modality": "online",
@@ -3664,18 +3688,6 @@
       "source": "site"
     },
     {
-      "code": "KINA 22A",
-      "title": "Beginning Badminton",
-      "modality": "in_person",
-      "term": "Fall 2026",
-      "units": "0.5",
-      "instructor": "Ellis Taylor Puryear",
-      "section": "0",
-      "description": "Traditional (Fully In-Person) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
-      "source": "site"
-    },
-    {
       "code": "KINA 2A",
       "title": "General Activity",
       "modality": "online",
@@ -3765,7 +3777,7 @@
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
-      "instructor": "S Staff",
+      "instructor": "Jessica Borjorquez",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
       "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
@@ -3801,7 +3813,7 @@
       "modality": "online",
       "term": "Fall 2026",
       "units": "3",
-      "instructor": "S Staff",
+      "instructor": "Alicia Lyons",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
       "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
@@ -3897,7 +3909,7 @@
       "modality": "online",
       "term": "Fall 2026",
       "units": "4",
-      "instructor": "Sam Pearsall",
+      "instructor": "S Staff",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
       "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
@@ -3948,6 +3960,18 @@
       "instructor": "Rodolfo Duque Jr.",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
+      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
+      "source": "site"
+    },
+    {
+      "code": "MATH 3",
+      "title": "College Algebra",
+      "modality": "online",
+      "term": "Fall 2026",
+      "units": "4",
+      "instructor": "Sona Vartanian",
+      "section": "0",
+      "description": "Online - Asynchronous ·  Online",
       "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
       "source": "site"
     },
@@ -4977,18 +5001,6 @@
       "modality": "hybrid",
       "term": "Fall 2026",
       "units": "4",
-      "instructor": "Sona Vartanian",
-      "section": "0",
-      "description": "Hybrid(Synch&Asynch) · Barstow",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
-      "source": "site"
-    },
-    {
-      "code": "STAT C1000",
-      "title": "Introduction to Statistics (Formerly offered as MATH 2)",
-      "modality": "hybrid",
-      "term": "Fall 2026",
-      "units": "4",
       "instructor": "Carlos Orrala",
       "section": "0",
       "description": "Hybrid(Synch&Asynch) · Barstow",
@@ -5016,18 +5028,6 @@
       "instructor": "Rodolfo Duque Jr.",
       "section": "0",
       "description": "Online - Asynchronous ·  Online",
-      "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
-      "source": "site"
-    },
-    {
-      "code": "STAT C1000",
-      "title": "Introduction to Statistics (formerly offered as MATH 2)",
-      "modality": "hybrid",
-      "term": "Fall 2026",
-      "units": "4",
-      "instructor": "Rodolfo Duque Jr.",
-      "section": "0",
-      "description": "Hybrid(Synch&Asynch) · Barstow",
       "url": "https://ssbprod2.barstow.edu:8443/StudentRegistrationSsb/ssb/classSearch/classSearch",
       "source": "site"
     },

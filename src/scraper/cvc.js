@@ -170,15 +170,22 @@ export const CVC_IDS = {
 // the common transferable disciplines; a college's online catalog is almost
 // entirely reachable through it. Order is roughly most- to least-common.
 export const SUBJECTS = [
-  'biology', 'chemistry', 'physics', 'mathematics', 'statistics',
-  'english', 'history', 'psychology', 'sociology', 'anthropology',
-  'political science', 'economics', 'business', 'accounting', 'marketing',
-  'computer science', 'information technology', 'art', 'music', 'theater',
-  'communication', 'philosophy', 'spanish', 'french', 'geography',
-  'geology', 'astronomy', 'health', 'nursing', 'kinesiology',
-  'nutrition', 'education', 'child development', 'administration of justice',
-  'engineering', 'architecture', 'agriculture', 'ethnic studies',
-  'humanities', 'counseling',
+  'biology', 'microbiology', 'physiology', 'anatomy', 'chemistry',
+  'physics', 'mathematics', 'statistics', 'oceanography', 'environmental',
+  'english', 'literature', 'reading', 'linguistics', 'history',
+  'psychology', 'sociology', 'anthropology', 'political science', 'economics',
+  'business', 'accounting', 'marketing', 'management', 'real estate',
+  'computer science', 'information technology', 'cybersecurity', 'web',
+  'art', 'art history', 'music', 'theater', 'dance', 'film', 'photography',
+  'communication', 'journalism', 'philosophy', 'religious studies',
+  'spanish', 'french', 'german', 'chinese', 'japanese', 'italian',
+  'american sign language', 'geography', 'geology', 'astronomy',
+  'health', 'nursing', 'kinesiology', 'nutrition', 'dental', 'radiology',
+  'education', 'child development', 'early childhood', 'social work',
+  'administration of justice', 'fire technology', 'emergency medical',
+  'engineering', 'architecture', 'agriculture', 'automotive', 'welding',
+  'electronics', 'ethnic studies', 'gender studies', 'humanities',
+  'counseling', 'library', 'hospitality', 'culinary', 'paralegal',
 ];
 
 export function hasCvc(slug) {
@@ -191,6 +198,11 @@ function searchUrl({ cvcId, subject, page }) {
   p.append('filter[subject]', subject);
   p.append('filter[search_type]', 'open_search');
   p.append('filter[search_all_universities]', 'true');
+  // CVC now defaults to hiding sections that are full / not currently open for
+  // enrollment. For a course-discovery tool we want the full picture of what a
+  // college offers online, so explicitly ask for unavailable ones too. Without
+  // this the same query returns far fewer rows close to / during a term.
+  p.append('filter[show_only_available]', 'false');
   p.append('commit', 'Find Classes');
   if (page > 1) p.append('page', String(page));
   return `${BASE}?${p.toString()}`;
@@ -263,8 +275,12 @@ function parsePage(html, sourceUrl) {
       _tuition: tuitionText,
     });
   });
-  // total count is rendered as "<N> courses"
-  const totalMatch = $('body').text().match(/([\d,]+)\s+courses/);
+  // Total-result count. CVC has moved this label around across redesigns, so try
+  // the known phrasings in order and fall back to null (callers tolerate null).
+  const bodyText = $('body').text();
+  const totalMatch =
+    bodyText.match(/Showing\s+[\d,]+\s*(?:-\s*[\d,]+\s*)?of\s+([\d,]+)/i) ||
+    bodyText.match(/([\d,]+)\s+(?:courses?|results?|classes)\b/i);
   const total = totalMatch ? Number(totalMatch[1].replace(/,/g, '')) : null;
   return { courses, total };
 }

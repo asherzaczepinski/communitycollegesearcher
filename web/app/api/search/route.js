@@ -80,6 +80,9 @@ export async function GET(req) {
 
   if (sp.get('ztc') === '1') where.push(`(co.meta->>'zeroTextbookCost')::boolean IS TRUE`);
   if (sp.get('quality') === '1') where.push(`(co.meta->>'qualityReviewed')::boolean IS TRUE`);
+  // C-ID approved = the course carries a statewide common-course number (the
+  // strongest "accepted for transfer / articulation" signal).
+  if (sp.get('cid') === '1') where.push(`(co.meta->>'cIdApproved')::boolean IS TRUE`);
 
   const format = sp.get('format'); // Asynchronous / Synchronous
   if (format) where.push(`co.meta->'formats' @> ${p(JSON.stringify([format]))}::jsonb`);

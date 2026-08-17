@@ -42,7 +42,11 @@ Schedules keep changing until (and after) classes start:
   - Re-run the full pipeline every few weeks during Aug-Sep:
         npm run scrape
         npm run cvc:supplement
+        npm run cid:fetch         # refresh the C-ID transfer-approval CSVs
+        npm run cid:supplement    # tag transfer-approved courses + backfill descriptions
         npm run organize
+    (Always run cid:supplement AFTER scrape — a scrape rewrites each course's
+     `meta`, which would otherwise drop the C-ID tags.)
   - Around Oct-Nov 2026: Spring 2027 registration opens. The Banner adapter
     auto-picks the newest open term, so a scrape then will start returning
     Spring 2027 — decide whether that's wanted or whether to pin Fall 2026
@@ -64,8 +68,30 @@ scrape, publish with:
     the Supabase dashboard first. Regular pushes also keep it awake.
 
 --------------------------------------------------------------------------------
+ 3b. TRANSFER / "ACCEPTABLE" DATA  (added 2026-08-16)
+--------------------------------------------------------------------------------
+  - C-ID (Course Identification Numbering System) is now wired in as the
+    authoritative "this course is accepted for transfer/articulation" signal:
+        npm run cid:fetch        # downloads two public CSVs -> src/data/cid/
+        npm run cid:supplement   # tags matched courses: meta.cId / cIdTitle /
+                                 # cIdApproved, and backfills a description from
+                                 # the C-ID descriptor when the course had none.
+    ~7,700 courses across ~98 colleges match a C-ID. Surfaced in the web app as a
+    "C-ID transfer-approved" filter + a "C-ID <num>" badge.
+  - ASSIST.org (course-to-course CCC->UC/CSU articulation) is also reachable over
+    HTTP but heavier: GET https://assist.org/ first to grab the XSRF-TOKEN cookie,
+    then echo it as the X-XSRF-TOKEN header on /api/* calls (e.g.
+    /api/institutions, /api/articulation/Agreements?Key=...). Left as a future
+    add — C-ID already covers "what transfers" far more cheaply.
+
+--------------------------------------------------------------------------------
  4. NICE-TO-HAVES / BACKLOG
 --------------------------------------------------------------------------------
+  - Two colleges lost their thin/low-quality data this refresh and now need a
+    custom (headless-browser) scraper: city-college-of-san-francisco (site is a
+    JS app; not really on CVC) and san-diego-college-of-continuing-education
+    (sdcce.edu/coursenet is a JS app; its old rows had title="pdf"). Neither is
+    on CVC, so there's no cheap fallback.
   - Find more Banner colleges: only the ones linking Banner from their
     homepage were auto-detected. Probing reg-prod / ssb host patterns could
     add more colleges with REAL modality data for free (adapter exists).

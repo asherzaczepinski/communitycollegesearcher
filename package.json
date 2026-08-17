@@ -18,6 +18,8 @@
     "cvc:validate": "node src/cvcValidate.js",
     "cvc:backfill": "node src/cvcBackfill.js",
     "cvc:supplement": "node src/cvcSupplement.js",
+    "cid:fetch": "mkdir -p src/data/cid && curl -sL -A 'Mozilla/5.0' https://data-c-idsystem.org/descriptors/final/csv -o src/data/cid/descriptors.csv && curl -sL -A 'Mozilla/5.0' https://data-c-idsystem.org/courses/csv -o src/data/cid/courses.csv && echo 'C-ID CSVs downloaded to src/data/cid/'",
+    "cid:supplement": "node src/cidSupplement.js",
     "migrate:supabase": "node src/migrateToSupabase.js"
   },
   "engines": {

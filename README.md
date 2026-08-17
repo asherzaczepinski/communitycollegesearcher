@@ -199,6 +199,30 @@ modality. It talks to:
 
 ---
 
+## Transfer / "acceptable" data (C-ID)
+
+Which courses actually **transfer / articulate** comes from two sources:
+
+- **CVC Exchange** — per-course IGETC / Cal-GETC / CSU BREADTH designations and
+  specific GE areas (online courses only). Scraped inline with `npm run scrape`.
+- **C-ID** (the statewide Course Identification Numbering System) — the
+  authoritative "this course is an approved common course" signal, covering
+  in-person courses too. Two public CSV exports, no auth:
+
+  ```bash
+  npm run cid:fetch        # -> src/data/cid/{descriptors,courses}.csv
+  npm run cid:supplement   # tag matched courses (run AFTER every scrape)
+  ```
+
+  `cid:supplement` adds `meta.cId` ("MATH 110"), `meta.cIdTitle`, and
+  `meta.cIdApproved` to each matched course, and backfills a real description
+  from the C-ID descriptor when the course had none. ~7,700 courses across ~98
+  colleges match. The web app exposes a **C-ID transfer-approved** filter and a
+  **C-ID `<num>`** badge. Re-run after each scrape (a scrape rewrites `meta`).
+
+  A heavier option — ASSIST.org course-to-course articulation — is documented in
+  `TODO.txt` (needs the XSRF-token handshake) but C-ID covers the common case.
+
 ## Notes
 
 - Uses Node's built-in `node:sqlite` (Node ≥ 22.5) — no native build step. You're on Node 24, so it just works (it prints one harmless "experimental" warning).
