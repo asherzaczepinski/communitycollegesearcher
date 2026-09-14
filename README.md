@@ -201,8 +201,16 @@ modality. It talks to:
 
 ## Transfer / "acceptable" data (C-ID)
 
-Which courses actually **transfer / articulate** comes from two sources:
+Which courses actually **transfer / articulate** comes from three sources:
 
+- **UC (ASSIST.org)** — the official statewide "does this course transfer to the
+  University of California" list (each college's UC Transfer Course Agreement).
+  Tagged by `npm run uc:supplement`, which handshakes ASSIST's XSRF-guarded JSON
+  API, pulls each college's UC TCA for the current academic year, and sets
+  `meta.ucTransferable` (plus `meta.csuTransferable`) on every matched course.
+  Covers in-person AND online courses. Surfaced as a **UC** transfer filter and a
+  **"UC transferable"** badge. ~22.6k courses across 102 colleges match. Re-run
+  AFTER every scrape (a scrape rewrites `meta`).
 - **CVC Exchange** — per-course IGETC / Cal-GETC / CSU BREADTH designations and
   specific GE areas (online courses only). Scraped inline with `npm run scrape`.
 - **C-ID** (the statewide Course Identification Numbering System) — the
@@ -220,8 +228,19 @@ Which courses actually **transfer / articulate** comes from two sources:
   colleges match. The web app exposes a **C-ID transfer-approved** filter and a
   **C-ID `<num>`** badge. Re-run after each scrape (a scrape rewrites `meta`).
 
-  A heavier option — ASSIST.org course-to-course articulation — is documented in
-  `TODO.txt` (needs the XSRF-token handshake) but C-ID covers the common case.
+  ASSIST.org course-to-course articulation (a specific CCC course → a specific UC
+  campus course) is the heavier next step; the UC TCA above already answers the
+  common "does it transfer to UC at all" question.
+
+### One command to refresh everything
+
+```bash
+npm run refresh   # scrape → CVC online → C-ID → UC (ASSIST) → organize → Supabase
+```
+
+Runs the whole pipeline in the correct order (supplements always AFTER the scrape
+that rewrites `meta`). The final step pushes to Supabase, which the deployed site
+reads — see `scripts/refresh.sh`.
 
 ## Notes
 

@@ -42,12 +42,17 @@ async function run() {
       db.prepare(`SELECT code, title FROM courses WHERE college_id=? AND modality='online'`)
         .all(c.id).map(onlineKey),
     );
+    // Block only against the college's OWN online rows (site data wins for a
+    // course it already lists). CVC rows come one-per-teacher, so dedupe among
+    // themselves on the full key incl. instructor+section.
     const fresh = [];
-    const seen = new Set(existing);
+    const seenCvc = new Set();
     for (const course of cvc) {
       const k = onlineKey(course);
-      if (seen.has(k)) continue;
-      seen.add(k);
+      if (existing.has(k)) continue;
+      const fk = `${k}|${course.instructor || ''}|${course.section || ''}`;
+      if (seenCvc.has(fk)) continue;
+      seenCvc.add(fk);
       fresh.push({ ...course, source: 'cvc' });
     }
     if (!fresh.length) { console.log(`  = ${c.slug.padEnd(34)} already covers all ${cvc.length} CVC online`); continue; }

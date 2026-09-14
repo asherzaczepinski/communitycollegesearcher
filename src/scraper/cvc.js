@@ -304,6 +304,8 @@ export async function fetchCourseDetail(cvcCourseId) {
   const fmt = $('button').filter((_, e) => /Online\s*-\s*(A?synchronous)/i.test(txt(e)))
     .map((_, e) => txt(e)).get();
   const normFmt = (f) => (/asynchronous/i.test(f) ? 'Asynchronous' : /synchronous/i.test(f) ? 'Synchronous' : f || null);
+  // "TBA"/"Not Listed"/"Staff" are placeholders, not real instructors.
+  const normProf = (p) => (p && !/^(TBA|Not Listed|Staff)$/i.test(p) ? p : null);
 
   const n = Math.max(crn.length, prof.length, date.length, fmt.length);
   const sections = [];
@@ -311,7 +313,7 @@ export async function fetchCourseDetail(cvcCourseId) {
     sections.push({
       crn: crn[i] || null,
       dates: date[i] || null,
-      professor: prof[i] && prof[i] !== 'TBA' ? prof[i] : null,
+      professor: normProf(prof[i]),
       format: normFmt(fmt[i] || ''),
       notes: notes[i] || null,
     });
@@ -381,7 +383,7 @@ export async function fetchCvcCourses(slug, {
       const d = await fetchCourseDetail(id);
       if (d) {
         if (d.description) c.description = d.description; // real catalog description
-        if (d.professors.length) c.instructor = d.professors.join(', ');
+        if (d.professors.length === 1) c.instructor = d.professors[0];
         c.meta = {
           ...c.meta,
           formats: d.formats,                 // ['Asynchronous'] / ['Synchronous'] / both
@@ -394,8 +396,45 @@ export async function fetchCvcCourses(slug, {
       done++;
       if (onProgress) onProgress({ slug, phase: 'details', found: done, total: list.length });
     });
+    // One row per teacher: a course taught by several instructors becomes one
+    // row per instructor (matching how schedule-sourced colleges list courses),
+    // instead of a single row with "A, B, C" joined.
+    return list.flatMap(splitByProfessor);
   }
   return list;
+}
+
+// Split one detail-enriched CVC course into one row per distinct professor.
+// Sections with no listed professor stay together as a single TBA row. Courses
+// with 0-1 distinct professors come back unchanged.
+function splitByProfessor(c) {
+  const secs = c.meta?.sections || [];
+  const byProf = new Map(); // professor name ('' = TBA) -> their sections
+  for (const s of secs) {
+    const key = s.professor || '';
+    if (!byProf.has(key)) byProf.set(key, []);
+    byProf.get(key).push(s);
+  }
+  if (byProf.size <= 1) return [c];
+  const rows = [];
+  let i = 0;
+  for (const [prof, sections] of byProf) {
+    i++;
+    rows.push({
+      ...c,
+      instructor: prof || null,
+      // keep the DB's (code,title,modality,term,section) uniqueness per teacher
+      section: sections[0]?.crn || `${c.section}.${i}`,
+      meta: {
+        ...c.meta,
+        professors: prof ? [prof] : [],
+        formats: [...new Set(sections.map((s) => s.format).filter(Boolean))],
+        sections,
+        sectionCount: sections.length,
+      },
+    });
+  }
+  return rows;
 }
 
 // Just the headline number for a college: how many online courses CVC shows,

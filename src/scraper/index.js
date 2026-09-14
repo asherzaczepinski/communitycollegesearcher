@@ -106,11 +106,17 @@ export async function scrapeCollege(college, opts = {}) {
     if (type !== 'cvc' && type !== 'sample' && hasCvc(college.slug)) {
       try {
         const cvc = await cvcCourses(college);
-        const seen = new Set(merged.filter((c) => c.modality === 'online').map(onlineKey));
+        // Block only against the college's OWN online rows (site data wins for a
+        // course it already lists). CVC rows come one-per-teacher, so dedupe
+        // among themselves on the full key incl. instructor+section.
+        const siteOnline = new Set(merged.filter((c) => c.modality === 'online').map(onlineKey));
+        const seenCvc = new Set();
         for (const c of cvc) {
           const k = onlineKey(c);
-          if (seen.has(k)) continue;
-          seen.add(k);
+          if (siteOnline.has(k)) continue;
+          const fk = `${k}|${c.instructor || ''}|${c.section || ''}`;
+          if (seenCvc.has(fk)) continue;
+          seenCvc.add(fk);
           merged.push({ ...c, source: 'cvc' });
           supplemented++;
         }

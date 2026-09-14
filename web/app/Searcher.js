@@ -5,7 +5,7 @@ const MODALITIES = [
   ['all', 'All'], ['in_person', 'In person'], ['online', 'Online'], ['hybrid', 'Hybrid'],
 ];
 const TRANSFERS = [
-  ['', 'Any'], ['igetc', 'IGETC'], ['calgetc', 'Cal-GETC'], ['csu', 'CSU Breadth'],
+  ['', 'Any'], ['uc', 'UC'], ['igetc', 'IGETC'], ['calgetc', 'Cal-GETC'], ['csu', 'CSU Breadth'],
 ];
 const PAGE = 60;
 
@@ -244,9 +244,11 @@ function Row({ c }) {
         {c.distance_mi != null && <span className="dist">· {c.distance_mi} mi away</span>}
       </div>
       {bits && <div className="row-meta">{bits}</div>}
+      {m.note && <div className="row-note">{m.note}</div>}
 
-      {(m.transferable?.length || m.zeroTextbookCost || m.qualityReviewed || m.cIdApproved || areaChips.length > 0) && (
+      {(m.transferable?.length || m.zeroTextbookCost || m.qualityReviewed || m.cIdApproved || m.ucTransferable || areaChips.length > 0) && (
         <div className="tags">
+          {m.ucTransferable && <span className="tag uc" title="On this college's UC Transfer Course Agreement (ASSIST.org) — accepted for transfer credit at the University of California">UC transferable</span>}
           {m.cIdApproved && <span className="tag cid" title={m.cIdTitle ? `C-ID ${m.cId}: ${m.cIdTitle} — approved for transfer/articulation` : 'Approved for transfer/articulation'}>C-ID {m.cId}</span>}
           {(m.transferable || []).map((t) => <span key={t} className="tag transfer">{t}</span>)}
           {areaChips.map((a) => <span key={a} className="tag area">{a}</span>)}
@@ -267,10 +269,10 @@ function Row({ c }) {
               {m.prerequisites && <p><strong>Prerequisites:</strong> {m.prerequisites}</p>}
               {sections.length > 0 && (
                 <table>
-                  <thead><tr><th>Section</th><th>Dates</th><th>Instructor</th><th>Format</th></tr></thead>
+                  <thead><tr><th>Section</th><th>Dates</th><th>Instructor</th><th>Format</th><th>Notes</th></tr></thead>
                   <tbody>
                     {sections.map((s, i) => (
-                      <tr key={i}><td>{s.crn || '—'}</td><td>{s.dates || '—'}</td><td>{s.professor || 'TBA'}</td><td>{s.format || '—'}</td></tr>
+                      <tr key={i}><td>{s.crn || '—'}</td><td>{s.dates || '—'}</td><td>{s.professor || 'TBA'}</td><td>{s.format || '—'}</td><td>{s.notes || '—'}</td></tr>
                     ))}
                   </tbody>
                 </table>

@@ -78,11 +78,26 @@ scrape, publish with:
                                  # the C-ID descriptor when the course had none.
     ~7,700 courses across ~98 colleges match a C-ID. Surfaced in the web app as a
     "C-ID transfer-approved" filter + a "C-ID <num>" badge.
-  - ASSIST.org (course-to-course CCC->UC/CSU articulation) is also reachable over
-    HTTP but heavier: GET https://assist.org/ first to grab the XSRF-TOKEN cookie,
-    then echo it as the X-XSRF-TOKEN header on /api/* calls (e.g.
-    /api/institutions, /api/articulation/Agreements?Key=...). Left as a future
-    add — C-ID already covers "what transfers" far more cheaply.
+  - DONE 2026-09-13: UC transferability wired in via ASSIST.org. src/assist.js
+    does the XSRF handshake; src/ucSupplement.js pulls each college's UC Transfer
+    Course Agreement and tags meta.ucTransferable / csuTransferable.
+        npm run uc:supplement            # all colleges (current academic year)
+        npm run uc:supplement <slug>...  # specific colleges
+        npm run uc:supplement --year 2026
+    ~22.6k courses across 102 colleges tagged. Web app: "UC" transfer filter +
+    "UC transferable" badge. RE-RUN AFTER EVERY SCRAPE (scrape rewrites meta).
+    Handles the Foothill-De Anza campus-letter quirk (ANTH D001 <-> ANTH 1) via a
+    de-lettered fallback match. TCA JSON cached to src/data/assist/<slug>.json.
+  - Course-to-course articulation (a CCC course -> a *specific* UC campus course,
+    /api/articulation/Agreements?Key=...) is still a future add; the UC TCA above
+    already answers "does it transfer to UC at all".
+  - DONE 2026-09-13: one row per teacher + notes out of titles. CVC courses with
+    several instructors now split into one row per professor (was "A, B, C" in a
+    single row); registration notes jammed into titles ("...-NOTE: <text>") moved
+    to meta.note and shown on their own line. New scrapes do this automatically
+    (src/scraper/cvc.js splitByProfessor + src/db.js splitTitleNote); existing
+    data was fixed in place once via `node src/fixExisting.js`.
+  - `npm run refresh` runs the whole pipeline in order (scripts/refresh.sh).
 
 --------------------------------------------------------------------------------
  4. NICE-TO-HAVES / BACKLOG

@@ -157,8 +157,37 @@ const insertCourseStmt = db.prepare(`
     updated_at = excluded.updated_at
 `);
 
-// Serialize a course's structured metadata to a JSON string for storage.
-const metaJson = (c) => (c.meta && Object.keys(c.meta).length ? JSON.stringify(c.meta) : null);
+// Some catalogs jam registration notes into the course title ("Academic Reading
+// and Writing-NOTE: Some sections require…"). Pull the note out into meta.note
+// so the UI can show it on its own line. Titles that are ONLY a note (linked-
+// section stubs with no real title in front) are left alone.
+export function splitTitleNote(title, meta) {
+  const m = title && title.match(/^(.*?)[\s.–—-]*\bNOTE\s*:\s*(.+)$/i);
+  if (!m) return { title, meta };
+  const clean = m[1].trim();
+  if (!/[A-Za-z]{2}/.test(clean)) return { title, meta };
+  return { title: clean, meta: { ...(meta || {}), note: m[2].trim() } };
+}
+
+// Normalize one course object into the insert statement's bind params.
+function courseRow(college_id, c, now) {
+  const { title, meta } = splitTitleNote(decodeEntities(c.title), c.meta);
+  return {
+    college_id,
+    code: decodeEntities(c.code) || null,
+    title,
+    modality: c.modality,
+    term: c.term || null,
+    units: c.units || null,
+    instructor: decodeEntities(c.instructor) || null,
+    section: c.section || null,
+    description: decodeEntities(c.description) || null,
+    url: c.url || null,
+    source: c.source || null,
+    meta: meta && Object.keys(meta).length ? JSON.stringify(meta) : null,
+    updated_at: now,
+  };
+}
 
 // Replace all courses for a college in a single transaction (idempotent re-scrape).
 export function replaceCourses(collegeId, courses) {
@@ -168,23 +197,7 @@ export function replaceCourses(collegeId, courses) {
   try {
     tx.run(collegeId);
     const now = new Date().toISOString();
-    for (const c of courses) {
-      insertCourseStmt.run({
-        college_id: collegeId,
-        code: decodeEntities(c.code) || null,
-        title: decodeEntities(c.title),
-        modality: c.modality,
-        term: c.term || null,
-        units: c.units || null,
-        instructor: decodeEntities(c.instructor) || null,
-        section: c.section || null,
-        description: decodeEntities(c.description) || null,
-        url: c.url || null,
-        source: c.source || null,
-        meta: metaJson(c),
-        updated_at: now,
-      });
-    }
+    for (const c of courses) insertCourseStmt.run(courseRow(collegeId, c, now));
     db.prepare('COMMIT').run();
   } catch (err) {
     db.prepare('ROLLBACK').run();
@@ -201,23 +214,7 @@ export function addCourses(collegeId, courses) {
   const now = new Date().toISOString();
   db.prepare('BEGIN').run();
   try {
-    for (const c of courses) {
-      insertCourseStmt.run({
-        college_id: collegeId,
-        code: decodeEntities(c.code) || null,
-        title: decodeEntities(c.title),
-        modality: c.modality,
-        term: c.term || null,
-        units: c.units || null,
-        instructor: decodeEntities(c.instructor) || null,
-        section: c.section || null,
-        description: decodeEntities(c.description) || null,
-        url: c.url || null,
-        source: c.source || null,
-        meta: metaJson(c),
-        updated_at: now,
-      });
-    }
+    for (const c of courses) insertCourseStmt.run(courseRow(collegeId, c, now));
     db.prepare('COMMIT').run();
   } catch (err) {
     db.prepare('ROLLBACK').run();
@@ -242,7 +239,7 @@ export function searchCourses({ q = '', modality = null, collegeSlug = null, lim
     params.modality = modality;
   }
   // Transferability + badge filters read the structured `meta` JSON.
-  const TRANSFER_KEY = { igetc: 'igetc', 'cal-getc': 'calGetc', calgetc: 'calGetc', csu: 'csuBreadth' };
+  const TRANSFER_KEY = { igetc: 'igetc', 'cal-getc': 'calGetc', calgetc: 'calGetc', csu: 'csuBreadth', uc: 'ucTransferable' };
   const tk = transfer && TRANSFER_KEY[String(transfer).toLowerCase()];
   if (tk) where.push(`json_extract(courses.meta, '$.${tk}') = 1`);
   if (ztc) where.push(`json_extract(courses.meta, '$.zeroTextbookCost') = 1`);

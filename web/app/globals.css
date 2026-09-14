@@ -113,6 +113,7 @@ a:hover { text-decoration: underline; text-underline-offset: 2px; }
 .row-college { margin-top: 3px; font-size: 0.95rem; }
 .row-college a { font-weight: 600; }
 .row-meta { margin-top: 6px; color: var(--ink-soft); font-size: 0.9rem; }
+.row-note { margin-top: 5px; color: var(--ink-soft); font-size: 0.84rem; font-style: italic; }
 
 .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
 .tag { font-size: 0.72rem; padding: 2px 8px; border-radius: 3px; border: 1px solid var(--line-strong); color: var(--ink-soft); }
@@ -121,6 +122,7 @@ a:hover { text-decoration: underline; text-underline-offset: 2px; }
 .tag.ztc { color: var(--accent-ink); border-color: #c4dccb; }
 .tag.quality { color: #6b4ba8; border-color: #d8cdef; }
 .tag.cid { color: #1d4ed8; background: #eaf0ff; border-color: #bcd0ff; font-weight: 600; }
+.tag.uc { color: #8a6410; background: #fdf4dc; border-color: #ecd9a0; font-weight: 600; }
 
 .more { margin-top: 10px; padding: 0; background: none; border: none; color: var(--accent); font: inherit; font-size: 0.86rem; cursor: pointer; }
 .more:hover { text-decoration: underline; text-underline-offset: 2px; }

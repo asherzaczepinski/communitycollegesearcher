@@ -61,7 +61,8 @@ export async function GET(req) {
   if (modality && modality !== 'all') where.push(`co.modality = ${p(modality)}`);
 
   // Top-level transferability (boolean flags inside meta).
-  const TRANSFER = { igetc: 'igetc', calgetc: 'calGetc', 'cal-getc': 'calGetc', csu: 'csuBreadth' };
+  // 'uc' = on the college's UC Transfer Course Agreement (from ASSIST.org).
+  const TRANSFER = { igetc: 'igetc', calgetc: 'calGetc', 'cal-getc': 'calGetc', csu: 'csuBreadth', uc: 'ucTransferable' };
   const tk = TRANSFER[(sp.get('transfer') || '').toLowerCase()];
   if (tk) where.push(`(co.meta->>'${tk}')::boolean IS TRUE`);
 
