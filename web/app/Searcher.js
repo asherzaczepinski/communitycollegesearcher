@@ -1,8 +1,11 @@
 'use client';
 import { useCallback, useEffect, useRef, useState } from 'react';
 
+// We only have a VERIFIED modality signal for CVC (online) courses. ASSIST
+// courses don't record modality, so we don't claim In-person/Hybrid — they're
+// shown as "modality varies". The filter therefore offers only All / Online.
 const MODALITIES = [
-  ['all', 'All'], ['in_person', 'In person'], ['online', 'Online'], ['hybrid', 'Hybrid'],
+  ['all', 'All'], ['online', 'Online'],
 ];
 const TRANSFERS = [
   ['', 'Any'], ['uc', 'UC'], ['igetc', 'IGETC'], ['calgetc', 'Cal-GETC'], ['csu', 'CSU Breadth'],
@@ -256,7 +259,7 @@ function Row({ c }) {
           )}
         </h3>
         <div className="row-actions">
-          <span className={`fmt ${c.modality}`}>{c.modality === 'in_person' ? 'In person' : c.modality === 'online' ? 'Online' : 'Hybrid'}</span>
+          <span className={`fmt ${c.modality}`}>{c.modality === 'online' ? 'Online' : c.modality === 'in_person' ? 'In person' : c.modality === 'hybrid' ? 'Hybrid' : 'Modality varies — check schedule'}</span>
           {c.url && <a className="openbtn" href={c.url} target="_blank" rel="noopener">Open up ↗</a>}
         </div>
       </div>

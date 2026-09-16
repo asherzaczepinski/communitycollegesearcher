@@ -120,6 +120,7 @@ a:hover { text-decoration: underline; text-underline-offset: 2px; }
 .fmt.online { color: var(--accent); }
 .fmt.in_person { color: var(--rust); }
 .fmt.hybrid { color: #6b4ba8; }
+.fmt.unknown { color: var(--ink-soft); font-style: italic; }
 .row-college { margin-top: 3px; font-size: 0.95rem; }
 .row-college a { font-weight: 600; }
 .row-meta { margin-top: 6px; color: var(--ink-soft); font-size: 0.9rem; }
