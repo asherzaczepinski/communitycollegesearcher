@@ -49,9 +49,12 @@ const unitsStr = (min, max) => {
   return `${min}-${max}`;
 };
 
+// ASSIST records what courses exist and transfer, but NOT how they're taught.
+// So modality is 'unknown' (not a fabricated 'in_person'); the UI shows these as
+// "modality varies — check schedule". Only CVC courses are verified online.
 const insert = db.prepare(`
   INSERT INTO courses (college_id, code, title, modality, term, units, instructor, section, description, url, source, meta, updated_at)
-  VALUES (?, ?, ?, 'in_person', NULL, ?, NULL, NULL, NULL, ?, 'assist', ?, ?)
+  VALUES (?, ?, ?, 'unknown', NULL, ?, NULL, NULL, NULL, ?, 'assist', ?, ?)
   ON CONFLICT(college_id, code, title, modality, term, section) DO UPDATE SET
     units = excluded.units, url = excluded.url, source = excluded.source,
     meta = excluded.meta, updated_at = excluded.updated_at
