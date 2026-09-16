@@ -38,6 +38,13 @@ a:hover { text-decoration: underline; text-underline-offset: 2px; }
 .masthead h1 { font-family: var(--serif); font-weight: 600; font-size: 2.1rem; line-height: 1.1; letter-spacing: -0.01em; margin: 0; }
 .masthead h1 em { font-style: italic; color: var(--accent); }
 .masthead p { margin: 8px 0 0; color: var(--ink-soft); font-size: 1.02rem; }
+.masthead p.status { margin-top: 10px; font-size: 0.82rem; color: var(--ink-soft); border-top: 1px solid var(--line); padding-top: 8px; }
+.masthead p.status strong { color: var(--accent-ink); font-weight: 600; }
+.updated { color: var(--ink-soft); margin-left: 6px; font-size: 0.82rem; }
+.spinner { display: inline-block; width: 13px; height: 13px; border: 2px solid var(--line-strong); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.7s linear infinite; vertical-align: -2px; }
+.spinner.big { width: 20px; height: 20px; border-width: 2.5px; vertical-align: -4px; }
+.note-loading { display: flex; align-items: center; gap: 10px; }
+@keyframes spin { to { transform: rotate(360deg); } }
 
 /* Controls — one flat panel, hairline divided, no shadow */
 .controls { border: 1px solid var(--line); border-radius: 4px; background: transparent; }
@@ -106,6 +113,9 @@ a:hover { text-decoration: underline; text-underline-offset: 2px; }
 .row-head .code { color: var(--accent); margin-right: 9px; font-feature-settings: "tnum"; }
 .row-head .course-link { color: inherit; text-decoration: none; }
 .row-head .course-link:hover { text-decoration: underline; text-underline-offset: 3px; }
+.row-actions { display: flex; align-items: center; gap: 12px; flex: none; }
+.openbtn { font-size: 0.8rem; font-weight: 600; white-space: nowrap; padding: 5px 12px; border: 1px solid var(--accent); border-radius: 6px; color: var(--accent); background: #fff; cursor: pointer; }
+.openbtn:hover { background: var(--accent); color: #fff; text-decoration: none; }
 .fmt { font-size: 0.74rem; flex: none; color: var(--ink-soft); }
 .fmt.online { color: var(--accent); }
 .fmt.in_person { color: var(--rust); }

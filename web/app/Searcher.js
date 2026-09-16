@@ -14,6 +14,16 @@ const blank = {
   ztc: false, quality: false, cid: false, format: '', sort: 'relevance',
 };
 
+// "2026-08-16T23:03:32Z" → "August 16, 2026" (empty string if unparseable).
+function fmtDate(iso) {
+  const d = new Date(iso);
+  return Number.isNaN(d.getTime()) ? '' : d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+}
+
+function Spinner({ big }) {
+  return <span className={big ? 'spinner big' : 'spinner'} role="status" aria-label="Loading" />;
+}
+
 function useDebounced(value, ms) {
   const [v, setV] = useState(value);
   useEffect(() => { const t = setTimeout(() => setV(value), ms); return () => clearTimeout(t); }, [value, ms]);
@@ -22,9 +32,10 @@ function useDebounced(value, ms) {
 
 export default function Searcher() {
   const [f, setF] = useState(blank);
-  const [options, setOptions] = useState({ colleges: [], subjects: [], geAreas: { csu: [], igetc: [], calGetc: [] } });
+  const [options, setOptions] = useState({ colleges: [], subjects: [], lastUpdated: '', geAreas: { csu: [], igetc: [], calGetc: [] } });
   const [data, setData] = useState({ results: [], total: 0 });
   const [loading, setLoading] = useState(true);
+  const [optionsLoading, setOptionsLoading] = useState(true);
   const [offset, setOffset] = useState(0);
   const [loc, setLoc] = useState(null);        // { lat, lng, label }
   const [locStatus, setLocStatus] = useState('');
@@ -46,7 +57,9 @@ export default function Searcher() {
   const clearLoc = () => { setLoc(null); setLocStatus(''); setZip(''); setF((s) => ({ ...s, sort: 'relevance' })); setOffset(0); };
 
   useEffect(() => {
-    fetch('/api/options').then((r) => r.json()).then(setOptions).catch(() => {});
+    setOptionsLoading(true);
+    fetch('/api/options').then((r) => r.json()).then(setOptions)
+      .catch(() => {}).finally(() => setOptionsLoading(false));
   }, []);
 
   // Build the query from the DEBOUNCED text + the live filters. Depends on the
@@ -114,13 +127,18 @@ export default function Searcher() {
 
       <div className="masthead">
         <h1>California Community College <em>course searcher</em></h1>
-        <p>Every transferable course across all 100+ colleges, in one place.</p>
+        <p>Only colleges with a verified-complete catalog — every course links straight to its class page.</p>
+        <p className="status">
+          {options.lastUpdated && <>Data last updated <strong>{fmtDate(options.lastUpdated)}</strong> · </>}
+          {options.colleges.length > 0 && <>{options.colleges.length} colleges · </>}
+          Link not working? Email <a href="mailto:asherzac2020@gmail.com?subject=Course%20link%20not%20working">asherzac2020@gmail.com</a> (the database may need a reset).
+        </p>
       </div>
 
       {/* Filters — subject, college, and everything else */}
       <div className="controls">
         <div className="ctrl">
-          <span className="ctrl-label">Subject</span>
+          <span className="ctrl-label">Subject {optionsLoading && <Spinner />}</span>
           <select value={f.subject} onChange={(e) => set('subject', e.target.value)}>
             <option value="">All subjects</option>
             {options.subjects.map((s) => <option key={s} value={s}>{s}</option>)}
@@ -128,11 +146,11 @@ export default function Searcher() {
         </div>
 
         <div className="ctrl">
-          <span className="ctrl-label">College</span>
+          <span className="ctrl-label">College {optionsLoading && <Spinner />}</span>
           <select value={f.college} onChange={(e) => set('college', e.target.value)}>
             <option value="all">All colleges</option>
             {options.colleges.map((c) => (
-              <option key={c.slug} value={c.slug}>{c.name} ({c.course_count})</option>
+              <option key={c.slug} value={c.slug}>{c.name}</option>
             ))}
           </select>
         </div>
@@ -199,7 +217,7 @@ export default function Searcher() {
       </div>
 
       {loading && data.results.length === 0 ? (
-        <div className="note">Searching the catalog…</div>
+        <div className="note note-loading"><Spinner big /> Searching the catalog…</div>
       ) : data.results.length === 0 ? (
         <div className="note">No courses match these filters. Try widening your search.</div>
       ) : (
@@ -237,11 +255,15 @@ function Row({ c }) {
             <><span className="code">{c.code}</span>{c.title}</>
           )}
         </h3>
-        <span className={`fmt ${c.modality}`}>{c.modality === 'in_person' ? 'In person' : c.modality === 'online' ? 'Online' : 'Hybrid'}</span>
+        <div className="row-actions">
+          <span className={`fmt ${c.modality}`}>{c.modality === 'in_person' ? 'In person' : c.modality === 'online' ? 'Online' : 'Hybrid'}</span>
+          {c.url && <a className="openbtn" href={c.url} target="_blank" rel="noopener">Open up ↗</a>}
+        </div>
       </div>
       <div className="row-college">
         {c.college_url ? <a href={c.college_url} target="_blank" rel="noopener">{c.college}</a> : c.college}
         {c.distance_mi != null && <span className="dist">· {c.distance_mi} mi away</span>}
+        {c.last_scraped && <span className="updated">· updated {fmtDate(c.last_scraped)}</span>}
       </div>
       {bits && <div className="row-meta">{bits}</div>}
       {m.note && <div className="row-note">{m.note}</div>}

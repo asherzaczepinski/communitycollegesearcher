@@ -10,3 +10,6 @@ src/data/cid/
 # src/data/learned/
 # src/data/snapshots/
 .vercel
+
+.DS_Store
+**/.DS_Store

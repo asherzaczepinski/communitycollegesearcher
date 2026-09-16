@@ -7,6 +7,7 @@
 import { NextResponse } from 'next/server';
 import { query } from '../../../lib/db';
 import { SUBJECT_BY_LABEL } from '../../../lib/subjects';
+import { CONFIDENT_COURSE_SQL, VALID_COURSE_SQL } from '../../../lib/confident';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
@@ -15,14 +16,11 @@ export async function GET(req) {
   const sp = req.nextUrl.searchParams;
   const where = [
     "c.scrape_type NOT IN ('sample','none')",
-    // Defensive: only surface rows with a real course title. Excludes broken
-    // scrape artifacts — PDF links ("pdf"), section/CRN numbers as the title
-    // ("0002"), and location/modality captured as the title ("In-Person, …",
-    // "Online Asynchronous, …"). A real title has at least one letter.
-    // A real title has 2+ consecutive letters (excludes "M7321", "0002", "pdf").
-    "co.title ~ '[A-Za-z][A-Za-z]'",
-    "lower(trim(co.title)) <> 'pdf'",
-    "co.title !~* '^(in.?person|online (a?synchronous)|hybrid,)'",
+    // Only surface rows with a real title and a clickable link (see VALID_COURSE_SQL)
+    // and only from sources we're confident are complete (see CONFIDENT_COURSE_SQL) —
+    // this is what keeps broken/partial catalogs off the site.
+    VALID_COURSE_SQL,
+    CONFIDENT_COURSE_SQL,
   ];
   const params = [];
   const p = (v) => { params.push(v); return `$${params.length}`; };
@@ -144,7 +142,7 @@ export async function GET(req) {
   const rows = await query(
     `SELECT co.code, co.title, co.modality, co.term, co.units, co.instructor, co.description,
             co.url, co.meta, c.name AS college, c.url AS college_url, c.slug AS college_slug,
-            ${distExpr} AS distance_mi
+            c.last_scraped, ${distExpr} AS distance_mi
      FROM courses co JOIN colleges c ON c.id = co.college_id
      WHERE ${whereSql}
      ORDER BY ${orderBy}
