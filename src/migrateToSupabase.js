@@ -22,11 +22,15 @@ const PG = {
   connectionTimeoutMillis: 20000,
 };
 
-const SCHEMA = `
-DROP TABLE IF EXISTS courses CASCADE;
-DROP TABLE IF EXISTS colleges CASCADE;
+// Load into *_stage tables (indexes and all), then swap them in atomically at
+// the very end. This makes the migration crash-safe: if the process dies mid-
+// load, the live `colleges`/`courses` tables are untouched — no more half-wiped
+// production (which is exactly what an interrupted DROP-then-reload caused).
+const STAGE_SCHEMA = `
+DROP TABLE IF EXISTS courses_stage CASCADE;
+DROP TABLE IF EXISTS colleges_stage CASCADE;
 
-CREATE TABLE colleges (
+CREATE TABLE colleges_stage (
   id              integer PRIMARY KEY,
   slug            text UNIQUE NOT NULL,
   name            text NOT NULL,
@@ -45,9 +49,9 @@ CREATE TABLE colleges (
   live            boolean DEFAULT false
 );
 
-CREATE TABLE courses (
+CREATE TABLE courses_stage (
   id          bigint PRIMARY KEY,
-  college_id  integer NOT NULL REFERENCES colleges(id) ON DELETE CASCADE,
+  college_id  integer NOT NULL,
   code        text,
   title       text NOT NULL,
   modality    text,
@@ -62,12 +66,22 @@ CREATE TABLE courses (
   updated_at  text
 );
 
-CREATE INDEX idx_courses_college  ON courses(college_id);
-CREATE INDEX idx_courses_modality ON courses(modality);
-CREATE INDEX idx_courses_title    ON courses(title);
-CREATE INDEX idx_courses_code     ON courses(code);
-CREATE INDEX idx_courses_source   ON courses(source);
-CREATE INDEX idx_courses_meta     ON courses USING gin (meta);
+CREATE INDEX idx_courses_stage_college  ON courses_stage(college_id);
+CREATE INDEX idx_courses_stage_modality ON courses_stage(modality);
+CREATE INDEX idx_courses_stage_title    ON courses_stage(title);
+CREATE INDEX idx_courses_stage_code     ON courses_stage(code);
+CREATE INDEX idx_courses_stage_source   ON courses_stage(source);
+CREATE INDEX idx_courses_stage_meta     ON courses_stage USING gin (meta);
+`;
+
+// Atomic cutover — old tables dropped and stage tables renamed in one txn.
+const SWAP_SQL = `
+BEGIN;
+DROP TABLE IF EXISTS courses CASCADE;
+DROP TABLE IF EXISTS colleges CASCADE;
+ALTER TABLE colleges_stage RENAME TO colleges;
+ALTER TABLE courses_stage RENAME TO courses;
+COMMIT;
 `;
 
 // Insert rows in batches of multi-row VALUES. Returns total inserted.
@@ -101,8 +115,8 @@ async function run() {
 
   const client = new pg.Client(PG);
   await client.connect();
-  console.log(`Connected to Supabase (${PG.host}). Creating schema…`);
-  await client.query(SCHEMA);
+  console.log(`Connected to Supabase (${PG.host}). Loading into staging tables…`);
+  await client.query(STAGE_SCHEMA);
 
   // Colleges (carry the precomputed counts so the remote DB is dashboard-ready).
   const collegeCols = ['id', 'slug', 'name', 'url', 'scrape_type', 'last_scraped', 'last_status',
@@ -113,12 +127,16 @@ async function run() {
     online_count: c.online_count, hybrid_count: c.hybrid_count, in_person_count: c.in_person_count,
     site_count: c.site_count, cvc_count: c.cvc_count, lat: c.lat ?? null, lng: c.lng ?? null, live: !!c.live,
   }));
-  await bulkInsert(client, 'colleges', collegeCols, collegeRows);
+  await bulkInsert(client, 'colleges_stage', collegeCols, collegeRows);
 
   // Courses (preserve original ids + the FK by college_id).
   const courseCols = ['id', 'college_id', 'code', 'title', 'modality', 'term', 'units',
     'instructor', 'section', 'description', 'url', 'source', 'meta', 'updated_at'];
-  await bulkInsert(client, 'courses', courseCols, courses);
+  await bulkInsert(client, 'courses_stage', courseCols, courses);
+
+  // Everything loaded — now swap staging into place atomically.
+  console.log('Staging load complete. Swapping into production…');
+  await client.query(SWAP_SQL);
 
   // Keep Postgres sequences (if any future inserts) past our max ids — harmless here
   // since we use fixed ids, but verify the load.
