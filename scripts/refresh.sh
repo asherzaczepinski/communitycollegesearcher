@@ -26,9 +26,9 @@ node scripts/exportSnapshots.mjs
 echo "=== 4/5 rebuild with fresh data ==="
 node scripts/buildFromAssist.js
 
-echo "=== 5/5 push to Supabase (safe swap) + email ==="
+echo "=== 5/5 push to Supabase (safe swap) + write Desktop status ==="
 node --env-file=web/.env.local src/migrateToSupabase.js
-node --env-file=web/.env.local scripts/notify.mjs "Local refresh"
+node --env-file=web/.env.local scripts/writeStatus.mjs "local refresh"
 
 echo "=== done. Commit refreshed data so the daily cloud job stays in sync: ==="
 echo "    git add src/data/assist src/data/*-snapshot.json.gz && git commit -m 'refresh data' && git push"
