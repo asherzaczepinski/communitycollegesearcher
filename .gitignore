@@ -13,3 +13,4 @@ src/data/cid/
 
 .DS_Store
 **/.DS_Store
+scripts/daily.log
