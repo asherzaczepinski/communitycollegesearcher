@@ -55,8 +55,11 @@ export async function GET(req) {
   const college = sp.get('college');
   if (college && college !== 'all') where.push(`c.slug = ${p(college)}`);
 
+  // Modality filter. 'unknown' (ASSIST "modality varies") courses are NEVER
+  // excluded — we don't know how they're taught, so a course that might be
+  // online still shows under the Online filter. Only a definite mismatch hides.
   const modality = sp.get('modality');
-  if (modality && modality !== 'all') where.push(`co.modality = ${p(modality)}`);
+  if (modality && modality !== 'all') where.push(`(co.modality = ${p(modality)} OR co.modality = 'unknown')`);
 
   // Top-level transferability (boolean flags inside meta).
   // 'uc' = on the college's UC Transfer Course Agreement (from ASSIST.org).
