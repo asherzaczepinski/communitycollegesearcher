@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.collegesearcher.ping</string>
+  <key>WorkingDirectory</key>
+  <string>/Users/asherzaczepinski/Library/Application Support/collegesearcher</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/Users/asherzaczepinski/.nvm/versions/node/v24.14.1/bin/node</string>
+    <string>--env-file=.env</string>
+    <string>pingDb.mjs</string>
+  </array>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>12</integer>
+    <key>Minute</key>
+    <integer>0</integer>
+  </dict>
+  <key>RunAtLoad</key>
+  <true/>
+  <key>StandardOutPath</key>
+  <string>/Users/asherzaczepinski/Library/Logs/collegesearcher-ping.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/asherzaczepinski/Library/Logs/collegesearcher-ping.log</string>
+</dict>
+</plist>
