@@ -36,8 +36,10 @@ function useDebounced(value, ms) {
 export default function Searcher() {
   const [f, setF] = useState(blank);
   const [options, setOptions] = useState({ colleges: [], subjects: [], lastUpdated: '', geAreas: { csu: [], igetc: [], calGetc: [] } });
-  const [data, setData] = useState({ results: [], total: 0 });
-  const [loading, setLoading] = useState(true);
+  const [data, setData] = useState({ results: [], total: null });
+  const [loading, setLoading] = useState(true);       // first page of a new search
+  const [moreLoading, setMoreLoading] = useState(false); // appending the next page
+  const [reachedEnd, setReachedEnd] = useState(false);   // last page came back short
   const [optionsLoading, setOptionsLoading] = useState(true);
   const [offset, setOffset] = useState(0);
   const [loc, setLoc] = useState(null);        // { lat, lng, label }
@@ -93,20 +95,65 @@ export default function Searcher() {
   useEffect(() => {
     const id = ++reqId.current;
     setLoading(true);
+    setReachedEnd(false);
+
+    // Page 1 of results — fast (the API no longer counts on this path), so the
+    // list paints as soon as this lands instead of waiting on the full-table count.
     fetch(`/api/search?${queryString(0)}`).then((r) => r.json()).then((d) => {
       if (id !== reqId.current) return; // a newer search superseded this one
-      setData(d); setOffset(0); setLoading(false);
+      setData({ results: d.results, total: null });
+      setReachedEnd(d.results.length < PAGE); // a short page means there's no more
+      setOffset(0);
+      setLoading(false);
     }).catch(() => { if (id === reqId.current) setLoading(false); });
+
+    // Total count — the slow full-scan query, fetched IN PARALLEL purely to fill
+    // the "N courses" label. The list never blocks on it.
+    fetch(`/api/search?${queryString(0)}&countOnly=1`).then((r) => r.json()).then((d) => {
+      if (id !== reqId.current) return;
+      setData((prev) => ({ ...prev, total: d.total }));
+    }).catch(() => {});
   }, [queryString]);
 
-  const loadMore = async () => {
+  // Append the next page. Guarded by a ref so the scroll observer can't fire it
+  // twice, and by reqId so a page that lands after the filters changed is dropped.
+  const loadingMoreRef = useRef(false);
+  const loadMore = useCallback(async () => {
+    if (loadingMoreRef.current || reachedEnd || loading) return;
+    loadingMoreRef.current = true;
+    setMoreLoading(true);
+    const id = reqId.current;
     const next = offset + PAGE;
-    const d = await fetch(`/api/search?${queryString(next)}`).then((r) => r.json());
-    setData((prev) => ({ total: d.total, results: [...prev.results, ...d.results] }));
-    setOffset(next);
-  };
+    try {
+      const d = await fetch(`/api/search?${queryString(next)}`).then((r) => r.json());
+      if (id !== reqId.current) return; // filters changed mid-load — discard
+      setData((prev) => ({ ...prev, results: [...prev.results, ...d.results] }));
+      setReachedEnd(d.results.length < PAGE);
+      setOffset(next);
+    } catch {
+      /* keep what we have; the sentinel will retry on the next scroll */
+    } finally {
+      loadingMoreRef.current = false;
+      setMoreLoading(false);
+    }
+  }, [offset, reachedEnd, loading, queryString]);
 
-  const hasMore = data.results.length < data.total;
+  // Infinite scroll: auto-load the next page when a sentinel near the bottom of
+  // the list scrolls into view (600px early, so new rows are ready before you hit
+  // the end). The "Show more" button below stays as a manual fallback.
+  const sentinelRef = useRef(null);
+  useEffect(() => {
+    const el = sentinelRef.current;
+    if (!el) return;
+    const ob = new IntersectionObserver(
+      (entries) => { if (entries[0].isIntersecting) loadMore(); },
+      { rootMargin: '600px' },
+    );
+    ob.observe(el);
+    return () => ob.disconnect();
+  }, [loadMore]);
+
+  const hasMore = !reachedEnd && data.results.length > 0;
   const activeFilters = !!f.subject + (f.college !== 'all') + (f.modality !== 'all') + !!f.transfer
     + !!f.ztc + !!f.quality + !!f.cid + !!f.format;
 
@@ -206,7 +253,13 @@ export default function Searcher() {
       </div>
 
       <div className="resbar">
-        <span className="count">{loading ? 'Searching…' : `${data.total.toLocaleString()} course${data.total === 1 ? '' : 's'}`}</span>
+        <span className="count">
+          {loading
+            ? 'Searching…'
+            : data.total != null
+              ? `${data.total.toLocaleString()} course${data.total === 1 ? '' : 's'}`
+              : `${data.results.length.toLocaleString()}${reachedEnd ? '' : '+'} course${data.results.length === 1 ? '' : 's'}`}
+        </span>
         <label className="sortby">
           Sort
           <select value={f.sort} onChange={(e) => set('sort', e.target.value)}>
@@ -226,7 +279,15 @@ export default function Searcher() {
       ) : (
         <div className="list">
           {data.results.map((c, i) => <Row key={`${c.college_slug}-${c.code}-${i}`} c={c} />)}
-          {hasMore && <button className="loadmore" onClick={loadMore}>Show more</button>}
+          {hasMore && (
+            <>
+              {/* Invisible tripwire: scrolling near it auto-loads the next page. */}
+              <div ref={sentinelRef} className="scroll-sentinel" aria-hidden="true" />
+              <button className="loadmore" onClick={loadMore} disabled={moreLoading}>
+                {moreLoading ? <><Spinner /> Loading…</> : 'Show more'}
+              </button>
+            </>
+          )}
         </div>
       )}
     </>

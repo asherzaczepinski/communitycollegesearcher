@@ -99,10 +99,20 @@ export async function GET(req) {
   // User location → distance (miles) to each college via haversine. Lets in-person
   // results be sorted nearest-first and show a distance.
   const whereSql = where.join(' AND ');
-  // Run the count first, with only the filter params — before the distance/limit
-  // params get appended below (otherwise the count gets too many bind params).
-  const countParams = [...params];
-  const countRes = await query(`SELECT COUNT(*)::int n FROM courses co JOIN colleges c ON c.id = co.college_id WHERE ${whereSql}`, countParams);
+
+  // The total-count query is a full scan (regex title/url checks over ~116k rows),
+  // so it's the slowest part of a request. We split it OFF the hot path: the client
+  // asks for it ONCE per filter set via ?countOnly=1 (in parallel with page 1), and
+  // NEVER on "load more" pages. So the results branch below never counts — pages
+  // just stream in. `params` here holds only the filter binds (nothing after this
+  // point has been appended yet), which is exactly what the count needs.
+  if (sp.get('countOnly') === '1') {
+    const countRes = await query(
+      `SELECT COUNT(*)::int n FROM courses co JOIN colleges c ON c.id = co.college_id WHERE ${whereSql}`,
+      params,
+    );
+    return NextResponse.json({ total: countRes.rows[0].n });
+  }
 
   // User location → distance (miles) via haversine. Appends params after filters.
   const ulat = parseFloat(sp.get('lat'));
@@ -161,5 +171,5 @@ export async function GET(req) {
     return { ...r, distance_mi, meta: cleanMeta };
   });
 
-  return NextResponse.json({ total: countRes.rows[0].n, count: results.length, offset, limit, results });
+  return NextResponse.json({ count: results.length, offset, limit, results });
 }
