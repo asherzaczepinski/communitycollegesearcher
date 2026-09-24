@@ -1,0 +1,15 @@
+# Keep the Vercel upload small. The deployed web app talks to Supabase (pg) at
+# runtime, so the heavy local artifacts below are never needed in the build.
+# (The Vercel CLI does NOT honor .gitignore — this file is what excludes them.)
+
+# ~700MB of local SQLite (the source data before it's migrated to Supabase).
+# This is what pushed the serverless function to 723MB (limit: 250MB).
+src/data/
+
+# Reinstalled by Vercel during the build.
+node_modules/
+**/node_modules/
+
+# Not part of the web build.
+.git/
+scripts/daily.log
