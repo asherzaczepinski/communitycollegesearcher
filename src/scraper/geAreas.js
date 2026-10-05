@@ -14,6 +14,7 @@ import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import * as cheerio from 'cheerio';
 import { fetchText } from './fetch.js';
+import { termStartDate } from './cvc.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 export const GE_AREA_FILE = join(__dirname, '..', 'data', 'cvc-ge-areas.json');
@@ -56,6 +57,9 @@ function areaUrl(system, areaId, page) {
   p.append('filter[requirement_ids][]', String(areaId));
   p.append('filter[search_all_universities]', 'true');
   p.append('filter[delivery_methods][]', 'Online'); // match our online dataset, cut volume
+  // Same as the course sweep: include classes already in progress this term.
+  p.append('filter[show_only_available]', 'false');
+  p.append('filter[start_date]', termStartDate());
   p.append('commit', 'Find Classes');
   if (page > 1) p.append('page', String(page));
   return `${HOST}/search?${p.toString()}`;
@@ -72,14 +76,17 @@ function courseIdsOnPage(html) {
 }
 
 // Build the full map: cvcCourseId -> { csu:Set, igetc:Set, calGetc:Set }.
-export async function buildGeAreaMap({ maxPages = 60, onProgress = null } = {}) {
+// Areas are crawled `concurrency` at a time; a big area can run hundreds of pages.
+export async function buildGeAreaMap({ maxPages = 400, concurrency = 4, onProgress = null } = {}) {
   const map = new Map();
   const add = (id, system, label) => {
     if (!map.has(id)) map.set(id, { csu: new Set(), igetc: new Set(), calGetc: new Set() });
     map.get(id)[system].add(label);
   };
-  for (const [system, areas] of Object.entries(AREAS)) {
-    for (const [areaId, label] of areas) {
+  const jobs = Object.entries(AREAS).flatMap(([system, areas]) => areas.map(([areaId, label]) => [system, areaId, label]));
+  await Promise.all(Array.from({ length: concurrency }, async () => {
+    while (jobs.length) {
+      const [system, areaId, label] = jobs.shift();
       for (let page = 1; page <= maxPages; page++) {
         const res = await fetchText(areaUrl(system, areaId, page), { timeoutMs: 25000, retries: 2 });
         if (!res.ok) break;
@@ -90,17 +97,20 @@ export async function buildGeAreaMap({ maxPages = 60, onProgress = null } = {}) 
         if (ids.length < 10) break;
       }
     }
-  }
+  }));
   return map;
 }
 
 // Serialize the Map of Sets to a plain JSON object and save it.
+// Merges into the map already on disk, so courses seen in earlier pulls keep
+// their areas even if they're not listed this term.
 export function saveGeAreaMap(map) {
-  const obj = {};
+  const obj = existsSync(GE_AREA_FILE) ? JSON.parse(readFileSync(GE_AREA_FILE, 'utf8')) : {};
   for (const [id, sys] of map) {
     obj[id] = { csu: [...sys.csu], igetc: [...sys.igetc], calGetc: [...sys.calGetc] };
   }
   writeFileSync(GE_AREA_FILE, JSON.stringify(obj));
+  _cache = null;
   return Object.keys(obj).length;
 }
 

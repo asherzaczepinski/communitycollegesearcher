@@ -22,8 +22,11 @@
     "cid:supplement": "node src/cidSupplement.js",
     "uc:supplement": "node src/ucSupplement.js",
     "ping": "node --env-file=web/.env.local scripts/pingDb.mjs",
-    "refresh": "zsh scripts/refresh.sh",
-    "migrate:supabase": "node src/migrateToSupabase.js"
+    "refresh": "node scripts/update.mjs",
+    "migrate:supabase": "node src/migrateToSupabase.js",
+    "update": "node scripts/update.mjs",
+    "update:full": "node scripts/update.mjs --full",
+    "admin": "node scripts/admin.mjs"
   },
   "engines": {
     "node": ">=22.5.0"

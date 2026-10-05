@@ -192,6 +192,14 @@ export function hasCvc(slug) {
   return Object.prototype.hasOwnProperty.call(CVC_IDS, slug);
 }
 
+// CVC now hides classes that already started (it defaults filter[start_date] to
+// today), so a mid-term sweep would miss nearly the whole term. Ask for
+// everything starting since the beginning of the current half-year instead
+// (Jan 1 or Jul 1), which covers the full Spring or Fall term in progress.
+export function termStartDate(now = new Date()) {
+  return `${now.getFullYear()}-${now.getMonth() < 6 ? '01' : '07'}-01`;
+}
+
 function searchUrl({ cvcId, subject, page }) {
   const p = new URLSearchParams();
   p.append('filter[target_school_ids][]', String(cvcId));
@@ -203,6 +211,7 @@ function searchUrl({ cvcId, subject, page }) {
   // college offers online, so explicitly ask for unavailable ones too. Without
   // this the same query returns far fewer rows close to / during a term.
   p.append('filter[show_only_available]', 'false');
+  p.append('filter[start_date]', termStartDate());
   p.append('commit', 'Find Classes');
   if (page > 1) p.append('page', String(page));
   return `${BASE}?${p.toString()}`;

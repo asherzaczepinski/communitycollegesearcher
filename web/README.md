@@ -36,6 +36,16 @@ it and load per course on expand. The default page is server-rendered (ISR, hour
 responses are CDN-cached for an hour. To rebuild the view by hand:
 `node --env-file=web/.env.local src/searchIndex.js` (from the repo root).
 
+## Updating the data
+
+From the repo root on your Mac: `npm run admin` opens a local dashboard (http://localhost:4100)
+showing what's live, with **Quick update** (re-fetch ASSIST, ~5 min) and **Full update** (also
+re-sweep every college's online classes + GE areas on CVC, 1–2 h) buttons, live progress, logs
+and a Stop button. Same thing from the terminal: `npm run update` / `npm run update:full`
+(`scripts/update.mjs`). Fetch steps that fail keep the previous data; the publish step is
+transactional, so the site never shows a half-finished update. Afterwards, commit the refreshed
+`src/data` files so the snapshots in git stay current.
+
 ## API
 
 - `GET /api/search` — `q, subject, college, modality, transfer, area (system|label), ztc,

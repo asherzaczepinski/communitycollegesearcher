@@ -64,6 +64,7 @@ export default function Searcher({ initial }) {
   const [loc, setLoc] = useState(null);        // { lat, lng, label }
   const [locStatus, setLocStatus] = useState('');
   const [zip, setZip] = useState('');
+  const [filtersOpen, setFiltersOpen] = useState(false); // phone only: filters collapse
 
   const set = (k, v) => { setF((s) => ({ ...s, [k]: v })); setOffset(0); };
   const debouncedQ = useDebounced(f.q, 200);
@@ -212,8 +213,16 @@ export default function Searcher({ initial }) {
         </p>
       </div>
 
+      {/* On phones the search box comes first and the filters fold behind a
+          button (see .finder in globals.css); on desktop nothing changes. */}
+      <div className="finder">
+      <button className={`filters-toggle${filtersOpen ? ' open' : ''}`} onClick={() => setFiltersOpen((o) => !o)} aria-expanded={filtersOpen}>
+        Filters{activeFilters > 0 && <span className="filters-n">{activeFilters}</span>}
+        <span className="chev" aria-hidden="true">▾</span>
+      </button>
+
       {/* Filters — subject, college, and everything else */}
-      <div className="controls">
+      <div className={`controls${filtersOpen ? ' open' : ''}`}>
         <div className="ctrl">
           <span className="ctrl-label">Subject {optionsLoading && <Spinner />}</span>
           <select value={f.subject} onChange={(e) => set('subject', e.target.value)}>
@@ -275,8 +284,9 @@ export default function Searcher({ initial }) {
       <div className="searchrow">
         <input
           type="search" value={f.q} onChange={(e) => set('q', e.target.value)}
-          placeholder="Search a course — “general biology”, “calculus”, “BIOL 105”, “nursing”…"
+          placeholder="Search courses — “calculus”, “BIOL 105”, “nursing”…"
         />
+      </div>
       </div>
 
       <div className="resbar">
@@ -399,14 +409,14 @@ function Row({ c }) {
                       {detail.description && <p>{detail.description}</p>}
                       {detail.prerequisites && <p><strong>Prerequisites:</strong> {detail.prerequisites}</p>}
                       {sections.length > 0 && (
-                        <table>
+                        <div className="table-wrap"><table>
                           <thead><tr><th>Section</th><th>Dates</th><th>Instructor</th><th>Format</th><th>Notes</th></tr></thead>
                           <tbody>
                             {sections.map((sec, i) => (
                               <tr key={i}><td>{sec.crn || '—'}</td><td>{sec.dates || '—'}</td><td>{sec.professor || 'TBA'}</td><td>{sec.format || '—'}</td><td>{sec.notes || '—'}</td></tr>
                             ))}
                           </tbody>
-                        </table>
+                        </table></div>
                       )}
                     </>
                   )}

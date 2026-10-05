@@ -147,7 +147,65 @@ a:hover { text-decoration: underline; text-underline-offset: 2px; }
 .loadmore:hover { border-color: var(--accent); color: var(--accent); }
 .note { padding: 56px 10px; color: var(--ink-soft); font-family: var(--serif); font-size: 1.05rem; }
 
+/* Phone-only filter disclosure — hidden on desktop. */
+.filters-toggle { display: none; }
+.table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+/* ── Phones ─────────────────────────────────────────────────────────── */
 @media (max-width: 640px) {
-  .ctrl, .ctrl.wide { grid-template-columns: 1fr; gap: 7px; }
+  .page { padding: 18px 16px 70px; }
+
+  .locbar { gap: 8px; margin-bottom: 16px; }
+  .loc-prompt { width: 100%; }
+  .loc-zip { flex: 1; width: auto; min-width: 0; }
+  .loc-zip, .loc-go { padding: 9px 12px; }
+
+  .masthead { margin-bottom: 18px; }
+  .masthead h1 { font-size: 1.6rem; }
+  .masthead p { font-size: 0.95rem; }
+
+  /* Search first, filters folded behind a button. */
+  .finder { display: flex; flex-direction: column; }
+  .searchrow { order: -1; margin: 0 0 12px; }
+  .searchrow input { font-size: 1.05rem; padding: 12px 2px; }
+  .filters-toggle {
+    display: flex; align-items: center; gap: 8px; width: 100%; padding: 12px 14px;
+    font: inherit; font-weight: 600; color: var(--ink); background: #fff; cursor: pointer;
+    border: 1px solid var(--line-strong); border-radius: 6px;
+  }
+  .filters-toggle.open { border-radius: 6px 6px 0 0; border-bottom-color: var(--line); }
+  .filters-n { background: var(--accent); color: #fff; border-radius: 999px; font-size: 0.75rem; padding: 1px 8px; }
+  .filters-toggle .chev { margin-left: auto; transition: transform 0.15s; }
+  .filters-toggle.open .chev { transform: rotate(180deg); }
+  .controls { display: none; border-top: none; border-radius: 0 0 6px 6px; background: #fff; }
+  .controls.open { display: block; }
+
+  .ctrl, .ctrl.wide { grid-template-columns: 1fr; gap: 7px; padding: 12px 14px; }
+  .ctrl select { min-width: 0; width: 100%; padding: 10px; }
+  .toggles { flex-wrap: nowrap; }
+  .toggles button { flex: 1; padding: 9px 4px; white-space: nowrap; }
+  .opts { gap: 8px; }
+  .opts select { width: 100%; }
+  .tick { padding: 7px 10px; font-size: 0.86rem; }
+  .tick input { width: 16px; height: 16px; }
   .area-sys { width: auto; }
+  .clear { padding: 13px 14px; }
+
+  /* iOS zooms into any focused field under 16px — keep them at 16. */
+  .loc-zip, .searchrow input, .ctrl select, .sortby select, .opts select { font-size: 16px; }
+
+  .resbar { flex-wrap: wrap; gap: 6px; margin-top: 14px; }
+
+  /* Result rows: title on its own line, badge + Open button beneath. */
+  .row { padding: 16px 0; }
+  .row-head { flex-direction: column; align-items: stretch; gap: 8px; }
+  .row-head h3 { font-size: 1.08rem; }
+  .row-actions { justify-content: space-between; }
+  .openbtn { padding: 8px 14px; }
+  .row-college, .row-meta { font-size: 0.9rem; }
+  .row-meta { word-spacing: -2px; }
+  .more { padding: 6px 0; }
+  .detail { padding-left: 10px; }
+  .detail table { min-width: 520px; }
+  .loadmore { width: 100%; padding: 12px; }
 }
