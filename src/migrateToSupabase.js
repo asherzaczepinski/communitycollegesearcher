@@ -11,6 +11,7 @@
 // refreshes Supabase with the current local data.
 import pg from 'pg';
 import { db, getColleges } from './db.js';
+import { ensureSearchIndex } from './searchIndex.js';
 
 const PG = {
   host: process.env.PGHOST || 'aws-1-us-east-1.pooler.supabase.com',
@@ -131,6 +132,11 @@ async function run() {
     await client.query('ROLLBACK').catch(() => {});
     throw e;
   }
+
+  // Rebuild the site's read model (the indexed course_search view) from the new
+  // data. Runs AFTER the commit and refreshes concurrently, so the site serves the
+  // previous snapshot until the new one is complete.
+  await ensureSearchIndex(client);
 
   // Keep Postgres sequences (if any future inserts) past our max ids — harmless here
   // since we use fixed ids, but verify the load.

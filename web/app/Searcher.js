@@ -27,27 +27,46 @@ function Spinner({ big }) {
   return <span className={big ? 'spinner big' : 'spinner'} role="status" aria-label="Loading" />;
 }
 
+// Tiny response cache shared by every fetch on the page: results are identical
+// for the same query until the next daily refresh, so revisiting a filter combo
+// (or going back to an empty search) is instant, and in-flight requests for the
+// same URL are shared instead of duplicated.
+const memo = new Map();
+function getJSON(url) {
+  if (!memo.has(url)) {
+    if (memo.size > 300) memo.delete(memo.keys().next().value); // drop oldest
+    const p = fetch(url).then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); });
+    p.catch(() => memo.delete(url)); // don't cache failures
+    memo.set(url, p);
+  }
+  return memo.get(url);
+}
+
 function useDebounced(value, ms) {
   const [v, setV] = useState(value);
   useEffect(() => { const t = setTimeout(() => setV(value), ms); return () => clearTimeout(t); }, [value, ms]);
   return v;
 }
 
-export default function Searcher() {
+// `initial` = options + first page of the default (unfiltered) view, rendered on
+// the server so the page arrives already populated. null if that failed.
+export default function Searcher({ initial }) {
   const [f, setF] = useState(blank);
-  const [options, setOptions] = useState({ colleges: [], subjects: [], lastUpdated: '', geAreas: { csu: [], igetc: [], calGetc: [] } });
-  const [data, setData] = useState({ results: [], total: null });
-  const [loading, setLoading] = useState(true);       // first page of a new search
+  const [options, setOptions] = useState(initial?.options
+    || { colleges: [], subjects: [], lastUpdated: '', geAreas: { csu: [], igetc: [], calGetc: [] } });
+  const [data, setData] = useState(initial
+    ? { results: initial.results, total: initial.total } : { results: [], total: null });
+  const [loading, setLoading] = useState(!initial);    // first page of a new search
   const [moreLoading, setMoreLoading] = useState(false); // appending the next page
-  const [reachedEnd, setReachedEnd] = useState(false);   // last page came back short
-  const [optionsLoading, setOptionsLoading] = useState(true);
+  const [reachedEnd, setReachedEnd] = useState(!!initial && initial.results.length < PAGE);
+  const [optionsLoading, setOptionsLoading] = useState(!initial);
   const [offset, setOffset] = useState(0);
   const [loc, setLoc] = useState(null);        // { lat, lng, label }
   const [locStatus, setLocStatus] = useState('');
   const [zip, setZip] = useState('');
 
   const set = (k, v) => { setF((s) => ({ ...s, [k]: v })); setOffset(0); };
-  const debouncedQ = useDebounced(f.q, 250);
+  const debouncedQ = useDebounced(f.q, 200);
 
   const applyLoc = (l) => { setLoc(l); setLocStatus(''); setF((s) => ({ ...s, sort: 'nearest' })); setOffset(0); };
   const geocodeZip = async () => {
@@ -62,10 +81,10 @@ export default function Searcher() {
   const clearLoc = () => { setLoc(null); setLocStatus(''); setZip(''); setF((s) => ({ ...s, sort: 'relevance' })); setOffset(0); };
 
   useEffect(() => {
-    setOptionsLoading(true);
-    fetch('/api/options').then((r) => r.json()).then(setOptions)
+    if (initial) return; // already rendered on the server
+    getJSON('/api/options').then(setOptions)
       .catch(() => {}).finally(() => setOptionsLoading(false));
-  }, []);
+  }, [initial]);
 
   // Build the query from the DEBOUNCED text + the live filters. Depends on the
   // individual filter fields (NOT the whole `f`, and NOT the raw f.q) so typing a
@@ -92,26 +111,33 @@ export default function Searcher() {
   // Race guard: only the most recent request is allowed to update the results,
   // so an out-of-order response can never leave stale results on screen.
   const reqId = useRef(0);
+  // The server already rendered the default view — skip re-fetching it on mount.
+  const skipFirst = useRef(!!initial);
   useEffect(() => {
+    if (skipFirst.current) {
+      skipFirst.current = false;
+      getJSON(`/api/search?${queryString(PAGE)}`).catch(() => {}); // warm page 2
+      return;
+    }
     const id = ++reqId.current;
     setLoading(true);
     setReachedEnd(false);
 
-    // Page 1 of results — fast (the API no longer counts on this path), so the
-    // list paints as soon as this lands instead of waiting on the full-table count.
-    fetch(`/api/search?${queryString(0)}`).then((r) => r.json()).then((d) => {
+    // Page 1 of results; paints as soon as it lands.
+    getJSON(`/api/search?${queryString(0)}`).then((d) => {
       if (id !== reqId.current) return; // a newer search superseded this one
-      setData({ results: d.results, total: null });
+      setData((prev) => ({ results: d.results, total: prev.key === queryString ? prev.total : null }));
       setReachedEnd(d.results.length < PAGE); // a short page means there's no more
       setOffset(0);
       setLoading(false);
+      // Prefetch the next page so scrolling / "Show more" is instant.
+      if (d.results.length === PAGE) getJSON(`/api/search?${queryString(PAGE)}`).catch(() => {});
     }).catch(() => { if (id === reqId.current) setLoading(false); });
 
-    // Total count — the slow full-scan query, fetched IN PARALLEL purely to fill
-    // the "N courses" label. The list never blocks on it.
-    fetch(`/api/search?${queryString(0)}&countOnly=1`).then((r) => r.json()).then((d) => {
+    // Total count, fetched IN PARALLEL purely to fill the "N courses" label.
+    getJSON(`/api/search?${queryString(0)}&countOnly=1`).then((d) => {
       if (id !== reqId.current) return;
-      setData((prev) => ({ ...prev, total: d.total }));
+      setData((prev) => ({ ...prev, total: d.total, key: queryString }));
     }).catch(() => {});
   }, [queryString]);
 
@@ -125,11 +151,12 @@ export default function Searcher() {
     const id = reqId.current;
     const next = offset + PAGE;
     try {
-      const d = await fetch(`/api/search?${queryString(next)}`).then((r) => r.json());
+      const d = await getJSON(`/api/search?${queryString(next)}`);
       if (id !== reqId.current) return; // filters changed mid-load — discard
       setData((prev) => ({ ...prev, results: [...prev.results, ...d.results] }));
       setReachedEnd(d.results.length < PAGE);
       setOffset(next);
+      if (d.results.length === PAGE) getJSON(`/api/search?${queryString(next + PAGE)}`).catch(() => {});
     } catch {
       /* keep what we have; the sentinel will retry on the next scroll */
     } finally {
@@ -278,7 +305,7 @@ export default function Searcher() {
         <div className="note">No courses match these filters. Try widening your search.</div>
       ) : (
         <div className="list">
-          {data.results.map((c, i) => <Row key={`${c.college_slug}-${c.code}-${i}`} c={c} />)}
+          {data.results.map((c) => <Row key={c.id} c={c} />)}
           {hasMore && (
             <>
               {/* Invisible tripwire: scrolling near it auto-loads the next page. */}
@@ -296,16 +323,30 @@ export default function Searcher() {
 
 function Row({ c }) {
   const [open, setOpen] = useState(false);
-  const m = c.meta || {};
-  const ga = m.geAreas || {};
+  const [detail, setDetail] = useState(null); // { description, prerequisites, sections } | 'error'
+  const ga = c.ge_areas || {};
   const SYS = { csu: 'CSU', igetc: 'IGETC', calGetc: 'Cal-GETC' };
   const areaChips = [];
   for (const [k, label] of Object.entries(SYS)) {
     (ga[k] || []).forEach((a) => areaChips.push(`${label} ${String(a).split(' ')[0]}`));
   }
-  const bits = [c.units ? `${c.units} units` : '', c.instructor || '', c.term || '', m.tuition != null ? `$${m.tuition}` : '']
+  const bits = [c.units ? `${c.units} units` : '', c.instructor || '', c.term || '', c.tuition != null ? `$${c.tuition}` : '']
     .filter(Boolean).join('   ·   ');
-  const sections = m.sections || [];
+  const transferable = c.transferable || [];
+  const formats = c.formats || [];
+  const nSections = c.section_count || 0;
+
+  // Details (description, prerequisites, sections) aren't in the list payload —
+  // fetch them the first time the row is expanded.
+  const toggle = () => {
+    setOpen((o) => !o);
+    if (!detail) {
+      const qs = new URLSearchParams({ id: String(c.id) });
+      if (c.code != null) qs.set('code', c.code);
+      getJSON(`/api/course?${qs}`).then(setDetail).catch(() => setDetail('error'));
+    }
+  };
+  const sections = (detail && detail !== 'error' && detail.sections) || [];
 
   return (
     <article className="row">
@@ -330,39 +371,45 @@ function Row({ c }) {
         {c.last_scraped && <span className="updated">· updated {fmtDate(c.last_scraped)}</span>}
       </div>
       {bits && <div className="row-meta">{bits}</div>}
-      {m.note && <div className="row-note">{m.note}</div>}
+      {c.note && <div className="row-note">{c.note}</div>}
 
-      {(m.transferable?.length || m.zeroTextbookCost || m.qualityReviewed || m.cIdApproved || m.ucTransferable || areaChips.length > 0) && (
+      {(transferable.length > 0 || c.ztc || c.quality || c.cid || c.uc || areaChips.length > 0 || formats.length > 0) && (
         <div className="tags">
-          {m.ucTransferable && <span className="tag uc" title="On this college's UC Transfer Course Agreement (ASSIST.org) — accepted for transfer credit at the University of California">UC transferable</span>}
-          {m.cIdApproved && <span className="tag cid" title={m.cIdTitle ? `C-ID ${m.cId}: ${m.cIdTitle} — approved for transfer/articulation` : 'Approved for transfer/articulation'}>C-ID {m.cId}</span>}
-          {(m.transferable || []).map((t) => <span key={t} className="tag transfer">{t}</span>)}
+          {c.uc && <span className="tag uc" title="On this college's UC Transfer Course Agreement (ASSIST.org) — accepted for transfer credit at the University of California">UC transferable</span>}
+          {c.cid && <span className="tag cid" title={c.cid_title ? `C-ID ${c.cid_code}: ${c.cid_title} — approved for transfer/articulation` : 'Approved for transfer/articulation'}>C-ID {c.cid_code}</span>}
+          {transferable.map((t) => <span key={t} className="tag transfer">{t}</span>)}
           {areaChips.map((a) => <span key={a} className="tag area">{a}</span>)}
-          {m.zeroTextbookCost && <span className="tag ztc">$0 textbooks</span>}
-          {m.qualityReviewed && <span className="tag quality">Quality reviewed</span>}
-          {(m.formats || []).map((ft) => <span key={ft} className="tag">{ft}</span>)}
+          {c.ztc && <span className="tag ztc">$0 textbooks</span>}
+          {c.quality && <span className="tag quality">Quality reviewed</span>}
+          {formats.map((ft) => <span key={ft} className="tag">{ft}</span>)}
         </div>
       )}
 
-      {(c.description || sections.length > 0) && (
+      {(c.has_detail || nSections > 0) && (
         <>
-          <button className="more" onClick={() => setOpen((o) => !o)}>
-            {open ? 'Hide details' : `Details${sections.length ? ` · ${sections.length} section${sections.length === 1 ? '' : 's'}` : ''}`}
+          <button className="more" onClick={toggle}>
+            {open ? 'Hide details' : `Details${nSections ? ` · ${nSections} section${nSections === 1 ? '' : 's'}` : ''}`}
           </button>
           {open && (
             <div className="detail">
-              {c.description && <p>{c.description}</p>}
-              {m.prerequisites && <p><strong>Prerequisites:</strong> {m.prerequisites}</p>}
-              {sections.length > 0 && (
-                <table>
-                  <thead><tr><th>Section</th><th>Dates</th><th>Instructor</th><th>Format</th><th>Notes</th></tr></thead>
-                  <tbody>
-                    {sections.map((s, i) => (
-                      <tr key={i}><td>{s.crn || '—'}</td><td>{s.dates || '—'}</td><td>{s.professor || 'TBA'}</td><td>{s.format || '—'}</td><td>{s.notes || '—'}</td></tr>
-                    ))}
-                  </tbody>
-                </table>
-              )}
+              {!detail ? <p><Spinner /> Loading…</p>
+                : detail === 'error' ? <p>Couldn’t load details — try the course link above.</p>
+                  : (
+                    <>
+                      {detail.description && <p>{detail.description}</p>}
+                      {detail.prerequisites && <p><strong>Prerequisites:</strong> {detail.prerequisites}</p>}
+                      {sections.length > 0 && (
+                        <table>
+                          <thead><tr><th>Section</th><th>Dates</th><th>Instructor</th><th>Format</th><th>Notes</th></tr></thead>
+                          <tbody>
+                            {sections.map((sec, i) => (
+                              <tr key={i}><td>{sec.crn || '—'}</td><td>{sec.dates || '—'}</td><td>{sec.professor || 'TBA'}</td><td>{sec.format || '—'}</td><td>{sec.notes || '—'}</td></tr>
+                            ))}
+                          </tbody>
+                        </table>
+                      )}
+                    </>
+                  )}
             </div>
           )}
         </>
